@@ -6,3 +6,6 @@ tiktoken
 pytest
 ghapi
 python-dotenv
+
+markdown
+streamlit
