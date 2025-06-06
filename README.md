@@ -29,7 +29,14 @@ _Last updated: 2025-06-06 07:31 UTC_
 
 # TrendSpire
 
-TrendSpire scrapes GitHub's trending page and generates a markdown digest of popular repositories. A GitHub Action keeps the `TRENDING.md` file updated on a daily schedule.
+TrendSpire gathers trending repositories from GitHub and stores them in `TRENDING.md`. GitHub Actions keep the digest fresh and leverage OpenAI Codex to continuously improve the codebase.
+
+## Features
+
+- Automated scraping of GitHub's trending page with configurable language, time range and result limit.
+- Daily workflow to regenerate `TRENDING.md` and update this README.
+- Scheduled Codex runs that suggest small refactors and new tests via pull requests.
+- Token and cost tracking for all Codex requests.
 
 ## Getting Started
 
@@ -40,62 +47,39 @@ TrendSpire scrapes GitHub's trending page and generates a markdown digest of pop
    pip install -r requirements.txt
    ```
 
-2. **Run locally**
+2. **Run the trending scraper**
    ```bash
    python -m src.render_digest
    ```
-   The latest trending list will be written to `TRENDING.md`.
+   The latest results will appear in `TRENDING.md` and the README.
 
-3. **Configuration**
-   Edit `src/config.json` to set your preferred language, time range (`daily` or `weekly`), and number of repositories to include.
-   An example configuration looks like:
-   ```json
-   {
-     "language": "",
-     "since": "daily",
-     "limit": 10
-   }
-    ```
-    After updating the configuration, run `python -m src.render_digest` again to regenerate `TRENDING.md`.
+3. **Configure scraping**
+   Edit `src/config.json` to set your preferred language, time range (`daily` or `weekly`), and result limit. After saving, run the command again to refresh the digest.
 
-4. **Set up OpenAI API key**
-   Copy `.env.example` to `.env` and replace the placeholder value with your
-   actual `OPENAI_API_KEY`. The automation script will load this file
-   automatically when contacting the OpenAI API.
+4. **Set up the OpenAI API key**
+   Copy `.env.example` to `.env` and supply your `OPENAI_API_KEY`. The Codex workflow uses this key when generating diffs.
 
-## GitHub Action
+## GitHub Actions
 
-The workflow in `.github/workflows/update_digest.yml` regenerates the digest every day at 08:00 UTC and commits changes automatically.
+### Update Digest
 
-## Codex Automation
+The workflow [`update_digest.yml`](.github/workflows/update_digest.yml) runs every day at 08:00 UTC. It installs the dependencies, executes `python -m src.render_digest`, and commits any changes to `TRENDING.md` and `README.md`.
 
-This repository uses an additional GitHub Actions workflow (`auto_codex_mixed.yml`) to
-run OpenAI Codex on a schedule. The orchestrator script `trendspire_codex_mixed.py`
-manages daily and weekly runs:
+### Codex Automation
 
-* **Daily** (`--mode daily`)
-  - Fetches the diff for files under `src/` relative to `origin/main`.
-  - Sends that diff to `gpt-3.5-turbo` asking for small refactors, logging and test
-    additions.
-  - Applies the returned unified diff and runs `pytest`.
-  - If tests pass, a branch `codex-daily-<timestamp>` is pushed and a pull request is
-    opened automatically.
+Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml) drives the Codex automation. The helper script [`trendspire_codex_mixed.py`](trendspire_codex_mixed.py) supports two modes:
 
-* **Weekly** (`--mode weekly`)
-  - Concatenates all Python files in `src/` and sends them to `code-davinci-002` for a
-    deeper refactor and additional tests.
-  - Applies the diff, runs the test suite and creates a `codex-weekly-<timestamp>` pull
-    request when successful.
+- **Daily** – diff-based improvements using `gpt-3.5-turbo`.
+- **Weekly** – a full repository review with `code-davinci-002`.
 
-Token usage and cost for each run are appended to `codex_costs.csv`. Detailed logs are
-stored in the `codex_logs/` directory and uploaded as workflow artifacts. The daily job
-runs at 02:00 UTC and the weekly job every Sunday at 03:00 UTC.
+Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts.
 
-### API usage logs
-
-OpenAI API usage from the Codex runs is also written to `logs/api_usage.csv`. Each entry records the timestamp, model, token counts and cost in USD. To see a quick summary grouped by model run:
+To run the Codex automation locally you can execute:
 
 ```bash
-python scripts/summarize_usage.py
+python trendspire_codex_mixed.py --mode daily   # or weekly
 ```
 
+### API usage reports
+
+The file `logs/api_usage.csv` records model token counts and cost. Use `python scripts/summarize_usage.py` for a quick summary grouped by model.
