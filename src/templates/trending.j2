@@ -1,0 +1,10 @@
+# 📈 GitHub Trending - {{ since | capitalize }}
+
+_Last updated: {{ timestamp }}_
+
+{% for repo in repos %}
+## [{{ repo.full_name }}]({{ repo.url }})
+⭐ {{ repo.stars }}  •  📝 {{ repo.language }}
+{{ repo.description or "No description provided." }}
+
+{% endfor %}
