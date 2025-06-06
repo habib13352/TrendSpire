@@ -18,6 +18,7 @@ DAILY_MODEL = "gpt-3.5-turbo"
 DAILY_RATE = 0.002 / 1000
 WEEKLY_MODEL = "code-davinci-002"
 WEEKLY_RATE = 0.02 / 1000
+SOURCE_DIR = "src"
 
 
 def ensure_logs():
@@ -66,7 +67,7 @@ def daily_run() -> None:
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
     subprocess.run(["git", "fetch", "origin", "main"], check=False)
 
-    diff_proc = run_cmd(["git", "diff", "origin/main...HEAD", "--", "trendspire/"])
+    diff_proc = run_cmd(["git", "diff", "origin/main...HEAD", "--", SOURCE_DIR])
     diff_text = diff_proc.stdout
 
     prompt = (
@@ -122,7 +123,7 @@ def weekly_run() -> None:
     subprocess.run(["git", "fetch", "origin", "main"], check=False)
 
     files = []
-    for root, _dirs, filenames in os.walk("trendspire"):
+    for root, _dirs, filenames in os.walk(SOURCE_DIR):
         for name in filenames:
             if name.endswith(".py"):
                 files.append(os.path.join(root, name))

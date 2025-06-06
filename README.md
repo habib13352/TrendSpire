@@ -61,3 +61,27 @@ TrendSpire scrapes GitHub's trending page and generates a markdown digest of pop
 ## GitHub Action
 
 The workflow in `.github/workflows/update_digest.yml` regenerates the digest every day at 08:00 UTC and commits changes automatically.
+
+## Codex Automation
+
+This repository uses an additional GitHub Actions workflow (`auto_codex_mixed.yml`) to
+run OpenAI Codex on a schedule. The orchestrator script `trendspire_codex_mixed.py`
+manages daily and weekly runs:
+
+* **Daily** (`--mode daily`)
+  - Fetches the diff for files under `src/` relative to `origin/main`.
+  - Sends that diff to `gpt-3.5-turbo` asking for small refactors, logging and test
+    additions.
+  - Applies the returned unified diff and runs `pytest`.
+  - If tests pass, a branch `codex-daily-<timestamp>` is pushed and a pull request is
+    opened automatically.
+
+* **Weekly** (`--mode weekly`)
+  - Concatenates all Python files in `src/` and sends them to `code-davinci-002` for a
+    deeper refactor and additional tests.
+  - Applies the diff, runs the test suite and creates a `codex-weekly-<timestamp>` pull
+    request when successful.
+
+Token usage and cost for each run are appended to `codex_costs.csv`. Detailed logs are
+stored in the `codex_logs/` directory and uploaded as workflow artifacts. The daily job
+runs at 02:00 UTC and the weekly job every Sunday at 03:00 UTC.
