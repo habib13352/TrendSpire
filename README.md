@@ -1,6 +1,6 @@
 # TrendSpire
 
-TrendSpire automatically fetches GitHub trending repositories and generates a markdown digest. A GitHub Action keeps the `TRENDING.md` file updated on a daily schedule.
+TrendSpire scrapes GitHub's trending page and generates a markdown digest of popular repositories. A GitHub Action keeps the `TRENDING.md` file updated on a daily schedule.
 
 ## Getting Started
 
