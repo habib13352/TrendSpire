@@ -19,6 +19,15 @@ TrendSpire scrapes GitHub's trending page and generates a markdown digest of pop
 
 3. **Configuration**
    Edit `src/config.json` to set your preferred language, time range (`daily` or `weekly`), and number of repositories to include.
+   An example configuration looks like:
+   ```json
+   {
+     "language": "",
+     "since": "daily",
+     "limit": 10
+   }
+   ```
+   After updating the configuration, run `python -m src.render_digest` again to regenerate `TRENDING.md`.
 
 ## GitHub Action
 
