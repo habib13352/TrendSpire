@@ -102,3 +102,14 @@ python trendspire_autoloop.py --mode daily   # or weekly
 The file `logs/api_usage.*` records token counts and cost. Set `API_LOG_FORMAT`
 to `csv`, `json` or `txt` to control the format. Run `python
 scripts/summarize_usage.py` for a quick summary grouped by model.
+
+### Running tests
+
+After installing the requirements you can run the entire test suite with
+
+```bash
+pytest
+```
+
+Additional tips for contributors are available in
+[docs/DEVELOPER.md](docs/DEVELOPER.md).
