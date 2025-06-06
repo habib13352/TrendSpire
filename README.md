@@ -37,6 +37,9 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
 - Daily workflow to regenerate `TRENDING.md` and update this README.
 - Scheduled Codex runs that suggest small refactors and new tests via pull requests.
 - Token and cost tracking for all Codex requests.
+- Persistent memory stored under `trendspire_memory/` enables the AI to
+  iteratively refine its suggestions across runs and open automated pull
+  requests with context.
 
 ## Getting Started
 
@@ -65,14 +68,13 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
    ```bash
    python trendspire_autoloop.py --mode daily
    ```
-   Replace `daily` with `weekly` for a full project review. The script will apply the AI's diff, run the tests and open a pull request when successful.
+   Replace `daily` with `weekly` for a full project review. The script stores its
+   diff history under `trendspire_memory/`, applies the changes, runs the tests
+   and opens a pull request when successful.
 
-5. **Run the self‑improvement loop**
-   With your virtual environment active run:
-   ```bash
-   python trendspire_autoloop.py --mode daily
-   ```
-   Replace `daily` with `weekly` for a full project review. The script will apply the AI's diff, run the tests and open a pull request when successful.
+5. **Enable the PR workflow**
+   Ensure GitHub Actions are enabled on your fork. The workflow will reuse the
+   cached memory directory and automatically open pull requests on a schedule.
 
 ## GitHub Actions
 
@@ -87,7 +89,7 @@ Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml
 - **Daily** – diff-based improvements using `gpt-3.5-turbo`.
 - **Weekly** – a full repository review with `gpt-4o`.
 
-Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts.
+Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts. The workflow also caches the `trendspire_memory/` directory so the AI can refine its suggestions over time.
 
 To run the Codex automation locally you can execute:
 
