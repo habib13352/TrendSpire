@@ -9,6 +9,8 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches: [main]
   workflow_dispatch:
     inputs:
       mode:
@@ -49,6 +51,14 @@ jobs:
           git checkout main
           git pull origin main --rebase
 
+      - name: Restore Codex memory
+        uses: actions/cache@v3
+        with:
+          path: trendspire_memory
+          key: ${{ runner.os }}-memory-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-memory-
+
       # Daily trigger
       - name: Run Codex Bot (daily)
         if: |
@@ -77,3 +87,10 @@ jobs:
         with:
           name: codex-logs
           path: codex_logs/
+
+      - name: Upload Codex Memory
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: codex-memory
+          path: trendspire_memory/
