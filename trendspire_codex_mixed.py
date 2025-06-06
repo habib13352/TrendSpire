@@ -8,9 +8,22 @@ import sys
 import tempfile
 from datetime import datetime
 
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+
+    env_path = os.path.join(os.getcwd(), ".env")
+    if os.path.isfile(env_path):
+        load_dotenv(dotenv_path=env_path)
+except ImportError:
+    pass
+
 import openai
 import tiktoken
+
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    raise RuntimeError("OPENAI_API_KEY not set in environment")
+openai.api_key = api_key
 
 from src.api_logger import log_openai_usage
 
@@ -79,7 +92,6 @@ def daily_run() -> None:
     )
     prompt_tokens = count_tokens(prompt, DAILY_MODEL)
 
-    openai.api_key = os.environ.get("OPENAI_API_KEY")
     try:
         response = openai.ChatCompletion.create(model=DAILY_MODEL, messages=[{"role": "user", "content": prompt}])
         diff_response = response.choices[0].message.content
@@ -145,7 +157,6 @@ def weekly_run() -> None:
     )
 
     prompt_tokens = count_tokens(prompt, WEEKLY_MODEL)
-    openai.api_key = os.environ.get("OPENAI_API_KEY")
     try:
         response = openai.Completion.create(engine=WEEKLY_MODEL, prompt=prompt, max_tokens=3000, temperature=0.2)
         diff_response = response.choices[0].text
@@ -189,10 +200,13 @@ def weekly_run() -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Run Codex automations")
-    parser.add_argument("--mode", choices=["daily", "weekly"], required=True)
+    parser.add_argument(
+        "--mode",
+        choices=["daily", "weekly"],
+        required=True,
+        help="Choose 'daily' for diff-only runs or 'weekly' for full-repo runs."
+    )
     args = parser.parse_args()
-
-    load_dotenv()
     ensure_logs()
 
     if args.mode == "daily":
