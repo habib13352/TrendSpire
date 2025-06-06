@@ -37,9 +37,10 @@ LOG_DIR = "codex_logs"
 COST_LOG = "codex_costs.csv"
 
 DAILY_MODEL = "gpt-3.5-turbo"
-DAILY_RATE = 0.002 / 1000
-WEEKLY_MODEL = "code-davinci-002"
-WEEKLY_RATE = 0.02 / 1000
+DAILY_RATE = 0.002 / 1000  # $0.002 per 1K tokens
+
+WEEKLY_MODEL = "gpt-4o"
+WEEKLY_RATE = 0.005 / 1000  # Adjusted for gpt-4o pricing
 SOURCE_DIR = "src"
 
 
@@ -63,6 +64,15 @@ def run_cmd(cmd):
     if proc.returncode != 0:
         raise RuntimeError(f"Command failed: {' '.join(cmd)}\n{proc.stderr}")
     return proc
+
+
+def is_valid_diff(diff_text: str) -> bool:
+    """Check if the Codex output looks like a valid unified diff."""
+    lines = diff_text.strip().splitlines()
+    required_markers = any(
+        line.startswith(("diff --git", "---", "+++", "@@")) for line in lines[:10]
+    )
+    return required_markers
 
 
 def write_summary(path: str, model: str, run_type: str, tokens: tuple, cost: float, test_output: str, diff_snippet: str) -> None:
@@ -99,7 +109,6 @@ def daily_run() -> None:
         "Based on this diff, propose pytest test files, small refactors, and logging statements. "
         "Return a unified git diff. Do not output anything else.\n\n" + diff_text
     )
-    prompt_tokens = count_tokens(prompt, DAILY_MODEL)
 
     try:
         response = client.chat.completions.create(
@@ -107,20 +116,42 @@ def daily_run() -> None:
             messages=[{"role": "user", "content": prompt}],
         )
         diff_response = response.choices[0].message.content
-    except OpenAIError as exc:
-        print(f"OpenAI API error: {exc}", file=sys.stderr)
-        return
+        used_model = DAILY_MODEL
+        used_rate = DAILY_RATE
+    except OpenAIError as e:
+        print(f"Primary model failed: {e}. Falling back to gpt-3.5-turbo.")
+        try:
+            fallback_model = "gpt-3.5-turbo"
+            fallback_rate = 0.002 / 1000
+            response = client.chat.completions.create(
+                model=fallback_model,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            diff_response = response.choices[0].message.content
+            used_model = fallback_model
+            used_rate = fallback_rate
+        except OpenAIError as e2:
+            print(f"Fallback model also failed: {e2}", file=sys.stderr)
+            return
 
     if not diff_response.strip():
         print("No diff returned from API", file=sys.stderr)
         return
 
-    completion_tokens = count_tokens(diff_response, DAILY_MODEL)
-    cost = (prompt_tokens + completion_tokens) * DAILY_RATE
+    prompt_tokens = count_tokens(prompt, used_model)
+    completion_tokens = count_tokens(diff_response, used_model)
+    cost = (prompt_tokens + completion_tokens) * used_rate
 
     tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".diff")
     tmp.write(diff_response.encode("utf-8"))
     tmp.close()
+
+    if not is_valid_diff(diff_response):
+        print("Invalid diff detected from AI output — skipping git apply.", file=sys.stderr)
+        broken_path = os.path.join(LOG_DIR, f"invalid_diff_{timestamp}.txt")
+        with open(broken_path, "w", encoding="utf-8") as f:
+            f.write(diff_response)
+        return
 
     try:
         run_cmd(["git", "apply", tmp.name])
@@ -139,9 +170,9 @@ def daily_run() -> None:
 
     summary_path = os.path.join(LOG_DIR, f"summary_{timestamp}_daily.md")
     snippet = "\n".join(diff_response.splitlines()[:20])
-    write_summary(summary_path, DAILY_MODEL, "daily", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
-    append_cost(timestamp, "daily", (prompt_tokens, completion_tokens), DAILY_MODEL, cost)
-    log_openai_usage(DAILY_MODEL, prompt_tokens, completion_tokens, cost)
+    write_summary(summary_path, used_model, "daily", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
+    append_cost(timestamp, "daily", (prompt_tokens, completion_tokens), used_model, cost)
+    log_openai_usage(used_model, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
@@ -181,29 +212,48 @@ def weekly_run() -> None:
         "Output only a unified git diff relative to the repository root.\n\n" + full_code
     )
 
-    prompt_tokens = count_tokens(prompt, WEEKLY_MODEL)
     try:
-        response = client.completions.create(
+        response = client.chat.completions.create(
             model=WEEKLY_MODEL,
-            prompt=prompt,
-            max_tokens=3000,
-            temperature=0.2,
+            messages=[{"role": "user", "content": prompt}],
         )
-        diff_response = response.choices[0].text
-    except OpenAIError as exc:
-        print(f"OpenAI API error: {exc}", file=sys.stderr)
-        return
+        diff_response = response.choices[0].message.content
+        used_model = WEEKLY_MODEL
+        used_rate = WEEKLY_RATE
+    except OpenAIError as e:
+        print(f"Primary model failed: {e}. Falling back to gpt-3.5-turbo.")
+        try:
+            fallback_model = "gpt-3.5-turbo"
+            fallback_rate = 0.002 / 1000
+            response = client.chat.completions.create(
+                model=fallback_model,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            diff_response = response.choices[0].message.content
+            used_model = fallback_model
+            used_rate = fallback_rate
+        except OpenAIError as e2:
+            print(f"Fallback model also failed: {e2}", file=sys.stderr)
+            return
 
     if not diff_response.strip():
         print("No diff returned from API", file=sys.stderr)
         return
 
-    completion_tokens = count_tokens(diff_response, WEEKLY_MODEL)
-    cost = (prompt_tokens + completion_tokens) * WEEKLY_RATE
+    prompt_tokens = count_tokens(prompt, used_model)
+    completion_tokens = count_tokens(diff_response, used_model)
+    cost = (prompt_tokens + completion_tokens) * used_rate
 
     tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".diff")
     tmp.write(diff_response.encode("utf-8"))
     tmp.close()
+
+    if not is_valid_diff(diff_response):
+        print("Invalid diff detected from AI output — skipping git apply.", file=sys.stderr)
+        broken_path = os.path.join(LOG_DIR, f"invalid_diff_{timestamp}.txt")
+        with open(broken_path, "w", encoding="utf-8") as f:
+            f.write(diff_response)
+        return
 
     try:
         run_cmd(["git", "apply", tmp.name])
@@ -222,9 +272,9 @@ def weekly_run() -> None:
 
     summary_path = os.path.join(LOG_DIR, f"summary_{timestamp}_weekly.md")
     snippet = "\n".join(diff_response.splitlines()[:20])
-    write_summary(summary_path, WEEKLY_MODEL, "weekly", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
-    append_cost(timestamp, "weekly", (prompt_tokens, completion_tokens), WEEKLY_MODEL, cost)
-    log_openai_usage(WEEKLY_MODEL, prompt_tokens, completion_tokens, cost)
+    write_summary(summary_path, used_model, "weekly", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
+    append_cost(timestamp, "weekly", (prompt_tokens, completion_tokens), used_model, cost)
+    log_openai_usage(used_model, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
