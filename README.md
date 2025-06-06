@@ -99,4 +99,6 @@ python trendspire_autoloop.py --mode daily   # or weekly
 
 ### API usage reports
 
-The file `logs/api_usage.csv` records model token counts and cost. Use `python scripts/summarize_usage.py` for a quick summary grouped by model.
+The file `logs/api_usage.*` records token counts and cost. Set `API_LOG_FORMAT`
+to `csv`, `json` or `txt` to control the format. Run `python
+scripts/summarize_usage.py` for a quick summary grouped by model.
