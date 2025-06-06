@@ -1,34 +1,70 @@
-import requests
+"""Fetch the list of trending repositories from GitHub."""
 
-API_URL = "https://ghapi.huchen.dev/repositories"
+import requests
+from bs4 import BeautifulSoup
+
+
+BASE_URL = "https://github.com/trending"
+HEADERS = {"User-Agent": "Mozilla/5.0"}
+
+FALLBACK_REPO = {
+    "full_name": "octocat/Hello-World",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "Fallback repo when trending scraping fails.",
+    "stars": 0,
+    "language": "Unknown",
+}
 
 
 def fetch_trending(language: str = "", since: str = "daily", limit: int = 25):
-    """Fetch top trending repos from the unofficial GitHub trending API."""
-    params = {"since": since}
+    """Scrape GitHub Trending for a list of repositories."""
+    url = BASE_URL
     if language:
-        params["language"] = language
+        url = f"{BASE_URL}/{language}"
+    params = {"since": since}
+
     try:
-        response = requests.get(API_URL, params=params, timeout=10)
+        response = requests.get(url, params=params, headers=HEADERS, timeout=10)
         response.raise_for_status()
-        data = response.json()[:limit]
     except Exception:
-        return [{
-            "full_name": "octocat/Hello-World",
-            "url": "https://github.com/octocat/Hello-World",
-            "description": "Fallback repo when trending API is unavailable.",
-            "stars": 0,
-            "language": "Unknown",
-        }]
+        return [FALLBACK_REPO]
+
+    soup = BeautifulSoup(response.text, "html.parser")
+    articles = soup.find_all("article", class_="Box-row")
+
     trending = []
-    for item in data:
+    for item in articles[:limit]:
+        repo_link_tag = item.h2.a
+        repo_path = repo_link_tag["href"].strip()
+        full_name = repo_path.lstrip("/")
+        repo_url = f"https://github.com{repo_path}"
+
+        desc_tag = item.find("p")
+        description = desc_tag.text.strip() if desc_tag else ""
+
+        star_tag = item.find("a", href=lambda s: s and s.endswith("/stargazers"))
+        stars = 0
+        if star_tag:
+            star_text = star_tag.text.strip().replace(",", "")
+            try:
+                stars = int(star_text)
+            except ValueError:
+                stars = 0
+
+        lang_tag = item.find("span", attrs={"itemprop": "programmingLanguage"})
+        language_text = lang_tag.text.strip() if lang_tag else "Unknown"
+
         trending.append({
-            "full_name": f"{item['author']}/{item['name']}",
-            "url": item["url"],
-            "description": (item.get("description") or "").strip(),
-            "stars": item.get("stars", 0),
-            "language": item.get("language", "Unknown"),
+            "full_name": full_name,
+            "url": repo_url,
+            "description": description,
+            "stars": stars,
+            "language": language_text,
         })
+
+    if not trending:
+        trending = [FALLBACK_REPO]
+
     return trending
 
 
