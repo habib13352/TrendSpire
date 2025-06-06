@@ -79,6 +79,7 @@ def is_valid_diff(diff_text: str) -> bool:
     return required_markers
 
 def is_suspicious_deletion(diff_text: str) -> bool:
+    """Return True if the diff removes entire files."""
     lines = diff_text.splitlines()
     return any("deleted file mode" in line for line in lines)
 

@@ -59,6 +59,13 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
 4. **Set up the OpenAI API key**
    Copy `.env.example` to `.env` and supply your `OPENAI_API_KEY`. The Codex workflow uses this key when generating diffs.
 
+5. **Run the self‑improvement loop**
+   With your virtual environment active run:
+   ```bash
+   python trendspire_autoloop.py --mode daily
+   ```
+   Replace `daily` with `weekly` for a full project review. The script will apply the AI's diff, run the tests and open a pull request when successful.
+
 ## GitHub Actions
 
 ### Update Digest
@@ -67,17 +74,17 @@ The workflow [`update_digest.yml`](.github/workflows/update_digest.yml) runs eve
 
 ### Codex Automation
 
-Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml) drives the Codex automation. The helper script [`trendspire_codex_mixed.py`](trendspire_codex_mixed.py) supports two modes:
+Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml) drives the Codex automation using [`trendspire_autoloop.py`](trendspire_autoloop.py). It supports two modes:
 
 - **Daily** – diff-based improvements using `gpt-3.5-turbo`.
-- **Weekly** – a full repository review with `code-davinci-002`.
+- **Weekly** – a full repository review with `gpt-4o`.
 
 Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts.
 
 To run the Codex automation locally you can execute:
 
 ```bash
-python trendspire_codex_mixed.py --mode daily   # or weekly
+python trendspire_autoloop.py --mode daily   # or weekly
 ```
 
 ### API usage reports
