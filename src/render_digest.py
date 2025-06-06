@@ -1,7 +1,10 @@
 import json
+import logging
 import os
 from datetime import datetime
 from jinja2 import Environment, FileSystemLoader
+
+logging.basicConfig(level=logging.DEBUG)
 
 from .fetch_trending import fetch_trending
 
@@ -15,6 +18,7 @@ DEFAULT_CONFIG = {
 
 def load_config() -> dict:
     """Load the trending scraper configuration from ``config.json``."""
+    logging.debug("Loading configuration from config.json")
     cfg_path = os.path.join(os.path.dirname(__file__), "config.json")
     if os.path.isfile(cfg_path):
         with open(cfg_path, "r", encoding="utf-8") as f:
@@ -24,12 +28,15 @@ def load_config() -> dict:
 
 def render_trending() -> str:
     """Render the trending digest markdown and write ``TRENDING.md``."""
+    logging.debug("Rendering trending digest")
     config = load_config()
     repos = fetch_trending(
         language=config.get("language", ""),
         since=config.get("since", "daily"),
         limit=config.get("limit", 10),
     )
+
+    logging.debug("Fetched repositories: %s", repos)
 
     env = Environment(loader=FileSystemLoader(os.path.join(os.path.dirname(__file__), "templates")))
     template = env.get_template("trending.j2")
@@ -42,12 +49,14 @@ def render_trending() -> str:
     output_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "TRENDING.md")
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(markdown)
+    logging.debug("Written trending markdown to TRENDING.md at %s", output_path)
 
     return markdown
 
 
 def update_readme(trending_md: str) -> None:
     """Insert the trending digest at the top of README between markers."""
+    logging.debug("Updating README with trending digest")
     repo_root = os.path.dirname(os.path.dirname(__file__))
     readme_path = os.path.join(repo_root, "README.md")
     start = "<!-- TRENDING_START -->"
@@ -65,6 +74,7 @@ def update_readme(trending_md: str) -> None:
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_content)
+    logging.debug("Updated README.md successfully")
 
 
 if __name__ == "__main__":
