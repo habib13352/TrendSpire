@@ -1,33 +1,55 @@
-name: "AI README Enhancer CI"
+name: "AI README Improver"
+
 on:
   pull_request:
     paths: ["README.md"]
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
-  enhance-readme:
+  update-readme:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - uses: actions/setup-python@v4
         with:
           python-version: "3.10"
-      - run: pip install "openai>=1.0" python-dotenv markdown2
-      - run: echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
-      - run: python main.py
+
+      - run: pip install -r requirements.txt
+
+      - name: Run AI README Improver
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python main.py \
+            --config config.yaml \
+            --email "${{ secrets.README_EMAIL }}" \
+            --logo-path "assets/logo.png"
+
       - name: Replace README with improved version
         run: |
           mv README.improved.md README.md
           rm suggestions.md
-      - name: Commit improved README
+
+      - name: Commit and push updated README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: apply AI-suggested README improvements"
-          git push
+          git diff --cached --quiet || git commit -m "Auto update README"
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}
+
+      - name: Comment on PR with suggestions
+        if: github.event_name == 'pull_request'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/upload-artifact@v4
-        with:
-          name: readme-enhancer-logs
-          path: logs
-      - run: python post_comment.py
+        run: python post_comment.py
