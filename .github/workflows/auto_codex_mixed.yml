@@ -6,6 +6,16 @@ on:
     - cron: '0 2 * * *'
     # Weekly every Sunday at 03:00 UTC
     - cron: '0 3 * * 0'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Select daily or weekly run"
+        required: true
+        default: daily
+        type: choice
+        options:
+          - daily
+          - weekly
 
 jobs:
   codex_review:
@@ -29,7 +39,9 @@ jobs:
 
       # Daily trigger
       - name: Run Codex Bot (daily)
-        if: github.event_name == 'schedule' && github.event.schedule == '0 2 * * *'
+        if: |
+          (github.event_name == 'schedule' && github.event.schedule == '0 2 * * *') ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily')
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,7 +50,9 @@ jobs:
 
       # Weekly trigger
       - name: Run Codex Bot (weekly)
-        if: github.event_name == 'schedule' && github.event.schedule == '0 3 * * 0'
+        if: |
+          (github.event_name == 'schedule' && github.event.schedule == '0 3 * * 0') ||
+          (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weekly')
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
