@@ -14,6 +14,7 @@ DEFAULT_CONFIG = {
 
 
 def load_config() -> dict:
+    """Load the trending scraper configuration from ``config.json``."""
     cfg_path = os.path.join(os.path.dirname(__file__), "config.json")
     if os.path.isfile(cfg_path):
         with open(cfg_path, "r", encoding="utf-8") as f:
@@ -22,6 +23,7 @@ def load_config() -> dict:
 
 
 def render_trending() -> str:
+    """Render the trending digest markdown and write ``TRENDING.md``."""
     config = load_config()
     repos = fetch_trending(
         language=config.get("language", ""),

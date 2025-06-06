@@ -6,6 +6,9 @@ on:
     - cron: '0 2 * * *'
     # Weekly every Sunday at 03:00 UTC
     - cron: '0 3 * * 0'
+  push:
+    branches:
+      - main
   workflow_dispatch:
     inputs:
       mode:
@@ -41,6 +44,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt gh
 
+      - name: Pull latest changes from main before running
+        run: |
+          git checkout main
+          git pull origin main --rebase
+
       # Daily trigger
       - name: Run Codex Bot (daily)
         if: |
@@ -50,7 +58,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python trendspire_codex_mixed.py --mode daily
+          python trendspire_autoloop.py --mode daily
 
       # Weekly trigger
       - name: Run Codex Bot (weekly)
@@ -61,7 +69,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python trendspire_codex_mixed.py --mode weekly
+          python trendspire_autoloop.py --mode weekly
 
       - name: Upload Codex Logs
         if: always()

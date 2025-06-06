@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-06 07:31 UTC_
+_Last updated: 2025-06-06 08:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [frdel/agent-zero](https://github.com/frdel/agent-zero) | 8934 | Python | Agent Zero AI framework |
+| [frdel/agent-zero](https://github.com/frdel/agent-zero) | 8957 | Python | Agent Zero AI framework |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 8005 | Python | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 8037 | Python | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [scrapy/scrapy](https://github.com/scrapy/scrapy) | 56232 | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. |
+| [scrapy/scrapy](https://github.com/scrapy/scrapy) | 56263 | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. |
 
-| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 16756 | TypeScript | The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI |
+| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 16787 | TypeScript | The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI |
 
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 88068 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
+| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 88114 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 14190 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 14199 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 4623 | Kotlin | 🪐 Markdown with superpowers — from ideas to presentations, articles and books. |
+| [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 4683 | Kotlin | 🪐 Markdown with superpowers — from ideas to presentations, articles and books. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 36540 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 36601 | Roff | 所有小初高、大学PDF教材。 |
 
-| [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 12627 | C++ | ArduPlane, ArduCopter, ArduRover, ArduSub source |
+| [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 12645 | C++ | ArduPlane, ArduCopter, ArduRover, ArduSub source |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 3037 | Python | Memory for AI Agents in 5 lines of code |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 3064 | Python | Memory for AI Agents in 5 lines of code |
 <!-- TRENDING_END -->
 
 # TrendSpire
@@ -47,17 +47,32 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
    pip install -r requirements.txt
    ```
 
-2. **Run the trending scraper**
+2. **Run the setup wizard**
+   ```bash
+   python scripts/setup_wizard.py
+   ```
+   This interactive script stores your preferred trending options and OpenAI API key.
+   You can rerun it at any time to change the configuration.
+
+3. **Run the trending scraper**
    ```bash
    python -m src.render_digest
    ```
    The latest results will appear in `TRENDING.md` and the README.
 
-3. **Configure scraping**
-   Edit `src/config.json` to set your preferred language, time range (`daily` or `weekly`), and result limit. After saving, run the command again to refresh the digest.
+4. **Run the self-improvement loop**
+   With your virtual environment active run:
+   ```bash
+   python trendspire_autoloop.py --mode daily
+   ```
+   Replace `daily` with `weekly` for a full project review. The script will apply the AI's diff, run the tests and open a pull request when successful.
 
-4. **Set up the OpenAI API key**
-   Copy `.env.example` to `.env` and supply your `OPENAI_API_KEY`. The Codex workflow uses this key when generating diffs.
+5. **Run the self‑improvement loop**
+   With your virtual environment active run:
+   ```bash
+   python trendspire_autoloop.py --mode daily
+   ```
+   Replace `daily` with `weekly` for a full project review. The script will apply the AI's diff, run the tests and open a pull request when successful.
 
 ## GitHub Actions
 
@@ -67,17 +82,17 @@ The workflow [`update_digest.yml`](.github/workflows/update_digest.yml) runs eve
 
 ### Codex Automation
 
-Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml) drives the Codex automation. The helper script [`trendspire_codex_mixed.py`](trendspire_codex_mixed.py) supports two modes:
+Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml) drives the Codex automation using [`trendspire_autoloop.py`](trendspire_autoloop.py). It supports two modes:
 
 - **Daily** – diff-based improvements using `gpt-3.5-turbo`.
-- **Weekly** – a full repository review with `code-davinci-002`.
+- **Weekly** – a full repository review with `gpt-4o`.
 
 Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts.
 
 To run the Codex automation locally you can execute:
 
 ```bash
-python trendspire_codex_mixed.py --mode daily   # or weekly
+python trendspire_autoloop.py --mode daily   # or weekly
 ```
 
 ### API usage reports

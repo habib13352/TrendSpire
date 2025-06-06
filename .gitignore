@@ -1,4 +1,12 @@
 __pycache__/
 venv/
 .env
+<<<<<<< HEAD
 logs/
+=======
+logs/
+
+codex_logs/
+trendspire_memory/
+codex_costs.csv
+>>>>>>> e5b80c7999f1152f9dd17818cc2fdd40c92f512c
