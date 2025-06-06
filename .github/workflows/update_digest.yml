@@ -27,6 +27,9 @@ jobs:
       - name: Generate Trending Digest
         run: python -m src.render_digest
 
+      - name: Run tests
+        run: pytest tests/test_trending.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
