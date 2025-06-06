@@ -1,7 +1,8 @@
 requests
 Jinja2
 beautifulsoup4
-openai>=1.84.0
+# Minimum compatible OpenAI client version
+openai>=1.8.4
 tiktoken
 pytest
 ghapi
