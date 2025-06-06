@@ -12,6 +12,8 @@ from dotenv import load_dotenv
 import openai
 import tiktoken
 
+from src.api_logger import log_openai_usage
+
 LOG_DIR = "codex_logs"
 COST_LOG = "codex_costs.csv"
 
@@ -106,6 +108,7 @@ def daily_run() -> None:
     snippet = "\n".join(diff_response.splitlines()[:20])
     write_summary(summary_path, DAILY_MODEL, "daily", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
     append_cost(timestamp, "daily", (prompt_tokens, completion_tokens), DAILY_MODEL, cost)
+    log_openai_usage(DAILY_MODEL, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
         branch = f"codex-daily-{timestamp}"
@@ -171,6 +174,7 @@ def weekly_run() -> None:
     snippet = "\n".join(diff_response.splitlines()[:20])
     write_summary(summary_path, WEEKLY_MODEL, "weekly", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
     append_cost(timestamp, "weekly", (prompt_tokens, completion_tokens), WEEKLY_MODEL, cost)
+    log_openai_usage(WEEKLY_MODEL, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
         branch = f"codex-weekly-{timestamp}"
