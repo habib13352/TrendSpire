@@ -1,0 +1,65 @@
+name: Auto Codex Pipeline
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  codex_pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt gh
+
+      - name: Run prompt 1
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/run_prompt.py ai_prompts/01_refactor_and_reorg.md codex-step01-refactor-${{ github.run_id }}
+
+      - name: Run prompt 2
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/run_prompt.py ai_prompts/02_run_tests_and_fix.md codex-step02-tests-${{ github.run_id }}
+
+      - name: Run prompt 3
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/run_prompt.py ai_prompts/03_document_github_actions.md codex-step03-docs-${{ github.run_id }}
+
+      - name: Run prompt 4
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/run_prompt.py ai_prompts/04_enable_full_ai_loop.md codex-step04-enable-${{ github.run_id }}
+
+      - name: Run prompt 5
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/run_prompt.py ai_prompts/05_repo_overview.md codex-step05-overview-${{ github.run_id }}
+
+      - name: Run prompt 6
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/run_prompt.py ai_prompts/06_readme_sync_payload.json codex-step06-readme-${{ github.run_id }}
+
+      - name: Run prompt 7
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/run_prompt.py ai_prompts/07_contributing_and_usage_docs.md codex-step07-contrib-${{ github.run_id }}
