@@ -4,6 +4,8 @@ from pathlib import Path
 
 import importlib.util
 
+os.environ.setdefault("OPENAI_API_KEY", "test")
+
 MODULE_PATH = Path(__file__).resolve().parents[1] / 'codex_autobot.py'
 spec = importlib.util.spec_from_file_location('autobot', MODULE_PATH)
 autobot = importlib.util.module_from_spec(spec)
