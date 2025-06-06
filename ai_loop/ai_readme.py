@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 from typing import List
 
-from utils import (
+from src.utils import (
     backup_file,
     is_meaningful_change,
     log_update,

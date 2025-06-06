@@ -1,10 +1,13 @@
+"""Helper utilities for calling the OpenAI API."""
+
 import os
 import time
 from dotenv import load_dotenv
 from openai import OpenAI
-from logger import get_logger
 
-logger = get_logger()
+from .logger import get_trendspire_logger
+
+logger = get_trendspire_logger(__name__)
 
 load_dotenv()
 

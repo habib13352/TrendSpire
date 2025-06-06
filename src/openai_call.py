@@ -1,3 +1,5 @@
+"""Simple helper for one-off OpenAI markdown improvements."""
+
 import os
 from openai import OpenAI
 

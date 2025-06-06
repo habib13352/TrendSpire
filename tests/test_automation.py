@@ -6,14 +6,18 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 import sys
 sys.path.insert(0, str(REPO_ROOT))
 
-import utils
+from src import utils
 
 # Load scripts dynamically
-spec = importlib.util.spec_from_file_location("fetch_trending", REPO_ROOT / "fetch_trending.py")
+spec = importlib.util.spec_from_file_location(
+    "fetch_trending", REPO_ROOT / "src" / "fetch_trending.py"
+)
 fetch_trending = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(fetch_trending)
 
-spec2 = importlib.util.spec_from_file_location("ai_readme", REPO_ROOT / "ai_readme.py")
+spec2 = importlib.util.spec_from_file_location(
+    "ai_readme", REPO_ROOT / "ai_loop" / "ai_readme.py"
+)
 ai_readme = importlib.util.module_from_spec(spec2)
 spec2.loader.exec_module(ai_readme)
 

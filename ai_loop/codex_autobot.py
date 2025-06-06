@@ -1,5 +1,6 @@
+"""Automate per-file code reviews and pull requests using OpenAI."""
+
 import argparse
-import logging
 import os
 import subprocess
 from datetime import datetime, timedelta
@@ -8,18 +9,15 @@ from typing import Iterable
 
 from openai import OpenAI
 
+from src.logger import get_trendspire_logger
+
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 LOG_DIR = Path("codex_logs")
 LOG_DIR.mkdir(exist_ok=True)
 
-
-logging.basicConfig(
-    filename=LOG_DIR / f"log_{datetime.utcnow().isoformat()}.txt",
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
+logger = get_trendspire_logger(__name__)
 
 
 def get_analysis_prompt(file_path: str, code: str) -> str:
@@ -96,7 +94,7 @@ def create_pr(pr_title: str, pr_body: str) -> None:
 
 
 def call_gpt(prompt: str) -> str:
-    logging.info("Calling OpenAI API...")
+    logger.info("Calling OpenAI API...")
     response = client.chat.completions.create(
         model="gpt-4o",
         messages=[{"role": "user", "content": prompt}],
@@ -119,7 +117,7 @@ def main() -> None:
 
     files = get_target_files("src", args.extensions, args.days, args.min_size)
     if not files:
-        logging.info("No target files found.")
+        logger.info("No target files found.")
         return
 
     branch_name = "codex-bot"
@@ -137,18 +135,18 @@ def main() -> None:
                     Path(file).write_text(new_code)
                     modified_files.append(file)
                     pr_summary.append(result.split("🛠️ Suggested improvements", 1)[-1].split("🧠 Rewritten code")[0].strip())
-                    logging.info(f"Updated file: {file}")
+                    logger.info(f"Updated file: {file}")
             except Exception as exc:
-                logging.error(f"Error processing file {file}: {exc}")
+                logger.error(f"Error processing file {file}: {exc}")
 
     if modified_files:
         commit_and_push(modified_files, branch_name)
         pr_title = "Codex Autobot Improvements"
         pr_body = "\n".join(pr_summary)
         create_pr(pr_title, pr_body)
-        logging.info("PR created successfully.")
+        logger.info("PR created successfully.")
     else:
-        logging.info("No changes suggested.")
+        logger.info("No changes suggested.")
 
 
 if __name__ == "__main__":
