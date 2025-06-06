@@ -1,0 +1,32 @@
+```diff
+# Proposed changes for pytest test files
+--- a/tests/test_something.py
++++ b/tests/test_something.py
+@@ -1,3 +1,4 @@
+ import pytest
++from my_module import something
+ 
+ def test_something():
+-    assert True
++    assert something() == "expected_output"
+
+# Proposed changes for small refactors
+--- a/my_module.py
++++ b/my_module.py
+@@ -1,3 +1,4 @@
++import logging
+ 
+ def something():
++    logging.info("Calling something function")
+     return "expected_output"
+
+# Proposed changes for logging statements
+--- a/my_module.py
++++ b/my_module.py
+@@ -1,3 +1,4 @@
++import logging
+ 
+ def something():
++    logging.info("Calling something function")
+     return "expected_output"
+```
