@@ -13,12 +13,15 @@ spec = importlib.util.spec_from_file_location(
     "fetch_trending", REPO_ROOT / "src" / "fetch_trending.py"
 )
 fetch_trending = importlib.util.module_from_spec(spec)
+import sys
+sys.modules[spec.name] = fetch_trending
 spec.loader.exec_module(fetch_trending)
 
 spec2 = importlib.util.spec_from_file_location(
     "ai_readme", REPO_ROOT / "ai_loop" / "ai_readme.py"
 )
 ai_readme = importlib.util.module_from_spec(spec2)
+sys.modules[spec2.name] = ai_readme
 spec2.loader.exec_module(ai_readme)
 
 

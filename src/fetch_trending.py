@@ -3,8 +3,9 @@
 from __future__ import annotations
 
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
+from dataclasses import dataclass
 from typing import Any, List
 
 from bs4 import BeautifulSoup
@@ -13,19 +14,28 @@ from jinja2 import Environment, FileSystemLoader
 from src.utils import backup_file, fetch_url, log_update, write_file
 
 BASE_URL = "https://github.com/trending"
-HEADERS = {"User-Agent": "Mozilla/5.0"}
-
-FALLBACK_REPO: dict[str, Any] = {
-    "full_name": "octocat/Hello-World",
-    "url": "https://github.com/octocat/Hello-World",
-    "description": "Fallback repo when scraping fails.",
-    "stars": 0,
-    "language": "Unknown",
-}
+REQUEST_HEADERS = {"User-Agent": "Mozilla/5.0"}
+TEMPLATE_DIR = Path(__file__).parent / "templates"
 
 
-class Repo(dict):
+@dataclass
+class Repo:
     """Container for repository information."""
+
+    full_name: str
+    url: str
+    description: str
+    stars: int
+    language: str
+
+
+FALLBACK_REPO = Repo(
+    full_name="octocat/Hello-World",
+    url="https://github.com/octocat/Hello-World",
+    description="Fallback repo when scraping fails.",
+    stars=0,
+    language="Unknown",
+)
 
 
 def fetch_trending(language: str = "", since: str = "daily", limit: int = 25) -> List[Repo]:
@@ -33,10 +43,10 @@ def fetch_trending(language: str = "", since: str = "daily", limit: int = 25) ->
     url = f"{BASE_URL}/{language}" if language else BASE_URL
     params = {"since": since}
     try:
-        resp = fetch_url(url, headers=HEADERS, params=params)
+        resp = fetch_url(url, headers=REQUEST_HEADERS, params=params)
     except Exception as exc:  # pragma: no cover - network errors
         log_update("fetch_error", str(exc))
-        return [Repo(**FALLBACK_REPO)]
+        return [FALLBACK_REPO]
 
     soup = BeautifulSoup(resp.text, "html.parser")
     repos: List[Repo] = []
@@ -58,17 +68,17 @@ def fetch_trending(language: str = "", since: str = "daily", limit: int = 25) ->
                 language=lang_tag.text.strip() if lang_tag else "Unknown",
             )
         )
-    return repos or [Repo(**FALLBACK_REPO)]
+    return repos or [FALLBACK_REPO]
 
 
 def render_markdown(repos: List[Repo], since: str = "daily") -> str:
     """Render trending markdown using the Jinja template."""
-    env = Environment(loader=FileSystemLoader(Path(__file__).parent / "templates"))
+    env = Environment(loader=FileSystemLoader(TEMPLATE_DIR))
     template = env.get_template("trending.j2")
     return template.render(
         repos=repos,
         since=since,
-        timestamp=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+        timestamp=datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
     )
 
 
