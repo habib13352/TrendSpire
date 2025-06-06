@@ -27,6 +27,11 @@ jobs:
       - name: Generate Trending Digest
         run: python -m src.render_digest
 
+      - name: Improve markdown with OpenAI
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python -m src.improve_markdown
+
       - name: Run tests
         run: pytest tests/test_trending.py
 
@@ -34,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add TRENDING.md README.md
+          git add TRENDING.md README.md codex_logs/ codex_costs.csv logs/api_usage.* || true
           git commit -m "chore: update trending digest [skip ci]" || echo "No changes to commit"
           git pull --rebase origin main --autostash
           git push origin main
