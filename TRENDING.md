@@ -1,10 +1,10 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-06 06:36 UTC_
+_Last updated: 2025-06-06 06:42 UTC_
 
 
 ## [frdel/agent-zero](https://github.com/frdel/agent-zero)
-⭐ 8913  •  📝 Python
+⭐ 8916  •  📝 Python
 Agent Zero AI framework
 
 
@@ -19,12 +19,12 @@ Scrapy, a fast high-level web crawling & scraping framework for Python.
 
 
 ## [onlook-dev/onlook](https://github.com/onlook-dev/onlook)
-⭐ 16729  •  📝 TypeScript
+⭐ 16734  •  📝 TypeScript
 The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 
 
 ## [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
-⭐ 88042  •  📝 Dockerfile
+⭐ 88043  •  📝 Dockerfile
 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 
@@ -34,12 +34,12 @@ Connect your devices into a secure WireGuard®-based overlay network with SSO, M
 
 
 ## [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
-⭐ 4578  •  📝 Kotlin
+⭐ 4583  •  📝 Kotlin
 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
 
 
 ## [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
-⭐ 36498  •  📝 Roff
+⭐ 36501  •  📝 Roff
 所有小初高、大学PDF教材。
 
 
@@ -49,6 +49,6 @@ ArduPlane, ArduCopter, ArduRover, ArduSub source
 
 
 ## [topoteretes/cognee](https://github.com/topoteretes/cognee)
-⭐ 3019  •  📝 Python
+⭐ 3021  •  📝 Python
 Memory for AI Agents in 5 lines of code
 
