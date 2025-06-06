@@ -17,13 +17,19 @@ try:
 except ImportError:
     pass
 
-from openai import OpenAI
+from openai import OpenAI, OpenAIError
 import tiktoken
 
-api_key = os.getenv("OPENAI_API_KEY")
-if not api_key:
-    raise RuntimeError("OPENAI_API_KEY not set in environment")
-client = OpenAI(api_key=api_key)
+
+def get_openai_client() -> OpenAI:
+    """Create an OpenAI client using the environment variable."""
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY not set in environment")
+    return OpenAI(api_key=api_key)
+
+
+client = get_openai_client()
 
 from src.api_logger import log_openai_usage
 
@@ -53,7 +59,10 @@ def count_tokens(text: str, model: str) -> int:
 
 def run_cmd(cmd):
     """Run a shell command and capture output."""
-    return subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    if proc.returncode != 0:
+        raise RuntimeError(f"Command failed: {' '.join(cmd)}\n{proc.stderr}")
+    return proc
 
 
 def write_summary(path: str, model: str, run_type: str, tokens: tuple, cost: float, test_output: str, diff_snippet: str) -> None:
@@ -98,9 +107,13 @@ def daily_run() -> None:
             messages=[{"role": "user", "content": prompt}],
         )
         diff_response = response.choices[0].message.content
-    except Exception as exc:
+    except OpenAIError as exc:
         print(f"OpenAI API error: {exc}", file=sys.stderr)
-        sys.exit(1)
+        return
+
+    if not diff_response.strip():
+        print("No diff returned from API", file=sys.stderr)
+        return
 
     completion_tokens = count_tokens(diff_response, DAILY_MODEL)
     cost = (prompt_tokens + completion_tokens) * DAILY_RATE
@@ -109,15 +122,20 @@ def daily_run() -> None:
     tmp.write(diff_response.encode("utf-8"))
     tmp.close()
 
-    apply_proc = run_cmd(["git", "apply", tmp.name])
-    if apply_proc.returncode != 0:
+    try:
+        run_cmd(["git", "apply", tmp.name])
+    except RuntimeError as exc:
         broken_path = os.path.join(LOG_DIR, f"broken_diff_{timestamp}.diff")
         with open(broken_path, "w", encoding="utf-8") as f:
             f.write(diff_response)
-        print(apply_proc.stderr, file=sys.stderr)
-        sys.exit(1)
+        print(exc, file=sys.stderr)
+        return
 
-    test_proc = run_cmd(["pytest", "--maxfail=1", "--disable-warnings"])
+    try:
+        test_proc = run_cmd(["pytest", "--maxfail=1", "--disable-warnings"])
+    except RuntimeError as exc:
+        print(exc, file=sys.stderr)
+        return
 
     summary_path = os.path.join(LOG_DIR, f"summary_{timestamp}_daily.md")
     snippet = "\n".join(diff_response.splitlines()[:20])
@@ -126,6 +144,10 @@ def daily_run() -> None:
     log_openai_usage(DAILY_MODEL, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
+        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+        if not status.stdout.strip():
+            print("No changes produced", file=sys.stderr)
+            return
         branch = f"codex-daily-{timestamp}"
         subprocess.run(["git", "checkout", "-b", branch], check=True)
         subprocess.run(["git", "add", "-A"], check=True)
@@ -168,9 +190,13 @@ def weekly_run() -> None:
             temperature=0.2,
         )
         diff_response = response.choices[0].text
-    except Exception as exc:
+    except OpenAIError as exc:
         print(f"OpenAI API error: {exc}", file=sys.stderr)
-        sys.exit(1)
+        return
+
+    if not diff_response.strip():
+        print("No diff returned from API", file=sys.stderr)
+        return
 
     completion_tokens = count_tokens(diff_response, WEEKLY_MODEL)
     cost = (prompt_tokens + completion_tokens) * WEEKLY_RATE
@@ -179,15 +205,20 @@ def weekly_run() -> None:
     tmp.write(diff_response.encode("utf-8"))
     tmp.close()
 
-    apply_proc = run_cmd(["git", "apply", tmp.name])
-    if apply_proc.returncode != 0:
+    try:
+        run_cmd(["git", "apply", tmp.name])
+    except RuntimeError as exc:
         broken_path = os.path.join(LOG_DIR, f"broken_diff_{timestamp}.diff")
         with open(broken_path, "w", encoding="utf-8") as f:
             f.write(diff_response)
-        print(apply_proc.stderr, file=sys.stderr)
-        sys.exit(1)
+        print(exc, file=sys.stderr)
+        return
 
-    test_proc = run_cmd(["pytest"])
+    try:
+        test_proc = run_cmd(["pytest"])
+    except RuntimeError as exc:
+        print(exc, file=sys.stderr)
+        return
 
     summary_path = os.path.join(LOG_DIR, f"summary_{timestamp}_weekly.md")
     snippet = "\n".join(diff_response.splitlines()[:20])
@@ -196,6 +227,10 @@ def weekly_run() -> None:
     log_openai_usage(WEEKLY_MODEL, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
+        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
+        if not status.stdout.strip():
+            print("No changes produced", file=sys.stderr)
+            return
         branch = f"codex-weekly-{timestamp}"
         subprocess.run(["git", "checkout", "-b", branch], check=True)
         subprocess.run(["git", "add", "-A"], check=True)

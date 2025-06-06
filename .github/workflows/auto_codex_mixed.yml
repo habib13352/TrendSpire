@@ -17,6 +17,10 @@ on:
           - daily
           - weekly
 
+concurrency:
+  group: codex-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   codex_review:
     runs-on: ubuntu-latest
@@ -35,7 +39,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install openai tiktoken pytest gh
+          pip install -r requirements.txt gh
 
       # Daily trigger
       - name: Run Codex Bot (daily)
