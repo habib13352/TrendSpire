@@ -1,115 +1,115 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-06 11:00 UTC_
+_Last updated: 2025-06-06 16:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 14238 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 14472 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 5169 | Python | Build effective agents using Model Context Protocol and simple workflow patterns |
+| [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 5227 | Python | Build effective agents using Model Context Protocol and simple workflow patterns |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 3118 | Python | Memory for AI Agents in 5 lines of code |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 3226 | Python | Memory for AI Agents in 5 lines of code |
 
-| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | 24767 | Python | DSPy: The framework for programming—not prompting—language models |
+| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | 24826 | Python | DSPy: The framework for programming—not prompting—language models |
 
-| [codexu/note-gen](https://github.com/codexu/note-gen) | 3093 | TypeScript | A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. |
+| [codexu/note-gen](https://github.com/codexu/note-gen) | 3191 | TypeScript | A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. |
 
-| [unslothai/notebooks](https://github.com/unslothai/notebooks) | 1116 | Jupyter Notebook | Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more. |
+| [unslothai/notebooks](https://github.com/unslothai/notebooks) | 1198 | Jupyter Notebook | Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more. |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 319119 | Unknown | A complete computer science study plan to become a software engineer. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 319199 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) | 698 | Python | Building blocks for rapid development of GenAI applications |
+| [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) | 779 | Python | Building blocks for rapid development of GenAI applications |
 
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 89854 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 89926 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 4601 | Python | Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 4650 | Python | Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents. |
 <!-- TRENDING_END -->
+```markdown
+# 🚀 TrendSpire
 
-# TrendSpire
+Welcome to **TrendSpire**! This project is your gateway to effortlessly staying informed about the most popular repositories on GitHub. 🕵️‍♂️ It automatically gathers and updates a list of trending repositories, keeping developers and content creators in the loop with the latest open-source contributions.
 
-TrendSpire gathers trending repositories from GitHub and stores them in `TRENDING.md`. GitHub Actions keep the digest fresh and leverage OpenAI Codex to continuously improve the codebase.
+## 📌 Project Purpose
 
-## Features
+The primary goal of TrendSpire is to automate the collection of trending GitHub repositories and maintain an up-to-date digest in `TRENDING.md`. By harnessing the power of GitHub Actions and OpenAI Codex, TrendSpire continuously improves itself — making it a smart choice for tech enthusiasts who wish to stay updated with minimal effort.
 
-- Automated scraping of GitHub's trending page with configurable language, time range and result limit.
-- Daily workflow to regenerate `TRENDING.md` and update this README.
-- Scheduled Codex runs that suggest small refactors and new tests via pull requests.
-- Token and cost tracking for all Codex requests.
-- Persistent memory stored under `trendspire_memory/` enables the AI to
-  iteratively refine its suggestions across runs and open automated pull
-  requests with context.
+## ✨ Features
 
-## Getting Started
+- 🔄 **Automated Scraping**: Configurable scraping of GitHub's trending page by language, time range, and result limit.
+- 📅 **Daily Updates**: Scheduled workflows regenerate `TRENDING.md` daily and refresh this README.
+- 🤖 **Codex-Aided Improvements**: Regular AI-driven refactoring and test additions via pull requests.
+- 💰 **Cost Tracking**: Logs and monitors token usage and costs for all Codex requests.
+- 🧠 **Persistent Memory**: Stores iterative improvements under `trendspire_memory/`, enhancing AI suggestion accuracy and context.
 
-1. **Install dependencies**
+## 🔍 How it Works
+
+TrendSpire utilizes GitHub Actions to automate daily updates and deploys OpenAI Codex to implement suggestions for code improvements. It uses scheduled tasks to scrape trending data, applies updates, and generates pull requests using intelligent code analysis and improvements.
+
+## 🚀 Getting Started
+
+Follow these steps to set up and run TrendSpire:
+
+1. **Install Dependencies**
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
    ```
 
-2. **Run the setup wizard**
+2. **Run the Setup Wizard**
    ```bash
    python scripts/setup_wizard.py
    ```
-   This interactive script stores your preferred trending options and OpenAI API key.
-   You can rerun it at any time to change the configuration.
+   Store your preferred options and OpenAI API key. Rerun any time to update your settings.
 
-3. **Run the trending scraper**
+3. **Execute the Trending Scraper**
    ```bash
    python -m src.render_digest
    ```
-   The latest results will appear in `TRENDING.md` and the README.
+   View the latest trends in the `TRENDING.md` file and this README.
 
-4. **Run the self-improvement loop**
-   With your virtual environment active run:
+4. **Activate the Self-Improvement Loop**
    ```bash
    python trendspire_autoloop.py --mode daily
    ```
-   Replace `daily` with `weekly` for a full project review. The script stores its
-   diff history under `trendspire_memory/`, applies the changes, runs the tests
-   and opens a pull request when successful.
+   Switch to `weekly` for a comprehensive review. Tracks diff history and applies changes.
 
-5. **Enable the PR workflow**
-   Ensure GitHub Actions are enabled on your fork. The workflow will reuse the
-   cached memory directory and automatically open pull requests on a schedule.
+5. **Enable PR Workflows**
+   Activate GitHub Actions on your fork for automatic pull requests.
 
-## GitHub Actions
+## 🤝 Contributing
 
-### Update Digest
+We welcome contributions! Check out [docs/DEVELOPER.md](docs/DEVELOPER.md) for guidelines. Feel free to open issues or pull requests for suggestions, improvements, or bug fixes.
 
-The workflow [`update_digest.yml`](.github/workflows/update_digest.yml) runs every day at 08:00 UTC. It installs the dependencies, executes `python -m src.render_digest`, and commits any changes to `TRENDING.md` and `README.md`.
+## 📜 License
 
-### Codex Automation
+TrendSpire is licensed under the [MIT License](LICENSE). Feel free to use, distribute, and modify it within the terms of the license.
 
-Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml) drives the Codex automation using [`trendspire_autoloop.py`](trendspire_autoloop.py). It supports two modes:
+## 💡 Want to Learn More?
 
-- **Daily** – diff-based improvements using `gpt-3.5-turbo`.
-- **Weekly** – a full repository review with `gpt-4o`.
+### GitHub Actions
 
-Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts. The workflow also caches the `trendspire_memory/` directory so the AI can refine its suggestions over time.
+**Update Digest**: Runs daily at 08:00 UTC to update trending data and README.
 
-To run the Codex automation locally you can execute:
+**Codex Automation**: Uses `trendspire_autoloop.py` for daily or weekly improvements and PR creation. Caches memory for smarter AI over time.
+
+### API Usage Reports
+
+Logs are stored in `logs/api_usage.*`. Customize log format via `API_LOG_FORMAT`. Generate summaries using:
 
 ```bash
-python trendspire_autoloop.py --mode daily   # or weekly
+python scripts/summarize_usage.py
 ```
 
-### API usage reports
+### Running Tests
 
-The file `logs/api_usage.*` records token counts and cost. Set `API_LOG_FORMAT`
-to `csv`, `json` or `txt` to control the format. Run `python
-scripts/summarize_usage.py` for a quick summary grouped by model.
-
-### Running tests
-
-After installing the requirements you can run the entire test suite with
+Execute the entire test suite with:
 
 ```bash
 pytest
 ```
 
-Additional tips for contributors are available in
-[docs/DEVELOPER.md](docs/DEVELOPER.md).
+Thank you for checking out TrendSpire! Stay trendy and happy coding! 👩‍💻👨‍💻
+```

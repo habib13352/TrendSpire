@@ -1,0 +1,3 @@
+timestamp,service,model,prompt_tokens,completion_tokens,cost_usd
+2025-06-06T16:33:34.956309,openai,gpt-4o,660,778,0.00719
+2025-06-06T16:33:47.922724,openai,gpt-4o,843,771,0.00807
