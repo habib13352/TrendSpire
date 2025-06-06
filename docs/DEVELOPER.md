@@ -52,3 +52,8 @@ python scripts/summarize_usage.py
 
 The script `trendspire_autoloop.py` runs the self-improvement loop. Invoke it with `--mode daily` or `--mode weekly` to let the AI propose improvements. The script stores diff history in `trendspire_memory/`, applies the changes and runs the tests before opening a pull request.
 
+
+## Manual health check
+
+Run `python monitor_status.py` to verify the last digest and README update. It reads `logs/update_log.txt` and warns if an update is overdue.
+
