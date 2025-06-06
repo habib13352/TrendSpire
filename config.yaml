@@ -1,0 +1,15 @@
+project_name: "AI README Improver"
+email: "you@example.com"
+logo_path: "assets/logo.png"
+badges:
+  - name: "Build Status"
+    image_url: "https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml"
+    link: "https://github.com/username/repo/actions"
+extra_sections:
+  - title: "Maintainers"
+    content: |
+      - Alice Johnson (@alicej)
+      - Bob Smith (@bobsmith)
+  - title: "Acknowledgements"
+    content: |
+      Thanks to OpenAI and the community for feedback.
