@@ -22,8 +22,8 @@ jobs:
           ENABLE_AI_README: 'true'
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python fetch_trending.py
-          python ai_readme.py
+          python -m src.fetch_trending
+          python ai_loop/ai_readme.py
       - name: Verify backups and logs
         run: |
           test -f TRENDING.md

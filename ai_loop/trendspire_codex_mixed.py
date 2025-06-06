@@ -3,10 +3,10 @@
 
 import argparse
 import os
+import re
 import subprocess
 import sys
 import tempfile
-import shutil
 from datetime import datetime
 
 try:
@@ -33,6 +33,7 @@ def get_openai_client() -> OpenAI:
 client = get_openai_client()
 
 from src.api_logger import log_openai_usage
+from src.logger import get_trendspire_logger
 
 LOG_DIR = "codex_logs"
 COST_LOG = "codex_costs.csv"
@@ -43,14 +44,13 @@ DAILY_RATE = 0.002 / 1000  # $0.002 per 1K tokens
 WEEKLY_MODEL = "gpt-4o"
 WEEKLY_RATE = 0.005 / 1000  # Adjusted for gpt-4o pricing
 SOURCE_DIR = "src"
-MEMORY_DIR = "trendspire_memory"
-LAST_SUMMARY = os.path.join(MEMORY_DIR, "last_summary.md")
+
+logger = get_trendspire_logger(__name__)
 
 
 def ensure_logs():
     """Create logging directories and cost file if missing."""
     os.makedirs(LOG_DIR, exist_ok=True)
-    os.makedirs(MEMORY_DIR, exist_ok=True)
     if not os.path.exists(COST_LOG):
         with open(COST_LOG, "w", encoding="utf-8") as f:
             f.write("timestamp,run_type,prompt_tokens,completion_tokens,model,cost_usd\n")
@@ -78,12 +78,6 @@ def is_valid_diff(diff_text: str) -> bool:
     )
     return required_markers
 
-def is_suspicious_deletion(diff_text: str) -> bool:
-    """Return True if the diff removes entire files."""
-    lines = diff_text.splitlines()
-    return any("deleted file mode" in line for line in lines)
-
-
 
 def write_summary(path: str, model: str, run_type: str, tokens: tuple, cost: float, test_output: str, diff_snippet: str) -> None:
     """Write markdown summary report."""
@@ -107,12 +101,193 @@ def append_cost(timestamp: str, run_type: str, tokens: tuple, model: str, cost: 
         f.write(f"{timestamp},{run_type},{prompt_tokens},{completion_tokens},{model},{cost:.6f}\n")
 
 
+def get_analysis_prompt(file_path: str, code: str) -> str:
+    return f"""You are an expert code reviewer and GitHub automation assistant.
+Your job is to improve a Python project by analyzing a single file at a time.
+
+📁 File: `{file_path}`
+
+🔍 TASKS:
+1. Analyze the code in this file
+2. List key problems or improvements (bugs, readability, duplication, better structure, etc.)
+3. Suggest concrete changes with justification
+4. If useful, recommend creating/modifying tests or docs
+
+Please return:
+- ✅ Summary of issues
+- 🛠️ Suggested improvements (plain language)
+- 🧠 Rewritten code (modified version with changes applied)
+
+Here is the original file:
+```python
+{code}
+```
+"""
+
+
+def verify_and_finalize_prompt(original_code: str, suggested_code: str) -> str:
+    return f"""You previously reviewed this code:
+
+Original:
+```python
+{original_code}
+```
+Suggested Rewrite:
+```python
+{suggested_code}
+```
+✅ Please double-check the rewritten code.
+
+Does it preserve original functionality?
+
+Are the improvements meaningful?
+
+Is it production-safe and PEP8 compliant?
+
+Return ONLY the finalized updated version.
+"""
+
+
+def get_pr_message_prompt(suggestions_summary: str, file_list: list[str]) -> str:
+    files = '\n'.join(f"- `{f}`" for f in file_list)
+    return f"""You are a GitHub assistant preparing an automated Pull Request.
+
+📝 TASK:
+Summarize the improvements made across these files:
+{files}
+
+💡 Use this suggestion summary as context:
+{suggestions_summary}
+
+Please write a clear:
+1. PR Title
+2. PR Body
+(Include why the change matters, any risks, and that it was auto-generated)
+
+Format:
+Title: <your title here>
+Body:
+<your detailed PR message here>
+"""
+
+
+def get_log_summary_prompt(file_path: str, issues: str, new_code: str) -> str:
+    return f"""You are a GitHub automation logger.
+
+Please create a compact summary for today's automated suggestion for:
+📄 File: `{file_path}`
+
+🪲 Issues Identified:
+{issues}
+
+✅ Rewritten Code:
+```python
+{new_code}
+```
+📦 Format the summary in plain markdown for a changelog file or commit message.
+"""
+
+
+def extract_code_block(text: str) -> str:
+    match = re.search(r"```python\n(.*?)```", text, re.DOTALL)
+    return match.group(1).strip() if match else ""
+
+
+def extract_summary(text: str) -> str:
+    code_match = re.search(r"```python\n.*?```", text, re.DOTALL)
+    if code_match:
+        return text[: code_match.start()].strip()
+    return text.strip()
+
+
+def get_target_files(root: str):
+    for r, _dirs, names in os.walk(root):
+        for name in names:
+            if name.endswith(".py"):
+                yield os.path.join(r, name)
+
+
+def mixed_run() -> None:
+    timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    branch = f"codex-mixed-{timestamp}"
+    subprocess.run(["git", "checkout", "-b", branch], check=True)
+
+    summaries: list[str] = []
+    changed_files: list[str] = []
+
+    for path in get_target_files(SOURCE_DIR):
+        with open(path, "r", encoding="utf-8") as f:
+            original_code = f.read()
+
+        prompt = get_analysis_prompt(path, original_code)
+        try:
+            response = client.chat.completions.create(
+                model=WEEKLY_MODEL,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            analysis_text = response.choices[0].message.content
+        except OpenAIError as exc:
+            print(exc, file=sys.stderr)
+            continue
+
+        new_code = extract_code_block(analysis_text)
+        summary = extract_summary(analysis_text)
+
+        if new_code and new_code != original_code:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(new_code)
+            changed_files.append(path)
+            summaries.append(summary)
+
+            log_path = os.path.join(LOG_DIR, f"mixed_{timestamp}.md")
+            with open(log_path, "a", encoding="utf-8") as logf:
+                logf.write(get_log_summary_prompt(path, summary, new_code))
+                logf.write("\n")
+
+    if not changed_files:
+        print("No changes produced", file=sys.stderr)
+        return
+
+    try:
+        run_cmd(["pytest"])
+    except RuntimeError as exc:
+        print(exc, file=sys.stderr)
+        return
+
+    subprocess.run(["git", "add", "-A"], check=True)
+    subprocess.run(
+        ["git", "commit", "-m", f"chore: codex mixed improvements {timestamp}"],
+        check=True,
+    )
+    subprocess.run(["git", "push", "origin", branch], check=False)
+
+    pr_prompt = get_pr_message_prompt("\n".join(summaries), changed_files)
+    try:
+        pr_resp = client.chat.completions.create(
+            model=DAILY_MODEL,
+            messages=[{"role": "user", "content": pr_prompt}],
+        )
+        pr_text = pr_resp.choices[0].message.content
+    except OpenAIError as exc:
+        print(exc, file=sys.stderr)
+        return
+
+    title = "Codex Improvements"
+    body = pr_text.strip()
+    for line in pr_text.splitlines():
+        if line.lower().startswith("title:"):
+            title = line.split("Title:", 1)[1].strip()
+        elif line.lower().startswith("body:"):
+            body = pr_text.split("Body:", 1)[1].strip()
+            break
+
+    run_cmd(["gh", "pr", "create", "--title", title, "--body", body])
+
+
 def daily_run() -> None:
     """Run the daily diff-based Codex automation."""
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
     subprocess.run(["git", "fetch", "origin", "main"], check=False)
-    subprocess.run(["git", "checkout", "main"], check=False)
-    subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=False)
 
     diff_proc = run_cmd(["git", "diff", "origin/main...HEAD", "--", SOURCE_DIR])
     diff_text = diff_proc.stdout
@@ -164,12 +339,7 @@ def daily_run() -> None:
         with open(broken_path, "w", encoding="utf-8") as f:
             f.write(diff_response)
         return
-    if is_suspicious_deletion(diff_response):
-        print("Suspicious deletion detected in diff. Skipping.", file=sys.stderr)
-        broken_path = os.path.join(LOG_DIR, f"suspicious_diff_{timestamp}.diff")
-        with open(broken_path, "w", encoding="utf-8") as f:
-            f.write(diff_response)
-        return
+
     try:
         run_cmd(["git", "apply", tmp.name])
     except RuntimeError as exc:
@@ -197,9 +367,6 @@ def daily_run() -> None:
             print("No changes produced", file=sys.stderr)
             return
         branch = f"codex-daily-{timestamp}"
-        diff_memory_path = os.path.join(MEMORY_DIR, f"diff_{timestamp}.diff")
-        with open(diff_memory_path, "w", encoding="utf-8") as f:
-            f.write(diff_response)
         subprocess.run(["git", "checkout", "-b", branch], check=True)
         subprocess.run(["git", "add", "-A"], check=True)
         subprocess.run(["git", "commit", "-m", f"chore: daily Codex improvements {timestamp}"], check=True)
@@ -213,8 +380,6 @@ def weekly_run() -> None:
     """Run the weekly full-repo Codex automation."""
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
     subprocess.run(["git", "fetch", "origin", "main"], check=False)
-    subprocess.run(["git", "checkout", "main"], check=False)
-    subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=False)
 
     files = []
     for root, _dirs, filenames in os.walk(SOURCE_DIR):
@@ -228,19 +393,10 @@ def weekly_run() -> None:
             code_parts.append(f"# File: {path}\n" + f.read())
 
     full_code = "\n\n".join(code_parts)
-    review_context = ""
-    if os.path.exists(LAST_SUMMARY):
-        with open(LAST_SUMMARY, "r", encoding="utf-8") as f:
-            last_summary = f.read()
-        review_context = (
-            "Here's the last change I made to the codebase:\n\n" + last_summary
-            + "\n\nNow, review your own changes and suggest further improvements. "
-            "Look for any inefficiencies, or opportunities to add tests, better logging, docstrings, or simplify the logic.\n\n"
-        )
     prompt = (
         "You are TrendSpire’s deep refactoring and test-generation assistant. Using the full code context below, perform a comprehensive refactor: "
         "1) Add missing pytest tests under tests/\n2) Improve any code smells or inefficiencies\n3) Insert Python logging statements to record function entry/exit and key variables\n4) Update or add docstrings in each function\n5) If new modules or tests are created, include them fully.\n"
-        "Output only a unified git diff relative to the repository root.\n\n" + review_context + full_code
+        "Output only a unified git diff relative to the repository root.\n\n" + full_code
     )
 
     try:
@@ -286,12 +442,6 @@ def weekly_run() -> None:
             f.write(diff_response)
         return
 
-    if is_suspicious_deletion(diff_response):
-        print("Suspicious deletion detected in diff. Skipping.", file=sys.stderr)
-        broken_path = os.path.join(LOG_DIR, f"suspicious_diff_{timestamp}.diff")
-        with open(broken_path, "w", encoding="utf-8") as f:
-            f.write(diff_response)
-        return
     try:
         run_cmd(["git", "apply", tmp.name])
     except RuntimeError as exc:
@@ -319,10 +469,6 @@ def weekly_run() -> None:
             print("No changes produced", file=sys.stderr)
             return
         branch = f"codex-weekly-{timestamp}"
-        diff_memory_path = os.path.join(MEMORY_DIR, f"diff_{timestamp}.diff")
-        with open(diff_memory_path, "w", encoding="utf-8") as f:
-            f.write(diff_response)
-        shutil.copy(summary_path, LAST_SUMMARY)
         subprocess.run(["git", "checkout", "-b", branch], check=True)
         subprocess.run(["git", "add", "-A"], check=True)
         subprocess.run(["git", "commit", "-m", f"chore: weekly Codex improvements {timestamp}"], check=True)
@@ -336,17 +482,22 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Run Codex automations")
     parser.add_argument(
         "--mode",
-        choices=["daily", "weekly"],
+        choices=["daily", "weekly", "mixed"],
         required=True,
-        help="Choose 'daily' for diff-only runs or 'weekly' for full-repo runs."
+        help=(
+            "Choose 'daily' for diff-only runs, 'weekly' for full-repo runs, or '"
+            "mixed' for per-file analysis"
+        ),
     )
     args = parser.parse_args()
     ensure_logs()
 
     if args.mode == "daily":
         daily_run()
-    else:
+    elif args.mode == "weekly":
         weekly_run()
+    else:
+        mixed_run()
 
 
 if __name__ == "__main__":

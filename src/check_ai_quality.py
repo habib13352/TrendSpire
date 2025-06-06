@@ -4,7 +4,7 @@ from __future__ import annotations
 import os
 from pathlib import Path
 import markdown
-from utils import log_update
+from .utils import log_update
 
 REQUIRED_SECTIONS = ["features", "usage", "installation"]
 
