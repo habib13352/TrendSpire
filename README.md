@@ -55,8 +55,13 @@ TrendSpire scrapes GitHub's trending page and generates a markdown digest of pop
      "since": "daily",
      "limit": 10
    }
-   ```
-   After updating the configuration, run `python -m src.render_digest` again to regenerate `TRENDING.md`.
+    ```
+    After updating the configuration, run `python -m src.render_digest` again to regenerate `TRENDING.md`.
+
+4. **Set up OpenAI API key**
+   Copy `.env.example` to `.env` and replace the placeholder value with your
+   actual `OPENAI_API_KEY`. The automation script will load this file
+   automatically when contacting the OpenAI API.
 
 ## GitHub Action
 

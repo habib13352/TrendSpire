@@ -8,6 +8,7 @@ import sys
 import tempfile
 from datetime import datetime
 
+from dotenv import load_dotenv
 import openai
 import tiktoken
 
@@ -187,6 +188,7 @@ def main() -> None:
     parser.add_argument("--mode", choices=["daily", "weekly"], required=True)
     args = parser.parse_args()
 
+    load_dotenv()
     ensure_logs()
 
     if args.mode == "daily":
