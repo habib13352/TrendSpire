@@ -9,5 +9,3 @@ python-dotenv
 
 markdown
 streamlit
-markdown2
-PyYAML>=6.0

@@ -20,18 +20,24 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Checkout AI README Improver
+        uses: actions/checkout@v3
+        with:
+          repository: habib13352/ai-readme-improver
+          path: ai-readme-improver
+
       - uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      - run: pip install -r requirements.txt
+      - run: pip install -r ai-readme-improver/requirements.txt
 
       - name: Run AI README Improver
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python main.py \
-            --config config.yaml \
+          python ai-readme-improver/main.py \
+            --config ai-readme-improver/config.yaml \
             --email "${{ secrets.README_EMAIL }}" \
             --logo-path "assets/logo.png"
 
@@ -52,4 +58,4 @@ jobs:
         if: github.event_name == 'pull_request'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python post_comment.py
+        run: python ai-readme-improver/post_comment.py
