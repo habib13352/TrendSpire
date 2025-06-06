@@ -1,6 +1,8 @@
 requests
 Jinja2
 beautifulsoup4
-openai
+openai>=1.84.0
 tiktoken
+pytest
+ghapi
 python-dotenv

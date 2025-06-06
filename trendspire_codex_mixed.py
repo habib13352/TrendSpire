@@ -17,13 +17,13 @@ try:
 except ImportError:
     pass
 
-import openai
+from openai import OpenAI
 import tiktoken
 
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     raise RuntimeError("OPENAI_API_KEY not set in environment")
-openai.api_key = api_key
+client = OpenAI(api_key=api_key)
 
 from src.api_logger import log_openai_usage
 
@@ -93,7 +93,10 @@ def daily_run() -> None:
     prompt_tokens = count_tokens(prompt, DAILY_MODEL)
 
     try:
-        response = openai.ChatCompletion.create(model=DAILY_MODEL, messages=[{"role": "user", "content": prompt}])
+        response = client.chat.completions.create(
+            model=DAILY_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+        )
         diff_response = response.choices[0].message.content
     except Exception as exc:
         print(f"OpenAI API error: {exc}", file=sys.stderr)
@@ -158,7 +161,12 @@ def weekly_run() -> None:
 
     prompt_tokens = count_tokens(prompt, WEEKLY_MODEL)
     try:
-        response = openai.Completion.create(engine=WEEKLY_MODEL, prompt=prompt, max_tokens=3000, temperature=0.2)
+        response = client.completions.create(
+            model=WEEKLY_MODEL,
+            prompt=prompt,
+            max_tokens=3000,
+            temperature=0.2,
+        )
         diff_response = response.choices[0].text
     except Exception as exc:
         print(f"OpenAI API error: {exc}", file=sys.stderr)
