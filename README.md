@@ -47,17 +47,25 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
    pip install -r requirements.txt
    ```
 
-2. **Run the trending scraper**
+2. **Run the setup wizard**
+   ```bash
+   python scripts/setup_wizard.py
+   ```
+   This interactive script stores your preferred trending options and OpenAI API key.
+   You can rerun it at any time to change the configuration.
+
+3. **Run the trending scraper**
    ```bash
    python -m src.render_digest
    ```
    The latest results will appear in `TRENDING.md` and the README.
 
-3. **Configure scraping**
-   Edit `src/config.json` to set your preferred language, time range (`daily` or `weekly`), and result limit. After saving, run the command again to refresh the digest.
-
-4. **Set up the OpenAI API key**
-   Copy `.env.example` to `.env` and supply your `OPENAI_API_KEY`. The Codex workflow uses this key when generating diffs.
+4. **Run the self-improvement loop**
+   With your virtual environment active run:
+   ```bash
+   python trendspire_autoloop.py --mode daily
+   ```
+   Replace `daily` with `weekly` for a full project review. The script will apply the AI's diff, run the tests and open a pull request when successful.
 
 5. **Run the self‑improvement loop**
    With your virtual environment active run:
