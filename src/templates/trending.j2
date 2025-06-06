@@ -2,9 +2,8 @@
 
 _Last updated: {{ timestamp }}_
 
+| Repository | ⭐ Stars | Language | Description |
+|------------|--------:|----------|-------------|
 {% for repo in repos %}
-## [{{ repo.full_name }}]({{ repo.url }})
-⭐ {{ repo.stars }}  •  📝 {{ repo.language }}
-{{ repo.description or "No description provided." }}
-
+| [{{ repo.full_name }}]({{ repo.url }}) | {{ repo.stars }} | {{ repo.language }} | {{ repo.description or "No description provided." }} |
 {% endfor %}
