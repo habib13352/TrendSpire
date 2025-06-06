@@ -6,7 +6,7 @@ import difflib
 import os
 import shutil
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, Optional
 
@@ -33,7 +33,7 @@ def log_update(action: str, details: str) -> None:
     """Append a timestamped log entry describing an update."""
     LOG_DIR.mkdir(exist_ok=True)
     log_path = LOG_DIR / "update_log.txt"
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
     with log_path.open("a", encoding="utf-8") as f:
         f.write(f"[{timestamp}] {action}: {details}\n")
 
@@ -42,7 +42,7 @@ def backup_file(filepath: str | Path) -> Path:
     """Copy *filepath* into ``backups/`` with a timestamp."""
     path = Path(filepath)
     BACKUP_DIR.mkdir(exist_ok=True)
-    timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
     dest = BACKUP_DIR / f"{path.stem}_{timestamp}{path.suffix}"
     shutil.copy2(path, dest)
     return dest

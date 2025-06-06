@@ -3,7 +3,7 @@
 import argparse
 import os
 import subprocess
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Iterable
 
@@ -48,7 +48,7 @@ def get_target_files(folder: str = "src", exts: Iterable[str] = ("py",), days: i
     """Return files under *folder* matching extensions and filters."""
     cutoff = None
     if days is not None:
-        cutoff = datetime.utcnow() - timedelta(days=days)
+        cutoff = datetime.now(timezone.utc) - timedelta(days=days)
     results: list[str] = []
     for path in Path(folder).rglob("*"):
         if not path.is_file():
@@ -58,7 +58,7 @@ def get_target_files(folder: str = "src", exts: Iterable[str] = ("py",), days: i
         if path.name.startswith("_"):
             continue
         stat = path.stat()
-        if cutoff and datetime.utcfromtimestamp(stat.st_mtime) < cutoff:
+        if cutoff and datetime.fromtimestamp(stat.st_mtime, timezone.utc) < cutoff:
             continue
         if stat.st_size < min_size:
             continue
