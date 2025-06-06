@@ -1,7 +1,13 @@
 """Fetch the list of trending repositories from GitHub."""
 
-import requests
+from pathlib import Path
+import sys
 from bs4 import BeautifulSoup
+
+# Ensure project root is on ``sys.path`` when executed directly
+sys.path.append(str(Path(__file__).resolve().parents[1]))
+
+from utils import fetch_url, log_update
 
 
 BASE_URL = "https://github.com/trending"
@@ -24,9 +30,9 @@ def fetch_trending(language: str = "", since: str = "daily", limit: int = 25):
     params = {"since": since}
 
     try:
-        response = requests.get(url, params=params, headers=HEADERS, timeout=10)
-        response.raise_for_status()
-    except Exception:
+        response = fetch_url(url, params=params, headers=HEADERS)
+    except Exception as exc:
+        log_update("fetch_error", str(exc))
         return [FALLBACK_REPO]
 
     soup = BeautifulSoup(response.text, "html.parser")
