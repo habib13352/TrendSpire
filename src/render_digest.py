@@ -21,7 +21,7 @@ def load_config() -> dict:
     return DEFAULT_CONFIG.copy()
 
 
-def render_trending():
+def render_trending() -> str:
     config = load_config()
     repos = fetch_trending(
         language=config.get("language", ""),
@@ -41,6 +41,30 @@ def render_trending():
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(markdown)
 
+    return markdown
+
+
+def update_readme(trending_md: str) -> None:
+    """Insert the trending digest at the top of README between markers."""
+    repo_root = os.path.dirname(os.path.dirname(__file__))
+    readme_path = os.path.join(repo_root, "README.md")
+    start = "<!-- TRENDING_START -->"
+    end = "<!-- TRENDING_END -->"
+
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    if start in content and end in content:
+        pre, _start, rest = content.partition(start)
+        _mid, _end, post = rest.partition(end)
+        new_content = pre + start + "\n" + trending_md.strip() + "\n" + end + post
+    else:
+        new_content = start + "\n" + trending_md.strip() + "\n" + end + "\n" + content
+
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+
 
 if __name__ == "__main__":
-    render_trending()
+    md = render_trending()
+    update_readme(md)
