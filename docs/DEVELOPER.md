@@ -1,30 +1,54 @@
 # Developer Guide
 
-This short guide covers common tasks for working on TrendSpire.
+This guide walks through the main steps for setting up a local environment and contributing to TrendSpire.
 
-## Running the test suite
-Run all tests with:
+## Setting up your environment
+
+TrendSpire requires Python 3.10 or newer. Create a virtual environment and install the dependencies:
 
 ```bash
-pytest
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 
-Pytest is listed in `requirements.txt` so it will be installed with the other dependencies.
-
-## Customising the trending configuration
-The scraper configuration lives in [`src/config.json`](../src/config.json). You can edit this file directly or run the interactive setup wizard:
+Next run the interactive setup wizard. It stores your OpenAI API key and trending preferences in a `.env` file and `src/config.json`:
 
 ```bash
 python scripts/setup_wizard.py
 ```
 
-The wizard also stores your `OPENAI_API_KEY` in `.env`.
+## Running the test suite
 
-After updating the config you can regenerate the digest with:
+With the virtual environment active you can execute all tests using `pytest`:
+
+```bash
+pytest
+```
+
+Pytest is listed in `requirements.txt` so it will be installed automatically.
+
+## Customising the trending configuration
+
+The scraper configuration lives in [`src/config.json`](../src/config.json). You can edit this file directly or rerun the setup wizard if you want to change the language, time range or result limit.
+
+After updating the config regenerate the digest with:
 
 ```bash
 python -m src.render_digest
 ```
 
-This will refresh `TRENDING.md` and inject the table into the README between the
-`<!-- TRENDING_START -->` and `<!-- TRENDING_END -->` markers.
+This refreshes `TRENDING.md` and injects the table into the README between the `<!-- TRENDING_START -->` and `<!-- TRENDING_END -->` markers.
+
+## API usage logs
+
+OpenAI API usage is recorded under the `logs/` directory. Set the `API_LOG_FORMAT` environment variable to `csv`, `json` or `txt` to control the output format. You can summarise the log with:
+
+```bash
+python scripts/summarize_usage.py
+```
+
+## Codex automation
+
+The script `trendspire_autoloop.py` runs the self-improvement loop. Invoke it with `--mode daily` or `--mode weekly` to let the AI propose improvements. The script stores diff history in `trendspire_memory/`, applies the changes and runs the tests before opening a pull request.
+
