@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 # Ensure project root is on ``sys.path`` when executed directly
 sys.path.append(str(Path(__file__).resolve().parents[1]))
 
+from typing import Any
+
 from utils import fetch_url, log_update
 
 
@@ -22,8 +24,8 @@ FALLBACK_REPO = {
 }
 
 
-def fetch_trending(language: str = "", since: str = "daily", limit: int = 25):
-    """Scrape GitHub Trending for a list of repositories."""
+def fetch_trending(language: str = "", since: str = "daily", limit: int = 25) -> list[dict[str, Any]]:
+    """Return trending repositories for the given language, period and limit."""
     url = BASE_URL
     if language:
         url = f"{BASE_URL}/{language}"
