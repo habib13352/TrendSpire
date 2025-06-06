@@ -37,8 +37,9 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git add TRENDING.md
             git commit -m "chore: update TRENDING.md [skip ci]"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            git fetch origin main
+            git rebase origin/main || git merge origin/main
+            git push origin HEAD:main || git push --force-with-lease origin HEAD:main
           else
             echo "No changes to commit."
           fi
