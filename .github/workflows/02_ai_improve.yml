@@ -20,6 +20,10 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Run improver
         run: python -m ai_loop.improver
+      - name: Ensure log files
+        run: |
+          mkdir -p logs
+          touch logs/agents.log logs/update_log.txt logs/api_usage.json
       - name: Commit changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
