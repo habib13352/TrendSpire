@@ -19,7 +19,7 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
       - name: Run improver
-        run: python ai_loop/improver.py
+        run: python -m ai_loop.improver
       - name: Commit changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
