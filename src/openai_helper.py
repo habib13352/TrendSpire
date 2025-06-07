@@ -5,6 +5,8 @@ import time
 import logging
 from dotenv import load_dotenv
 from openai import OpenAI
+from src.api_logger import log_openai_usage
+from src.agents_logger import log_agent_action
 
 # Configure a basic logger for TrendSpire
 logging.basicConfig(
@@ -64,6 +66,7 @@ def ask_openai(prompt: str, model="gpt-3.5-turbo", temperature=0.5, max_tokens=1
             f"total={usage.total_tokens}"
         )
         logger.info(f"Estimated cost: ${cost:.6f}")
+        log_openai_usage(model, usage.prompt_tokens, usage.completion_tokens, cost)
     else:
         logger.info("Token usage unavailable")
     if finish_reason and finish_reason != "stop":
@@ -73,5 +76,6 @@ def ask_openai(prompt: str, model="gpt-3.5-turbo", temperature=0.5, max_tokens=1
     logger.info(f"Elapsed time: {elapsed:.2f}s")
     logger.info("Response:\n" + content)
     logger.info("----- End Request -----\n")
+    log_agent_action("PromptGeneratorAgent", f"OpenAI request complete in {elapsed:.2f}s")
 
     return content
