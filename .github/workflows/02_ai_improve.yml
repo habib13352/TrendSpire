@@ -7,7 +7,7 @@ on:
 
 jobs:
   improve:
-    if: github.actor != 'github-actions[bot]'
+    if: github.actor != 'github-actions[bot]' && secrets.OPENAI_API_KEY != ''
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
