@@ -13,6 +13,9 @@ from typing import Any, Dict, Optional
 import requests
 from openai import OpenAI
 import yaml
+from src.api_logger import log_openai_usage
+from src.agents_logger import log_agent_action
+from src.openai_helper import MODEL_COST_PER_1K
 
 LOG_DIR = Path("logs")
 BACKUP_DIR = Path("backups")
@@ -103,9 +106,15 @@ def openai_chat(prompt: str, model: str = "gpt-4o", *, retries: int = 3, backoff
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.7,
             )
-            return resp.choices[0].message.content.strip()
+            content = resp.choices[0].message.content.strip()
+            if resp.usage:
+                cost = (resp.usage.total_tokens / 1000) * MODEL_COST_PER_1K.get(model, 0)
+                log_openai_usage(model, resp.usage.prompt_tokens, resp.usage.completion_tokens, cost)
+            log_agent_action("PromptGeneratorAgent", f"OpenAI chat success: {len(content)} chars")
+            return content
         except Exception as exc:  # pragma: no cover - network errors
             log_update("openai_error", str(exc))
+            log_agent_action("PromptGeneratorAgent", f"OpenAI chat failed: {exc}")
             if attempt == retries - 1:
                 raise
             time.sleep(backoff ** attempt)
