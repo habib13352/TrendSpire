@@ -1,0 +1,18 @@
+```diff
+# test_logging.py
+
+import logging
+
+def test_logging():
+    logger = logging.getLogger(__name__)
+    assert logger.level == logging.INFO
+
+# test_functions.py
+
+def add(a, b):
+    return a + b
+
+def test_add():
+    assert add(2, 3) == 5
+
+```

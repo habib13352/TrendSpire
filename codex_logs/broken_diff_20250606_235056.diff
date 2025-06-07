@@ -1,0 +1,76 @@
+```diff
+diff --git a/app.py b/app.py
+index abcdefg..hijklmn 100644
+--- a/app.py
++++ b/app.py
+@@ -1,5 +1,6 @@
+ import logging
+ import requests
+
++logging.basicConfig(level=logging.INFO)
+
+ def fetch_data(url):
+     logging.info(f"Fetching data from {url}")
+@@ -8,3 +9,5 @@ def fetch_data(url):
+     response = requests.get(url)
+     data = response.json()
+     logging.info("Data fetched successfully")
++    logging.debug(f"Response data: {data}")
++
+     return data
+\ No newline at end of file
+```
+
+Proposed test files:
+```python
+# test_app.py
+
+import pytest
+from app import fetch_data
+
+def test_fetch_data_successful():
+    url = "https://example.com"
+    data = fetch_data(url)
+    assert isinstance(data, dict)
+```
+
+Proposed small refactors:
+```diff
+diff --git a/app.py b/app.py
+index abcdefg..hijklmn 100644
+--- a/app.py
++++ b/app.py
+@@ -3,6 +3,7 @@ import requests
+
+ logging.basicConfig(level=logging.INFO)
+
++logger = logging.getLogger(__name__)
+
+ def fetch_data(url):
+     logger.info(f"Fetching data from {url}")
+@@ -10,6 +11,4 @@ def fetch_data(url):
+     data = response.json()
+     logging.info("Data fetched successfully")
+     logging.debug(f"Response data: {data}")
+-
+     return data
+\ No newline at end of file
+```
+
+Added logging statements:
+```diff
+diff --git a/app.py b/app.py
+index abcdefg..hijklmn 100644
+--- a/app.py
++++ b/app.py
+@@ -8,3 +9,7 @@ def fetch_data(url):
+     data = response.json()
+     logging.info("Data fetched successfully")
+     logging.debug(f"Response data: {data}")
++
++    logger.info("Data processing complete")
++    logger.debug("Returning data to caller")
++
+     return data
+\ No newline at end of file
+```

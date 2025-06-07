@@ -1,0 +1,31 @@
+```diff
+diff --git a/app.py b/app.py
+index abcdefg..hijklmn 100644
+--- a/app.py
++++ b/app.py
+@@ -1,4 +1,5 @@
++import logging
+ 
+ def add(x, y):
+     return x + y
+@@ -6,3 +7,4 @@ def subtract(x, y):
+     return x - y
+ 
+ def multiply(x, y):
+-    return x * y
+\ No newline at end of file
++    result = x * y
++    logging.info(f"Multiplying {x} and {y} to get {result}")
+\ No newline at end of file
+diff --git a/test_app.py b/test_app.py
+new file mode 100644
+index 0000000..1234567
+--- /dev/null
++++ b/test_app.py
+@@ -0,0 +1,5 @@
++import pytest
++from app import add, subtract, multiply
++
++def test_add():
++    assert add(2, 3) == 5
+```

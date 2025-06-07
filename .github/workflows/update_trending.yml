@@ -5,46 +5,65 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   fetch_trending:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
       - name: Fetch trending repositories
         run: python -m src.fetch_trending
 
   update_readme:
     needs: fetch_trending
     runs-on: ubuntu-latest
+
+    # Only run this job if ENABLE_AI_README is set to "true" in your repository secrets
+    if: ${{ secrets.ENABLE_AI_README == 'true' }}
+
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      ENABLE_AI_README: ${{ secrets.ENABLE_AI_README }}
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: pip install -r requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
       - name: Improve README
-        if: env.ENABLE_AI_README == 'true'
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ENABLE_AI_README: ${{ secrets.ENABLE_AI_README }}
         run: python ai_loop/ai_readme.py
 
   commit_changes:
     needs: update_readme
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
@@ -53,6 +72,6 @@ jobs:
             echo "No changes to commit"
           else
             git add TRENDING.md README.md logs/update_log.txt backups/ || true
-            git commit -m "\xf0\x9f\x94\x84 Auto-update README and TRENDING"
+            git commit -m "🔄 Auto-update README and TRENDING"
             git push
           fi

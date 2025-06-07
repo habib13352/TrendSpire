@@ -1,0 +1,55 @@
+```diff
+diff --git a/app.py b/app.py
+index abcdefg..hijklmn 100644
+--- a/app.py
++++ b/app.py
+@@ -1,5 +1,6 @@
+ import logging
+ import os
++import sys
+ 
+ 
+ def main():
+@@ -13,7 +14,12 @@ def main():
+     if not os.path.exists(input_file):
+         logging.error(f"Input file {input_file} not found.")
+         return
++    
++    logging.info(f"Reading input file {input_file}")
++    data = []
++    with open(input_file, 'r') as f:
++        data = f.readlines()
+ 
+     for line in data:
+         process_data(line)
+```
+
+Proposed pytest test files:
+1. test_app.py
+
+Proposed small refactors:
+1. Import `sys` module when importing modules
+2. Add logging statement for reading input file
+
+Proposed logging statements:
+1. Added logging statement for reading input file
+
+```diff
+diff --git a/test_app.py b/test_app.py
+new file mode 100644
+index 0000000..1234567
+--- /dev/null
++++ b/test_app.py
+@@ -0,0 +1,10 @@
++import logging
++import os
++import sys
++import unittest
++from app import main
++
++
++class TestApp(unittest.TestCase):
++
++    def test_process_data(self):
++        # Add test case here
+```

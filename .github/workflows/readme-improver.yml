@@ -32,8 +32,7 @@ jobs:
         run: |
           python main.py \
             --config config.yaml \
-            --email "${{ secrets.README_EMAIL }}" \
-            --logo-path "assets/logo.png"
+
 
       - name: Replace README with improved version
         run: |

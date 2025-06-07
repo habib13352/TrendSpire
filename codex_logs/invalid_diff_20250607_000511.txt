@@ -1,0 +1,35 @@
+```diff
+# test_sample.py
+import pytest
+
+def test_addition():
+    assert 1 + 2 == 3
+
+def test_subtraction():
+    assert 5 - 3 == 2
+
+
+# app.py
+def addition(a, b):
+    result = a + b
+    return result
+
+def subtraction(a, b):
+    result = a - b
+    return result
+
+# updated app.py with logging
+import logging
+
+def addition(a, b):
+    logging.info(f"Adding {a} and {b}")
+    result = a + b
+    logging.info(f"Result of addition is {result}")
+    return result
+
+def subtraction(a, b):
+    logging.info(f"Subtracting {a} from {b}")
+    result = a - b
+    logging.info(f"Result of subtraction is {result}")
+    return result
+```

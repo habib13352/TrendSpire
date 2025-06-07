@@ -1,0 +1,46 @@
+```diff
+diff --git a/app.py b/app.py
+index abcdefg..hijklmn 100755
+--- a/app.py
++++ b/app.py
+@@ -1,5 +1,9 @@
+ import logging
+ 
++logging.basicConfig(level=logging.INFO)
++
+ def add(a, b):
++    logging.info(f"Adding {a} and {b}")
++
+     return a + b
+ 
+ def subtract(a, b):
++    logging.info(f"Subtracting {b} from {a}")
++
+     return a - b
+```
+
+```python
+# test_app.py
+
+import pytest
+from app import add, subtract
+
+def test_add():
+    assert add(2, 3) == 5
+    assert add(-1, 1) == 0
+
+def test_subtract():
+    assert subtract(5, 2) == 3
+    assert subtract(10, -5) == 15
+```
+
+```diff
+diff --git a/requirements.txt b/requirements.txt
+index abcdefg..hijklmn 100755
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -1,2 +1,3 @@
+ pytest
++pytest-cov
+ logging
+```
