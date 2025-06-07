@@ -2,12 +2,17 @@
 
 import os
 import time
+import logging
 from dotenv import load_dotenv
 from openai import OpenAI
 
-from .logger import get_trendspire_logger
+# Configure a basic logger for TrendSpire
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
+)
 
-logger = get_trendspire_logger(__name__)
+logger = logging.getLogger(__name__)
 
 load_dotenv()
 

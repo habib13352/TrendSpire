@@ -12,7 +12,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Next run the interactive setup wizard. It stores your OpenAI API key and trending preferences in a `.env` file and `src/config.json`:
+Next run the interactive setup wizard. It stores your OpenAI API key in `.env` and saves preferences in `config.yaml`:
 
 ```bash
 python scripts/setup_wizard.py
@@ -30,30 +30,23 @@ Pytest is listed in `requirements.txt` so it will be installed automatically.
 
 ## Customising the trending configuration
 
-The scraper configuration lives in [`src/config.json`](../src/config.json). You can edit this file directly or rerun the setup wizard if you want to change the language, time range or result limit.
+The scraper configuration lives in [`config.yaml`](../config.yaml). You can edit this file directly or rerun the setup wizard if you want to change the language, time range or result limit.
 
 After updating the config regenerate the digest with:
 
 ```bash
-python -m src.render_digest
+python -m trendspire fetch
 ```
 
 This refreshes `TRENDING.md` and injects the table into the README between the `<!-- TRENDING_START -->` and `<!-- TRENDING_END -->` markers.
 
 ## API usage logs
 
-OpenAI API usage is recorded under the `logs/` directory. Set the `API_LOG_FORMAT` environment variable to `csv`, `json` or `txt` to control the output format. You can summarise the log with:
-
-```bash
-python scripts/summarize_usage.py
-```
+OpenAI API usage is recorded under the `logs/` directory. Set the `API_LOG_FORMAT` environment variable to `csv`, `json` or `txt` to control the output format.
 
 ## Codex automation
 
 The script `trendspire_autoloop.py` runs the self-improvement loop. Invoke it with `--mode daily` or `--mode weekly` to let the AI propose improvements. The script stores diff history in `trendspire_memory/`, applies the changes and runs the tests before opening a pull request.
 
 
-## Manual health check
-
-Run `python monitor_status.py` to verify the last digest and README update. It reads `logs/update_log.txt` and warns if an update is overdue.
 

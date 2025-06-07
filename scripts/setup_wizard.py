@@ -1,8 +1,8 @@
-import json
 import os
 from pathlib import Path
+import yaml
 
-CONFIG_PATH = Path(__file__).resolve().parent.parent / 'src' / 'config.json'
+CONFIG_PATH = Path(__file__).resolve().parent.parent / 'config.yaml'
 ENV_PATH = Path(__file__).resolve().parent.parent / '.env'
 EXAMPLE_ENV_PATH = Path(__file__).resolve().parent.parent / '.env.example'
 
@@ -15,7 +15,7 @@ def prompt(prompt_text: str, default: str | None = None) -> str:
 def configure_trending() -> None:
     if CONFIG_PATH.exists():
         with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
-            config = json.load(f)
+            config = yaml.safe_load(f) or {}
     else:
         config = {}
 
@@ -29,7 +29,7 @@ def configure_trending() -> None:
 
     config.update({'language': language, 'since': since, 'limit': limit})
     with open(CONFIG_PATH, 'w', encoding='utf-8') as f:
-        json.dump(config, f, indent=2)
+        yaml.safe_dump(config, f)
     print(f'Saved trending config to {CONFIG_PATH}')
 
 def configure_env() -> None:
@@ -63,7 +63,7 @@ def main() -> None:
     print('--- TrendSpire Setup Wizard ---')
     configure_trending()
     configure_env()
-    print('Setup complete! You can now run `python -m src.render_digest`.')
+    print('Setup complete! You can now run `python -m trendspire fetch`.')
 
 if __name__ == '__main__':
     main()

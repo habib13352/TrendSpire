@@ -1,20 +1,15 @@
 """Generate improved README content using OpenAI."""
 
 import os
+import time
+import logging
+from datetime import datetime, timezone
 from pathlib import Path
 
-import yaml
 from jinja2 import Environment, FileSystemLoader
 
 from src.openai_helper import ask_openai
-
-
-def load_config(path: str | Path = "config.yaml") -> dict:
-    """Load configuration YAML if present."""
-    if not os.path.exists(path):
-        return {}
-    with open(path, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+from .utils import openai_chat, log_update, load_config
 
 
 def build_prompt(readme_text: str, config: dict) -> str:
@@ -71,3 +66,58 @@ def rewrite_readme(readme_text: str, config: dict) -> str:
     """Return a rewritten README using the given config."""
     prompt = build_prompt(readme_text, config)
     return ask_openai(prompt, temperature=0.7, max_tokens=1920)
+
+
+CODEX_LOG_DIR = Path("codex_logs")
+CODEX_LOG_DIR.mkdir(exist_ok=True)
+
+
+def is_valid_patch(diff: str) -> bool:
+    """Return ``True`` if *diff* looks like a valid unified patch."""
+    if not diff.strip().startswith("diff --git"):
+        return False
+    if "@@" not in diff:
+        return False
+    files: set[str] = set()
+    for line in diff.splitlines():
+        if line.startswith("diff --git"):
+            parts = line.split()
+            if len(parts) >= 4:
+                for p in parts[2:4]:
+                    if p.startswith("a/") or p.startswith("b/"):
+                        p = p[2:]
+                    if p != "/dev/null":
+                        files.add(p)
+        elif line.startswith("+++ ") or line.startswith("--- "):
+            p = line[4:].strip()
+            if p.startswith("a/") or p.startswith("b/"):
+                p = p[2:]
+            if p != "/dev/null":
+                files.add(p)
+    return all(os.path.exists(f) for f in files)
+
+
+def generate_patch(prompt: str, *, attempts: int = 3) -> str:
+    """Return a valid patch from OpenAI with retry logic."""
+    notes = [
+        "",
+        "\n\nEnsure @@ headers are included.",
+        "\n\nEnsure @@ headers are included. Use valid filenames only.",
+    ]
+    for i in range(attempts):
+        attempt_prompt = prompt + notes[i]
+        msg = f"AI patch attempt {i + 1}"
+        print(msg)
+        logging.info(msg)
+        log_update("ai_patch_attempt", msg)
+        diff = openai_chat(attempt_prompt)
+        if is_valid_patch(diff):
+            logging.info("Received valid patch")
+            return diff
+        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
+        invalid_path = CODEX_LOG_DIR / f"invalid_diff_{timestamp}.txt"
+        invalid_path.write_text(diff, encoding="utf-8")
+        logging.warning(f"Invalid patch saved to {invalid_path}")
+        print(f"Invalid patch saved to {invalid_path}")
+        time.sleep(1)
+    raise ValueError("Failed to generate valid patch")

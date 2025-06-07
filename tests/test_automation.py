@@ -1,4 +1,3 @@
-import importlib.util
 from pathlib import Path
 from unittest import mock
 
@@ -6,23 +5,9 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 import sys
 sys.path.insert(0, str(REPO_ROOT))
 
-from src import utils
-
-# Load scripts dynamically
-spec = importlib.util.spec_from_file_location(
-    "fetch_trending", REPO_ROOT / "src" / "fetch_trending.py"
-)
-fetch_trending = importlib.util.module_from_spec(spec)
-import sys
-sys.modules[spec.name] = fetch_trending
-spec.loader.exec_module(fetch_trending)
-
-spec2 = importlib.util.spec_from_file_location(
-    "ai_readme", REPO_ROOT / "ai_loop" / "ai_readme.py"
-)
-ai_readme = importlib.util.module_from_spec(spec2)
-sys.modules[spec2.name] = ai_readme
-spec2.loader.exec_module(ai_readme)
+from trendspire import fetch as fetch_trending
+from trendspire import ai_readme
+from trendspire import utils
 
 
 def test_fetch_trending_updates(tmp_path, monkeypatch):
@@ -57,12 +42,11 @@ def test_ai_readme_improves(tmp_path, monkeypatch):
     trending = tmp_path / "TRENDING.md"
     trending.write_text("| repo | stars | lang | desc |")
 
-    monkeypatch.setenv("ENABLE_AI_README", "true")
     monkeypatch.setattr(utils, "LOG_DIR", tmp_path / "logs2")
     monkeypatch.setattr(utils, "BACKUP_DIR", tmp_path / "backups2")
 
     with mock.patch.object(ai_readme, "openai_chat", return_value="new readme"):
-        changed = ai_readme.improve_readme(readme, trending)
+        changed = ai_readme.improve_readme(readme, trending, enable=True)
 
     assert changed
     assert readme.read_text() == "new readme\n"
