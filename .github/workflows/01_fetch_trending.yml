@@ -17,7 +17,7 @@ jobs:
           cache: 'pip'
       - run: pip install -r requirements.txt
       - name: Fetch trending repos
-        run: python src/fetch_trending.py
+        run: python -m src.fetch_trending
       - name: Commit changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
