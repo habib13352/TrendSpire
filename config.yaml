@@ -1,5 +1,5 @@
 project_name: "AI README Improver"
-email: "you@example.com"
+email: "hamzahabib10@gmail.com"
 logo_path: "assets/logo.png"
 badges:
   - name: "Build Status"
@@ -8,8 +8,7 @@ badges:
 extra_sections:
   - title: "Maintainers"
     content: |
-      - Alice Johnson (@alicej)
-      - Bob Smith (@bobsmith)
+      - Hamza Habib (@habib13352)
   - title: "Acknowledgements"
     content: |
       Thanks to OpenAI and the community for feedback.
