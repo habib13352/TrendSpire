@@ -7,7 +7,7 @@ on:
 
 jobs:
   improve:
-    if: github.actor != 'github-actions[bot]'
+    if: github.actor != 'github-actions[bot]' && secrets.OPENAI_API_KEY != ''
     runs-on: ubuntu-latest
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -33,7 +33,7 @@ jobs:
           if git diff --quiet; then
             echo "No changes to commit"
           else
-            git add README.md TRENDING.md logs/agents.log logs/update_log.txt logs/api_usage.json
+            git add README.md TRENDING.md
             git commit -m "chore: apply AI improvements"
             git push
           fi
