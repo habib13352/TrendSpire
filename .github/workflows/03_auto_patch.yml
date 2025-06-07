@@ -6,7 +6,6 @@ on:
     paths:
       - TRENDING.md
       - README.md
-      - logs/**
   workflow_dispatch:
 
 jobs:
