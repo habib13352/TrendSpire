@@ -1,19 +1,23 @@
+"""CLI interface for generating an improved README using OpenAI."""
+
 import os
 import sys
 import argparse
-from readme_loader import load_readme
-from improver import (
+
+from trendspire.ai_patch import (
     generate_summary,
     suggest_improvements,
     rewrite_readme,
-    load_config,
 )
-from logger import get_logger
+from trendspire.utils import load_config, read_file
+import logging
 
-logger = get_logger()
+logger = logging.getLogger(__name__)
 
 
 def main():
+    """Run the README improvement workflow."""
+    logging.basicConfig(level=logging.INFO, format="%(message)s")
     sys.stdout.reconfigure(encoding="utf-8")
 
     parser = argparse.ArgumentParser(prog="ai-readme-improver")
@@ -56,7 +60,7 @@ def main():
         logger.error(f"❌ Error: {readme_path} not found.")
         return
 
-    readme_text = load_readme(readme_path)
+    readme_text = read_file(readme_path)
     if not readme_text.strip():
         logger.warning("⚠️ README is empty. Exiting.")
         return
