@@ -42,6 +42,8 @@ def _estimate_cost(model: str, total_tokens: int) -> float:
     return (total_tokens / 1000) * price
 
 def ask_openai(prompt: str, model="gpt-3.5-turbo", temperature=0.5, max_tokens=1280) -> str:
+    """Send *prompt* to the chat API and return the response text."""
+
     logger.info("\n----- OpenAI Request -----")
     logger.info(f"Model: {model} | Temperature: {temperature} | Max tokens: {max_tokens}")
     logger.info("Prompt:\n" + prompt)
