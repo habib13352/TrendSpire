@@ -1,17 +1,16 @@
-"""Fetch GitHub trending repositories and render markdown."""
+"""Fetch GitHub trending repositories and render markdown digests."""
 
 from __future__ import annotations
 
-import os
 from datetime import datetime, timezone
 from pathlib import Path
 from dataclasses import dataclass
-from typing import Any, List
+from typing import List
 
 from bs4 import BeautifulSoup
 from jinja2 import Environment, FileSystemLoader
 
-from src.utils import backup_file, fetch_url, log_update, write_file
+from .utils import backup_file, fetch_url, log_update, write_file, load_config as load_yaml_config
 
 BASE_URL = "https://github.com/trending"
 REQUEST_HEADERS = {"User-Agent": "Mozilla/5.0"}
@@ -91,6 +90,53 @@ def save_trending(repos: List[Repo], path: str | Path = "TRENDING.md", since: st
         log_update("TRENDING updated", f"Saved {len(repos)} repositories")
     except Exception as exc:  # pragma: no cover - file errors
         log_update("write_error", f"{path}: {exc}")
+
+
+DEFAULT_CONFIG = {
+    "language": "",
+    "since": "daily",
+    "limit": 10,
+}
+
+
+def load_config(path: str | Path = "config.yaml") -> dict:
+    """Return merged configuration from YAML with defaults."""
+    cfg = DEFAULT_CONFIG.copy()
+    cfg.update(load_yaml_config(path))
+    return cfg
+
+
+def render_trending() -> str:
+    """Generate the trending digest and write ``TRENDING.md``."""
+    config = load_config()
+    repos = fetch_trending(
+        language=config.get("language", ""),
+        since=config.get("since", "daily"),
+        limit=config.get("limit", 10),
+    )
+
+    markdown = render_markdown(repos, config.get("since", "daily"))
+    out_path = Path(__file__).resolve().parent.parent / "TRENDING.md"
+    out_path.write_text(markdown, encoding="utf-8")
+    return markdown
+
+
+def update_readme(trending_md: str) -> None:
+    """Insert the trending digest at the top of README between markers."""
+    readme_path = Path(__file__).resolve().parent.parent / "README.md"
+    start = "<!-- TRENDING_START -->"
+    end = "<!-- TRENDING_END -->"
+
+    content = readme_path.read_text(encoding="utf-8") if readme_path.exists() else ""
+
+    if start in content and end in content:
+        pre, _start, rest = content.partition(start)
+        _mid, _end, post = rest.partition(end)
+        new_content = pre + start + "\n" + trending_md.strip() + "\n" + end + post
+    else:
+        new_content = start + "\n" + trending_md.strip() + "\n" + end + "\n" + content
+
+    readme_path.write_text(new_content, encoding="utf-8")
 
 
 def main() -> None:

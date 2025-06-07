@@ -36,11 +36,11 @@ Follow these steps to set up and run TrendSpire:
    ```bash
    python scripts/setup_wizard.py
    ```
-   Store your preferred options and OpenAI API key. Rerun any time to update your settings.
+   Save your OpenAI API key to `.env` and optional preferences to `config.yaml`. Rerun any time to update your settings.
 
 3. **Execute the Trending Scraper**
    ```bash
-   python -m src.render_digest
+   python -m trendspire fetch
    ```
    View the latest trends in the `TRENDING.md` file and this README.
 
@@ -78,11 +78,7 @@ TrendSpire is licensed under the [MIT License](LICENSE). Feel free to use, distr
 
 ### API Usage Reports
 
-Logs are stored in `logs/api_usage.*`. Customize log format via `API_LOG_FORMAT`. Generate summaries using:
-
-```bash
-python scripts/summarize_usage.py
-```
+Logs are stored in `logs/api_usage.*`. Customize log format via `API_LOG_FORMAT`.
 
 ### Running Tests
 
@@ -90,13 +86,6 @@ Execute the entire test suite with:
 
 ```bash
 pytest
-```
-### Manual Health Check
-
-Verify that automation ran within the last day:
-
-```bash
-python monitor_status.py
 ```
 
 ## Contact

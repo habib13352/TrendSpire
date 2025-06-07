@@ -10,7 +10,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  fetch_trending:
+  update_trending:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -26,20 +26,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Fetch trending repositories
-        run: python -m src.fetch_trending
+      - name: Run fetch and AI patch
+        run: |
+          echo "Fetching trending repositories and applying AI patch"
+          python -m trendspire fetch
+          python -m trendspire ai-patch
 
-  update_readme:
-    needs: fetch_trending
+  ai_readme:
+    needs: update_trending
     runs-on: ubuntu-latest
-
-    # Only run this job if ENABLE_AI_README is set to "true" in your repository secrets
-    if: ${{ secrets.ENABLE_AI_README == 'true' }}
-
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       ENABLE_AI_README: ${{ secrets.ENABLE_AI_README }}
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -52,11 +50,14 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Improve README
-        run: python ai_loop/ai_readme.py
+      - name: Improve README with trending summary
+        if: ${{ env.ENABLE_AI_README == 'true' }}
+        run: |
+          echo "Running AI README updater"
+          python -m trendspire ai-readme --enable
 
   commit_changes:
-    needs: update_readme
+    needs: ai_readme
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository

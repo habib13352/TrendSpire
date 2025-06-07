@@ -33,7 +33,14 @@ def get_openai_client() -> OpenAI:
 client = get_openai_client()
 
 from src.api_logger import log_openai_usage
-from src.logger import get_trendspire_logger
+import logging
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
+)
+
+logger = logging.getLogger(__name__)
 
 LOG_DIR = "codex_logs"
 COST_LOG = "codex_costs.csv"
@@ -46,8 +53,6 @@ WEEKLY_RATE = 0.005 / 1000  # Adjusted for gpt-4o pricing
 SOURCE_DIR = "src"
 MEMORY_DIR = "trendspire_memory"
 LAST_SUMMARY = os.path.join(MEMORY_DIR, "last_summary.md")
-
-logger = get_trendspire_logger(__name__)
 
 
 def ensure_logs():

@@ -12,6 +12,7 @@ from typing import Any, Dict, Optional
 
 import requests
 from openai import OpenAI
+import yaml
 
 LOG_DIR = Path("logs")
 BACKUP_DIR = Path("backups")
@@ -22,6 +23,16 @@ BACKUP_DIR.mkdir(exist_ok=True)
 def read_file(path: str | Path) -> str:
     """Return the contents of *path* as text."""
     return Path(path).read_text(encoding="utf-8")
+
+
+def load_config(path: str | Path = "config.yaml") -> dict:
+    """Return YAML configuration from *path* if it exists."""
+    cfg = Path(path)
+    if not cfg.is_file():
+        return {}
+    with cfg.open("r", encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+    return data or {}
 
 
 def write_file(path: str | Path, content: str) -> None:
