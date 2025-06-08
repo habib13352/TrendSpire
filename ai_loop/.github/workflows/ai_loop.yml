@@ -1,18 +1,6 @@
 name: Codex Automation
 
 on:
-  schedule:
-    - cron: '0 2 * * *'
-    - cron: '0 3 * * 0'
-    - cron: '0 5 * * *'
-  push:
-    branches: [main]
-    paths:
-      - 'ai_loop/**'
-  pull_request:
-    branches: [main]
-    paths:
-      - 'ai_loop/**'
   workflow_dispatch:
     inputs:
       mode:
@@ -24,6 +12,20 @@ on:
           - daily
           - weekly
           - autobot
+  schedule:
+    - cron: '0 2 * * *'
+    - cron: '0 3 * * 0'
+    - cron: '0 5 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'ai_loop/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'ai_loop/**'
 
 jobs:
   codex_review:
