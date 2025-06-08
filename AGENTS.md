@@ -46,13 +46,18 @@ python ai_loop/codex_autobot.py
 
 ## CI Workflow Mapping
 - Core digest: `.github/workflows/update_digest.yml`
-- AI agents: `ai_loop/.github/workflows/ai_loop.yml` (runs on changes under `ai_loop/`)
+- **AI agents**: ai_loop/.github/workflows/ai_loop.yml (runs on ai_loop/**)
 
 ## Prompt Templates
 - Trending digest template: `src/templates/trending.j2`
-- AI agent prompts are defined inline in the corresponding Python scripts
+- AI-loop templates:
+  - `ai_loop/prompts/autobot.j2`
+  - `ai_loop/prompts/daily.diff.j2`
+  - `ai_loop/prompts/per_file.j2`
+  - `ai_loop/prompts/weekly.refactor.j2`
 
 ## Next Steps
 - Keep this file updated as you add or modify agents
 - Version your prompt templates
 - Centralize shared helpers
+- Shared helpers, prompt templates, rollback logic, metrics and docs are now in place
