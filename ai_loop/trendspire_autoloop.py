@@ -20,6 +20,9 @@ except ImportError:
 
 from openai import OpenAI, OpenAIError
 import tiktoken
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from ai_loop.utils_common import (
     ensure_logs,
     count_tokens,
