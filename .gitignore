@@ -5,7 +5,8 @@ venv/
 *.env
 .env
 /.env
-/codex_logs/
-/trendspire_memory/
-/logs/
-*.csv
+
+#/codex_logs/
+#/trendspire_memory/
+#/logs/
+#*.csv
