@@ -1,7 +1,6 @@
 name: Codex Automation
 
 on:
-<<<<<<< HEAD
   workflow_dispatch:
     inputs:
       mode:
@@ -25,9 +24,6 @@ on:
   pull_request:
     branches:
       - main
-=======
-  push:
->>>>>>> a5a2f1fc61f402140e94aafcbb0704d4c425bb66
     paths:
       - 'ai_loop/**'
 
