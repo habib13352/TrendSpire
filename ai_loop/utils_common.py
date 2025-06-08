@@ -1,0 +1,67 @@
+import os
+import subprocess
+from datetime import datetime
+from typing import Iterable, Optional
+
+import tiktoken
+
+
+def ensure_logs(log_dir: str, cost_log: str, memory_dir: Optional[str] = None) -> None:
+    """Create logging directories and cost file if missing."""
+    os.makedirs(log_dir, exist_ok=True)
+    if memory_dir:
+        os.makedirs(memory_dir, exist_ok=True)
+    if not os.path.exists(cost_log):
+        with open(cost_log, "w", encoding="utf-8") as f:
+            f.write("timestamp,run_type,prompt_tokens,completion_tokens,model,cost_usd\n")
+
+
+def count_tokens(text: str, model: str) -> int:
+    """Count tokens for the given model."""
+    enc = tiktoken.encoding_for_model(model)
+    return len(enc.encode(text))
+
+
+def run_cmd(cmd: Iterable[str]) -> subprocess.CompletedProcess:
+    """Run a shell command and capture output."""
+    proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    if proc.returncode != 0:
+        raise RuntimeError(f"Command failed: {' '.join(cmd)}\n{proc.stderr}")
+    return proc
+
+
+def is_valid_diff(diff_text: str) -> bool:
+    """Check if the text looks like a valid unified diff."""
+    lines = diff_text.strip().splitlines()
+    required_markers = any(
+        line.startswith(("diff --git", "---", "+++", "@@")) for line in lines[:10]
+    )
+    return required_markers
+
+
+def is_suspicious_deletion(diff_text: str) -> bool:
+    """Return True if the diff removes entire files."""
+    lines = diff_text.splitlines()
+    return any("deleted file mode" in line for line in lines)
+
+
+def append_cost(timestamp: str, run_type: str, tokens: tuple[int, int], model: str, cost: float, cost_log: str) -> None:
+    """Append cost information to CSV log."""
+    prompt_tokens, completion_tokens = tokens
+    with open(cost_log, "a", encoding="utf-8") as f:
+        f.write(f"{timestamp},{run_type},{prompt_tokens},{completion_tokens},{model},{cost:.6f}\n")
+
+
+def write_summary(path: str, model: str, run_type: str, tokens: tuple[int, int], cost: float, test_output: str, diff_snippet: str) -> None:
+    """Write markdown summary report."""
+    prompt_tokens, completion_tokens = tokens
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(f"## {run_type.capitalize()} Codex Run {datetime.utcnow().isoformat()}\n\n")
+        f.write(f"Model: {model}\n\n")
+        f.write(f"Prompt tokens: {prompt_tokens}\n")
+        f.write(f"Completion tokens: {completion_tokens}\n")
+        f.write(f"Cost: ${cost:.6f}\n\n")
+        f.write("### Test Output\n")
+        f.write(f"```\n{test_output}\n```\n")
+        f.write("### Diff Snippet\n")
+        f.write(f"```diff\n{diff_snippet}\n```\n")

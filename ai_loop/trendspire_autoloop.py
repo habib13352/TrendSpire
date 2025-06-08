@@ -20,6 +20,15 @@ except ImportError:
 
 from openai import OpenAI, OpenAIError
 import tiktoken
+from ai_loop.utils_common import (
+    ensure_logs,
+    count_tokens,
+    run_cmd,
+    is_valid_diff,
+    is_suspicious_deletion,
+    append_cost,
+    write_summary,
+)
 
 
 def get_openai_client() -> OpenAI:
@@ -47,64 +56,6 @@ MEMORY_DIR = "trendspire_memory"
 LAST_SUMMARY = os.path.join(MEMORY_DIR, "last_summary.md")
 
 
-def ensure_logs():
-    """Create logging directories and cost file if missing."""
-    os.makedirs(LOG_DIR, exist_ok=True)
-    os.makedirs(MEMORY_DIR, exist_ok=True)
-    if not os.path.exists(COST_LOG):
-        with open(COST_LOG, "w", encoding="utf-8") as f:
-            f.write("timestamp,run_type,prompt_tokens,completion_tokens,model,cost_usd\n")
-
-
-def count_tokens(text: str, model: str) -> int:
-    """Count tokens for the given model."""
-    enc = tiktoken.encoding_for_model(model)
-    return len(enc.encode(text))
-
-
-def run_cmd(cmd):
-    """Run a shell command and capture output."""
-    proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-    if proc.returncode != 0:
-        raise RuntimeError(f"Command failed: {' '.join(cmd)}\n{proc.stderr}")
-    return proc
-
-
-def is_valid_diff(diff_text: str) -> bool:
-    """Check if the Codex output looks like a valid unified diff."""
-    lines = diff_text.strip().splitlines()
-    required_markers = any(
-        line.startswith(("diff --git", "---", "+++", "@@")) for line in lines[:10]
-    )
-    return required_markers
-
-def is_suspicious_deletion(diff_text: str) -> bool:
-    """Return True if the diff removes entire files."""
-    lines = diff_text.splitlines()
-    return any("deleted file mode" in line for line in lines)
-
-
-
-def write_summary(path: str, model: str, run_type: str, tokens: tuple, cost: float, test_output: str, diff_snippet: str) -> None:
-    """Write markdown summary report."""
-    prompt_tokens, completion_tokens = tokens
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(f"## {run_type.capitalize()} Codex Run {datetime.utcnow().isoformat()}\n\n")
-        f.write(f"Model: {model}\n\n")
-        f.write(f"Prompt tokens: {prompt_tokens}\n")
-        f.write(f"Completion tokens: {completion_tokens}\n")
-        f.write(f"Cost: ${cost:.6f}\n\n")
-        f.write("### Test Output\n")
-        f.write(f"```\n{test_output}\n```\n")
-        f.write("### Diff Snippet\n")
-        f.write(f"```diff\n{diff_snippet}\n```\n")
-
-
-def append_cost(timestamp: str, run_type: str, tokens: tuple, model: str, cost: float) -> None:
-    """Append cost information to CSV log."""
-    prompt_tokens, completion_tokens = tokens
-    with open(COST_LOG, "a", encoding="utf-8") as f:
-        f.write(f"{timestamp},{run_type},{prompt_tokens},{completion_tokens},{model},{cost:.6f}\n")
 
 
 def daily_run() -> None:
@@ -188,7 +139,7 @@ def daily_run() -> None:
     summary_path = os.path.join(LOG_DIR, f"summary_{timestamp}_daily.md")
     snippet = "\n".join(diff_response.splitlines()[:20])
     write_summary(summary_path, used_model, "daily", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
-    append_cost(timestamp, "daily", (prompt_tokens, completion_tokens), used_model, cost)
+    append_cost(timestamp, "daily", (prompt_tokens, completion_tokens), used_model, cost, COST_LOG)
     log_openai_usage(used_model, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
@@ -310,7 +261,7 @@ def weekly_run() -> None:
     summary_path = os.path.join(LOG_DIR, f"summary_{timestamp}_weekly.md")
     snippet = "\n".join(diff_response.splitlines()[:20])
     write_summary(summary_path, used_model, "weekly", (prompt_tokens, completion_tokens), cost, test_proc.stdout, snippet)
-    append_cost(timestamp, "weekly", (prompt_tokens, completion_tokens), used_model, cost)
+    append_cost(timestamp, "weekly", (prompt_tokens, completion_tokens), used_model, cost, COST_LOG)
     log_openai_usage(used_model, prompt_tokens, completion_tokens, cost)
 
     if test_proc.returncode == 0:
@@ -341,7 +292,7 @@ def main() -> None:
         help="Choose 'daily' for diff-only runs or 'weekly' for full-repo runs."
     )
     args = parser.parse_args()
-    ensure_logs()
+    ensure_logs(LOG_DIR, COST_LOG, MEMORY_DIR)
 
     if args.mode == "daily":
         daily_run()
