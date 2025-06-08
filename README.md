@@ -66,7 +66,7 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
 4. **Run the self-improvement loop**
    With your virtual environment active run:
    ```bash
-   python trendspire_autoloop.py --mode daily
+   python ai_loop/trendspire_autoloop.py --mode daily
    ```
    Replace `daily` with `weekly` for a full project review. The script stores its
    diff history under `trendspire_memory/`, applies the changes, runs the tests
@@ -84,7 +84,7 @@ The workflow [`update_digest.yml`](.github/workflows/update_digest.yml) runs eve
 
 ### Codex Automation
 
-Another workflow [`auto_codex_mixed.yml`](.github/workflows/auto_codex_mixed.yml) drives the Codex automation using [`trendspire_autoloop.py`](trendspire_autoloop.py). It supports two modes:
+Another workflow [`ai_loop.yml`](.github/workflows/ai_loop.yml) drives the Codex automation using [`ai_loop/trendspire_autoloop.py`](ai_loop/trendspire_autoloop.py). It supports two modes:
 
 - **Daily** – diff-based improvements using `gpt-3.5-turbo`.
 - **Weekly** – a full repository review with `gpt-4o`.
@@ -94,7 +94,7 @@ Each run applies the returned diff, executes the test suite and, when successful
 To run the Codex automation locally you can execute:
 
 ```bash
-python trendspire_autoloop.py --mode daily   # or weekly
+python ai_loop/trendspire_autoloop.py --mode daily   # or weekly
 ```
 
 ### API usage reports
