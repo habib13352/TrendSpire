@@ -6,6 +6,12 @@ from typing import Iterable, Optional
 import tiktoken
 
 
+def load_prompt(template_name: str) -> str:
+    """Return the contents of a prompt template under ai_loop/prompts."""
+    path = os.path.join(os.path.dirname(__file__), "prompts", template_name)
+    return open(path, "r", encoding="utf-8").read()
+
+
 def ensure_logs(log_dir: str, cost_log: str, memory_dir: Optional[str] = None) -> None:
     """Create logging directories and cost file if missing."""
     os.makedirs(log_dir, exist_ok=True)

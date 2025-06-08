@@ -28,6 +28,7 @@ from ai_loop.utils_common import (
     is_suspicious_deletion,
     append_cost,
     write_summary,
+    load_prompt,
 )
 
 
@@ -68,10 +69,8 @@ def daily_run() -> None:
     diff_proc = run_cmd(["git", "diff", "origin/main...HEAD", "--", SOURCE_DIR])
     diff_text = diff_proc.stdout
 
-    prompt = (
-        "Based on this diff, propose pytest test files, small refactors, and logging statements. "
-        "Return a unified git diff. Do not output anything else.\n\n" + diff_text
-    )
+    template = load_prompt("daily.diff.j2")
+    prompt = template.replace("{{ diff }}", diff_text)
 
     try:
         response = client.chat.completions.create(
@@ -188,10 +187,12 @@ def weekly_run() -> None:
             + "\n\nNow, review your own changes and suggest further improvements. "
             "Look for any inefficiencies, or opportunities to add tests, better logging, docstrings, or simplify the logic.\n\n"
         )
+    template = load_prompt("weekly.refactor.j2")
     prompt = (
-        "You are TrendSpire’s deep refactoring and test-generation assistant. Using the full code context below, perform a comprehensive refactor: "
-        "1) Add missing pytest tests under tests/\n2) Improve any code smells or inefficiencies\n3) Insert Python logging statements to record function entry/exit and key variables\n4) Update or add docstrings in each function\n5) If new modules or tests are created, include them fully.\n"
-        "Output only a unified git diff relative to the repository root.\n\n" + review_context + full_code
+        template.replace("{{ review_context }}", review_context).replace(
+            "{{ full_code }}",
+            full_code,
+        )
     )
 
     try:

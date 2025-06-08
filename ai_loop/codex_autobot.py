@@ -2,11 +2,15 @@ import argparse
 import logging
 import os
 import subprocess
+import sys
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Iterable
 
 from openai import OpenAI
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from ai_loop.utils_common import load_prompt
 
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -24,26 +28,14 @@ logging.basicConfig(
 
 def get_analysis_prompt(file_path: str, code: str) -> str:
     language = Path(file_path).suffix.lstrip(".") or "text"
-    return f"""You are an expert code reviewer and GitHub automation assistant.
-Your job is to improve a {language} project by analyzing a single file at a time.
+    template = load_prompt("autobot.j2")
+    return (
+        template.replace("{{ file_path }}", file_path)
+        .replace("{{ language }}", language)
+        .replace("{{ code }}", code)
+    )
 
-📁 File: `{file_path}`
 
-🔍 TASKS:
-1. Analyze the code in this file
-2. List key problems or improvements (bugs, readability, duplication, better structure, etc.)
-3. Suggest concrete changes with justification
-4. If useful, recommend creating/modifying tests or docs
-
-Please return:
-- ✅ Summary of issues
-- 🛠️ Suggested improvements (plain language)
-- 🧠 Rewritten code (modified version with changes applied)
-
-Here is the original file:
-```{language}
-{code}
-```"""
 
 
 def get_target_files(folder: str = "src", exts: Iterable[str] = ("py",), days: int | None = None, min_size: int = 0) -> list[str]:
