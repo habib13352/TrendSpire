@@ -7,7 +7,7 @@ from pathlib import Path
 def test_ensure_logs_creates_files(tmp_path, monkeypatch):
     monkeypatch.setenv('OPENAI_API_KEY', 'test')
     monkeypatch.chdir(tmp_path)
-    repo_root = Path(__file__).resolve().parents[1]
+    repo_root = Path(__file__).resolve().parents[2]
     sys.path.insert(0, str(repo_root))
 
     module_path = repo_root / 'ai_loop' / 'trendspire_autoloop.py'

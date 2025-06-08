@@ -32,7 +32,7 @@ def get_openai_client() -> OpenAI:
 
 client = get_openai_client()
 
-from src.api_logger import log_openai_usage
+from ai_loop.api_logger import log_openai_usage
 
 LOG_DIR = "codex_logs"
 COST_LOG = "codex_costs.csv"

@@ -4,8 +4,8 @@ from pathlib import Path
 
 
 def _load_module(tmp_path, fmt):
-    repo_root = Path(__file__).resolve().parents[1]
-    module_path = repo_root / 'src' / 'api_logger.py'
+    repo_root = Path(__file__).resolve().parents[2]
+    module_path = repo_root / 'ai_loop' / 'api_logger.py'
     spec = importlib.util.spec_from_file_location('api_logger', module_path)
     api_logger = importlib.util.module_from_spec(spec)
     # Set environment variable before loading
