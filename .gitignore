@@ -4,3 +4,8 @@ venv/
 /.pytest_cache/
 *.env
 .env
+/.env
+/codex_logs/
+/trendspire_memory/
+/logs/
+*.csv
