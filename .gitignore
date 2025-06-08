@@ -1,3 +1,6 @@
 __pycache__/
 venv/
+/ai_loop/.pytest_cache/
+/.pytest_cache/
+*.env
 .env

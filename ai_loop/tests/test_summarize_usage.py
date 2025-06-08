@@ -4,8 +4,8 @@ from pathlib import Path
 
 
 def _load_module(tmp_path, fmt):
-    repo_root = Path(__file__).resolve().parents[1]
-    module_path = repo_root / 'scripts' / 'summarize_usage.py'
+    repo_root = Path(__file__).resolve().parents[2]
+    module_path = repo_root / 'ai_loop' / 'scripts' / 'summarize_usage.py'
     spec = importlib.util.spec_from_file_location('summarize_usage', module_path)
     mod = importlib.util.module_from_spec(spec)
     import os
