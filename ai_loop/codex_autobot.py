@@ -15,7 +15,7 @@ from ai_loop.utils_common import load_prompt, rollback_if_tests_fail
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-LOG_DIR = Path("codex_logs")
+LOG_DIR = Path("ai_loop/codex_logs")
 LOG_DIR.mkdir(exist_ok=True)
 
 
