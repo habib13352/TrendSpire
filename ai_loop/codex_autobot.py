@@ -10,7 +10,7 @@ from typing import Iterable
 from openai import OpenAI
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from ai_loop.utils_common import load_prompt
+from ai_loop.utils_common import load_prompt, rollback_if_tests_fail
 
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
@@ -68,6 +68,11 @@ def commit_and_push(file_paths: list[str], branch_name: str) -> None:
     for f in file_paths:
         subprocess.run(["git", "add", f], check=True)
     subprocess.run(["git", "commit", "-m", f"Codex Bot: Improve {', '.join(file_paths)}"], check=True)
+    try:
+        rollback_if_tests_fail()
+    except RuntimeError as exc:
+        logging.error(str(exc))
+        return
     subprocess.run(["git", "push", "origin", branch_name], check=True)
 
 
