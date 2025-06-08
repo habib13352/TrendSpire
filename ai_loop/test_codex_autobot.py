@@ -4,7 +4,7 @@ from pathlib import Path
 
 import importlib.util
 
-MODULE_PATH = Path(__file__).resolve().parents[1] / 'codex_autobot.py'
+MODULE_PATH = Path(__file__).resolve().parents[1] / 'ai_loop' / 'codex_autobot.py'
 spec = importlib.util.spec_from_file_location('autobot', MODULE_PATH)
 autobot = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(autobot)

@@ -10,7 +10,7 @@ def test_ensure_logs_creates_files(tmp_path, monkeypatch):
     repo_root = Path(__file__).resolve().parents[1]
     sys.path.insert(0, str(repo_root))
 
-    module_path = repo_root / 'trendspire_autoloop.py'
+    module_path = repo_root / 'ai_loop' / 'trendspire_autoloop.py'
     spec = importlib.util.spec_from_file_location('trendspire_autoloop', module_path)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)
