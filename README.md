@@ -41,6 +41,14 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
   iteratively refine its suggestions across runs and open automated pull
   requests with context.
 
+## What TrendSpire Does Today
+
+- `python -m src.fetch_trending` — scrape GitHub Trending
+- `python -m src.render_digest` — render TRENDING.md & inject into README.md
+
+### AI Agents (coming soon)
+See [AGENTS.md](./AGENTS.md) and [ai_loop/README.md](./ai_loop/README.md) for details on the self-improvement loop.
+
 ## Getting Started
 
 1. **Install dependencies**
@@ -63,18 +71,6 @@ TrendSpire gathers trending repositories from GitHub and stores them in `TRENDIN
    ```
    The latest results will appear in `TRENDING.md` and the README.
 
-4. **Run the self-improvement loop**
-   With your virtual environment active run:
-   ```bash
-   python ai_loop/trendspire_autoloop.py --mode daily
-   ```
-   Replace `daily` with `weekly` for a full project review. The script stores its
-   diff history under `trendspire_memory/`, applies the changes, runs the tests
-   and opens a pull request when successful.
-
-5. **Enable the PR workflow**
-   Ensure GitHub Actions are enabled on your fork. The workflow will reuse the
-   cached memory directory and automatically open pull requests on a schedule.
 
 ## GitHub Actions
 

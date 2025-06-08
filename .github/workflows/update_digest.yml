@@ -1,9 +1,13 @@
 name: Update Trending Digest
 
 on:
-  schedule:
-    - cron: '0 8 * * *'
-  workflow_dispatch:
+  push:
+    paths:
+      - 'src/**'
+      - 'README.md'
+      - 'TRENDING.md'
+      - 'requirements.txt'
+      - 'docs/**'
 
 jobs:
   build-and-push:
