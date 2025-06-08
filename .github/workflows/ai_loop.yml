@@ -78,13 +78,13 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: codex-logs
-          path: codex_logs/
+          path: ai_loop/codex_logs/
       - name: Upload Codex Memory
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: codex-memory
-          path: trendspire_memory/
+          path: ai_loop/trendspire_memory/
       - name: Commit and push API logs
         if: always()
         run: |
