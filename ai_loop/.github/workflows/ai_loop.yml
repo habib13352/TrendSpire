@@ -57,7 +57,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python ai_loop/trendspire_autoloop.py --mode daily
+          python ai_loop/trendspire_autoloop.py --mode daily || exit 1
       - name: Run Codex Bot (weekly)
         if: |
           (github.event_name == 'schedule' && github.event.schedule == '0 3 * * 0') ||
@@ -66,7 +66,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python ai_loop/trendspire_autoloop.py --mode weekly
+          python ai_loop/trendspire_autoloop.py --mode weekly || exit 1
       - name: Upload Codex Logs
         if: always()
         uses: actions/upload-artifact@v4
@@ -112,4 +112,4 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python ai_loop/codex_autobot.py
+          python ai_loop/codex_autobot.py || exit 1

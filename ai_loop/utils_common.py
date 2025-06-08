@@ -37,12 +37,31 @@ def run_cmd(cmd: Iterable[str]) -> subprocess.CompletedProcess:
 
 
 def is_valid_diff(diff_text: str) -> bool:
-    """Check if the text looks like a valid unified diff."""
+    """Validate a unified diff for basic sanity."""
     lines = diff_text.strip().splitlines()
+
+    # Must contain standard diff markers
     required_markers = any(
         line.startswith(("diff --git", "---", "+++", "@@")) for line in lines[:10]
     )
-    return required_markers
+    if not required_markers:
+        return False
+
+    # Reject diffs touching tests/ directories
+    for line in lines:
+        if line.startswith(("diff --git", "---", "+++")):
+            parts = line.split()
+            for part in parts[2:4]:
+                part = part.replace("a/", "").replace("b/", "")
+                if part.startswith("tests/") or "/tests/" in part:
+                    return False
+
+    # Reject excessive deletions
+    deletions = sum(1 for line in lines if line.startswith("-") and not line.startswith("---"))
+    if deletions > 50:
+        return False
+
+    return True
 
 
 def is_suspicious_deletion(diff_text: str) -> bool:
@@ -71,3 +90,17 @@ def write_summary(path: str, model: str, run_type: str, tokens: tuple[int, int],
         f.write(f"```\n{test_output}\n```\n")
         f.write("### Diff Snippet\n")
         f.write(f"```diff\n{diff_snippet}\n```\n")
+
+
+def rollback_if_tests_fail() -> subprocess.CompletedProcess:
+    """Run ai_loop tests and rollback the last commit if they fail."""
+    result = subprocess.run(
+        ["pytest", "ai_loop/tests/"],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        text=True,
+    )
+    if result.returncode != 0:
+        subprocess.run(["git", "reset", "--hard", "HEAD~1"], check=False)
+        raise RuntimeError("Tests failed after patch; rolled back.")
+    return result

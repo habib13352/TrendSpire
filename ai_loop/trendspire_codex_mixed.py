@@ -28,6 +28,7 @@ from ai_loop.utils_common import (
     append_cost,
     write_summary,
     load_prompt,
+    rollback_if_tests_fail,
 )
 
 
@@ -193,6 +194,11 @@ def mixed_run() -> None:
         ["git", "commit", "-m", f"chore: codex mixed improvements {timestamp}"],
         check=True,
     )
+    try:
+        rollback_if_tests_fail()
+    except RuntimeError as exc:
+        print(exc, file=sys.stderr)
+        return
     subprocess.run(["git", "push", "origin", branch], check=False)
 
     pr_prompt = get_pr_message_prompt("\n".join(summaries), changed_files)
@@ -301,9 +307,24 @@ def daily_run() -> None:
         branch = f"codex-daily-{timestamp}"
         subprocess.run(["git", "checkout", "-b", branch], check=True)
         subprocess.run(["git", "add", "-A"], check=True)
-        subprocess.run(["git", "commit", "-m", f"chore: daily Codex improvements {timestamp}"], check=True)
+        subprocess.run(
+            ["git", "commit", "-m", f"chore: daily Codex improvements {timestamp}"],
+            check=True,
+        )
+        try:
+            rollback_if_tests_fail()
+        except RuntimeError as exc:
+            print(exc, file=sys.stderr)
+            return
         subprocess.run(["git", "push", "origin", branch], check=False)
-        run_cmd(["gh", "pr", "create", "--fill", "--title", f"chore: daily Codex improvements {timestamp}"])
+        run_cmd([
+            "gh",
+            "pr",
+            "create",
+            "--fill",
+            "--title",
+            f"chore: daily Codex improvements {timestamp}",
+        ])
     else:
         sys.exit(test_proc.returncode)
 
@@ -402,9 +423,24 @@ def weekly_run() -> None:
         branch = f"codex-weekly-{timestamp}"
         subprocess.run(["git", "checkout", "-b", branch], check=True)
         subprocess.run(["git", "add", "-A"], check=True)
-        subprocess.run(["git", "commit", "-m", f"chore: weekly Codex improvements {timestamp}"], check=True)
+        subprocess.run(
+            ["git", "commit", "-m", f"chore: weekly Codex improvements {timestamp}"],
+            check=True,
+        )
+        try:
+            rollback_if_tests_fail()
+        except RuntimeError as exc:
+            print(exc, file=sys.stderr)
+            return
         subprocess.run(["git", "push", "origin", branch], check=False)
-        run_cmd(["gh", "pr", "create", "--fill", "--title", f"chore: weekly Codex improvements {timestamp}"])
+        run_cmd([
+            "gh",
+            "pr",
+            "create",
+            "--fill",
+            "--title",
+            f"chore: weekly Codex improvements {timestamp}",
+        ])
     else:
         sys.exit(test_proc.returncode)
 
