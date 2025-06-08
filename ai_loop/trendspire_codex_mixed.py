@@ -27,6 +27,7 @@ from ai_loop.utils_common import (
     is_valid_diff,
     append_cost,
     write_summary,
+    load_prompt,
 )
 
 
@@ -53,30 +54,9 @@ WEEKLY_RATE = 0.005 / 1000  # Adjusted for gpt-4o pricing
 SOURCE_DIR = "src"
 
 
-
-
 def get_analysis_prompt(file_path: str, code: str) -> str:
-    return f"""You are an expert code reviewer and GitHub automation assistant.
-Your job is to improve a Python project by analyzing a single file at a time.
-
-📁 File: `{file_path}`
-
-🔍 TASKS:
-1. Analyze the code in this file
-2. List key problems or improvements (bugs, readability, duplication, better structure, etc.)
-3. Suggest concrete changes with justification
-4. If useful, recommend creating/modifying tests or docs
-
-Please return:
-- ✅ Summary of issues
-- 🛠️ Suggested improvements (plain language)
-- 🧠 Rewritten code (modified version with changes applied)
-
-Here is the original file:
-```python
-{code}
-```
-"""
+    template = load_prompt("per_file.j2")
+    return template.replace("{{ file_path }}", file_path).replace("{{ code }}", code)
 
 
 def verify_and_finalize_prompt(original_code: str, suggested_code: str) -> str:
@@ -246,10 +226,8 @@ def daily_run() -> None:
     diff_proc = run_cmd(["git", "diff", "origin/main...HEAD", "--", SOURCE_DIR])
     diff_text = diff_proc.stdout
 
-    prompt = (
-        "Based on this diff, propose pytest test files, small refactors, and logging statements. "
-        "Return a unified git diff. Do not output anything else.\n\n" + diff_text
-    )
+    template = load_prompt("daily.diff.j2")
+    prompt = template.replace("{{ diff }}", diff_text)
 
     try:
         response = client.chat.completions.create(
@@ -347,10 +325,9 @@ def weekly_run() -> None:
             code_parts.append(f"# File: {path}\n" + f.read())
 
     full_code = "\n\n".join(code_parts)
-    prompt = (
-        "You are TrendSpire’s deep refactoring and test-generation assistant. Using the full code context below, perform a comprehensive refactor: "
-        "1) Add missing pytest tests under tests/\n2) Improve any code smells or inefficiencies\n3) Insert Python logging statements to record function entry/exit and key variables\n4) Update or add docstrings in each function\n5) If new modules or tests are created, include them fully.\n"
-        "Output only a unified git diff relative to the repository root.\n\n" + full_code
+    template = load_prompt("weekly.refactor.j2")
+    prompt = template.replace("{{ review_context }}", "").replace(
+        "{{ full_code }}", full_code
     )
 
     try:
