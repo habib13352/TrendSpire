@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-06 08:59 UTC_
+_Last updated: 2025-06-08 03:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [frdel/agent-zero](https://github.com/frdel/agent-zero) | 8957 | Python | Agent Zero AI framework |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 4174 | Python | Memory for AI Agents in 5 lines of code |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 8037 | Python | A high-performance algorithmic trading platform and event-driven backtester |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 15033 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [scrapy/scrapy](https://github.com/scrapy/scrapy) | 56263 | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. |
+| [codexu/note-gen](https://github.com/codexu/note-gen) | 3640 | TypeScript | A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note. |
 
-| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 16787 | TypeScript | The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI |
+| [scrapy/scrapy](https://github.com/scrapy/scrapy) | 56519 | Python | Scrapy, a fast high-level web crawling & scraping framework for Python. |
 
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 88114 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
+| [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) | 12928 | JavaScript | An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 14199 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [jwohlwend/boltz](https://github.com/jwohlwend/boltz) | 2038 | Python | Official repository for the Boltz biomolecular interaction models |
 
-| [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 4683 | Kotlin | 🪐 Markdown with superpowers — from ideas to presentations, articles and books. |
+| [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) | 1048 | Python | Building blocks for rapid development of GenAI applications |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 36601 | Roff | 所有小初高、大学PDF教材。 |
+| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | 25001 | Python | DSPy: The framework for programming—not prompting—language models |
 
-| [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) | 12645 | C++ | ArduPlane, ArduCopter, ArduRover, ArduSub source |
+| [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) | 1785 | Vue | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design. |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 3064 | Python | Memory for AI Agents in 5 lines of code |
+| [langgenius/dify](https://github.com/langgenius/dify) | 101901 | TypeScript | Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. |
