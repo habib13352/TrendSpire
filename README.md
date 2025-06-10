@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-10 00:57 UTC_
+_Last updated: 2025-06-10 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alphacep/vosk-api](https://github.com/alphacep/vosk-api) | 10761 | Jupyter Notebook | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node |
+| [jwohlwend/boltz](https://github.com/jwohlwend/boltz) | 2201 | Python | Official repository for the Boltz biomolecular interaction models |
 
-| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 5961 | Rust | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. |
+| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 6137 | Rust | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. |
 
-| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 29040 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
+| [alphacep/vosk-api](https://github.com/alphacep/vosk-api) | 11275 | Jupyter Notebook | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 5008 | Python | Memory for AI Agents in 5 lines of code |
+| [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | 7510 | Unknown | List of free GPTs that doesn't require plus subscription |
 
-| [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) | 13388 | JavaScript | An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. |
+| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 57442 | MDX | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
 
-| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 17148 | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses. |
+| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 7851 | Rust | The Fully Customizable Desktop Environment for Windows 10/11. |
 
-| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 7497 | Rust | The Fully Customizable Desktop Environment for Windows 10/11. |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 10751 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 16124 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
+| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 16521 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
 
-| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 57242 | MDX | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
+| [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) | 16731 | Jupyter Notebook | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 |
 
-| [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding) | 4651 | Lua | Offline build planner for Path of Exile. |
+| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 29125 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
 <!-- TRENDING_END -->
 
 # TrendSpire
