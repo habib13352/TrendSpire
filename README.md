@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-11 00:57 UTC_
+_Last updated: 2025-06-11 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jwohlwend/boltz](https://github.com/jwohlwend/boltz) | 2410 | Python | Official repository for the Boltz biomolecular interaction models |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 365296 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
 
-| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 6340 | Rust | TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 34681 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [alphacep/vosk-api](https://github.com/alphacep/vosk-api) | 11417 | Jupyter Notebook | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node |
+| [alphacep/vosk-api](https://github.com/alphacep/vosk-api) | 11672 | Jupyter Notebook | Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node |
 
-| [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) | 7648 | Unknown | List of free GPTs that doesn't require plus subscription |
+| [jwohlwend/boltz](https://github.com/jwohlwend/boltz) | 2628 | Python | Official repository for the Boltz biomolecular interaction models |
 
-| [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 57596 | MDX | 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering |
+| [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | 4051 | Python | This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do! |
 
-| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 8125 | Rust | The Fully Customizable Desktop Environment for Windows 10/11. |
+| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 16926 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 10830 | TypeScript | Elegant reading of real-time and hottest news |
+| [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) | 17165 | Jupyter Notebook | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 |
 
-| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 16631 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 20586 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) | 16855 | Jupyter Notebook | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 |
-
-| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 29172 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
+| [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) | 7718 | Jupyter Notebook | MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips |
 <!-- TRENDING_END -->
 
 # TrendSpire
