@@ -22,8 +22,8 @@ jobs:
       - run: python -m src.render_digest
       - name: Commit updated files
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "habib13352"
+          git config user.email "1352812+habib13352@users.noreply.github.com"
           git add TRENDING.md README.md
           git commit -m "ci: update trending digest" || echo "Nothing to commit"
           git push
