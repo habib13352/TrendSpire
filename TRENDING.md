@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-16 12:29 UTC_
+_Last updated: 2025-06-17 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 42655 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | 6926 | HTML | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
 
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 368754 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
+| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | 13831 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [xiangechen/chili3d](https://github.com/xiangechen/chili3d) | 2907 | TypeScript | A web-based 3D CAD application for online model design and editing |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 12776 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) | 18696 | Jupyter Notebook | 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 43251 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | 5085 | Python | This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do! |
+| [immich-app/immich](https://github.com/immich-app/immich) | 68245 | TypeScript | High performance self-hosted photo and video management solution. |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 27031 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
+| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 14723 | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
 
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 8158 | Python | The LLM Evaluation Framework |
+| [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 1634 | Go | 📂 Web File Browser |
 
-| [YaLTeR/niri](https://github.com/YaLTeR/niri) | 8724 | Rust | A scrollable-tiling Wayland compositor. |
+| [zen-browser/desktop](https://github.com/zen-browser/desktop) | 33004 | C++ | Welcome to a calmer internet |
 
-| [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) | 4539 | Jupyter Notebook | Implementation of all RAG techniques in a simpler way |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 6098 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 36503 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 36593 | Python | An AI Hedge Fund Team |
