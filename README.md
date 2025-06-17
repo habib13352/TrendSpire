@@ -1,30 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-17 00:57 UTC_
+_Last updated: 2025-06-17 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | 6926 | HTML | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
+| [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) | 7588 | HTML | Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft. |
 
-| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | 13831 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [menloresearch/jan](https://github.com/menloresearch/jan) | 29768 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 12776 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | 14486 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 43251 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 56120 | Python | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 68245 | TypeScript | High performance self-hosted photo and video management solution. |
+| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 7784 | Cuda | DeepEP: an efficient expert-parallel communication library |
 
-| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 14723 | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
+| [automatisch/automatisch](https://github.com/automatisch/automatisch) | 9027 | JavaScript | The open source Zapier alternative. Build workflow automation without spending time and money. |
 
-| [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 1634 | Go | 📂 Web File Browser |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 43611 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [zen-browser/desktop](https://github.com/zen-browser/desktop) | 33004 | C++ | Welcome to a calmer internet |
-
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 6098 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
-
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 36593 | Python | An AI Hedge Fund Team |
+| [continuedev/continue](https://github.com/continuedev/continue) | 26969 | TypeScript | ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks |
 <!-- TRENDING_END -->
 
 # TrendSpire
