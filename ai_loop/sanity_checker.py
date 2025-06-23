@@ -47,8 +47,15 @@ def sanity_check_diff(diff: str) -> Tuple[bool, List[str]]:
     if is_suspicious_deletion(diff):
         reasons.append("Diff deletes entire files")
 
-    if re.search(r"rm\s+-rf", diff):
-        reasons.append("Contains 'rm -rf' command")
+    dangerous_patterns = [
+        r"rm.*-rf",
+        r"os\.system\([^\n]*rm.*-rf",
+        r"subprocess\.run\([^\n]*rm.*-rf",
+    ]
+    for pattern in dangerous_patterns:
+        if re.search(pattern, diff):
+            reasons.append("Contains dangerous command: rm -rf")
+            break
 
     deletions = sum(
         1
