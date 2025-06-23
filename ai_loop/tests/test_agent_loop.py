@@ -20,3 +20,14 @@ def test_agent_loop_passes_context(monkeypatch):
     assert captured["ctx"] == fake_context
     assert "diff --git" in msg
 
+
+def test_agent_loop_returns_failure_message(monkeypatch):
+    monkeypatch.setattr(agent_loop.context_builder, "load_context", lambda: {})
+    monkeypatch.setattr(agent_loop, "run_planner", lambda ctx: ["plan"])
+    monkeypatch.setattr(agent_loop, "run_coder", lambda plan, ctx: "bad diff")
+    monkeypatch.setattr(agent_loop, "review_patch", lambda diff, ctx: {"approved": True, "comments": ""})
+    monkeypatch.setattr(agent_loop, "sanity_check_diff", lambda d: (False, ["boom"]))
+
+    msg = agent_loop.run()
+    assert msg.startswith("Sanity check failed")
+

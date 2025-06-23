@@ -70,10 +70,13 @@ def run() -> str:
     print("[AgentLoop] Sanity checking")
     is_safe, reasons = sanity_check_diff(diff)
     _log_step("sanity", str({"safe": is_safe, "reasons": reasons}))
+
     if not is_safe:
         message = "Sanity check failed: " + "; ".join(reasons)
-        print(f"[AgentLoop] {message}")
+        print(f"[AgentLoop] ❌ {message}")
         return message
+    else:
+        print("[AgentLoop] ✅ Sanity check passed")
 
     print("[AgentLoop] Formatting PR")
     pr_message = pr_agent.format_pr(diff)
