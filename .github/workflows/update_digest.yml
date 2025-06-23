@@ -24,6 +24,6 @@ jobs:
         run: |
           git config user.name "habib13352"
           git config user.email "1352812+habib13352@users.noreply.github.com"
-          git add TRENDING.md README.md trends/archive/ || true
+          git add TRENDING.md README.md trends/archive/*.md trends/archive/*.json || true
           git commit -m "ci: update trending digest and archive" || echo "Nothing to commit"
           git push
