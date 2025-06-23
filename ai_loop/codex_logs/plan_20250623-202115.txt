@@ -1,0 +1,1 @@
+[['Review README.md for possible improvements', 'Call coder agent to draft a patch', 'Format pull request message'], ['Check ai_loop/tests for missing coverage', 'Update documentation referencing README.md', 'Call coder agent to draft a patch'], ['Implement Phase 3 tasks described in GOALS.md', 'Run coder agent to apply sanity checks', 'Update project roadmap']]

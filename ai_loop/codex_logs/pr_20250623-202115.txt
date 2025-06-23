@@ -1,0 +1,6 @@
+### Proposed Changes
+
+```diff
+diff --git a/x b/x
++test
+```

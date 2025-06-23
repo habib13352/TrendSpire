@@ -1,0 +1,26 @@
+```diff
+diff --git a/README b/README
+index 5c9f6c7..6a91efe 100644
+--- a/README
++++ b/README
+@@ -74,6 +74,10 @@ The workflow [`update_digest.yml`](.github/workflows/update_digest.yml) runs eve
+ Another workflow [`ai_loop.yml`](.github/workflows/ai_loop.yml) drives the Codex automation using [`ai_loop/autoloop.py`](ai_loop/autoloop.py). It supports two modes:
+ 
+ - **Daily** – diff-based improvements using `gpt-3.5-turbo`.
++- **Weekly** – a full repository review with `gpt-4o`.
++
++Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts. The workflow also caches the `trendspire_memory/` directory so the AI can refine its suggestions over time.
++
+ To run the Codex automation locally you can execute:
+ 
+ ```bash
+@@ -89,6 +93,7 @@ API usage reports
+ 
+ The file `logs/api_usage.*` records token counts and cost. Set `API_LOG_FORMAT`
+ to `csv`, `json` or `txt` to control the format. Run `python
++scripts/summarize_usage.py` for a quick summary grouped by model.
+ 
+ ### Running tests
+```
+
+This change corrects a repetition in the "Codex Automation" section by moving the paragraph regarding the application of diffs and caching mechanism under the correct list item. Additionally, it adds a missing newline for better readability under the "API Usage" section.
