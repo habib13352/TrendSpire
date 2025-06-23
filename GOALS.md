@@ -83,7 +83,7 @@ Upgrades:
 - Each agent step logs output in `ai_loop/codex_logs/`
 - Reviewer comments appear in the PR body
 
-### 📝 Phase 3.2 – Sanity Checker Agent (TODO)
+### ✅ Phase 3.2 – Sanity Checker Agent (Complete)
 - Validate diffs before PR creation and flag obvious issues
 
 ---
