@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-23 01:01 UTC_
+_Last updated: 2025-06-23 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 53187 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [microsoft/edit](https://github.com/microsoft/edit) | 9211 | Rust | We all edit. |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 11459 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [voideditor/void](https://github.com/voideditor/void) | 24420 | TypeScript | No description provided. |
 
-| [ManimCommunity/manim](https://github.com/ManimCommunity/manim) | 32740 | Python | A community-maintained Python framework for creating mathematical animations. |
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 31870 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9016 | Rust | We all edit. |
+| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15546 | TypeScript | Suna - Open Source Generalist AI Agent |
 
-| [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) | 2109 | Python | b站会员购购票辅助工具 |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 59871 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15347 | TypeScript | Suna - Open Source Generalist AI Agent |
+| [typst/typst](https://github.com/typst/typst) | 42682 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | 26407 | Java | Telegram for Android source |
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 733 | C | No description provided. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 14460 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89129 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 
-| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 33553 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80370 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 
-| [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) | 9910 | Python | Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase |
+| [localsend/localsend](https://github.com/localsend/localsend) | 62936 | Dart | An open-source cross-platform alternative to AirDrop |
