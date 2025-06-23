@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-06-23 21:02 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/edit",
+      "url": "https://github.com/microsoft/edit",
+      "description": "We all edit.",
+      "language": "Rust",
+      "stars": 9345
+    },
+    {
+      "rank": 2,
+      "name": "voideditor/void",
+      "url": "https://github.com/voideditor/void",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 24576
+    },
+    {
+      "rank": 3,
+      "name": "ghostty-org/ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "stars": 31996
+    },
+    {
+      "rank": 4,
+      "name": "kortix-ai/suna",
+      "url": "https://github.com/kortix-ai/suna",
+      "description": "Suna - Open Source Generalist AI Agent",
+      "language": "TypeScript",
+      "stars": 15649
+    },
+    {
+      "rank": 5,
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.",
+      "language": "Unknown",
+      "stars": 60084
+    },
+    {
+      "rank": 6,
+      "name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": 42797
+    },
+    {
+      "rank": 7,
+      "name": "HarbourMasters/SpaghettiKart",
+      "url": "https://github.com/HarbourMasters/SpaghettiKart",
+      "description": "",
+      "language": "C",
+      "stars": 842
+    },
+    {
+      "rank": 8,
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "language": "JavaScript",
+      "stars": 89253
+    },
+    {
+      "rank": 9,
+      "name": "comfyanonymous/ComfyUI",
+      "url": "https://github.com/comfyanonymous/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars": 80465
+    },
+    {
+      "rank": 10,
+      "name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars": 63064
+    }
+  ]
+}
