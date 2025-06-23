@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-23 16:44 UTC_
+_Last updated: 2025-06-23 16:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9279 | Rust | We all edit. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 9280 | Rust | We all edit. |
 
-| [voideditor/void](https://github.com/voideditor/void) | 24509 | TypeScript | No description provided. |
+| [voideditor/void](https://github.com/voideditor/void) | 24510 | TypeScript | No description provided. |
 
 | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 31938 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
 
 | [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15593 | TypeScript | Suna - Open Source Generalist AI Agent |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 59994 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 59996 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [typst/typst](https://github.com/typst/typst) | 42760 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [typst/typst](https://github.com/typst/typst) | 42762 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 793 | C | No description provided. |
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 794 | C | No description provided. |
 
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89204 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89205 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 
-| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80430 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80431 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 
-| [localsend/localsend](https://github.com/localsend/localsend) | 63008 | Dart | An open-source cross-platform alternative to AirDrop |
+| [localsend/localsend](https://github.com/localsend/localsend) | 63009 | Dart | An open-source cross-platform alternative to AirDrop |
 <!-- TRENDING_END -->
 
 # TrendSpire
