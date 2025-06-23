@@ -8,6 +8,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 MEMORY_FILE = REPO_ROOT / "ai_loop" / "trendspire_memory" / "memory.txt"
+MEMORY_JSON = REPO_ROOT / "ai_loop" / "codex_memory" / "memory.json"
 
 
 def _read_text(path: Path) -> str:
@@ -53,6 +54,22 @@ def _memory_excerpt(lines: int = 20) -> str:
         return ""
 
 
+def save_memory(context: dict) -> None:
+    """Persist a subset of the context for the agent loop."""
+    MEMORY_JSON.parent.mkdir(exist_ok=True)
+    data = {
+        "goals": context.get("goals", ""),
+        "repo_summary": context.get("src_summary", ""),
+        "trend_snapshot": context.get("trend_json_summary", ""),
+        "agents": ["planner", "coder", "reviewer", "pr_agent"],
+    }
+    try:
+        MEMORY_JSON.write_text(json.dumps(data, indent=2), encoding="utf-8")
+        print(f"[ContextBuilder] Wrote memory to {MEMORY_JSON}")
+    except Exception as exc:  # pragma: no cover - write failure
+        print(f"[ContextBuilder] Failed to write memory: {exc}")
+
+
 def load_context() -> dict:
     """Return repository context used for prompting."""
     readme = _read_text(REPO_ROOT / "README.md")
@@ -88,3 +105,12 @@ def load_context() -> dict:
 # Backwards compatibility
 def build_context() -> dict:  # pragma: no cover - legacy alias
     return load_context()
+
+
+def main() -> None:  # pragma: no cover - CLI helper
+    ctx = load_context()
+    save_memory(ctx)
+
+
+if __name__ == "__main__":
+    main()
