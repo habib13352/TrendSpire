@@ -1,12 +1,15 @@
-"""Placeholder PR formatting agent."""
+"""Pull request formatting agent."""
 
 
-def run(diff: str) -> str:
-    """Return a dummy PR body for the given diff."""
-    print("[PR Agent] Formatting PR message")
+def format_pr(diff: str) -> str:
+    """Return a simple PR body for the given diff."""
     pr_body = (
         "### Proposed Changes\n\n"
-        "This PR includes the following dummy diff:\n\n"
-        f"```diff\n{diff}\n```"
+        f"```diff\n{diff}\n```\n"
     )
     return pr_body
+
+
+def run(diff: str) -> str:  # pragma: no cover - legacy alias
+    print("[PR Agent] Formatting PR message")
+    return format_pr(diff)

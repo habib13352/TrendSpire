@@ -1,20 +1,22 @@
 """Minimal agent pipeline orchestration."""
 
-from .context_builder import build_context
-from .agents import run_planner, run_coder, run_pr_agent
+from . import context_builder, suggestor
+from .agents import pr_agent
 
 
 def run() -> str:
-    """Execute the Planner → Coder → PR Agent pipeline."""
-    print("[AgentLoop] Building context")
-    context = build_context()
+    """Execute context loading, patch suggestion and PR formatting."""
+    print("[AgentLoop] Loading context")
+    context = context_builder.load_context()
 
-    plan = run_planner(context)
-    diff = run_coder(plan)
-    pr_message = run_pr_agent(diff)
+    print("[AgentLoop] Requesting patch suggestion")
+    diff = suggestor.suggest_patch(context)
+
+    print("[AgentLoop] Formatting PR")
+    pr_message = pr_agent.format_pr(diff)
 
     print("[AgentLoop] Pipeline complete")
-    print("Phase 2.1 complete: Agent pipeline scaffolded.")
+    print("✅ Phase 2.2 complete: AI suggestion generated.")
     return pr_message
 
 
