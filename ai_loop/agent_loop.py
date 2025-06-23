@@ -8,6 +8,7 @@ from . import context_builder
 from .context_builder import MEMORY_CONTEXT
 import json
 from .agents import run_planner, run_coder, pr_agent, review_patch
+from .sanity_checker import sanity_check_diff
 from .logger import LOG_DIR
 
 
@@ -66,6 +67,14 @@ def run() -> str:
     print(f"[Reviewer] Approved: {review.get('approved')}\n[Reviewer] Comments: {review.get('comments')}")
     _log_step("review", str(review))
 
+    print("[AgentLoop] Sanity checking")
+    is_safe, reasons = sanity_check_diff(diff)
+    _log_step("sanity", str({"safe": is_safe, "reasons": reasons}))
+    if not is_safe:
+        message = "Sanity check failed: " + "; ".join(reasons)
+        print(f"[AgentLoop] {message}")
+        return message
+
     print("[AgentLoop] Formatting PR")
     pr_message = pr_agent.format_pr(diff)
     if review.get("comments"):
@@ -73,7 +82,7 @@ def run() -> str:
     _log_step("pr", pr_message)
 
     print("[AgentLoop] Pipeline complete")
-    print("✅ Phase 3.1 complete: PR message ready.")
+    print("✅ Phase 3.2 complete: PR message ready.")
     return pr_message
 
 
