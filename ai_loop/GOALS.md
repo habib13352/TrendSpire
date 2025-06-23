@@ -35,4 +35,8 @@ request fails.
 Unit tests now cover `agent_loop.run()` and `context_builder.load_context()` to
 ensure memory is included when available and ignored when missing.
 
-Future phases (3‑5) will expand multi‑step reasoning, trend analysis and automated pull requests.
+## ✅ Phase 3.0 – Patch Quality Checks
+Sanity checks reject empty diffs and the planner can return multiple plan options
+for the coder to consider.
+
+Future phases (4‑5) will expand multi‑step reasoning, trend analysis and automated pull requests.
