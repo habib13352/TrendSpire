@@ -88,6 +88,168 @@ Upgrades:
 
 ---
 
+TrendSpire: Pre–Phase 4 Master Checklist
+Goal: You’re preparing to launch a self-improving, AI-enhanced GitHub trending engine that creates patches, summaries, commits, PRs, and tracks everything — all hands-off.
+
+🔁 AI Improvement Loop (Core Logic)
+run_loop.py Must Do:
+ Load repo context (goals, README, latest TRENDING.md)
+
+ Call improver.py → get improvement idea
+
+ Send idea + file(s) to Codex via codex_suggestor.py
+
+ Generate a diff/patch of the improvement
+
+ Apply patch locally (patch_applier.py)
+
+ Create new Git branch ai-patch-YYYYMMDD-HHMM
+
+ Commit patch with auto summary title
+
+ Push to GitHub & open PR (via gh or API)
+
+🤖 Codex Prompt System (in codex_suggestor.py)
+ Prompt includes:
+
+Clear goal
+
+Relevant file content
+
+Current output (like TRENDING.md)
+
+Past improvement attempts (if available)
+
+ Output is valid unified diff (---, +++, @@)
+
+ Log prompt, response, and token usage into memory/ai_logs/
+
+📤 GitHub PR Automation
+ Use GitHub CLI (gh) or PyGitHub to:
+
+Open a Pull Request from new branch
+
+Title: "🤖 AI Patch: {idea}"
+
+Body: Include idea + file(s) changed + Codex summary
+
+ Log PR links in memory/patch_history.json
+
+📆 GitHub Actions Setup
+ai_loop.yml
+ Scheduled trigger (e.g., every 24h)
+
+ Manual trigger (workflow_dispatch)
+
+ Full install & run of run_loop.py with secrets
+
+ Action outputs:
+
+Logs of what changed
+
+AI cost estimate
+
+Links to created PR
+
+🧠 Memory & Logging (new folder: memory/)
+ ai_logs/YYYY-MM-DD-log.md: all Codex calls + tokens + diff
+
+ patch_history.json: list of all patches + PRs opened
+
+ digests/YYYY-MM-DD.md: archive of previous TRENDING.md files
+
+ cost_tracker.csv: date, prompt, tokens, cost USD
+
+📦 Codebase Structure Cleanup
+bash
+Copy
+Edit
+TrendSpire/
+├── ai_loop/             # Codex logic, patch builder, improver
+├── scripts/             # Trending scraper and digest renderer
+├── src/                 # Future: modularized components
+├── memory/              # Logs, token tracking, patch history
+├── tests/               # Basic test coverage
+├── trends/              # Archived digests
+├── .github/workflows/   # GitHub Actions
+ Move raw Markdown archives to trends/YYYY-MM-DD.md
+
+ Add a clean entrypoint: main.py for local dev, run_loop.py for full AI patch cycle
+
+ Create __init__.py files for all folders (for future packaging)
+
+📊 Monitoring + Cost Control
+ Log total tokens per run (prompt + completion)
+
+ Track how many Codex calls are being made
+
+ Alert/comment if patch cost > $0.25
+
+ Optional: display token cost in PR body
+
+📈 Readability + UI Polish
+ Improve TRENDING.md formatting with:
+
+Emojis for categories (📚, 🧰, 🔥)
+
+GitHub badges (stars, forks)
+
+Section headers by category
+
+ Include a summary paragraph at the top:
+
+"Here are the top 10 hottest repos today according to GitHub Trends and our in-house AI digest system. Updated daily."
+
+🌐 Optional Extras (but Star-Worthy)
+ GitHub Pages site (docs/ folder):
+
+Shows most recent digest
+
+Has an "AI Patch Log" section from memory
+
+ Submit your own improvement link in README.md
+
+Use GitHub Discussions or link to new issue template
+
+ Auto-Tweet latest TRENDING.md digest
+
+Use Zapier, GitHub Webhook, or Twitter API
+
+🧪 Minimum Testing (but enough to be legit)
+ tests/test_fetch_trending.py – Ensure scraper returns valid results
+
+ tests/test_render_digest.py – Check that OpenAI formatting returns expected markdown
+
+ tests/test_ai_patch.py – Mock Codex response and ensure diff is valid
+
+ GitHub Action runs tests on PRs
+
+🧠 Prompt Dev Note (Codex fine-tuning)
+Here's a Codex prompt template you can store in ai_loop/prompt_templates/improve_repo.txt:
+
+text
+Copy
+Edit
+You're an AI agent tasked with improving a GitHub project called TrendSpire.
+
+PROJECT PURPOSE:
+This project fetches GitHub trending repos daily and uses AI to summarize them, then suggests code or UX improvements via an AI loop.
+
+TASK:
+Based on the following files, suggest one small but meaningful improvement to the code or markdown. Output only the unified diff.
+
+GOALS:
+- Improve user readability
+- Automate more tasks
+- Make the project more star-worthy
+
+INPUT FILE:
+{<path>:<contents>}
+
+---
+
+Return your suggested improvement as a valid `git diff`.
+
 ### 📊 Phase 4 – Trend-Aware Reasoning
 **Goal:** Let AI learn from past trend archives to guide decisions
 
