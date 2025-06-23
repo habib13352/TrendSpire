@@ -5,8 +5,12 @@ This document outlines the automation agents used in TrendSpire.
 - `src/`
   - Core scraper/render pipeline: `fetch_trending.py`, `render_digest.py`, `templates/trending.j2`, `config.json`
 - `ai_loop/`
-  - `autoloop.py` — Phase 1.5 entrypoint for the AI workflow
+  - `autoloop.py` — CI and manual entry point
+  - `agent_loop.py` — orchestrates the Planner → Coder → PR Agent pipeline
+  - `agents/` — individual agent modules (`planner.py`, `coder.py`, `pr_agent.py`)
   - `context_builder.py`, `suggestor.py`, `patcher.py`, `logger.py`, `improver.py` — modular components
+  - `trendspire_memory/` — persistent context cache (future use)
+  - `codex_logs/` — saved prompt/response logs
   - `legacy/` — archived scripts (`trendspire_autoloop.py`, `trendspire_codex_mixed.py`)
   - `codex_autobot.py` — standalone file-by-file review tool
   - `api_logger.py` — logs token & cost usage
@@ -21,10 +25,13 @@ This document outlines the automation agents used in TrendSpire.
 ## Agent Responsibilities
 | Agent | Trigger | Status | Purpose |
 |-------|---------|--------|---------|
-| autoloop | workflow_dispatch, schedule | ✅ Active | Main entrypoint, runs placeholder logic (Phase 1.5) |
-| codex_autobot | Manual dispatch | ✅ Active | One-off cleanup or file review |
-| trendspire_autoloop.py | Archived | 💤 Legacy | Old daily/weekly loop, moved to legacy/ |
-| trendspire_codex_mixed.py | Archived | 💤 Legacy | Old per-file loop, moved to legacy/ |
+| **Planner** | internal call | ✅ Active | Read `GOALS.md` and produce a short plan |
+| **Coder** | internal call | ✅ Active | Generate a patch diff from the plan and context |
+| **PR Agent** | internal call | ✅ Active | Format the diff into a pull request body |
+| **autoloop** | workflow_dispatch, schedule | ✅ Active | Top-level entry that runs the pipeline |
+| **codex_autobot** | manual dispatch | ✅ Active | One-off cleanup or file review |
+| `trendspire_autoloop.py` | archived | 💤 Legacy | Old daily/weekly loop |
+| `trendspire_codex_mixed.py` | archived | 💤 Legacy | Old per-file loop |
 
 ## How to Run
 ```bash
@@ -56,7 +63,7 @@ python ai_loop/codex_autobot.py
   - `ai_loop/prompts/weekly.refactor.j2`
 
 ## Next Steps
-Phase 2 will connect `context_builder.py`, `suggestor.py`, and `patcher.py`.
-The AI agent will begin analyzing repo structure and propose changes based on
-GitIngest and trending data. Logs and memory will be saved to support
-iterative suggestions.
+Phase 2.3 added memory context and Phase 2.4 ensures graceful fallback if the
+memory file is missing or the OpenAI call fails. Phase 2.5 introduced basic unit
+tests for the agent loop and context builder.
+Phase 2 is now complete.

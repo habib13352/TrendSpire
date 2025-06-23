@@ -7,6 +7,7 @@ from pathlib import Path
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+MEMORY_FILE = REPO_ROOT / "ai_loop" / "trendspire_memory" / "memory.txt"
 
 
 def _read_text(path: Path) -> str:
@@ -44,6 +45,14 @@ def _latest_trend_summary() -> str:
     return "; ".join(parts)
 
 
+def _memory_excerpt(lines: int = 20) -> str:
+    """Return the last few lines of the memory log if present."""
+    try:
+        return "\n".join(MEMORY_FILE.read_text(encoding="utf-8").splitlines()[-lines:])
+    except FileNotFoundError:
+        return ""
+
+
 def load_context() -> dict:
     """Return repository context used for prompting."""
     readme = _read_text(REPO_ROOT / "README.md")
@@ -51,6 +60,7 @@ def load_context() -> dict:
     trending_md = _summarize(_read_text(REPO_ROOT / "TRENDING.md"))
     src_summary = _src_summary()
     trend_json_summary = _latest_trend_summary()
+    memory_excerpt = _memory_excerpt()
 
     return {
         "readme": readme,
@@ -58,6 +68,7 @@ def load_context() -> dict:
         "trending_md": trending_md,
         "trend_json_summary": trend_json_summary,
         "goals": goals,
+        "memory": memory_excerpt,
     }
 
 

@@ -90,11 +90,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python -m ai_loop.autoloop
-      - name: Upload Codex Logs
+      - name: Upload Codex Logs Final
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: codex-logs
+          name: codex-logs-final
           path: ai_loop/codex_logs/
       - name: Upload Codex Memory
         if: always()
