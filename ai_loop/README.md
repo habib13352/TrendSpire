@@ -1,71 +1,78 @@
-# AI-loop Subsystem
+# AI Loop Guide
 
-TrendSpire's **AI-loop** automates code improvements using OpenAI models. It runs in several modes and integrates with GitHub Actions to open pull requests after successful tests.
+TrendSpire's AI loop automates small code improvements using OpenAI. It loads repository context, asks the models for a diff and prints a pull request body. Runs happen both locally and in GitHub Actions.
 
-## Running the loops
+## Local usage
 
-Daily and weekly modes are now handled by `autoloop.py`:
+Build the repository context and run the minimal pipeline:
+
+```bash
+python -m ai_loop.context_builder   # updates trendspire_memory/memory.txt
+python -m ai_loop.agent_loop        # prints a PR message
+```
+
+`autoloop.py` wraps the same call and is used by CI:
 
 ```bash
 python -m ai_loop.autoloop
 ```
-This command invokes `agent_loop.run()` which loads repository context, asks OpenAI for a diff and prints a PR message.
 
-Older scripts have been moved under `ai_loop/legacy/` for reference.
-
-The `codex_autobot.py` script performs targeted cleanups:
+For targeted cleanups you can run the autobot:
 
 ```bash
 python ai_loop/codex_autobot.py
 ```
 
-## Agents
+## Testing modules
 
-`agent_loop.py` coordinates three small agents:
+Unit tests live under `ai_loop/tests/`. Execute a single module's tests with:
 
-- **Planner** – reads `GOALS.md` and plans a change.
-- **Coder** – generates a patch diff using the repository context.
-- **PR Agent** – formats the diff into a pull request message.
-
-The loop now loads a short memory excerpt from `trendspire_memory/memory.txt`.
-If the file is missing the agents continue without it. Basic tests verify this
-context is passed through the planner and coder.
-Future phases will provide more robust workflows.
-
-## Pipeline Overview
-1. **Context Builder** (`context_builder.py`) gathers README highlights, goal text, a summary of the `src/` folder and the latest trending repos. The data is saved to `trendspire_memory/memory.txt` for reuse.
-2. **Agent Loop** (`agent_loop.py`) feeds this context through the Planner → Coder → PR Agent chain.
-3. **Logging**: every OpenAI call writes a log file under `codex_logs/` and updates `codex_costs.csv`. GitHub Actions uploads these as artifacts after each run.
-
-### Example Log
-```
-timestamp: 20240601-120000
-prompt_tokens: 123
-completion_tokens: 45
-total_cost: 0.0012
+```bash
+pytest ai_loop/tests/test_context_builder.py
+pytest ai_loop/tests/test_agent_loop.py
+pytest ai_loop/tests/test_api_logger.py
 ```
 
-### Memory Snapshot Format
-The memory file is plain text. New entries are appended so the last lines represent the most recent events.
+Add more tests as modules like `patcher.py` evolve. The full suite runs with:
 
+```bash
+pytest
+```
+
+## Checking logs and memory
+
+- OpenAI call logs appear in `ai_loop/codex_logs/` as `log_<timestamp>.txt`.
+- Cumulative cost data is stored in `ai_loop/codex_costs.csv`.
+- The context builder appends to `ai_loop/trendspire_memory/memory.txt`.
+
+Use `ls ai_loop/codex_logs` or `tail -n 5 ai_loop/trendspire_memory/memory.txt` to confirm new entries after a run.
+
+## GitHub Action workflow
+
+The workflow [.github/workflows/ai_loop.yml](../.github/workflows/ai_loop.yml) triggers on pushes to `ai_loop/**` or by manual dispatch. Key steps:
+
+1. Checkout the repo and install dependencies.
+2. Restore cached `trendspire_memory/`.
+3. Run `python -m ai_loop.context_builder` to refresh memory.
+4. Execute `python -m ai_loop.autoloop` (daily or weekly mode).
+5. Upload `ai_loop/codex_logs/` and `ai_loop/trendspire_memory/` as artifacts.
+6. Commit API usage logs back to the repository.
+
+## CI artifacts
+
+Workflow runs expose these downloadable artifacts:
+
+- **codex-logs** / **codex-logs-final** – raw OpenAI prompts and responses.
+- **codex-memory** – the updated `trendspire_memory/` directory.
+
+Inspect them to see exactly what the agents produced during CI.
 
 ## Prompt templates
 
-Templates for the agents live under `ai_loop/prompts/`:
+Agent prompts live in `ai_loop/prompts/`:
 
 - `autobot.j2`
 - `daily.diff.j2`
 - `per_file.j2`
 - `weekly.refactor.j2`
-
-## Running tests and CI locally
-
-Unit tests reside in `ai_loop/tests/` and can be executed with:
-
-```bash
-pytest ai_loop/tests
-```
-
-The GitHub Actions workflow `ai_loop/.github/workflows/ai_loop.yml` mirrors these steps. Install the requirements and run the commands above to reproduce the CI jobs locally.
-
 
