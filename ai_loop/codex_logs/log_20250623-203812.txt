@@ -1,0 +1,56 @@
+timestamp: 20250623-203812
+prompt_tokens: 2619
+completion_tokens: 169
+total_cost: 0.015630
+prompt:
+You are an autonomous developer assistant. Suggest one small improvement to the repository below. Respond only with a unified diff.
+
+
+# README
+<!-- TRENDING_START -->
+# 📈 GitHub Trending - Daily
+
+_Last updated: 2025-06-23 17:46 UTC_
+
+| Repository | ⭐ Stars | Language | Description |
+|------------|--------:|----------|-------------|
+
+| [microsoft/edit](https://github.com/microsoft/edit) | 9298 | Rust | We all edit. |
+
+| [voideditor/void](https://github.com/voideditor/void) | 24521 | TypeScript | No description provided. |
+
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 31953 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
+
+| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15603 | TypeScript | Suna - Open Source Generalist AI Agent |
+
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60013 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
+
+| [typst/typst](https://github.com/typst/typst) | 42770 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 809 | C | No description provided. |
+
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89218 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80437 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+
+| [localsend/localsend](https://github.com/localsend/localsend) | 63019 | Dart | An open-source cross-platform alternative to AirDrop |
+<!-- TRENDING_END -->
+
+# TrendSpire
+
+TrendSpire gathers trending repositorie
+...[truncated]
+response:
+```diff
+--- README.md
++++ README.md
+@@ -9,7 +9,7 @@
+ 
+ | [microsoft/edit](https://github.com/microsoft/edit) | 9298 | Rust | We all edit. |
+ 
+-| [voideditor/void](https://github.com/voideditor/void) | 24521 | TypeScript | No description provided. |
++| [voideditor/void](https://github.com/voideditor/void) | 24521 | TypeScript | A minimalist code editor. |
+ 
+ | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 31953 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
+ 
+```

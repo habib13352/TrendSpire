@@ -1,0 +1,13 @@
+```diff
+--- README.md
++++ README.md
+@@ -9,7 +9,7 @@
+ 
+ | [microsoft/edit](https://github.com/microsoft/edit) | 9298 | Rust | We all edit. |
+ 
+-| [voideditor/void](https://github.com/voideditor/void) | 24521 | TypeScript | No description provided. |
++| [voideditor/void](https://github.com/voideditor/void) | 24521 | TypeScript | A minimalist code editor. |
+ 
+ | [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 31953 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
+ 
+```
