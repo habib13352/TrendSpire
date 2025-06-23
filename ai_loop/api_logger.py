@@ -1,7 +1,7 @@
 import csv
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 LOG_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "logs")
 LOG_FORMAT = os.getenv("API_LOG_FORMAT", "csv").lower()
@@ -32,7 +32,7 @@ def ensure_log_dir() -> None:
 def log_openai_usage(model: str, prompt_tokens: int, completion_tokens: int, cost: float) -> None:
     """Append an OpenAI API usage entry in the selected format."""
     ensure_log_dir()
-    timestamp = datetime.utcnow().isoformat()
+    timestamp = datetime.now(timezone.utc).isoformat()
     entry = {
         "timestamp": timestamp,
         "service": "openai",

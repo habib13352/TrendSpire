@@ -38,8 +38,8 @@ Tasks:
  - ✅ Create scaffolding modules:
   - `context_builder.py`
   - `suggestor.py`
-  - `patcher.py`
-  - `logger.py`
+ - `logger.py`
+ - Archived unused helpers `patcher.py` and `improver.py`
  - ✅ Setup `autoloop.py` as single entrypoint: `python -m ai_loop.autoloop`
  - ✅ Confirm trending/archival system still runs cleanly
 
@@ -51,7 +51,6 @@ Tasks:
 Modules:
 - `context_builder.py` → Loads README, key files, trend snapshot
 - `suggestor.py` → Crafts OpenAI prompt and parses response
-- `patcher.py` → Applies or saves patch
 - `logger.py` → Tracks tokens, cost, and output for traceability
 
 Features:

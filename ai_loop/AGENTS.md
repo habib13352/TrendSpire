@@ -8,10 +8,10 @@ This document outlines the automation agents used in TrendSpire.
   - `autoloop.py` — CI and manual entry point
   - `agent_loop.py` — orchestrates the Planner → Coder → Reviewer → PR Agent pipeline
   - `agents/` — individual agent modules (`planner.py`, `coder.py`, `reviewer.py`, `pr_agent.py`)
-  - `context_builder.py`, `suggestor.py`, `patcher.py`, `logger.py`, `improver.py` — modular components
+  - `context_builder.py`, `suggestor.py`, `logger.py` — core modules
+  - `legacy/` — archived helpers (`patcher.py`, `improver.py`, `trendspire_autoloop.py`, `trendspire_codex_mixed.py`)
   - `trendspire_memory/` — persistent context cache (future use)
   - `codex_logs/` — saved prompt/response logs
-  - `legacy/` — archived scripts (`trendspire_autoloop.py`, `trendspire_codex_mixed.py`)
   - `codex_autobot.py` — standalone file-by-file review tool
   - `api_logger.py` — logs token & cost usage
   - `scripts/` — helper scripts (setup, summarization)
