@@ -55,6 +55,23 @@ jobs:
           key: ${{ runner.os }}-memory-${{ github.run_id }}
           restore-keys: |
             ${{ runner.os }}-memory-
+      - name: Build Repo Context
+        run: python -m ai_loop.context_builder
+      - name: Check Codex Logs
+        id: context_logs
+        run: |
+          if [ -d ai_loop/codex_logs ]; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning::ai_loop/codex_logs not found" >&2
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Upload Codex Logs
+        if: steps.context_logs.outputs.found == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: codex-logs
+          path: ai_loop/codex_logs/
       - name: Run AI Loop (daily)
         if: |
           (github.event_name == 'schedule' && github.event.schedule == '0 2 * * *') ||
