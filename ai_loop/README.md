@@ -29,6 +29,17 @@ The planner now returns multiple plan options and the coder performs
 basic sanity checks on generated diffs. Invalid or empty patches are
 rejected and replaced with a safe fallback.
 
+### Phase 3.1 – Agentic flow
+
+The pipeline runs four agents in sequence:
+
+```
+Planner -> Coder -> Reviewer -> PR Agent
+```
+
+Each step writes a log file to `ai_loop/codex_logs/` so you can inspect
+the plan, generated diff and reviewer comments.
+
 ## Testing modules
 
 Unit tests live under `ai_loop/tests/`. Execute a single module's tests with:
