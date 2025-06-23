@@ -1,9 +1,8 @@
 """Minimal agent pipeline orchestration."""
 
 from __future__ import annotations
-
-import json
 from datetime import datetime, timezone
+import json
 
 from . import context_builder
 from .context_builder import MEMORY_CONTEXT
@@ -13,22 +12,18 @@ from .logger import LOG_DIR
 
 
 def _log_step(name: str, content: str) -> None:
-    """
-    Save output from a pipeline step to a timestamped file in codex_logs/.
-    """
+    """Save step output to a timestamped log file."""
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
     path = LOG_DIR / f"{name}_{timestamp}.txt"
     try:
         with open(path, "w", encoding="utf-8") as fh:
             fh.write(content)
     except Exception:
-        pass  # Silent failure to prevent pipeline crash from logging errors
+        pass  # Logging is non-blocking
 
 
 def _load_saved_memory() -> dict:
-    """
-    Load memory context from memory_context.md, if it exists and is valid JSON.
-    """
+    """Return structured memory context if available."""
     if not MEMORY_CONTEXT.exists():
         return {}
 
@@ -43,13 +38,9 @@ def _load_saved_memory() -> dict:
 
 
 def run() -> str:
-    """
-    Executes the full AI agent pipeline: plan → code → review → sanity check → PR formatting.
-    """
+    """Execute context loading, patch suggestion and PR formatting."""
     print("[AgentLoop] Loading context")
     context = context_builder.load_context()
-
-    # Inject memory into context (if available)
     memory_json = _load_saved_memory()
     if memory_json:
         context["memory_json"] = memory_json
@@ -57,28 +48,24 @@ def run() -> str:
         print(f"[AgentLoop] ⚠️ memory context missing ({MEMORY_CONTEXT} not found)")
     _log_step("context", str(context))
 
-    # === PHASE 1: PLAN ===
     print("[AgentLoop] Planning")
     plan = run_planner(context)
     print(f"[AgentLoop] Planner returned {len(plan)} plan(s)")
     _log_step("plan", str(plan))
 
-    # === PHASE 2: CODE ===
     print("[AgentLoop] Coding")
     diff = run_coder(plan, context)
     _log_step("diff", diff)
 
-    # === PHASE 3.1: REVIEW ===
     print("[AgentLoop] Reviewing")
     try:
         review = review_patch(diff, context)
-    except Exception as exc:  # Skip reviewer if network fails
+    except Exception as exc:
         print(f"[AgentLoop] Reviewer failed: {exc}")
         review = {"approved": True, "comments": "Reviewer error"}
     print(f"[Reviewer] Approved: {review.get('approved')}\n[Reviewer] Comments: {review.get('comments')}")
     _log_step("review", str(review))
 
-    # === PHASE 3.2: SANITY CHECK ===
     print("[AgentLoop] Sanity checking")
     is_safe, reasons = sanity_check_diff(diff)
     _log_step("sanity", str({"safe": is_safe, "reasons": reasons}))
@@ -90,10 +77,8 @@ def run() -> str:
     else:
         print("[AgentLoop] ✅ Sanity check passed: Diff is safe and valid.")
         if reasons:
-            # Informational messages like "This is just a README change" from LLM
             print("[AgentLoop] ℹ️ Sanity notes: " + "; ".join(reasons))
 
-    # === PHASE 4: FORMAT PR ===
     print("[AgentLoop] Formatting PR")
     pr_message = pr_agent.format_pr(diff)
     if review.get("comments"):

@@ -1,0 +1,24 @@
+```diff
+diff --git a/README.md b/README.md
+index e5470c2..5a99272 100644
+--- a/README.md
++++ b/README.md
+@@ -81,6 +81,17 @@ python -m ai_loop.autoloop
+ ```
+
+ ### API usage reports
++
++To gain insights into the API usage and understand the token counts and cost associated with using the OpenAI API, you can make use of the `logs/api_usage.*` files. Set the environment variable `API_LOG_FORMAT` to one of the following values to control the format of the logs: `csv`, `json`, or `txt`.
++
++You can run the following command to get a quick summary, which groups the usage by model:
++
++```bash
++python scripts/summarize_usage.py
++```
++
++Monitoring your API usage can help manage costs and optimize model choices.
++
+ The file `logs/api_usage.*` records token counts and cost. Set `API_LOG_FORMAT`
+ to `csv`, `json` or `txt` to control the format. Run `python
+ scripts/summarize_usage.py` for a quick summary grouped by model.
+```

@@ -1,0 +1,13 @@
+```diff
+--- README
++++ README
+@@ -23,7 +23,7 @@
+ 
+ ## What TrendSpire Does Today
+ 
+-- `python -m src.fetch_trending` — scrape GitHub Trending
++- `python -m src.fetch_trending` — scrape GitHub Trending.
+ - `python -m src.render_digest` — render TRENDING.md & inject into README.md
+ 
+ ### AI Agents (coming soon)
+```
