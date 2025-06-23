@@ -8,6 +8,11 @@ from pathlib import Path
 LOG_DIR = Path(__file__).resolve().parent / "codex_logs"
 LOG_DIR.mkdir(exist_ok=True)
 
+# cost tracking file under memory/
+MEMORY_DIR = Path(__file__).resolve().parents[1] / "memory"
+COST_TRACKER = MEMORY_DIR / "cost_tracker.csv"
+MEMORY_DIR.mkdir(exist_ok=True)
+
 
 def log_result(
     prompt: str,
@@ -17,7 +22,7 @@ def log_result(
     completion_tokens: int,
     cost: float,
 ) -> None:
-    """Write a log entry containing prompt, response and cost data."""
+    """Write a log entry and track token costs."""
     timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
     log_path = LOG_DIR / f"log_{timestamp}.txt"
     max_len = 2000
@@ -34,3 +39,10 @@ def log_result(
         fh.write(_truncate(prompt) + "\n")
         fh.write("response:\n")
         fh.write(_truncate(response) + "\n")
+
+    # Append cost tracking row
+    write_header = not COST_TRACKER.exists()
+    with open(COST_TRACKER, "a", encoding="utf-8") as f:
+        if write_header:
+            f.write("timestamp,prompt_tokens,completion_tokens,cost_usd\n")
+        f.write(f"{timestamp},{prompt_tokens},{completion_tokens},{cost:.6f}\n")
