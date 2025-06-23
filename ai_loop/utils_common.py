@@ -4,6 +4,7 @@ from datetime import datetime
 from typing import Iterable, Optional
 
 import tiktoken
+from openai import OpenAI, OpenAIError
 
 
 def load_prompt(template_name: str) -> str:
@@ -26,6 +27,37 @@ def count_tokens(text: str, model: str) -> int:
     """Count tokens for the given model."""
     enc = tiktoken.encoding_for_model(model)
     return len(enc.encode(text))
+
+
+DEFAULT_MODEL = "gpt-4o"
+MODEL_PRICES = {
+    "gpt-4o": (0.005, 0.015),
+    "gpt-4": (0.03, 0.06),
+}
+
+
+def call_openai_chat(
+    messages: list[dict[str, str]], model: str = DEFAULT_MODEL
+) -> tuple[str, int, int, float]:
+    """Send messages to OpenAI Chat API and return text and usage."""
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY not set in environment")
+
+    client = OpenAI(api_key=api_key)
+    try:
+        resp = client.chat.completions.create(model=model, messages=messages)
+    except OpenAIError as exc:
+        raise RuntimeError(str(exc)) from exc
+
+    content = resp.choices[0].message.content
+    usage = resp.usage
+    prompt_tokens = getattr(usage, "prompt_tokens", 0)
+    completion_tokens = getattr(usage, "completion_tokens", 0)
+    price = MODEL_PRICES.get(model, (0.0, 0.0))
+    cost = (prompt_tokens / 1000 * price[0]) + (completion_tokens / 1000 * price[1])
+
+    return content, prompt_tokens, completion_tokens, cost
 
 
 def run_cmd(cmd: Iterable[str]) -> subprocess.CompletedProcess:

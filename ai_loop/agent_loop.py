@@ -43,10 +43,13 @@ def run() -> str:
     except Exception as exc:  # pragma: no cover - network failure
         print(f"[AgentLoop] Reviewer failed: {exc}")
         review = {"approved": True, "comments": "Reviewer error"}
+    print(f"[Reviewer] Approved: {review.get('approved')}\n[Reviewer] Comments: {review.get('comments')}")
     _log_step("review", str(review))
 
     print("[AgentLoop] Formatting PR")
     pr_message = pr_agent.format_pr(diff)
+    if review.get("comments"):
+        pr_message += "\n\n### Reviewer Summary\n" + review["comments"]
     _log_step("pr", pr_message)
 
     print("[AgentLoop] Pipeline complete")
