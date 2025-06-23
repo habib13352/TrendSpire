@@ -79,6 +79,10 @@ Upgrades:
 - Implement roles: Planner → Coder → Reviewer
 - Integrate feedback loops if patch breaks tests
 
+### ✅ Phase 3.1 – Reviewer Agent (Complete)
+- Added a lightweight Reviewer that checks the diff
+- Each agent step logs output in `ai_loop/codex_logs/`
+
 ---
 
 ### 📊 Phase 4 – Trend-Aware Reasoning
