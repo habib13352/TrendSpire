@@ -5,7 +5,8 @@ This document outlines the automation agents used in TrendSpire.
 - `src/`
   - Core scraper/render pipeline: `fetch_trending.py`, `render_digest.py`, `templates/trending.j2`, `config.json`
 - `ai_loop/`
-  - `autoloop.py` — placeholder entrypoint for upcoming AI workflow
+  - `autoloop.py` — Phase 1.5 entrypoint for the AI workflow
+  - `context_builder.py`, `suggestor.py`, `patcher.py`, `logger.py`, `improver.py` — modular components
   - `legacy/` — archived scripts (`trendspire_autoloop.py`, `trendspire_codex_mixed.py`)
   - `codex_autobot.py` — standalone file-by-file review tool
   - `api_logger.py` — logs token & cost usage
@@ -18,12 +19,12 @@ This document outlines the automation agents used in TrendSpire.
   `.github/workflows/update_digest.yml`
 
 ## Agent Responsibilities
-| Agent | Trigger | Purpose |
-|-------|---------|---------|
-| autoloop (daily) | schedule: daily | Apply small diffs and open PRs automatically |
-| autoloop (weekly) | schedule: weekly | Deep refactor & audit, store summaries |
-| mixed (per-file loop) | manual dispatch | Review each file, generate PR per file |
-| codex_autobot | manual dispatch | One-off cleanup or targeted improvements |
+| Agent | Trigger | Status | Purpose |
+|-------|---------|--------|---------|
+| autoloop | workflow_dispatch, schedule | ✅ Active | Main entrypoint, runs placeholder logic (Phase 1.5) |
+| codex_autobot | Manual dispatch | ✅ Active | One-off cleanup or file review |
+| trendspire_autoloop.py | Archived | 💤 Legacy | Old daily/weekly loop, moved to legacy/ |
+| trendspire_codex_mixed.py | Archived | 💤 Legacy | Old per-file loop, moved to legacy/ |
 
 ## How to Run
 ```bash
@@ -55,7 +56,7 @@ python ai_loop/codex_autobot.py
   - `ai_loop/prompts/weekly.refactor.j2`
 
 ## Next Steps
-- Keep this file updated as you add or modify agents
-- Version your prompt templates
-- Centralize shared helpers
-- Shared helpers, prompt templates, rollback logic, metrics and docs are now in place
+Phase 2 will connect `context_builder.py`, `suggestor.py`, and `patcher.py`.
+The AI agent will begin analyzing repo structure and propose changes based on
+GitIngest and trending data. Logs and memory will be saved to support
+iterative suggestions.
