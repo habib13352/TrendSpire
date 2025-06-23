@@ -96,6 +96,42 @@ Tasks:
 - Detect pattern changes across time
 - AI says: _“X is trending — adapt your repo to match”_
 
+✅ Phase 4 Kickoff Checklist — Trend-Aware Reasoning
+🎯 Goal
+Learn from trends/archive/*.json over time and use that knowledge to guide smarter planning.
+
+🔧 Development Tasks
+1. Parse & Summarize Archived Trends
+ In context_builder.load_context(), read all or recent .json files from trends/archive/
+
+ Generate a summary (e.g. frequency of languages, common repo names/tags)
+
+ Add this summary as context["trend_summary"]
+
+2. Use Trend Summary in Planning
+ In run_planner(), allow planner agents to use trend_summary for:
+
+Detecting repeated repos
+
+Spotting fast-growing projects
+
+Choosing which type of improvements to recommend
+
+ You can even add a trend_strategy_agent.py module if helpful
+
+3. Test It
+ Write unit tests that simulate archived trends
+
+ Test expected plan behaviors (e.g., it should avoid duplicate repos or favor newer rising stars)
+
+🧼 Optional Cleanup (Strongly Recommended)
+ ✅ Update AGENTS.md → Document what Phase 3 completed (context, memory, sanity check, etc.)
+
+ ✅ In agent_loop.run(), wrap main steps in a rollback_if_tests_fail() context manager — this ensures unsafe patches aren’t committed if tests break
+
+🚀 After That...
+Once the planner is trend-aware, you’ll be ready to implement Phase 5: autonomous goal shaping based on GitHub trend evolution – but let’s crush Phase 4 first.
+
 ---
 
 ### 🔁 Phase 5 – Real-Time Monitoring & Auto PRs
