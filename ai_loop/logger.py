@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 LOG_DIR = Path(__file__).resolve().parent / "codex_logs"
@@ -18,7 +18,7 @@ def log_result(
     cost: float,
 ) -> None:
     """Write a log entry containing prompt, response and cost data."""
-    timestamp = datetime.utcnow().strftime("%Y%m%d-%H%M%S")
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
     log_path = LOG_DIR / f"log_{timestamp}.txt"
     max_len = 2000
 

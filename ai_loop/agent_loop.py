@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timezone
 
 from . import context_builder
 from .context_builder import MEMORY_CONTEXT
@@ -13,7 +13,7 @@ from .logger import LOG_DIR
 
 def _log_step(name: str, content: str) -> None:
     """Save step output to a timestamped log file."""
-    timestamp = datetime.utcnow().strftime("%Y%m%d-%H%M%S")
+    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
     path = LOG_DIR / f"{name}_{timestamp}.txt"
     try:
         with open(path, "w", encoding="utf-8") as fh:

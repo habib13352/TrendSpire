@@ -50,7 +50,7 @@ pytest ai_loop/tests/test_agent_loop.py
 pytest ai_loop/tests/test_api_logger.py
 ```
 
-Add more tests as modules like `patcher.py` evolve. The full suite runs with:
+Add more tests as the modules evolve. The full suite runs with:
 
 ```bash
 pytest

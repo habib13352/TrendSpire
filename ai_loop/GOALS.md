@@ -4,7 +4,8 @@ This document tracks development milestones for TrendSpire's autonomous improvem
 
 ## ✅ Phase 1.5 – Cleanup & Scaffolding
 - Archived legacy automation scripts.
-- Created modular components: `context_builder.py`, `suggestor.py`, `patcher.py`, and `logger.py`.
+- Created modular components: `context_builder.py`, `suggestor.py`, and `logger.py`.
+- Archived deprecated helpers `patcher.py` and `improver.py`.
 - Established `autoloop.py` as the entry point for local runs and CI.
 
 ## 🚀 Phase 2 – Context‑Aware Agent Loop

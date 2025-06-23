@@ -1,6 +1,6 @@
 import os
 import subprocess
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Iterable, Optional
 
 import tiktoken
@@ -113,7 +113,7 @@ def write_summary(path: str, model: str, run_type: str, tokens: tuple[int, int],
     """Write markdown summary report."""
     prompt_tokens, completion_tokens = tokens
     with open(path, "w", encoding="utf-8") as f:
-        f.write(f"## {run_type.capitalize()} Codex Run {datetime.utcnow().isoformat()}\n\n")
+        f.write(f"## {run_type.capitalize()} Codex Run {datetime.now(timezone.utc).isoformat()}\n\n")
         f.write(f"Model: {model}\n\n")
         f.write(f"Prompt tokens: {prompt_tokens}\n")
         f.write(f"Completion tokens: {completion_tokens}\n")

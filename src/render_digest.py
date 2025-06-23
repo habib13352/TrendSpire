@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from jinja2 import Environment, FileSystemLoader
 
 from .fetch_trending import fetch_trending
@@ -32,7 +32,7 @@ def render_trending() -> str:
         limit=config.get("limit", 10),
     )
 
-    now = datetime.utcnow()
+    now = datetime.now(timezone.utc)
     timestamp_str = now.strftime("%Y-%m-%d %H:%M UTC")
     timestamp_file = now.strftime("%Y-%m-%d_%H-%M-%S")
 
