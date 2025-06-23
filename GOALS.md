@@ -33,15 +33,15 @@ Build a fully automated developer assistant that:
 **Goal:** Refactor `ai_loop/` to be lean and modular for AI integration
 
 Tasks:
-- [ ] Delete or archive unused scripts (`trendspire_autoloop.py`, etc.)
-- [ ] Simplify `improver.py` to keep only working patch/prompt logic
-- [ ] Create scaffolding modules:
+ - ✅ Delete or archive unused scripts (`trendspire_autoloop.py`, etc.)
+ - ✅ Simplify `improver.py` to keep only working patch/prompt logic
+ - ✅ Create scaffolding modules:
   - `context_builder.py`
   - `suggestor.py`
   - `patcher.py`
   - `logger.py`
-- [ ] Setup `autoloop.py` as single entrypoint: `python -m ai_loop.autoloop`
-- [ ] Confirm trending/archival system still runs cleanly
+ - ✅ Setup `autoloop.py` as single entrypoint: `python -m ai_loop.autoloop`
+ - ✅ Confirm trending/archival system still runs cleanly
 
 ---
 
