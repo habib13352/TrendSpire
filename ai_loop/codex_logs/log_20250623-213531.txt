@@ -1,0 +1,56 @@
+timestamp: 20250623-213531
+prompt_tokens: 2614
+completion_tokens: 108
+total_cost: 0.014690
+prompt:
+You are an autonomous developer assistant. Suggest one small improvement to the repository below. Respond only with a unified diff.
+
+
+# README
+<!-- TRENDING_START -->
+# 📈 GitHub Trending - Daily
+
+_Last updated: 2025-06-23 21:02 UTC_
+
+| Repository | ⭐ Stars | Language | Description |
+|------------|--------:|----------|-------------|
+
+| [microsoft/edit](https://github.com/microsoft/edit) | 9345 | Rust | We all edit. |
+
+| [voideditor/void](https://github.com/voideditor/void) | 24576 | TypeScript | No description provided. |
+
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 31996 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
+
+| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15649 | TypeScript | Suna - Open Source Generalist AI Agent |
+
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60084 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
+
+| [typst/typst](https://github.com/typst/typst) | 42797 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 842 | C | No description provided. |
+
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89253 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80465 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+
+| [localsend/localsend](https://github.com/localsend/localsend) | 63064 | Dart | An open-source cross-platform alternative to AirDrop |
+<!-- TRENDING_END -->
+
+# TrendSpire
+
+TrendSpire gathers trending repositorie
+...[truncated]
+response:
+```diff
+--- README
++++ README
+@@ -1,7 +1,7 @@
+ <!-- TRENDING_START -->
+ # 📈 GitHub Trending - Daily
+ 
+-_Last updated: 2025-06-23 21:02 UTC_
++_Last updated: 2025-06-23 21:02 UTC. Update source: [GitHub Trending](https://github.com/trending)_
+ 
+ | Repository | ⭐ Stars | Language | Description |
+ |------------|--------:|----------|-------------|
+```

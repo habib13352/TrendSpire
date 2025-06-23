@@ -8,7 +8,7 @@ venv/
 
 # Ignore generated AI artifacts
 # Ignore generated codex logs
-/ai_loop/codex_logs/*.txt
+#/ai_loop/codex_logs/*.txt
 #/trendspire_memory/
 #/logs/
 # Cost summaries can be regenerated

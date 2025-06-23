@@ -1,0 +1,13 @@
+```diff
+--- README
++++ README
+@@ -1,7 +1,7 @@
+ <!-- TRENDING_START -->
+ # 📈 GitHub Trending - Daily
+ 
+-_Last updated: 2025-06-23 21:02 UTC_
++_Last updated: 2025-06-23 21:02 UTC. Update source: [GitHub Trending](https://github.com/trending)_
+ 
+ | Repository | ⭐ Stars | Language | Description |
+ |------------|--------:|----------|-------------|
+```
