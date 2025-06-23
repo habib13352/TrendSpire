@@ -80,8 +80,12 @@ Upgrades:
 - Integrate feedback loops if patch breaks tests
 
 ### ✅ Phase 3.1 – Reviewer Agent (Complete)
-- Added a lightweight Reviewer that checks the diff
+- Added an LLM-powered Reviewer that critiques the diff
 - Each agent step logs output in `ai_loop/codex_logs/`
+- Reviewer comments appear in the PR body
+
+### 📝 Phase 3.2 – Sanity Checker Agent (TODO)
+- Validate diffs before PR creation and flag obvious issues
 
 ---
 
