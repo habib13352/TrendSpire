@@ -55,7 +55,7 @@ jobs:
           key: ${{ runner.os }}-memory-${{ github.run_id }}
           restore-keys: |
             ${{ runner.os }}-memory-
-      - name: Run Codex Bot (daily)
+      - name: Run AI Loop (daily)
         if: |
           (github.event_name == 'schedule' && github.event.schedule == '0 2 * * *') ||
           (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily')
@@ -63,8 +63,8 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python ai_loop/autoloop.py || exit 1
-      - name: Run Codex Bot (weekly)
+          python -m ai_loop.autoloop
+      - name: Run AI Loop (weekly)
         if: |
           (github.event_name == 'schedule' && github.event.schedule == '0 3 * * 0') ||
           (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'weekly')
@@ -72,7 +72,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python ai_loop/autoloop.py || exit 1
+          python -m ai_loop.autoloop
       - name: Upload Codex Logs
         if: always()
         uses: actions/upload-artifact@v4
@@ -139,7 +139,7 @@ jobs:
       - name: Run smoke tests
         id: smoke
         run: |
-          python ai_loop/autoloop.py
+          python -m ai_loop.autoloop
           auto_exit=$?
           python ai_loop/codex_autobot.py --help
           autobot_exit=$?
@@ -156,5 +156,5 @@ jobs:
             echo "timestamp,agent,exit_code" > ai_loop/metrics/ci_runs.csv
           fi
           ts=$(date --iso-8601=seconds)
-          echo "$ts,trendspire_autoloop,${{ steps.smoke.outputs.auto_exit }}" >> ai_loop/metrics/ci_runs.csv
+          echo "$ts,ai_loop_autoloop,${{ steps.smoke.outputs.auto_exit }}" >> ai_loop/metrics/ci_runs.csv
           echo "$ts,codex_autobot,${{ steps.smoke.outputs.autobot_exit }}" >> ai_loop/metrics/ci_runs.csv
