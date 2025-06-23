@@ -13,6 +13,7 @@ def run() -> str:
 
     print("[AgentLoop] Planning")
     plan = run_planner(context)
+    print(f"[AgentLoop] Planner returned {len(plan)} plan(s)")
 
     print("[AgentLoop] Coding")
     diff = run_coder(plan, context)
@@ -21,7 +22,7 @@ def run() -> str:
     pr_message = pr_agent.format_pr(diff)
 
     print("[AgentLoop] Pipeline complete")
-    print("✅ Phase 2.3 complete: PR message ready.")
+    print("✅ Phase 3.0 complete: PR message ready.")
     return pr_message
 
 

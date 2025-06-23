@@ -23,6 +23,12 @@ For targeted cleanups you can run the autobot:
 python ai_loop/codex_autobot.py
 ```
 
+## Phase 3 improvements
+
+The planner now returns multiple plan options and the coder performs
+basic sanity checks on generated diffs. Invalid or empty patches are
+rejected and replaced with a safe fallback.
+
 ## Testing modules
 
 Unit tests live under `ai_loop/tests/`. Execute a single module's tests with:

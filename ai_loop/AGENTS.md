@@ -72,5 +72,6 @@ python ai_loop/codex_autobot.py
 ## Next Steps
 Phase 2.3 added memory context and Phase 2.4 ensures graceful fallback if the
 memory file is missing or the OpenAI call fails. Phase 2.5 introduced basic unit
-tests for the agent loop and context builder.
+tests for the agent loop and context builder. Phase 3 expands the agents with
+sanity checks and multiple planning options.
 Phase 2 is now complete.
