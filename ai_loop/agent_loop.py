@@ -8,6 +8,8 @@ def run() -> str:
     """Execute context loading, patch suggestion and PR formatting."""
     print("[AgentLoop] Loading context")
     context = context_builder.load_context()
+    if not context.get("memory"):
+        print("[AgentLoop] ⚠️ memory context missing")
 
     print("[AgentLoop] Planning")
     plan = run_planner(context)

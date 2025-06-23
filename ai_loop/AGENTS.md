@@ -33,6 +33,13 @@ This document outlines the automation agents used in TrendSpire.
 | `trendspire_autoloop.py` | archived | 💤 Legacy | Old daily/weekly loop |
 | `trendspire_codex_mixed.py` | archived | 💤 Legacy | Old per-file loop |
 
+## Memory Usage
+All agents receive a shared **context** dictionary from `context_builder.load_context()`.
+This includes a short memory log from `trendspire_memory/memory.txt` when present.
+- **Planner** reads the goals and memory excerpt to craft a high level plan.
+- **Coder** uses the same context to generate a patch diff.
+- **PR Agent** embeds the diff and may reference recent memory in the PR body.
+
 ## How to Run
 ```bash
 # Core:

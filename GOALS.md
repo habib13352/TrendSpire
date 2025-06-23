@@ -45,8 +45,8 @@ Tasks:
 
 ---
 
-### 🚀 Phase 2 – AI Suggestion Loop (MVP)
-**Goal:** AI reads your repo + recent trends and suggests useful patches
+### ✅ Phase 2 – AI Suggestion Loop (Complete)
+**Goal:** AI reads your repo + recent trends and suggests useful patches**
 
 Modules:
 - `context_builder.py` → Loads README, key files, trend snapshot
@@ -62,6 +62,11 @@ Features:
 ### ✅ Phase 2.1 – Agent Pipeline Scaffolding (Complete)
 - Added Planner, Coder, and PR Agent modules
 - Wired pipeline via `agent_loop.py`
+
+### ✅ Phase 2.2 – Memory & Logging (Complete)
+- Context builder reads README, goals and latest trends
+- Pipeline passes a short memory excerpt between agents
+- Logs and memory artifacts uploaded via CI
 
 
 ---

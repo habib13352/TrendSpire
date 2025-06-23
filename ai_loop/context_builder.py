@@ -62,14 +62,27 @@ def load_context() -> dict:
     trend_json_summary = _latest_trend_summary()
     memory_excerpt = _memory_excerpt()
 
-    return {
+    context = {
         "readme": readme,
         "src_summary": src_summary,
         "trending_md": trending_md,
         "trend_json_summary": trend_json_summary,
         "goals": goals,
         "memory": memory_excerpt,
+
     }
+
+    missing = [
+        key
+        for key in ("goals", "trend_json_summary", "src_summary")
+        if not context.get(key)
+    ]
+    if missing:
+        print(f"[ContextBuilder] Warning: missing {', '.join(missing)}")
+    else:
+        print("[ContextBuilder] Context includes goals, trend snapshot and repo summary")
+
+    return context
 
 
 # Backwards compatibility
