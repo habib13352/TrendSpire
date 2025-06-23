@@ -80,7 +80,7 @@ The workflow [`update_digest.yml`](.github/workflows/update_digest.yml) runs eve
 
 ### Codex Automation
 
-Another workflow [`ai_loop.yml`](.github/workflows/ai_loop.yml) drives the Codex automation using [`ai_loop/trendspire_autoloop.py`](ai_loop/trendspire_autoloop.py). It supports two modes:
+Another workflow [`ai_loop.yml`](.github/workflows/ai_loop.yml) drives the Codex automation using [`ai_loop/autoloop.py`](ai_loop/autoloop.py). It supports two modes:
 
 - **Daily** – diff-based improvements using `gpt-3.5-turbo`.
 - **Weekly** – a full repository review with `gpt-4o`.
@@ -90,7 +90,7 @@ Each run applies the returned diff, executes the test suite and, when successful
 To run the Codex automation locally you can execute:
 
 ```bash
-python ai_loop/trendspire_autoloop.py --mode daily   # or weekly
+python -m ai_loop.autoloop
 ```
 
 ### API usage reports

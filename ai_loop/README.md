@@ -4,18 +4,13 @@ TrendSpire's **AI-loop** automates code improvements using OpenAI models. It run
 
 ## Running the loops
 
-Daily and weekly modes are handled by `trendspire_autoloop.py`:
+Daily and weekly modes are now handled by `autoloop.py`:
 
 ```bash
-python ai_loop/trendspire_autoloop.py --mode daily
-python ai_loop/trendspire_autoloop.py --mode weekly
+python -m ai_loop.autoloop
 ```
 
-For per-file analysis use `trendspire_codex_mixed.py`:
-
-```bash
-python ai_loop/trendspire_codex_mixed.py --mode mixed
-```
+Older scripts have been moved under `ai_loop/legacy/` for reference.
 
 The `codex_autobot.py` script performs targeted cleanups:
 

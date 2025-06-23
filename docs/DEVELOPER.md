@@ -32,6 +32,6 @@ This will refresh `TRENDING.md` and inject the table into the README between the
 ## Codex automation
 The automated self-improvement tools live in `ai_loop/`. Run the loop manually with:
 ```bash
-python ai_loop/trendspire_autoloop.py --mode daily   # or weekly
+python -m ai_loop.autoloop
 ```
 The workflow `.github/workflows/ai_loop.yml` schedules runs on GitHub.
