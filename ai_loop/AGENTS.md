@@ -5,8 +5,8 @@ This document outlines the automation agents used in TrendSpire.
 - `src/`
   - Core scraper/render pipeline: `fetch_trending.py`, `render_digest.py`, `templates/trending.j2`, `config.json`
 - `ai_loop/`
-  - `trendspire_autoloop.py` — daily/weekly patch-based loop
-  - `trendspire_codex_mixed.py` — per-file improvement loop
+  - `autoloop.py` — placeholder entrypoint for upcoming AI workflow
+  - `legacy/` — archived scripts (`trendspire_autoloop.py`, `trendspire_codex_mixed.py`)
   - `codex_autobot.py` — standalone file-by-file review tool
   - `api_logger.py` — logs token & cost usage
   - `scripts/` — helper scripts (setup, summarization)
@@ -32,9 +32,7 @@ python -m src.fetch_trending
 python -m src.render_digest
 
 # AI Loop:
-python ai_loop/trendspire_autoloop.py --mode daily
-python ai_loop/trendspire_autoloop.py --mode weekly
-python ai_loop/trendspire_codex_mixed.py --mode mixed
+python -m ai_loop.autoloop
 python ai_loop/codex_autobot.py
 ```
 
