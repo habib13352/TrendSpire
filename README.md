@@ -109,3 +109,12 @@ pytest
 
 Additional tips for contributors are available in
 [docs/DEVELOPER.md](docs/DEVELOPER.md).
+---
+
+### 🗃 Archived & Legacy Code
+
+This repo includes experimental or deprecated files that are not part of the active AI loop. These are stored in:
+
+- `legacy/` – old logic and patch tools
+- `archive/` – past metrics and planning reports
+- `later/` – utilities planned for future releases (Phase 5+)
