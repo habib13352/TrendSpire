@@ -1,0 +1,57 @@
+timestamp: 20250623-204700
+prompt_tokens: 2619
+completion_tokens: 201
+total_cost: 0.016110
+prompt:
+You are an autonomous developer assistant. Suggest one small improvement to the repository below. Respond only with a unified diff.
+
+
+# README
+<!-- TRENDING_START -->
+# 📈 GitHub Trending - Daily
+
+_Last updated: 2025-06-23 17:46 UTC_
+
+| Repository | ⭐ Stars | Language | Description |
+|------------|--------:|----------|-------------|
+
+| [microsoft/edit](https://github.com/microsoft/edit) | 9298 | Rust | We all edit. |
+
+| [voideditor/void](https://github.com/voideditor/void) | 24521 | TypeScript | No description provided. |
+
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 31953 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
+
+| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15603 | TypeScript | Suna - Open Source Generalist AI Agent |
+
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60013 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
+
+| [typst/typst](https://github.com/typst/typst) | 42770 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 809 | C | No description provided. |
+
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89218 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80437 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+
+| [localsend/localsend](https://github.com/localsend/localsend) | 63019 | Dart | An open-source cross-platform alternative to AirDrop |
+<!-- TRENDING_END -->
+
+# TrendSpire
+
+TrendSpire gathers trending repositorie
+...[truncated]
+response:
+```diff
+--- README
++++ README
+@@ -51,7 +51,7 @@
+ ### Codex Automation
+ 
+ Another workflow [`ai_loop.yml`](.github/workflows/ai_loop.yml) drives the Codex automation using [`ai_loop/autoloop.py`](ai_loop/autoloop.py). It supports two modes:
+ 
+-- **Daily** – diff-based improvements using `gpt-3.5-turbo`.
++- **Daily** – diff-based improvements using `gpt-3.5-turbo` and `gpt-4`.
+ - **Weekly** – a full repository review with `gpt-4o`.
+ 
+ Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts. The workflow also caches the `trendspire_memory/` directory so the AI can refine its suggestions over time.
+```

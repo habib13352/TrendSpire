@@ -1,0 +1,32 @@
+### Proposed Changes
+
+```diff
+```diff
+--- README
++++ README
+@@ -51,7 +51,7 @@
+ ### Codex Automation
+ 
+ Another workflow [`ai_loop.yml`](.github/workflows/ai_loop.yml) drives the Codex automation using [`ai_loop/autoloop.py`](ai_loop/autoloop.py). It supports two modes:
+ 
+-- **Daily** – diff-based improvements using `gpt-3.5-turbo`.
++- **Daily** – diff-based improvements using `gpt-3.5-turbo` and `gpt-4`.
+ - **Weekly** – a full repository review with `gpt-4o`.
+ 
+ Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts. The workflow also caches the `trendspire_memory/` directory so the AI can refine its suggestions over time.
+```
+```
+
+
+### Reviewer Summary
+1. ✅ Do you approve this diff? Why or why not?
+   Yes, I approve this diff. The change in the README gives more detailed information about the specific versions of AI models used, which enhances transparency and clarity for users of the repository.
+
+2. 📝 What suggestions would you make to improve it?
+   It might be helpful to add a brief explanation of why both `gpt-3.5-turbo` and `gpt-4` are being used for the daily improvements. This can guide users on the conditions or advantages of using each model.
+
+3. 🧠 Any potential issues or red flags?
+   There are no apparent issues or red flags with this specific diff. However, ensure that the configuration and budget for both `gpt-3.5-turbo` and `gpt-4` usage are managed effectively since cost and availability may vary.
+
+4. 📄 Summary (1–2 lines) to include in the PR review message.
+   The update provides clarity by specifying AI models used in daily workflows. Consider adding model usage guidelines to further enhance user understanding.

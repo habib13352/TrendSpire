@@ -1,0 +1,14 @@
+```diff
+--- README
++++ README
+@@ -51,7 +51,7 @@
+ ### Codex Automation
+ 
+ Another workflow [`ai_loop.yml`](.github/workflows/ai_loop.yml) drives the Codex automation using [`ai_loop/autoloop.py`](ai_loop/autoloop.py). It supports two modes:
+ 
+-- **Daily** – diff-based improvements using `gpt-3.5-turbo`.
++- **Daily** – diff-based improvements using `gpt-3.5-turbo` and `gpt-4`.
+ - **Weekly** – a full repository review with `gpt-4o`.
+ 
+ Each run applies the returned diff, executes the test suite and, when successful, creates a branch and pull request. Summaries, cost logs and the raw diff are saved under `codex_logs/` and uploaded as workflow artifacts. The workflow also caches the `trendspire_memory/` directory so the AI can refine its suggestions over time.
+```
