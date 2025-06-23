@@ -1,0 +1,16 @@
+```diff
+--- README
++++ README
+@@ -83,6 +83,11 @@
+ - Validate diffs before PR creation and flag obvious issues
+ 
+ ---
++
++## Contributing
++
++We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
++
+ ### 📊 Phase 4 – Trend-Aware Reasoning
+ **Goal:** Let AI learn from past trend archives to guide decisions
+ 
+```
