@@ -1,4 +1,4 @@
-name: Codex Automation
+name: AI LOOP
 
 on:
   workflow_dispatch:
