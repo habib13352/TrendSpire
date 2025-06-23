@@ -1,11 +1,12 @@
-"""Entry point for TrendSpire's AI loop.
+"""Entry point for TrendSpire's AI loop."""
 
-This module will orchestrate the code improvement workflow in future phases.
-"""
+from .agent_loop import run as run_agent_loop
 
 
 def main() -> None:
-    print("🚧 AI loop placeholder. Modules will be connected in Phase 2.")
+    """Execute the minimal agent pipeline."""
+    pr_message = run_agent_loop()
+    print(pr_message)
 
 
 if __name__ == "__main__":
