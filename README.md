@@ -1,12 +1,12 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-23 22:51 UTC_
+_Last updated: 2025-06-23 22:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9380 | Rust | We all edit. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 9381 | Rust | We all edit. |
 
 | [voideditor/void](https://github.com/voideditor/void) | 24603 | TypeScript | No description provided. |
 
@@ -14,7 +14,7 @@ _Last updated: 2025-06-23 22:51 UTC_
 
 | [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15660 | TypeScript | Suna - Open Source Generalist AI Agent |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60119 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60121 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
 
 | [typst/typst](https://github.com/typst/typst) | 42806 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
@@ -24,7 +24,7 @@ _Last updated: 2025-06-23 22:51 UTC_
 
 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80477 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 
-| [localsend/localsend](https://github.com/localsend/localsend) | 63094 | Dart | An open-source cross-platform alternative to AirDrop |
+| [localsend/localsend](https://github.com/localsend/localsend) | 63095 | Dart | An open-source cross-platform alternative to AirDrop |
 <!-- TRENDING_END -->
 
 # TrendSpire
