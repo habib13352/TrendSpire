@@ -8,7 +8,9 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 MEMORY_FILE = REPO_ROOT / "ai_loop" / "trendspire_memory" / "memory.txt"
-MEMORY_JSON = REPO_ROOT / "ai_loop" / "codex_memory" / "memory.json"
+# File used by `agent_loop` to persist a short context snapshot. It is stored
+# as Markdown for readability but still contains JSON data.
+MEMORY_CONTEXT = REPO_ROOT / "ai_loop" / "codex_memory" / "memory_context.md"
 
 
 def _read_text(path: Path) -> str:
@@ -56,7 +58,7 @@ def _memory_excerpt(lines: int = 20) -> str:
 
 def save_memory(context: dict) -> None:
     """Persist a subset of the context for the agent loop."""
-    MEMORY_JSON.parent.mkdir(exist_ok=True)
+    MEMORY_CONTEXT.parent.mkdir(exist_ok=True)
     data = {
         "goals": context.get("goals", ""),
         "repo_summary": context.get("src_summary", ""),
@@ -64,8 +66,8 @@ def save_memory(context: dict) -> None:
         "agents": ["planner", "coder", "reviewer", "pr_agent"],
     }
     try:
-        MEMORY_JSON.write_text(json.dumps(data, indent=2), encoding="utf-8")
-        print(f"[ContextBuilder] Wrote memory to {MEMORY_JSON}")
+        MEMORY_CONTEXT.write_text(json.dumps(data, indent=2), encoding="utf-8")
+        print(f"[ContextBuilder] Wrote memory to {MEMORY_CONTEXT}")
     except Exception as exc:  # pragma: no cover - write failure
         print(f"[ContextBuilder] Failed to write memory: {exc}")
 

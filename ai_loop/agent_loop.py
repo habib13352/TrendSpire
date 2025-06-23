@@ -5,7 +5,7 @@ from __future__ import annotations
 from datetime import datetime
 
 from . import context_builder
-from .context_builder import MEMORY_JSON
+from .context_builder import MEMORY_CONTEXT
 import json
 from .agents import run_planner, run_coder, pr_agent, review_patch
 from .logger import LOG_DIR
@@ -23,14 +23,17 @@ def _log_step(name: str, content: str) -> None:
 
 
 def _load_saved_memory() -> dict:
-    try:
-        data = json.loads(MEMORY_JSON.read_text(encoding="utf-8"))
-    except FileNotFoundError:
+    """Return structured memory context if available."""
+    if not MEMORY_CONTEXT.exists():
         return {}
+
+    try:
+        data = json.loads(MEMORY_CONTEXT.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
         print(f"[AgentLoop] ⚠️ memory context malformed")
         return {}
-    print(f"[AgentLoop] Loaded memory successfully")
+
+    print(f"[AgentLoop] Loaded memory from {MEMORY_CONTEXT}")
     return data
 
 
@@ -42,7 +45,7 @@ def run() -> str:
     if memory_json:
         context["memory_json"] = memory_json
     else:
-        print("[AgentLoop] ⚠️ memory context missing")
+        print(f"[AgentLoop] ⚠️ memory context missing ({MEMORY_CONTEXT} not found)")
     _log_step("context", str(context))
 
     print("[AgentLoop] Planning")
