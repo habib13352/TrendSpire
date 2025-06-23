@@ -1,0 +1,84 @@
+You are an AI agent helping clean up a GitHub repository called **TrendSpire**.
+
+### OBJECTIVE
+Reorganize the codebase by moving unused or non-critical files to appropriate folders. This is a **non-destructive cleanup** before entering Phase 4 of development.
+
+The goal is to:
+- Improve clarity of the working AI loop (`fetch → digest → patch → PR`)
+- Avoid deleting any file
+- Maintain full historical records for future use (Phase 5 and beyond)
+
+### PHASE 4 SCOPE
+Only these areas are actively used right now and **must stay untouched**:
+
+- ROOT:
+  - README.md
+  - GOALS.md
+  - requirements.txt
+  - TRENDING.md
+  - .env.example
+
+- src/: fetch_trending.py, render_digest.py, config.json, templates/
+
+- ai_loop/:
+  - agent_loop.py, autoloop.py, codex_autobot.py, context_builder.py
+  - sanity_checker.py, suggestor.py, utils_common.py, api_logger.py, logger.py
+  - codex_logs/, codex_memory/, prompts/, trendspire_memory/
+  - agents/: coder.py, planner.py, pr_agent.py, reviewer.py
+
+- tests/: test_fetch_trending.py, test_trending.py
+
+- .github/workflows/: ai_loop.yml, update_digest.yml
+
+- trends/archive/: trending archive files
+
+### REORGANIZE THE FOLLOWING
+
+#### 1. `legacy/` – old, replaced tools or deprecated scripts
+Move any of the following:
+- legacy/*.py (early tools like improver.py, patcher.py)
+- ai_loop/legacy/*
+
+#### 2. `archive/` – completed reports, cost logs, old metrics
+Move:
+- ai_loop/PHASE_2_REPORT.md
+- ai_loop/codex_costs.csv
+- ai_loop/metrics/
+- ai_loop/scripts/summarize_usage.py
+
+#### 3. `later/` – utilities not required until Phase 5
+Move:
+- ai_loop/scripts/setup_wizard.py
+- ai_loop/AGENTS.md
+- ai_loop/tests/test_agent_loop.py
+- ai_loop/tests/test_context_builder.py
+- ai_loop/tests/test_codex_autobot.py
+- ai_loop/tests/test_logging.py
+- ai_loop/tests/test_planner_coder.py
+- ai_loop/tests/test_sanity_checker.py
+- ai_loop/tests/test_summarize_usage.py
+
+### CONSTRAINTS
+- **Do not delete** any files
+- Only use `mv` operations or generate a `git diff` for review
+- Leave all “active” logic and dependencies in place
+- Update `README.md` to explain the purpose of each cleanup folder:
+  - `legacy/`, `archive/`, and `later/`
+
+### FINAL OUTPUT
+Return a **bash script** or **Git diff** that:
+- Moves each file as specified
+- Optionally adds `.gitkeep` to empty folders to preserve structure
+- Adds the following to the bottom of `README.md`:
+
+```markdown
+---
+
+### 🗃 Archived & Legacy Code
+
+This repo includes experimental or deprecated files that are not part of the active AI loop. These are stored in:
+
+- `legacy/` – old logic and patch tools
+- `archive/` – past metrics and planning reports
+- `later/` – utilities planned for future releases (Phase 5+)
+```
