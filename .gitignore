@@ -6,7 +6,9 @@ venv/
 .env
 /.env
 
-#/codex_logs/
-#/trendspire_memory/
-#/logs/
-#*.csv
+# Ignore generated AI artifacts
+/codex_logs/
+/trendspire_memory/
+/logs/
+# Cost summaries can be regenerated
+*.csv

@@ -32,6 +32,23 @@ If the file is missing the agents continue without it. Basic tests verify this
 context is passed through the planner and coder.
 Future phases will provide more robust workflows.
 
+## Pipeline Overview
+1. **Context Builder** (`context_builder.py`) gathers README highlights, goal text, a summary of the `src/` folder and the latest trending repos. The data is saved to `trendspire_memory/memory.txt` for reuse.
+2. **Agent Loop** (`agent_loop.py`) feeds this context through the Planner → Coder → PR Agent chain.
+3. **Logging**: every OpenAI call writes a log file under `codex_logs/` and updates `codex_costs.csv`. GitHub Actions uploads these as artifacts after each run.
+
+### Example Log
+```
+timestamp: 20240601-120000
+prompt_tokens: 123
+completion_tokens: 45
+total_cost: 0.0012
+```
+
+### Memory Snapshot Format
+The memory file is plain text. New entries are appended so the last lines represent the most recent events.
+
+
 ## Prompt templates
 
 Templates for the agents live under `ai_loop/prompts/`:
