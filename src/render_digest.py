@@ -23,7 +23,8 @@ def load_config() -> dict:
 
 
 def render_trending() -> str:
-    """Render the trending digest markdown and write ``TRENDING.md``."""
+    """Render the trending digest markdown and write ``TRENDING.md`` and a JSON archive."""
+
     config = load_config()
     repos = fetch_trending(
         language=config.get("language", ""),
@@ -31,29 +32,49 @@ def render_trending() -> str:
         limit=config.get("limit", 10),
     )
 
-    env = Environment(loader=FileSystemLoader(os.path.join(os.path.dirname(__file__), "templates")))
+    now = datetime.utcnow()
+    timestamp_str = now.strftime("%Y-%m-%d %H:%M UTC")
+    timestamp_file = now.strftime("%Y-%m-%d_%H-%M-%S")
+
+    env = Environment(
+        loader=FileSystemLoader(os.path.join(os.path.dirname(__file__), "templates"))
+    )
     template = env.get_template("trending.j2")
     markdown = template.render(
         repos=repos,
         since=config.get("since", "daily"),
-        timestamp=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
+        timestamp=timestamp_str,
     )
 
     repo_root = os.path.dirname(os.path.dirname(__file__))
     output_path = os.path.join(repo_root, "TRENDING.md")
-
-    # Archive the previous digest before overwriting
     archive_dir = os.path.join(repo_root, "trends", "archive")
     os.makedirs(archive_dir, exist_ok=True)
-    if os.path.isfile(output_path):
-        timestamp = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
-        archive_name = f"trending_{timestamp}.md"
-        archive_path = os.path.join(archive_dir, archive_name)
-        with open(output_path, "r", encoding="utf-8") as src, open(archive_path, "w", encoding="utf-8") as dst:
-            dst.write(src.read())
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(markdown)
+
+    archive_md = os.path.join(archive_dir, f"trending_{timestamp_file}.md")
+    with open(archive_md, "w", encoding="utf-8") as f:
+        f.write(markdown)
+
+    archive_json = os.path.join(archive_dir, f"trending_{timestamp_file}.json")
+    json_data = {
+        "timestamp": timestamp_str,
+        "repos": [
+            {
+                "rank": idx + 1,
+                "name": repo["full_name"],
+                "url": repo["url"],
+                "description": repo["description"],
+                "language": repo["language"],
+                "stars": repo["stars"],
+            }
+            for idx, repo in enumerate(repos)
+        ],
+    }
+    with open(archive_json, "w", encoding="utf-8") as f:
+        json.dump(json_data, f, indent=2)
 
     return markdown
 
