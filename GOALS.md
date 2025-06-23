@@ -59,6 +59,11 @@ Features:
 - Logs each AI action and cost
 - Stores patches in versioned branches
 
+### ✅ Phase 2.1 – Agent Pipeline Scaffolding (Complete)
+- Added Planner, Coder, and PR Agent modules
+- Wired pipeline via `agent_loop.py`
+
+
 ---
 
 ### 🧠 Phase 3 – Agentic Workflow
