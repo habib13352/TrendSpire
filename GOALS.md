@@ -93,30 +93,30 @@ Goal: You’re preparing to launch a self-improving, AI-enhanced GitHub trending
 
 🔁 AI Improvement Loop (Core Logic)
 run_loop.py Must Do:
-- [ ] Load repo context (goals, README, latest TRENDING.md)
-- [ ] Call improver.py → get improvement idea
-- [ ] Send idea + file(s) to Codex via codex_suggestor.py
-- [ ] Generate a diff/patch of the improvement
-- [ ] Apply patch locally (patch_applier.py)
-- [ ] Create new Git branch ai-patch-YYYYMMDD-HHMM
-- [ ] Commit patch with auto summary title
-- [ ] Push to GitHub & open PR (via gh or API)
+- [x] Load repo context (goals, README, latest TRENDING.md)
+- [x] Call improver.py → get improvement idea
+- [x] Send idea + file(s) to Codex via codex_suggestor.py
+- [x] Generate a diff/patch of the improvement
+- [x] Apply patch locally (patch_applier.py)
+- [x] Create new Git branch ai-patch-YYYYMMDD-HHMM
+- [x] Commit patch with auto summary title
+- [x] Push to GitHub & open PR (via gh or API)
 
 🤖 Codex Prompt System (in codex_suggestor.py)
  Prompt includes:
-- [ ] Clear goal
-- [ ] Relevant file content
-- [ ] Current output (like TRENDING.md)
+- [x] Clear goal
+- [x] Relevant file content
+- [x] Current output (like TRENDING.md)
 - [ ] Past improvement attempts (if available)
-- [ ] Output is valid unified diff (---, +++, @@)
-- [ ] Log prompt, response, and token usage into memory/ai_logs/
+- [x] Output is valid unified diff (---, +++, @@)
+- [x] Log prompt, response, and token usage into memory/ai_logs/
 
 📤 GitHub PR Automation
-- [ ] Use GitHub CLI (gh) or PyGitHub to:
+- [x] Use GitHub CLI (gh) or PyGitHub to:
   - Open a Pull Request from new branch
   - Title: "🤖 AI Patch: {idea}"
   - Body: Include idea + file(s) changed + Codex summary
-- [ ] Log PR links in memory/patch_history.json
+- [x] Log PR links in memory/patch_history.json
 
 📆 GitHub Actions Setup
 - [ ] `ai_loop.yml`
@@ -129,10 +129,10 @@ run_loop.py Must Do:
   - Links to created PR
 
 🧠 Memory & Logging (new folder: memory/)
-- [ ] `ai_logs/YYYY-MM-DD-log.md`: all Codex calls + tokens + diff
-- [ ] `patch_history.json`: list of all patches + PRs opened
+- [x] `ai_logs/YYYY-MM-DD-log.md`: all Codex calls + tokens + diff
+- [x] `patch_history.json`: list of all patches + PRs opened
 - [ ] `digests/YYYY-MM-DD.md`: archive of previous `TRENDING.md` files
-- [ ] `cost_tracker.csv`: date, prompt, tokens, cost USD
+- [x] `cost_tracker.csv`: date, prompt, tokens, cost USD
 
 📦 Codebase Structure Cleanup
 - [ ] Move raw Markdown archives to `trends/YYYY-MM-DD.md`
@@ -140,7 +140,7 @@ run_loop.py Must Do:
 - [ ] Create `__init__.py` files for all folders (for future packaging)
 
 📊 Monitoring + Cost Control
-- [ ] Log total tokens per run (prompt + completion)
+- [x] Log total tokens per run (prompt + completion)
 - [ ] Track how many Codex calls are being made
 - [ ] Alert/comment if patch cost > $0.25
 - [ ] Optional: display token cost in PR body
