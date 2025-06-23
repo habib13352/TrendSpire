@@ -1,7 +1,7 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-23 17:13 UTC_
+_Last updated: 2025-06-23 17:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
@@ -24,7 +24,7 @@ _Last updated: 2025-06-23 17:13 UTC_
 
 | [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80434 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 
-| [localsend/localsend](https://github.com/localsend/localsend) | 63015 | Dart | An open-source cross-platform alternative to AirDrop |
+| [localsend/localsend](https://github.com/localsend/localsend) | 63016 | Dart | An open-source cross-platform alternative to AirDrop |
 <!-- TRENDING_END -->
 
 # TrendSpire
