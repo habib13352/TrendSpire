@@ -5,7 +5,7 @@ _Last updated: 2025-06-23 16:44 UTC_
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9278 | Rust | We all edit. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 9279 | Rust | We all edit. |
 
 | [voideditor/void](https://github.com/voideditor/void) | 24509 | TypeScript | No description provided. |
 
@@ -15,7 +15,7 @@ _Last updated: 2025-06-23 16:44 UTC_
 
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 59994 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [typst/typst](https://github.com/typst/typst) | 42759 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [typst/typst](https://github.com/typst/typst) | 42760 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
 | [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 793 | C | No description provided. |
 
