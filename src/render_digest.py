@@ -39,7 +39,19 @@ def render_trending() -> str:
         timestamp=datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
     )
 
-    output_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "TRENDING.md")
+    repo_root = os.path.dirname(os.path.dirname(__file__))
+    output_path = os.path.join(repo_root, "TRENDING.md")
+
+    # Archive the previous digest before overwriting
+    archive_dir = os.path.join(repo_root, "trends", "archive")
+    os.makedirs(archive_dir, exist_ok=True)
+    if os.path.isfile(output_path):
+        timestamp = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
+        archive_name = f"trending_{timestamp}.md"
+        archive_path = os.path.join(archive_dir, archive_name)
+        with open(output_path, "r", encoding="utf-8") as src, open(archive_path, "w", encoding="utf-8") as dst:
+            dst.write(src.read())
+
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(markdown)
 
