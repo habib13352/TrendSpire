@@ -33,15 +33,15 @@ Build a fully automated developer assistant that:
 **Goal:** Refactor `ai_loop/` to be lean and modular for AI integration
 
 Tasks:
- - ✅ Delete or archive unused scripts (`trendspire_autoloop.py`, etc.)
- - ✅ Simplify `improver.py` to keep only working patch/prompt logic
- - ✅ Create scaffolding modules:
+- [x] Delete or archive unused scripts (`trendspire_autoloop.py`, etc.)
+- [x] Simplify `improver.py` to keep only working patch/prompt logic
+- [x] Create scaffolding modules:
   - `context_builder.py`
   - `suggestor.py`
- - `logger.py`
- - Archived unused helpers `patcher.py` and `improver.py`
- - ✅ Setup `autoloop.py` as single entrypoint: `python -m ai_loop.autoloop`
- - ✅ Confirm trending/archival system still runs cleanly
+- [ ] `logger.py`
+- [ ] Archived unused helpers `patcher.py` and `improver.py`
+- [x] Setup `autoloop.py` as single entrypoint: `python -m ai_loop.autoloop`
+- [x] Confirm trending/archival system still runs cleanly
 
 ---
 
@@ -93,136 +93,80 @@ Goal: You’re preparing to launch a self-improving, AI-enhanced GitHub trending
 
 🔁 AI Improvement Loop (Core Logic)
 run_loop.py Must Do:
- Load repo context (goals, README, latest TRENDING.md)
-
- Call improver.py → get improvement idea
-
- Send idea + file(s) to Codex via codex_suggestor.py
-
- Generate a diff/patch of the improvement
-
- Apply patch locally (patch_applier.py)
-
- Create new Git branch ai-patch-YYYYMMDD-HHMM
-
- Commit patch with auto summary title
-
- Push to GitHub & open PR (via gh or API)
+- [ ] Load repo context (goals, README, latest TRENDING.md)
+- [ ] Call improver.py → get improvement idea
+- [ ] Send idea + file(s) to Codex via codex_suggestor.py
+- [ ] Generate a diff/patch of the improvement
+- [ ] Apply patch locally (patch_applier.py)
+- [ ] Create new Git branch ai-patch-YYYYMMDD-HHMM
+- [ ] Commit patch with auto summary title
+- [ ] Push to GitHub & open PR (via gh or API)
 
 🤖 Codex Prompt System (in codex_suggestor.py)
  Prompt includes:
-
-Clear goal
-
-Relevant file content
-
-Current output (like TRENDING.md)
-
-Past improvement attempts (if available)
-
- Output is valid unified diff (---, +++, @@)
-
- Log prompt, response, and token usage into memory/ai_logs/
+- [ ] Clear goal
+- [ ] Relevant file content
+- [ ] Current output (like TRENDING.md)
+- [ ] Past improvement attempts (if available)
+- [ ] Output is valid unified diff (---, +++, @@)
+- [ ] Log prompt, response, and token usage into memory/ai_logs/
 
 📤 GitHub PR Automation
- Use GitHub CLI (gh) or PyGitHub to:
-
-Open a Pull Request from new branch
-
-Title: "🤖 AI Patch: {idea}"
-
-Body: Include idea + file(s) changed + Codex summary
-
- Log PR links in memory/patch_history.json
+- [ ] Use GitHub CLI (gh) or PyGitHub to:
+  - Open a Pull Request from new branch
+  - Title: "🤖 AI Patch: {idea}"
+  - Body: Include idea + file(s) changed + Codex summary
+- [ ] Log PR links in memory/patch_history.json
 
 📆 GitHub Actions Setup
-ai_loop.yml
- Scheduled trigger (e.g., every 24h)
-
- Manual trigger (workflow_dispatch)
-
- Full install & run of run_loop.py with secrets
-
- Action outputs:
-
-Logs of what changed
-
-AI cost estimate
-
-Links to created PR
+- [ ] `ai_loop.yml`
+- [ ] Scheduled trigger (e.g., every 24h)
+- [ ] Manual trigger (`workflow_dispatch`)
+- [ ] Full install & run of `run_loop.py` with secrets
+- [ ] Action outputs:
+  - Logs of what changed
+  - AI cost estimate
+  - Links to created PR
 
 🧠 Memory & Logging (new folder: memory/)
- ai_logs/YYYY-MM-DD-log.md: all Codex calls + tokens + diff
-
- patch_history.json: list of all patches + PRs opened
-
- digests/YYYY-MM-DD.md: archive of previous TRENDING.md files
-
- cost_tracker.csv: date, prompt, tokens, cost USD
+- [ ] `ai_logs/YYYY-MM-DD-log.md`: all Codex calls + tokens + diff
+- [ ] `patch_history.json`: list of all patches + PRs opened
+- [ ] `digests/YYYY-MM-DD.md`: archive of previous `TRENDING.md` files
+- [ ] `cost_tracker.csv`: date, prompt, tokens, cost USD
 
 📦 Codebase Structure Cleanup
-bash
-Copy
-Edit
-TrendSpire/
-├── ai_loop/             # Codex logic, patch builder, improver
-├── scripts/             # Trending scraper and digest renderer
-├── src/                 # Future: modularized components
-├── memory/              # Logs, token tracking, patch history
-├── tests/               # Basic test coverage
-├── trends/              # Archived digests
-├── .github/workflows/   # GitHub Actions
- Move raw Markdown archives to trends/YYYY-MM-DD.md
-
- Add a clean entrypoint: main.py for local dev, run_loop.py for full AI patch cycle
-
- Create __init__.py files for all folders (for future packaging)
+- [ ] Move raw Markdown archives to `trends/YYYY-MM-DD.md`
+- [ ] Add a clean entrypoint: `main.py` for local dev, `run_loop.py` for full AI patch cycle
+- [ ] Create `__init__.py` files for all folders (for future packaging)
 
 📊 Monitoring + Cost Control
- Log total tokens per run (prompt + completion)
-
- Track how many Codex calls are being made
-
- Alert/comment if patch cost > $0.25
-
- Optional: display token cost in PR body
+- [ ] Log total tokens per run (prompt + completion)
+- [ ] Track how many Codex calls are being made
+- [ ] Alert/comment if patch cost > $0.25
+- [ ] Optional: display token cost in PR body
 
 📈 Readability + UI Polish
- Improve TRENDING.md formatting with:
-
-Emojis for categories (📚, 🧰, 🔥)
-
-GitHub badges (stars, forks)
-
-Section headers by category
-
- Include a summary paragraph at the top:
-
-"Here are the top 10 hottest repos today according to GitHub Trends and our in-house AI digest system. Updated daily."
+- [ ] Improve `TRENDING.md` formatting with:
+  - Emojis for categories (📚, 🧰, 🔥)
+  - GitHub badges (stars, forks)
+  - Section headers by category
+  - Include a summary paragraph at the top:
+    "Here are the top 10 hottest repos today according to GitHub Trends and our in-house AI digest system. Updated daily."
 
 🌐 Optional Extras (but Star-Worthy)
- GitHub Pages site (docs/ folder):
-
-Shows most recent digest
-
-Has an "AI Patch Log" section from memory
-
- Submit your own improvement link in README.md
-
-Use GitHub Discussions or link to new issue template
-
- Auto-Tweet latest TRENDING.md digest
-
-Use Zapier, GitHub Webhook, or Twitter API
+- [ ] GitHub Pages site (`docs/` folder):
+  - Shows most recent digest
+  - Has an "AI Patch Log" section from memory
+- [ ] Submit your own improvement link in `README.md`
+- [ ] Use GitHub Discussions or link to new issue template
+- [ ] Auto-Tweet latest `TRENDING.md` digest
+- [ ] Use Zapier, GitHub Webhook, or Twitter API
 
 🧪 Minimum Testing (but enough to be legit)
- tests/test_fetch_trending.py – Ensure scraper returns valid results
-
- tests/test_render_digest.py – Check that OpenAI formatting returns expected markdown
-
- tests/test_ai_patch.py – Mock Codex response and ensure diff is valid
-
- GitHub Action runs tests on PRs
+- [ ] `tests/test_fetch_trending.py` – Ensure scraper returns valid results
+- [ ] `tests/test_render_digest.py` – Check that OpenAI formatting returns expected markdown
+- [ ] `tests/test_ai_patch.py` – Mock Codex response and ensure diff is valid
+- [ ] GitHub Action runs tests on PRs
 
 🧠 Prompt Dev Note (Codex fine-tuning)
 Here's a Codex prompt template you can store in ai_loop/prompt_templates/improve_repo.txt:
@@ -263,33 +207,25 @@ Tasks:
 Learn from trends/archive/*.json over time and use that knowledge to guide smarter planning.
 
 🔧 Development Tasks
-1. Parse & Summarize Archived Trends
- In context_builder.load_context(), read all or recent .json files from trends/archive/
+1. [ ] Parse & Summarize Archived Trends
+   - In `context_builder.load_context()`, read all or recent `.json` files from `trends/archive/`
+   - Generate a summary (e.g. frequency of languages, common repo names/tags)
+   - Add this summary as `context["trend_summary"]`
 
- Generate a summary (e.g. frequency of languages, common repo names/tags)
+2. [ ] Use Trend Summary in Planning
+   - In `run_planner()`, allow planner agents to use `trend_summary` for:
+     - Detecting repeated repos
+     - Spotting fast-growing projects
+     - Choosing which type of improvements to recommend
+   - You can even add a `trend_strategy_agent.py` module if helpful
 
- Add this summary as context["trend_summary"]
-
-2. Use Trend Summary in Planning
- In run_planner(), allow planner agents to use trend_summary for:
-
-Detecting repeated repos
-
-Spotting fast-growing projects
-
-Choosing which type of improvements to recommend
-
- You can even add a trend_strategy_agent.py module if helpful
-
-3. Test It
- Write unit tests that simulate archived trends
-
- Test expected plan behaviors (e.g., it should avoid duplicate repos or favor newer rising stars)
+3. [ ] Test It
+   - Write unit tests that simulate archived trends
+   - Test expected plan behaviors (e.g., it should avoid duplicate repos or favor newer rising stars)
 
 🧼 Optional Cleanup (Strongly Recommended)
- ✅ Update AGENTS.md → Document what Phase 3 completed (context, memory, sanity check, etc.)
-
- ✅ In agent_loop.run(), wrap main steps in a rollback_if_tests_fail() context manager — this ensures unsafe patches aren’t committed if tests break
+- [x] Update AGENTS.md → Document what Phase 3 completed (context, memory, sanity check, etc.)
+- [x] In `agent_loop.run()`, wrap main steps in a `rollback_if_tests_fail()` context manager — this ensures unsafe patches aren’t committed if tests break
 
 🚀 After That...
 Once the planner is trend-aware, you’ll be ready to implement Phase 5: autonomous goal shaping based on GitHub trend evolution – but let’s crush Phase 4 first.
