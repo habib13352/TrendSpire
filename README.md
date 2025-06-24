@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-23 22:52 UTC_
+_Last updated: 2025-06-24 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9381 | Rust | We all edit. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 9408 | Rust | We all edit. |
 
-| [voideditor/void](https://github.com/voideditor/void) | 24603 | TypeScript | No description provided. |
+| [voideditor/void](https://github.com/voideditor/void) | 24626 | TypeScript | No description provided. |
 
-| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 32005 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
+| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 32015 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
 
-| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15660 | TypeScript | Suna - Open Source Generalist AI Agent |
+| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15672 | TypeScript | Suna - Open Source Generalist AI Agent |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60121 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60153 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [typst/typst](https://github.com/typst/typst) | 42806 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [typst/typst](https://github.com/typst/typst) | 42819 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 855 | C | No description provided. |
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 868 | C | No description provided. |
 
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89263 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89283 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 
-| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80477 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80489 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 
-| [localsend/localsend](https://github.com/localsend/localsend) | 63095 | Dart | An open-source cross-platform alternative to AirDrop |
+| [localsend/localsend](https://github.com/localsend/localsend) | 63125 | Dart | An open-source cross-platform alternative to AirDrop |
 <!-- TRENDING_END -->
 
 # TrendSpire
