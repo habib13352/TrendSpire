@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-24 00:57 UTC_
+_Last updated: 2025-06-24 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9408 | Rust | We all edit. |
+| [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | 26582 | Java | Telegram for Android source |
 
-| [voideditor/void](https://github.com/voideditor/void) | 24626 | TypeScript | No description provided. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 12054 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) | 32015 | Zig | 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 9639 | Rust | We all edit. |
 
-| [kortix-ai/suna](https://github.com/kortix-ai/suna) | 15672 | TypeScript | Suna - Open Source Generalist AI Agent |
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 945 | C | No description provided. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 60153 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 9914 | Unknown | Collection of leaked system prompts |
 
-| [typst/typst](https://github.com/typst/typst) | 42819 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1293 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 868 | C | No description provided. |
+| [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable) | 576 | C++ | A portable version of LEGO Island (1997) |
 
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 89283 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [typst/typst](https://github.com/typst/typst) | 42974 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 80489 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [Effect-TS/effect](https://github.com/Effect-TS/effect) | 9575 | TypeScript | Build production-ready applications in TypeScript |
 
-| [localsend/localsend](https://github.com/localsend/localsend) | 63125 | Dart | An open-source cross-platform alternative to AirDrop |
+| [microsoft/playwright](https://github.com/microsoft/playwright) | 73781 | TypeScript | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
 <!-- TRENDING_END -->
 
 # TrendSpire
