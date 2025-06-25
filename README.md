@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-25 00:58 UTC_
+_Last updated: 2025-06-25 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | 26661 | Java | Telegram for Android source |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28240 | Rust | Fullstack app framework for web, desktop, mobile, and more. |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 12234 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [vitejs/vite](https://github.com/vitejs/vite) | 73510 | TypeScript | Next generation frontend tooling. It's fast! |
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9776 | Rust | We all edit. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1633 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 1024 | C | No description provided. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 37981 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10086 | Unknown | Collection of leaked system prompts |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 99930 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1441 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 68113 | Unknown | 🔗 Some useful websites for programmers. |
 
-| [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable) | 631 | C++ | A portable version of LEGO Island (1997) |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10317 | Unknown | Collection of leaked system prompts |
 
-| [typst/typst](https://github.com/typst/typst) | 43108 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 20780 | Unknown | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
 
-| [Effect-TS/effect](https://github.com/Effect-TS/effect) | 9699 | TypeScript | Build production-ready applications in TypeScript |
+| [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | 18388 | JavaScript | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
 
-| [microsoft/playwright](https://github.com/microsoft/playwright) | 73901 | TypeScript | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
+| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 14089 | Dockerfile | Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. |
 <!-- TRENDING_END -->
 
 # TrendSpire
