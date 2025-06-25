@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-24 12:29 UTC_
+_Last updated: 2025-06-25 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | 26582 | Java | Telegram for Android source |
+| [DrKLO/Telegram](https://github.com/DrKLO/Telegram) | 26661 | Java | Telegram for Android source |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 12054 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 12234 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 9639 | Rust | We all edit. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 9776 | Rust | We all edit. |
 
-| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 945 | C | No description provided. |
+| [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) | 1024 | C | No description provided. |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 9914 | Unknown | Collection of leaked system prompts |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10086 | Unknown | Collection of leaked system prompts |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1293 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1441 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable) | 576 | C++ | A portable version of LEGO Island (1997) |
+| [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable) | 631 | C++ | A portable version of LEGO Island (1997) |
 
-| [typst/typst](https://github.com/typst/typst) | 42974 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [typst/typst](https://github.com/typst/typst) | 43108 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [Effect-TS/effect](https://github.com/Effect-TS/effect) | 9575 | TypeScript | Build production-ready applications in TypeScript |
+| [Effect-TS/effect](https://github.com/Effect-TS/effect) | 9699 | TypeScript | Build production-ready applications in TypeScript |
 
-| [microsoft/playwright](https://github.com/microsoft/playwright) | 73781 | TypeScript | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
+| [microsoft/playwright](https://github.com/microsoft/playwright) | 73901 | TypeScript | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. |
 <!-- TRENDING_END -->
 
 # TrendSpire
