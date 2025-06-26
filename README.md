@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-26 00:57 UTC_
+_Last updated: 2025-06-26 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28474 | Rust | Fullstack app framework for web, desktop, and mobile. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 10574 | Rust | We all edit. |
 
-| [vitejs/vite](https://github.com/vitejs/vite) | 73626 | TypeScript | Next generation frontend tooling. It's fast! |
+| [mui/base-ui](https://github.com/mui/base-ui) | 3583 | TypeScript | Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1760 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 20675 | Go | Find secrets with Gitleaks 🔑 |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38108 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1650 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 100270 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 57697 | Unknown | A collection of MCP servers. |
 
-| [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 68382 | Unknown | 🔗 Some useful websites for programmers. |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10620 | Unknown | Collection of leaked system prompts |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10455 | Unknown | Collection of leaked system prompts |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 28631 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 20912 | Unknown | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
+| [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli) | 753 | Rust | Command line interface for supplying proofs to the Nexus network. |
 
-| [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | 18428 | JavaScript | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38270 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 14453 | Dockerfile | Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28800 | Rust | Fullstack app framework for web, desktop, and mobile. |
 <!-- TRENDING_END -->
 
 # TrendSpire
