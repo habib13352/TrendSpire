@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-25 12:29 UTC_
+_Last updated: 2025-06-26 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28240 | Rust | Fullstack app framework for web, desktop, mobile, and more. |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28474 | Rust | Fullstack app framework for web, desktop, and mobile. |
 
-| [vitejs/vite](https://github.com/vitejs/vite) | 73510 | TypeScript | Next generation frontend tooling. It's fast! |
+| [vitejs/vite](https://github.com/vitejs/vite) | 73626 | TypeScript | Next generation frontend tooling. It's fast! |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1633 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 1760 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 37981 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38108 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 99930 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 100270 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 68113 | Unknown | 🔗 Some useful websites for programmers. |
+| [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 68382 | Unknown | 🔗 Some useful websites for programmers. |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10317 | Unknown | Collection of leaked system prompts |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10455 | Unknown | Collection of leaked system prompts |
 
-| [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 20780 | Unknown | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
+| [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) | 20912 | Unknown | 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly. |
 
-| [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | 18388 | JavaScript | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
+| [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) | 18428 | JavaScript | A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage |
 
-| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 14089 | Dockerfile | Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. |
+| [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) | 14453 | Dockerfile | Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. |
 <!-- TRENDING_END -->
 
 # TrendSpire
