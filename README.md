@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-26 12:29 UTC_
+_Last updated: 2025-06-27 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 10574 | Rust | We all edit. |
+| [microsoft/edit](https://github.com/microsoft/edit) | 10714 | Rust | We all edit. |
 
-| [mui/base-ui](https://github.com/mui/base-ui) | 3583 | TypeScript | Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
+| [mui/base-ui](https://github.com/mui/base-ui) | 3762 | TypeScript | Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 20675 | Go | Find secrets with Gitleaks 🔑 |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 20825 | Go | Find secrets with Gitleaks 🔑 |
 
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1650 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1706 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
 
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 57697 | Unknown | A collection of MCP servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 57896 | Unknown | A collection of MCP servers. |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10620 | Unknown | Collection of leaked system prompts |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10739 | Unknown | Collection of leaked system prompts |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 28631 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 29095 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli) | 753 | Rust | Command line interface for supplying proofs to the Nexus network. |
+| [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli) | 779 | Rust | Command line interface for supplying proofs to the Nexus network. |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38270 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38384 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28800 | Rust | Fullstack app framework for web, desktop, and mobile. |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28906 | Rust | Fullstack app framework for web, desktop, and mobile. |
 <!-- TRENDING_END -->
 
 # TrendSpire
