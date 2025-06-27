@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-27 00:58 UTC_
+_Last updated: 2025-06-27 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/edit](https://github.com/microsoft/edit) | 10714 | Rust | We all edit. |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2265 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [mui/base-ui](https://github.com/mui/base-ui) | 3762 | TypeScript | Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI. |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 374709 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 20825 | Go | Find secrets with Gitleaks 🔑 |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21005 | Go | Find secrets with Gitleaks 🔑 |
 
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 1706 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 29431 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 57896 | Unknown | A collection of MCP servers. |
+| [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | 22734 | Python | Official inference repo for FLUX.1 models |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10739 | Unknown | Collection of leaked system prompts |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10881 | Unknown | Collection of leaked system prompts |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 29095 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) | 814 | Python | A fully open source framework for creating RL training swarms over the internet. |
 
-| [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli) | 779 | Rust | Command line interface for supplying proofs to the Nexus network. |
+| [rxi/microui](https://github.com/rxi/microui) | 4328 | C | A tiny immediate-mode UI library |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38384 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [automatisch/automatisch](https://github.com/automatisch/automatisch) | 11998 | JavaScript | The open source Zapier alternative. Build workflow automation without spending time and money. |
 
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 28906 | Rust | Fullstack app framework for web, desktop, and mobile. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38478 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 <!-- TRENDING_END -->
 
 # TrendSpire
