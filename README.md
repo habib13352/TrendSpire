@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-28 00:55 UTC_
+_Last updated: 2025-06-28 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2597 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 29844 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 375007 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
+| [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | 22859 | Python | Official inference repo for FLUX.1 models |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21104 | Go | Find secrets with Gitleaks 🔑 |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 13600 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 29636 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) | 1681 | Java | BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats. |
 
-| [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | 22807 | Python | Official inference repo for FLUX.1 models |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2832 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10966 | Unknown | Collection of leaked system prompts |
+| [rommapp/romm](https://github.com/rommapp/romm) | 4861 | Python | A beautiful, powerful, self-hosted rom manager and player. |
 
-| [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) | 893 | Python | A fully open source framework for creating RL training swarms over the internet. |
+| [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) | 5634 | C++ | Visualize embedded device data. |
 
-| [rxi/microui](https://github.com/rxi/microui) | 4413 | C | A tiny immediate-mode UI library |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 8082 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [automatisch/automatisch](https://github.com/automatisch/automatisch) | 12110 | JavaScript | The open source Zapier alternative. Build workflow automation without spending time and money. |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86215 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38550 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 33808 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
