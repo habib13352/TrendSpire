@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-27 12:28 UTC_
+_Last updated: 2025-06-28 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2265 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2597 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 374709 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 375007 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21005 | Go | Find secrets with Gitleaks 🔑 |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21104 | Go | Find secrets with Gitleaks 🔑 |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 29431 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 29636 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | 22734 | Python | Official inference repo for FLUX.1 models |
+| [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | 22807 | Python | Official inference repo for FLUX.1 models |
 
-| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10881 | Unknown | Collection of leaked system prompts |
+| [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) | 10966 | Unknown | Collection of leaked system prompts |
 
-| [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) | 814 | Python | A fully open source framework for creating RL training swarms over the internet. |
+| [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm) | 893 | Python | A fully open source framework for creating RL training swarms over the internet. |
 
-| [rxi/microui](https://github.com/rxi/microui) | 4328 | C | A tiny immediate-mode UI library |
+| [rxi/microui](https://github.com/rxi/microui) | 4413 | C | A tiny immediate-mode UI library |
 
-| [automatisch/automatisch](https://github.com/automatisch/automatisch) | 11998 | JavaScript | The open source Zapier alternative. Build workflow automation without spending time and money. |
+| [automatisch/automatisch](https://github.com/automatisch/automatisch) | 12110 | JavaScript | The open source Zapier alternative. Build workflow automation without spending time and money. |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38478 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 38550 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 <!-- TRENDING_END -->
 
 # TrendSpire
