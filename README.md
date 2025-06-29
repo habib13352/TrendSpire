@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-29 01:04 UTC_
+_Last updated: 2025-06-29 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 30424 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 30820 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [black-forest-labs/flux](https://github.com/black-forest-labs/flux) | 22908 | Python | Official inference repo for FLUX.1 models |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 13986 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 13790 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
+| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 240 | HTML | No description provided. |
 
-| [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) | 1835 | Java | BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats. |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86511 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2919 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 62693 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [rommapp/romm](https://github.com/rommapp/romm) | 5001 | Python | A beautiful, powerful, self-hosted rom manager and player. |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2992 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio) | 5758 | C++ | Visualize embedded device data. |
+| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 24840 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 8189 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) | 4344 | TypeScript | A visual no-code theme editor for shadcn/ui components |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86379 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 40894 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
 
-| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 33948 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 22612 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 <!-- TRENDING_END -->
 
 # TrendSpire
