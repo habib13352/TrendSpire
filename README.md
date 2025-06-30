@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-29 12:26 UTC_
+_Last updated: 2025-06-30 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 30820 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 31339 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 13986 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 14504 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
 
-| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 240 | HTML | No description provided. |
+| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 295 | HTML | No description provided. |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86511 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86667 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 62693 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 62982 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 2992 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3062 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 24840 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 25185 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
 
-| [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) | 4344 | TypeScript | A visual no-code theme editor for shadcn/ui components |
+| [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) | 4517 | TypeScript | A visual no-code theme editor for shadcn/ui components |
 
-| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 40894 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
+| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 41041 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 22612 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 22738 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 <!-- TRENDING_END -->
 
 # TrendSpire

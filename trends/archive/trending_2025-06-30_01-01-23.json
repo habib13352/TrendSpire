@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-06-30 01:01 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "Building a modern alternative to Salesforce, powered by the community.",
+      "language": "TypeScript",
+      "stars": 31339
+    },
+    {
+      "rank": 2,
+      "name": "GraphiteEditor/Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+      "language": "Rust",
+      "stars": 14504
+    },
+    {
+      "rank": 3,
+      "name": "octra-labs/wallet-gen",
+      "url": "https://github.com/octra-labs/wallet-gen",
+      "description": "",
+      "language": "HTML",
+      "stars": 295
+    },
+    {
+      "rank": 4,
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
+      "language": "Jupyter Notebook",
+      "stars": 86667
+    },
+    {
+      "rank": 5,
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.",
+      "language": "Unknown",
+      "stars": 62982
+    },
+    {
+      "rank": 6,
+      "name": "coleam00/ottomator-agents",
+      "url": "https://github.com/coleam00/ottomator-agents",
+      "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+      "language": "Python",
+      "stars": 3062
+    },
+    {
+      "rank": 7,
+      "name": "stanford-oval/storm",
+      "url": "https://github.com/stanford-oval/storm",
+      "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+      "language": "Python",
+      "stars": 25185
+    },
+    {
+      "rank": 8,
+      "name": "jnsahaj/tweakcn",
+      "url": "https://github.com/jnsahaj/tweakcn",
+      "description": "A visual no-code theme editor for shadcn/ui components",
+      "language": "TypeScript",
+      "stars": 4517
+    },
+    {
+      "rank": 9,
+      "name": "mendableai/firecrawl",
+      "url": "https://github.com/mendableai/firecrawl",
+      "description": "\ud83d\udd25 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+      "language": "TypeScript",
+      "stars": 41041
+    },
+    {
+      "rank": 10,
+      "name": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+      "language": "TypeScript",
+      "stars": 22738
+    }
+  ]
+}
