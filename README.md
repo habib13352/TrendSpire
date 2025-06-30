@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-30 01:01 UTC_
+_Last updated: 2025-06-30 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 31339 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 15144 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 14504 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 32040 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 295 | HTML | No description provided. |
+| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 7123 | PHP | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86667 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 8316 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 62982 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 360 | HTML | No description provided. |
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3062 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [actualbudget/actual](https://github.com/actualbudget/actual) | 19496 | TypeScript | A local-first personal finance app |
 
-| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 25185 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86912 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn) | 4517 | TypeScript | A visual no-code theme editor for shadcn/ui components |
+| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 41215 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
 
-| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 41041 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 66659 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 22738 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 25435 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
 <!-- TRENDING_END -->
 
 # TrendSpire
