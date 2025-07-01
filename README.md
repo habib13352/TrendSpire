@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-06-30 12:29 UTC_
+_Last updated: 2025-07-01 01:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 15144 | Rust | 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow. |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 15906 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 32040 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 32242 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 7123 | PHP | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
+| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 7196 | PHP | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 8316 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 8451 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 360 | HTML | No description provided. |
+| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 410 | HTML | No description provided. |
 
-| [actualbudget/actual](https://github.com/actualbudget/actual) | 19496 | TypeScript | A local-first personal finance app |
+| [actualbudget/actual](https://github.com/actualbudget/actual) | 19624 | TypeScript | A local-first personal finance app |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 86912 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 87049 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 41215 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
+| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 41349 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 66659 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 66771 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 25435 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 25612 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
 <!-- TRENDING_END -->
 
 # TrendSpire
