@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-01 01:04 UTC_
+_Last updated: 2025-07-01 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 15906 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 87371 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 32242 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 16882 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
 
-| [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) | 7196 | PHP | 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 8666 | Python | The LLM Evaluation Framework |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 8451 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 431 | HTML | No description provided. |
 
-| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 410 | HTML | No description provided. |
+| [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 44697 | CSS | AdminLTE - Free admin dashboard template based on Bootstrap 5 |
 
-| [actualbudget/actual](https://github.com/actualbudget/actual) | 19624 | TypeScript | A local-first personal finance app |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 32483 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 87049 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [actualbudget/actual](https://github.com/actualbudget/actual) | 19743 | TypeScript | A local-first personal finance app |
 
-| [mendableai/firecrawl](https://github.com/mendableai/firecrawl) | 41349 | TypeScript | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 24169 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 66771 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 66872 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [stanford-oval/storm](https://github.com/stanford-oval/storm) | 25612 | Python | An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 42424 | Roff | 所有小初高、大学PDF教材。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
