@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-01 12:29 UTC_
+_Last updated: 2025-07-02 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 87371 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 88233 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 16882 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 17225 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
 
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 8666 | Python | The LLM Evaluation Framework |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 8767 | Python | The LLM Evaluation Framework |
 
-| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 431 | HTML | No description provided. |
+| [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) | 471 | HTML | No description provided. |
 
-| [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 44697 | CSS | AdminLTE - Free admin dashboard template based on Bootstrap 5 |
+| [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 44757 | CSS | AdminLTE - Free admin dashboard template based on Bootstrap 5 |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 32483 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 32660 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [actualbudget/actual](https://github.com/actualbudget/actual) | 19743 | TypeScript | A local-first personal finance app |
+| [actualbudget/actual](https://github.com/actualbudget/actual) | 19854 | TypeScript | A local-first personal finance app |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 24169 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 24334 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 66872 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 66985 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 42424 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 42547 | Roff | 所有小初高、大学PDF教材。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
