@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-03 00:57 UTC_
+_Last updated: 2025-07-03 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 89977 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 25287 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 24885 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [mrdoob/three.js](https://github.com/mrdoob/three.js) | 107154 | JavaScript | JavaScript 3D Library. |
 
-| [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | 8950 | TypeScript | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3. |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 90745 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | 6205 | Python | A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44334 | C++ | Truly independent web browser |
 
-| [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | 24407 | Go | Send push notifications to your phone or desktop using PUT/POST |
+| [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) | 4070 | Python | Unified framework for robot learning built on NVIDIA Isaac Sim |
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 17755 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
+| [openssl/openssl](https://github.com/openssl/openssl) | 27795 | C | TLS/SSL and crypto library |
 
-| [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) | 7675 | Unknown | A Collection of application ideas that can be used to improve your coding skills ❤. |
+| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 25478 | Python | A generative world for general-purpose robotics & embodied AI learning. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 42960 | Roff | 所有小初高、大学PDF教材。 |
+| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 34869 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
 
-| [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 27056 | JavaScript | Docker container for managing Nginx proxy hosts with a simple, powerful interface |
+| [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) | 7931 | Unknown | A Collection of application ideas that can be used to improve your coding skills ❤. |
 
-| [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) | 2260 | Python | Gemini polling proxy service （gemini轮询代理服务） |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 27402 | TypeScript | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. |
 <!-- TRENDING_END -->
 
 # TrendSpire
