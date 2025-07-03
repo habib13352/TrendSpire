@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-02 12:29 UTC_
+_Last updated: 2025-07-03 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 89194 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 89977 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 24733 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 24885 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | 8791 | TypeScript | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3. |
+| [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) | 8950 | TypeScript | Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3. |
 
-| [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | 6088 | Python | A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. |
+| [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) | 6205 | Python | A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. |
 
-| [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | 24167 | Go | Send push notifications to your phone or desktop using PUT/POST |
+| [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | 24407 | Go | Send push notifications to your phone or desktop using PUT/POST |
 
-| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 17549 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
+| [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) | 17755 | Rust | An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing |
 
-| [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) | 7478 | Unknown | A Collection of application ideas that can be used to improve your coding skills ❤. |
+| [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) | 7675 | Unknown | A Collection of application ideas that can be used to improve your coding skills ❤. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 42843 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 42960 | Roff | 所有小初高、大学PDF教材。 |
 
-| [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 26909 | JavaScript | Docker container for managing Nginx proxy hosts with a simple, powerful interface |
+| [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | 27056 | JavaScript | Docker container for managing Nginx proxy hosts with a simple, powerful interface |
 
-| [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) | 2220 | Python | Gemini polling proxy service （gemini轮询代理服务） |
+| [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) | 2260 | Python | Gemini polling proxy service （gemini轮询代理服务） |
 <!-- TRENDING_END -->
 
 # TrendSpire
