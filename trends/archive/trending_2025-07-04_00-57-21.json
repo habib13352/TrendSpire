@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-04 00:57 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+      "language": "Python",
+      "stars": 25474
+    },
+    {
+      "rank": 2,
+      "name": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
+      "language": "JavaScript",
+      "stars": 107241
+    },
+    {
+      "rank": 3,
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
+      "language": "Jupyter Notebook",
+      "stars": 90935
+    },
+    {
+      "rank": 4,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 44505
+    },
+    {
+      "rank": 5,
+      "name": "isaac-sim/IsaacLab",
+      "url": "https://github.com/isaac-sim/IsaacLab",
+      "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+      "language": "Python",
+      "stars": 4159
+    },
+    {
+      "rank": 6,
+      "name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 27846
+    },
+    {
+      "rank": 7,
+      "name": "Genesis-Embodied-AI/Genesis",
+      "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+      "description": "A generative world for general-purpose robotics & embodied AI learning.",
+      "language": "Python",
+      "stars": 25537
+    },
+    {
+      "rank": 8,
+      "name": "cloudcommunity/Free-Certifications",
+      "url": "https://github.com/cloudcommunity/Free-Certifications",
+      "description": "A curated list of free courses with certifications. Also available at https://free-certifications.com/",
+      "language": "Unknown",
+      "stars": 35296
+    },
+    {
+      "rank": 9,
+      "name": "The-Cool-Coders/Project-Ideas-And-Resources",
+      "url": "https://github.com/The-Cool-Coders/Project-Ideas-And-Resources",
+      "description": "A Collection of application ideas that can be used to improve your coding skills \u2764.",
+      "language": "Unknown",
+      "stars": 8136
+    },
+    {
+      "rank": 10,
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.",
+      "language": "TypeScript",
+      "stars": 27507
+    }
+  ]
+}
