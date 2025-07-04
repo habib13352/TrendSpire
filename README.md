@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-04 00:57 UTC_
+_Last updated: 2025-07-04 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 25474 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 26035 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [mrdoob/three.js](https://github.com/mrdoob/three.js) | 107241 | JavaScript | JavaScript 3D Library. |
+| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 25608 | Python | A generative world for general-purpose robotics & embodied AI learning. |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 90935 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44625 | C++ | Truly independent web browser |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44505 | C++ | Truly independent web browser |
+| [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 27751 | JavaScript | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. |
 
-| [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) | 4159 | Python | Unified framework for robot learning built on NVIDIA Isaac Sim |
+| [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) | 22860 | JavaScript | Label Studio is a multi-type data labeling and annotation tool with standardized output format |
 
-| [openssl/openssl](https://github.com/openssl/openssl) | 27846 | C | TLS/SSL and crypto library |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 52444 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 
-| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 25537 | Python | A generative world for general-purpose robotics & embodied AI learning. |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 21386 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 35296 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 7651 | Unknown | 📚 从零开始的大语言模型原理与实践教程 |
 
-| [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) | 8136 | Unknown | A Collection of application ideas that can be used to improve your coding skills ❤. |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 3272 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
 
-| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 27507 | TypeScript | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. |
+| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 31208 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
 <!-- TRENDING_END -->
 
 # TrendSpire
