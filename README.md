@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-04 12:28 UTC_
+_Last updated: 2025-07-05 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 26035 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 26458 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 25608 | Python | A generative world for general-purpose robotics & embodied AI learning. |
+| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 25662 | Python | A generative world for general-purpose robotics & embodied AI learning. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44625 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44713 | C++ | Truly independent web browser |
 
-| [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 27751 | JavaScript | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. |
+| [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) | 27805 | JavaScript | Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. |
 
-| [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) | 22860 | JavaScript | Label Studio is a multi-type data labeling and annotation tool with standardized output format |
+| [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) | 22971 | JavaScript | Label Studio is a multi-type data labeling and annotation tool with standardized output format |
 
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 52444 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 52599 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 21386 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 21630 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 7651 | Unknown | 📚 从零开始的大语言模型原理与实践教程 |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 7881 | Unknown | 📚 从零开始的大语言模型原理与实践教程 |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 3272 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 3370 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
 
-| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 31208 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 31319 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
 <!-- TRENDING_END -->
 
 # TrendSpire
