@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-05 12:26 UTC_
+_Last updated: 2025-07-06 01:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 27085 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 27284 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 886 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 1075 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44777 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44863 | C++ | Truly independent web browser |
 
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 8109 | Unknown | 📚 从零开始的大语言模型原理与实践教程 |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 8271 | Unknown | 📚 从零开始的大语言模型原理与实践教程 |
 
-| [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) | 15922 | Unknown | 🎓 Um caminho para a educação autodidata em Ciência da Computação! |
+| [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) | 16002 | Unknown | 🎓 Um caminho para a educação autodidata em Ciência da Computação! |
 
-| [megadose/toutatis](https://github.com/megadose/toutatis) | 2578 | Python | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more |
+| [megadose/toutatis](https://github.com/megadose/toutatis) | 2691 | Python | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more |
 
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 77151 | Python | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 77286 | Python | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 3452 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 3533 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
 
-| [directus/directus](https://github.com/directus/directus) | 31169 | TypeScript | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. |
+| [directus/directus](https://github.com/directus/directus) | 31296 | TypeScript | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. |
 
-| [google/perfetto](https://github.com/google/perfetto) | 4196 | C++ | Production-grade client-side tracing, profiling, and analysis for complex software systems. |
+| [google/perfetto](https://github.com/google/perfetto) | 4259 | C++ | Production-grade client-side tracing, profiling, and analysis for complex software systems. |
 <!-- TRENDING_END -->
 
 # TrendSpire
