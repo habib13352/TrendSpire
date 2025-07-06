@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-06 01:03 UTC_
+_Last updated: 2025-07-06 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 27284 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 27526 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 1075 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
+| [dockur/macos](https://github.com/dockur/macos) | 13920 | Shell | macOS inside a Docker container. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 44863 | C++ | Truly independent web browser |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 14585 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 8271 | Unknown | 📚 从零开始的大语言模型原理与实践教程 |
+| [vosen/ZLUDA](https://github.com/vosen/ZLUDA) | 11941 | Rust | CUDA on non-NVIDIA GPUs |
 
-| [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) | 16002 | Unknown | 🎓 Um caminho para a educação autodidata em Ciência da Computação! |
+| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 26133 | Rust | Comfortably monitor your Internet traffic 🕵️‍♂️ |
 
-| [megadose/toutatis](https://github.com/megadose/toutatis) | 2691 | Python | Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more |
+| [Alex313031/thorium](https://github.com/Alex313031/thorium) | 5971 | C++ | Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. |
 
-| [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) | 77286 | Python | Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 395586 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 3533 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
+| [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | 4315 | TypeScript | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! |
 
-| [directus/directus](https://github.com/directus/directus) | 31296 | TypeScript | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. |
-
-| [google/perfetto](https://github.com/google/perfetto) | 4259 | C++ | Production-grade client-side tracing, profiling, and analysis for complex software systems. |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 6737 | HTML | 📘 Home Assistant User documentation |
 <!-- TRENDING_END -->
 
 # TrendSpire
