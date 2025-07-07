@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-06 12:26 UTC_
+_Last updated: 2025-07-07 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 27526 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 27719 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [dockur/macos](https://github.com/dockur/macos) | 13920 | Shell | macOS inside a Docker container. |
+| [dockur/macos](https://github.com/dockur/macos) | 14368 | Shell | macOS inside a Docker container. |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 14585 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 14769 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [vosen/ZLUDA](https://github.com/vosen/ZLUDA) | 11941 | Rust | CUDA on non-NVIDIA GPUs |
+| [vosen/ZLUDA](https://github.com/vosen/ZLUDA) | 12119 | Rust | CUDA on non-NVIDIA GPUs |
 
-| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 26133 | Rust | Comfortably monitor your Internet traffic 🕵️‍♂️ |
+| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 26424 | Rust | Comfortably monitor your Internet traffic 🕵️‍♂️ |
 
-| [Alex313031/thorium](https://github.com/Alex313031/thorium) | 5971 | C++ | Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. |
+| [Alex313031/thorium](https://github.com/Alex313031/thorium) | 6074 | C++ | Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 395586 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 395891 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | 4315 | TypeScript | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! |
+| [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | 4491 | TypeScript | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! |
 
-| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 6737 | HTML | 📘 Home Assistant User documentation |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 6849 | HTML | 📘 Home Assistant User documentation |
 <!-- TRENDING_END -->
 
 # TrendSpire
