@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-07 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "\ud83d\ude80 High-performance distributed object storage for MinIO alternative.",
+      "language": "Rust",
+      "stars": 1545
+    },
+    {
+      "rank": 2,
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "language": "Jupyter Notebook",
+      "stars": 15035
+    },
+    {
+      "rank": 3,
+      "name": "th-ch/youtube-music",
+      "url": "https://github.com/th-ch/youtube-music",
+      "description": "YouTube Music Desktop App bundled with custom plugins",
+      "language": "TypeScript",
+      "stars": 24533
+    },
+    {
+      "rank": 4,
+      "name": "dockur/macos",
+      "url": "https://github.com/dockur/macos",
+      "description": "macOS inside a Docker container.",
+      "language": "Shell",
+      "stars": 14787
+    },
+    {
+      "rank": 5,
+      "name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": 48496
+    },
+    {
+      "rank": 6,
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 54495
+    },
+    {
+      "rank": 7,
+      "name": "smallcloudai/refact",
+      "url": "https://github.com/smallcloudai/refact",
+      "description": "AI Agent that handles engineering tasks end-to-end: integrates with developers\u2019 tools, plans, executes, and iterates until it achieves a successful result.",
+      "language": "Rust",
+      "stars": 2442
+    },
+    {
+      "rank": 8,
+      "name": "humanlayer/12-factor-agents",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "language": "TypeScript",
+      "stars": 6387
+    },
+    {
+      "rank": 9,
+      "name": "ed-donner/llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "description": "Repo to accompany my mastering LLM engineering course",
+      "language": "Jupyter Notebook",
+      "stars": 2572
+    },
+    {
+      "rank": 10,
+      "name": "CodeWithHarry/Sigma-Web-Dev-Course",
+      "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+      "description": "Source Code for Sigma Web Development Course",
+      "language": "JavaScript",
+      "stars": 9103
+    }
+  ]
+}

@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-07 01:01 UTC_
+_Last updated: 2025-07-07 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 27719 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 1545 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
 
-| [dockur/macos](https://github.com/dockur/macos) | 14368 | Shell | macOS inside a Docker container. |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 15035 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 14769 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | 24533 | TypeScript | YouTube Music Desktop App bundled with custom plugins |
 
-| [vosen/ZLUDA](https://github.com/vosen/ZLUDA) | 12119 | Rust | CUDA on non-NVIDIA GPUs |
+| [dockur/macos](https://github.com/dockur/macos) | 14787 | Shell | macOS inside a Docker container. |
 
-| [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | 26424 | Rust | Comfortably monitor your Internet traffic 🕵️‍♂️ |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 48496 | Go | Open Source realtime backend in 1 file |
 
-| [Alex313031/thorium](https://github.com/Alex313031/thorium) | 6074 | C++ | Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 54495 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 395891 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [smallcloudai/refact](https://github.com/smallcloudai/refact) | 2442 | Rust | AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. |
 
-| [iib0011/omni-tools](https://github.com/iib0011/omni-tools) | 4491 | TypeScript | Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! |
+| [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 6387 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? |
 
-| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 6849 | HTML | 📘 Home Assistant User documentation |
+| [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) | 2572 | Jupyter Notebook | Repo to accompany my mastering LLM engineering course |
+
+| [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) | 9103 | JavaScript | Source Code for Sigma Web Development Course |
 <!-- TRENDING_END -->
 
 # TrendSpire
