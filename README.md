@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-08 00:58 UTC_
+_Last updated: 2025-07-08 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 1892 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
+| [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 7086 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 15300 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 1862 | Python | 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
 
-| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | 24930 | TypeScript | YouTube Music Desktop App bundled with custom plugins |
+| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | 25187 | TypeScript | YouTube Music Desktop App bundled with custom plugins |
 
-| [dockur/macos](https://github.com/dockur/macos) | 15023 | Shell | macOS inside a Docker container. |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 11282 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 48644 | Go | Open Source realtime backend in 1 file |
+| [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) | 3875 | Python | 24 channel, 100Msps logic analyzer hardware and software |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 54693 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 15594 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [smallcloudai/refact](https://github.com/smallcloudai/refact) | 2637 | Rust | AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 2908 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
 
-| [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 6704 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 54854 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) | 2648 | Jupyter Notebook | Repo to accompany my mastering LLM engineering course |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 11768 | Python | Automate the process of making money online. |
 
-| [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) | 9162 | JavaScript | Source Code for Sigma Web Development Course |
+| [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | 21885 | Unknown | A curated list of awesome computer vision resources |
 <!-- TRENDING_END -->
 
 # TrendSpire
