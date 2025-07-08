@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-07 12:29 UTC_
+_Last updated: 2025-07-08 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 1545 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 1892 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 15035 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 15300 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | 24533 | TypeScript | YouTube Music Desktop App bundled with custom plugins |
+| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | 24930 | TypeScript | YouTube Music Desktop App bundled with custom plugins |
 
-| [dockur/macos](https://github.com/dockur/macos) | 14787 | Shell | macOS inside a Docker container. |
+| [dockur/macos](https://github.com/dockur/macos) | 15023 | Shell | macOS inside a Docker container. |
 
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 48496 | Go | Open Source realtime backend in 1 file |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 48644 | Go | Open Source realtime backend in 1 file |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 54495 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 54693 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [smallcloudai/refact](https://github.com/smallcloudai/refact) | 2442 | Rust | AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. |
+| [smallcloudai/refact](https://github.com/smallcloudai/refact) | 2637 | Rust | AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. |
 
-| [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 6387 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? |
+| [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 6704 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? |
 
-| [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) | 2572 | Jupyter Notebook | Repo to accompany my mastering LLM engineering course |
+| [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) | 2648 | Jupyter Notebook | Repo to accompany my mastering LLM engineering course |
 
-| [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) | 9103 | JavaScript | Source Code for Sigma Web Development Course |
+| [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course) | 9162 | JavaScript | Source Code for Sigma Web Development Course |
 <!-- TRENDING_END -->
 
 # TrendSpire
