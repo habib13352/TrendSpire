@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-08 12:30 UTC_
+_Last updated: 2025-07-09 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 7086 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? |
+| [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) | 7404 | TypeScript | What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? |
 
-| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 1862 | Python | 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
+| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 2112 | Python | 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
 
-| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | 25187 | TypeScript | YouTube Music Desktop App bundled with custom plugins |
+| [th-ch/youtube-music](https://github.com/th-ch/youtube-music) | 25359 | TypeScript | YouTube Music Desktop App bundled with custom plugins |
 
-| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 11282 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 11477 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 
-| [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) | 3875 | Python | 24 channel, 100Msps logic analyzer hardware and software |
+| [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) | 3959 | Python | 24 channel, 100Msps logic analyzer hardware and software |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 15594 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 15823 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 2908 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 3160 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 54854 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 54990 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 11768 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 11936 | Python | Automate the process of making money online. |
 
-| [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | 21885 | Unknown | A curated list of awesome computer vision resources |
+| [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | 22005 | Unknown | A curated list of awesome computer vision resources |
 <!-- TRENDING_END -->
 
 # TrendSpire
