@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-10 00:58 UTC_
+_Last updated: 2025-07-10 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 3979 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
+| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 3096 | Python | 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 3698 | Rust | 🚀 High-performance distributed object storage for MinIO alternative. |
+| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 2815 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 16157 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 4523 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
 
-| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 2791 | Python | 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 2729 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [putyy/res-downloader](https://github.com/putyy/res-downloader) | 8194 | Go | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
+| [forthespada/CS-Books](https://github.com/forthespada/CS-Books) | 23556 | Unknown | 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~ |
 
-| [ed-donner/agents](https://github.com/ed-donner/agents) | 1057 | Jupyter Notebook | Repo for the Complete Agentic AI Engineering Course |
+| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | 74044 | Unknown | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
 
-| [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) | 9393 | Dart | Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems |
+| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 786 | Python | Biomni: a general-purpose biomedical AI agent |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 29622 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
+| [pybind/pybind11](https://github.com/pybind/pybind11) | 16816 | C++ | Seamless operability between C++11 and Python |
 
-| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 4304 | Unknown | A collection of MCP clients. |
+| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 4456 | Unknown | A collection of MCP clients. |
 
-| [strapi/strapi](https://github.com/strapi/strapi) | 67474 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 12151 | Python | Automate the process of making money online. |
 <!-- TRENDING_END -->
 
 # TrendSpire
