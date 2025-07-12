@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-11 12:28 UTC_
+_Last updated: 2025-07-12 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 68001 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 68265 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 5327 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
+| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 5564 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
 
-| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 3508 | Python | 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
+| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 3612 | Python | 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
 
-| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 2914 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
+| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 2943 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
 
-| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 1201 | Python | Biomni: a general-purpose biomedical AI agent |
+| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 1317 | Python | Biomni: a general-purpose biomedical AI agent |
 
-| [google/googletest](https://github.com/google/googletest) | 36313 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [google/googletest](https://github.com/google/googletest) | 36350 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | 74382 | Unknown | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
+| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | 74492 | Unknown | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 16957 | Python | The authentication glue you need. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 17060 | Python | The authentication glue you need. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 2942 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 3005 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 4661 | Unknown | A collection of MCP clients. |
+| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 4740 | Unknown | A collection of MCP clients. |
 <!-- TRENDING_END -->
 
 # TrendSpire

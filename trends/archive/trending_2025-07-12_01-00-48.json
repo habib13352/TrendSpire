@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-12 01:00 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 68265
+    },
+    {
+      "rank": 2,
+      "name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": 5564
+    },
+    {
+      "rank": 3,
+      "name": "Alibaba-NLP/WebAgent",
+      "url": "https://github.com/Alibaba-NLP/WebAgent",
+      "description": "\ud83c\udf10 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592",
+      "language": "Python",
+      "stars": 3612
+    },
+    {
+      "rank": 4,
+      "name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": 2943
+    },
+    {
+      "rank": 5,
+      "name": "snap-stanford/Biomni",
+      "url": "https://github.com/snap-stanford/Biomni",
+      "description": "Biomni: a general-purpose biomedical AI agent",
+      "language": "Python",
+      "stars": 1317
+    },
+    {
+      "rank": 6,
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 36350
+    },
+    {
+      "rank": 7,
+      "name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "language": "Unknown",
+      "stars": 74492
+    },
+    {
+      "rank": 8,
+      "name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 17060
+    },
+    {
+      "rank": 9,
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": 3005
+    },
+    {
+      "rank": 10,
+      "name": "punkpeye/awesome-mcp-clients",
+      "url": "https://github.com/punkpeye/awesome-mcp-clients",
+      "description": "A collection of MCP clients.",
+      "language": "Unknown",
+      "stars": 4740
+    }
+  ]
+}
