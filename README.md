@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-12 01:00 UTC_
+_Last updated: 2025-07-12 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 68265 | C++ | Protocol Buffers - Google's data interchange format |
+| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 1393 | Python | Biomni: a general-purpose biomedical AI agent |
 
-| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 5564 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
+| [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) | 5877 | Go | OpenTelemetry Go API and SDK |
 
-| [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) | 3612 | Python | 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592 |
+| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 5766 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
 
-| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 2943 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 68442 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 1317 | Python | Biomni: a general-purpose biomedical AI agent |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 12590 | Python | Build Real-Time Knowledge Graphs for AI Agents |
 
-| [google/googletest](https://github.com/google/googletest) | 36350 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [pybind/pybind11](https://github.com/pybind/pybind11) | 16925 | C++ | Seamless operability between C++11 and Python |
 
-| [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) | 74492 | Unknown | Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. |
+| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 2974 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 17060 | Python | The authentication glue you need. |
+| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55270 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 3005 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) | 882 | Python | Python library for Agentic Document Extraction from LandingAI |
 
-| [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) | 4740 | Unknown | A collection of MCP clients. |
+| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 19339 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
 <!-- TRENDING_END -->
 
 # TrendSpire

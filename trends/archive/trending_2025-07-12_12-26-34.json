@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-12 12:26 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "snap-stanford/Biomni",
+      "url": "https://github.com/snap-stanford/Biomni",
+      "description": "Biomni: a general-purpose biomedical AI agent",
+      "language": "Python",
+      "stars": 1393
+    },
+    {
+      "rank": 2,
+      "name": "open-telemetry/opentelemetry-go",
+      "url": "https://github.com/open-telemetry/opentelemetry-go",
+      "description": "OpenTelemetry Go API and SDK",
+      "language": "Go",
+      "stars": 5877
+    },
+    {
+      "rank": 3,
+      "name": "googleapis/genai-toolbox",
+      "url": "https://github.com/googleapis/genai-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "stars": 5766
+    },
+    {
+      "rank": 4,
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 68442
+    },
+    {
+      "rank": 5,
+      "name": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "language": "Python",
+      "stars": 12590
+    },
+    {
+      "rank": 6,
+      "name": "pybind/pybind11",
+      "url": "https://github.com/pybind/pybind11",
+      "description": "Seamless operability between C++11 and Python",
+      "language": "C++",
+      "stars": 16925
+    },
+    {
+      "rank": 7,
+      "name": "WordPress/wordpress-develop",
+      "url": "https://github.com/WordPress/wordpress-develop",
+      "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+      "language": "PHP",
+      "stars": 2974
+    },
+    {
+      "rank": 8,
+      "name": "gorhill/uBlock",
+      "url": "https://github.com/gorhill/uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "stars": 55270
+    },
+    {
+      "rank": 9,
+      "name": "landing-ai/agentic-doc",
+      "url": "https://github.com/landing-ai/agentic-doc",
+      "description": "Python library for Agentic Document Extraction from LandingAI",
+      "language": "Python",
+      "stars": 882
+    },
+    {
+      "rank": 10,
+      "name": "zijie0/HumanSystemOptimization",
+      "url": "https://github.com/zijie0/HumanSystemOptimization",
+      "description": "\u5065\u5eb7\u5b66\u4e60\u5230150\u5c81 - \u4eba\u4f53\u7cfb\u7edf\u8c03\u4f18\u4e0d\u5b8c\u5168\u6307\u5357",
+      "language": "Unknown",
+      "stars": 19339
+    }
+  ]
+}
