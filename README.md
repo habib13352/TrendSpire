@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-13 01:05 UTC_
+_Last updated: 2025-07-13 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 1494 | Python | Biomni: a general-purpose biomedical AI agent |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 19332 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) | 5914 | Go | OpenTelemetry Go API and SDK |
+| [vercel/commerce](https://github.com/vercel/commerce) | 12652 | TypeScript | Next.js Commerce |
 
-| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 5960 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
+| [block/goose](https://github.com/block/goose) | 16083 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 68475 | C++ | Protocol Buffers - Google's data interchange format |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 176949 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 
-| [getzep/graphiti](https://github.com/getzep/graphiti) | 12709 | Python | Build Real-Time Knowledge Graphs for AI Agents |
+| [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) | 7875 | C++ | CUDA Templates for Linear Algebra Subroutines |
 
-| [pybind/pybind11](https://github.com/pybind/pybind11) | 16959 | C++ | Seamless operability between C++11 and Python |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 104409 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 3000 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
+| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55532 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
 
-| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55425 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 9580 | Unknown | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
 
-| [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) | 952 | Python | Python library for Agentic Document Extraction from LandingAI |
+| [microsoft/qlib](https://github.com/microsoft/qlib) | 26611 | Python | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. |
 
-| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 19415 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 13524 | TypeScript | The AI Browser Automation Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
