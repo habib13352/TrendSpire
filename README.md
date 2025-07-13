@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-12 12:26 UTC_
+_Last updated: 2025-07-13 01:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 1393 | Python | Biomni: a general-purpose biomedical AI agent |
+| [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) | 1494 | Python | Biomni: a general-purpose biomedical AI agent |
 
-| [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) | 5877 | Go | OpenTelemetry Go API and SDK |
+| [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) | 5914 | Go | OpenTelemetry Go API and SDK |
 
-| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 5766 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
+| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 5960 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 68442 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 68475 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [getzep/graphiti](https://github.com/getzep/graphiti) | 12590 | Python | Build Real-Time Knowledge Graphs for AI Agents |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 12709 | Python | Build Real-Time Knowledge Graphs for AI Agents |
 
-| [pybind/pybind11](https://github.com/pybind/pybind11) | 16925 | C++ | Seamless operability between C++11 and Python |
+| [pybind/pybind11](https://github.com/pybind/pybind11) | 16959 | C++ | Seamless operability between C++11 and Python |
 
-| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 2974 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
+| [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) | 3000 | PHP | WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request. |
 
-| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55270 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55425 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
 
-| [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) | 882 | Python | Python library for Agentic Document Extraction from LandingAI |
+| [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc) | 952 | Python | Python library for Agentic Document Extraction from LandingAI |
 
-| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 19339 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
+| [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) | 19415 | Unknown | 健康学习到150岁 - 人体系统调优不完全指南 |
 <!-- TRENDING_END -->
 
 # TrendSpire
