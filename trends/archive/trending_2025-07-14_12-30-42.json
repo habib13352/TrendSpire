@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-14 12:30 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "PowerShell",
+      "stars": 21227
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 60809
+    },
+    {
+      "rank": 3,
+      "name": "gorhill/uBlock",
+      "url": "https://github.com/gorhill/uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "stars": 55830
+    },
+    {
+      "rank": 4,
+      "name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+      "language": "Python",
+      "stars": 26846
+    },
+    {
+      "rank": 5,
+      "name": "vercel/commerce",
+      "url": "https://github.com/vercel/commerce",
+      "description": "Next.js Commerce",
+      "language": "TypeScript",
+      "stars": 13018
+    },
+    {
+      "rank": 6,
+      "name": "mindsdb/mindsdb",
+      "url": "https://github.com/mindsdb/mindsdb",
+      "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+      "language": "Python",
+      "stars": 33955
+    },
+    {
+      "rank": 7,
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 105115
+    },
+    {
+      "rank": 8,
+      "name": "leaningtech/webvm",
+      "url": "https://github.com/leaningtech/webvm",
+      "description": "Virtual Machine for the Web",
+      "language": "JavaScript",
+      "stars": 14751
+    },
+    {
+      "rank": 9,
+      "name": "OpenPipe/ART",
+      "url": "https://github.com/OpenPipe/ART",
+      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
+      "language": "Python",
+      "stars": 1584
+    },
+    {
+      "rank": 10,
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "Unknown",
+      "stars": 177703
+    }
+  ]
+}

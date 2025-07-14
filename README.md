@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-14 01:02 UTC_
+_Last updated: 2025-07-14 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 20134 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 21227 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [vercel/commerce](https://github.com/vercel/commerce) | 12846 | TypeScript | Next.js Commerce |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 60809 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [block/goose](https://github.com/block/goose) | 16257 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55830 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 177376 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [microsoft/qlib](https://github.com/microsoft/qlib) | 26846 | Python | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. |
 
-| [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) | 7925 | C++ | CUDA Templates for Linear Algebra Subroutines |
+| [vercel/commerce](https://github.com/vercel/commerce) | 13018 | TypeScript | Next.js Commerce |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 104698 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 33955 | Python | AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need |
 
-| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55654 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 105115 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 9728 | Unknown | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
+| [leaningtech/webvm](https://github.com/leaningtech/webvm) | 14751 | JavaScript | Virtual Machine for the Web |
 
-| [microsoft/qlib](https://github.com/microsoft/qlib) | 26701 | Python | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 1584 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 13719 | TypeScript | The AI Browser Automation Framework |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 177703 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
