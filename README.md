@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-15 01:01 UTC_
+_Last updated: 2025-07-15 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 22057 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 61734 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 61195 | Python | Python tool for converting files and office documents to Markdown. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 67277 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [gorhill/uBlock](https://github.com/gorhill/uBlock) | 55964 | JavaScript | uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 13424 | Python | Build Real-Time Knowledge Graphs for AI Agents |
 
-| [microsoft/qlib](https://github.com/microsoft/qlib) | 26934 | Python | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. |
+| [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) | 7989 | C++ | CUDA Templates for Linear Algebra Subroutines |
 
-| [vercel/commerce](https://github.com/vercel/commerce) | 13113 | TypeScript | Next.js Commerce |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 26378 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
 
-| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 34108 | Python | AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need |
+| [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) | 1601 | C++ | Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 105356 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 4366 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [leaningtech/webvm](https://github.com/leaningtech/webvm) | 14922 | JavaScript | Virtual Machine for the Web |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 42542 | Python | Investment Research for Everyone, Everywhere. |
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 1825 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
+| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 34258 | Python | AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 177868 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) | 6357 | JavaScript | Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :) |
 <!-- TRENDING_END -->
 
 # TrendSpire
