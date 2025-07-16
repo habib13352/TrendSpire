@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-15 12:30 UTC_
+_Last updated: 2025-07-16 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 61734 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 62904 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 67277 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 67711 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [getzep/graphiti](https://github.com/getzep/graphiti) | 13424 | Python | Build Real-Time Knowledge Graphs for AI Agents |
+| [getzep/graphiti](https://github.com/getzep/graphiti) | 13618 | Python | Build Real-Time Knowledge Graphs for AI Agents |
 
-| [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) | 7989 | C++ | CUDA Templates for Linear Algebra Subroutines |
+| [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) | 8023 | C++ | CUDA Templates for Linear Algebra Subroutines |
 
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 26378 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 26534 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
 
-| [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) | 1601 | C++ | Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi. |
+| [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) | 1667 | C++ | Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi. |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 4366 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 4560 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 42542 | Python | Investment Research for Everyone, Everywhere. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 42715 | Python | Investment Research for Everyone, Everywhere. |
 
-| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 34258 | Python | AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need |
+| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 34358 | Python | AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need |
 
-| [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) | 6357 | JavaScript | Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :) |
+| [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) | 6581 | JavaScript | Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :) |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-16 01:00 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 62904
+    },
+    {
+      "rank": 2,
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.",
+      "language": "Unknown",
+      "stars": 67711
+    },
+    {
+      "rank": 3,
+      "name": "getzep/graphiti",
+      "url": "https://github.com/getzep/graphiti",
+      "description": "Build Real-Time Knowledge Graphs for AI Agents",
+      "language": "Python",
+      "stars": 13618
+    },
+    {
+      "rank": 4,
+      "name": "NVIDIA/cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates for Linear Algebra Subroutines",
+      "language": "C++",
+      "stars": 8023
+    },
+    {
+      "rank": 5,
+      "name": "frappe/erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "stars": 26534
+    },
+    {
+      "rank": 6,
+      "name": "nisargjhaveri/WirelessAndroidAutoDongle",
+      "url": "https://github.com/nisargjhaveri/WirelessAndroidAutoDongle",
+      "description": "Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.",
+      "language": "C++",
+      "stars": 1667
+    },
+    {
+      "rank": 7,
+      "name": "musistudio/claude-code-router",
+      "url": "https://github.com/musistudio/claude-code-router",
+      "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+      "language": "TypeScript",
+      "stars": 4560
+    },
+    {
+      "rank": 8,
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Investment Research for Everyone, Everywhere.",
+      "language": "Python",
+      "stars": 42715
+    },
+    {
+      "rank": 9,
+      "name": "mindsdb/mindsdb",
+      "url": "https://github.com/mindsdb/mindsdb",
+      "description": "AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need",
+      "language": "Python",
+      "stars": 34358
+    },
+    {
+      "rank": 10,
+      "name": "bluewave-labs/Checkmate",
+      "url": "https://github.com/bluewave-labs/Checkmate",
+      "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :)",
+      "language": "JavaScript",
+      "stars": 6581
+    }
+  ]
+}
