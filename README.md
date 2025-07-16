@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-16 01:00 UTC_
+_Last updated: 2025-07-16 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 62904 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 64103 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 67711 | Unknown | FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 20901 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 
-| [getzep/graphiti](https://github.com/getzep/graphiti) | 13618 | Python | Build Real-Time Knowledge Graphs for AI Agents |
+| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18095 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
 
-| [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) | 8023 | C++ | CUDA Templates for Linear Algebra Subroutines |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 26709 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
 
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 26534 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 15950 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
 
-| [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) | 1667 | C++ | Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 23521 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 4560 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 2474 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 42715 | Python | Investment Research for Everyone, Everywhere. |
+| [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | 1075 | Rust | ✨ Agentic chat experience in your terminal. Build applications using natural language. |
 
-| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 34358 | Python | AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need |
+| [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) | 1339 | C# | Undetectable Fast Portable VPN |
 
-| [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) | 6581 | JavaScript | Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: https://discord.com/invite/NAb6H3UTjK :) |
+| [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 6327 | Python | Build effective agents using Model Context Protocol and simple workflow patterns |
 <!-- TRENDING_END -->
 
 # TrendSpire
