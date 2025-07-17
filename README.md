@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-16 12:31 UTC_
+_Last updated: 2025-07-17 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 64103 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 64986 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 20901 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21060 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 
-| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18095 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
+| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18193 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
 
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 26709 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 26813 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
 
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 15950 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 16086 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 23521 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 23716 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 2474 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 2658 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
 
-| [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | 1075 | Rust | ✨ Agentic chat experience in your terminal. Build applications using natural language. |
+| [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | 1143 | Rust | ✨ Agentic chat experience in your terminal. Build applications using natural language. |
 
-| [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) | 1339 | C# | Undetectable Fast Portable VPN |
+| [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) | 1498 | C# | Undetectable Fast Portable VPN |
 
-| [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 6327 | Python | Build effective agents using Model Context Protocol and simple workflow patterns |
+| [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 6428 | Python | Build effective agents using Model Context Protocol and simple workflow patterns |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-17 01:00 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 64986
+    },
+    {
+      "rank": 2,
+      "name": "PromtEngineer/localGPT",
+      "url": "https://github.com/PromtEngineer/localGPT",
+      "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+      "language": "Python",
+      "stars": 21060
+    },
+    {
+      "rank": 3,
+      "name": "maotoumao/MusicFree",
+      "url": "https://github.com/maotoumao/MusicFree",
+      "description": "\u63d2\u4ef6\u5316\u3001\u5b9a\u5236\u5316\u3001\u65e0\u5e7f\u544a\u7684\u514d\u8d39\u97f3\u4e50\u64ad\u653e\u5668",
+      "language": "TypeScript",
+      "stars": 18193
+    },
+    {
+      "rank": 4,
+      "name": "frappe/erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "stars": 26813
+    },
+    {
+      "rank": 5,
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.",
+      "language": "TypeScript",
+      "stars": 16086
+    },
+    {
+      "rank": 6,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "PowerShell",
+      "stars": 23716
+    },
+    {
+      "rank": 7,
+      "name": "OpenPipe/ART",
+      "url": "https://github.com/OpenPipe/ART",
+      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
+      "language": "Python",
+      "stars": 2658
+    },
+    {
+      "rank": 8,
+      "name": "aws/amazon-q-developer-cli",
+      "url": "https://github.com/aws/amazon-q-developer-cli",
+      "description": "\u2728 Agentic chat experience in your terminal. Build applications using natural language.",
+      "language": "Rust",
+      "stars": 1143
+    },
+    {
+      "rank": 9,
+      "name": "vpnhood/VpnHood",
+      "url": "https://github.com/vpnhood/VpnHood",
+      "description": "Undetectable Fast Portable VPN",
+      "language": "C#",
+      "stars": 1498
+    },
+    {
+      "rank": 10,
+      "name": "lastmile-ai/mcp-agent",
+      "url": "https://github.com/lastmile-ai/mcp-agent",
+      "description": "Build effective agents using Model Context Protocol and simple workflow patterns",
+      "language": "Python",
+      "stars": 6428
+    }
+  ]
+}
