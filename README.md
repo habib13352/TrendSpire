@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-17 01:00 UTC_
+_Last updated: 2025-07-17 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 64986 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 65924 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21060 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21553 | Go | Find secrets with Gitleaks 🔑 |
 
-| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18193 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 15797 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 26813 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18419 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
 
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 16086 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
+| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21250 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 23716 | PowerShell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [vanna-ai/vanna](https://github.com/vanna-ai/vanna) | 19084 | Python | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. |
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 2658 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 40078 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) | 1143 | Rust | ✨ Agentic chat experience in your terminal. Build applications using natural language. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 5196 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) | 1498 | C# | Undetectable Fast Portable VPN |
+| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | 9680 | C++ | WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. |
 
-| [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) | 6428 | Python | Build effective agents using Model Context Protocol and simple workflow patterns |
+| [strapi/strapi](https://github.com/strapi/strapi) | 67860 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. |
 <!-- TRENDING_END -->
 
 # TrendSpire
