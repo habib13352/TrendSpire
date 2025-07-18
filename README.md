@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-17 12:30 UTC_
+_Last updated: 2025-07-18 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 65924 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 66597 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21553 | Go | Find secrets with Gitleaks 🔑 |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21695 | Go | Find secrets with Gitleaks 🔑 |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 15797 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 16069 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 
-| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18419 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
+| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18490 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
 
-| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21250 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21385 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 
-| [vanna-ai/vanna](https://github.com/vanna-ai/vanna) | 19084 | Python | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. |
+| [vanna-ai/vanna](https://github.com/vanna-ai/vanna) | 19206 | Python | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 40078 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 40151 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 5196 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 5408 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
 
-| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | 9680 | C++ | WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. |
+| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | 9787 | C++ | WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. |
 
-| [strapi/strapi](https://github.com/strapi/strapi) | 67860 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. |
+| [strapi/strapi](https://github.com/strapi/strapi) | 67978 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. |
 <!-- TRENDING_END -->
 
 # TrendSpire
