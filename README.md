@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-18 01:00 UTC_
+_Last updated: 2025-07-18 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 66597 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 67278 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21695 | Go | Find secrets with Gitleaks 🔑 |
+| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 4913 | Python | No description provided. |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 16069 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
+| [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) | 51053 | Jupyter Notebook | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. |
 
-| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 18490 | TypeScript | 插件化、定制化、无广告的免费音乐播放器 |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 27094 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
 
-| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21385 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21875 | Go | Find secrets with Gitleaks 🔑 |
 
-| [vanna-ai/vanna](https://github.com/vanna-ai/vanna) | 19206 | Python | 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 16317 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 40151 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 16300 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
 
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 5408 | TypeScript | Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. |
+| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 7194 | Python | Official repository for LTX-Video |
 
-| [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) | 9787 | C++ | WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 15767 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
 
-| [strapi/strapi](https://github.com/strapi/strapi) | 67978 | TypeScript | 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first. |
+| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21499 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 <!-- TRENDING_END -->
 
 # TrendSpire

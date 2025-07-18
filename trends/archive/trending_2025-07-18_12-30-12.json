@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-18 12:30 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 67278
+    },
+    {
+      "rank": 2,
+      "name": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "language": "Python",
+      "stars": 4913
+    },
+    {
+      "rank": 3,
+      "name": "facebookresearch/segment-anything",
+      "url": "https://github.com/facebookresearch/segment-anything",
+      "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "language": "Jupyter Notebook",
+      "stars": 51053
+    },
+    {
+      "rank": 4,
+      "name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 27094
+    },
+    {
+      "rank": 5,
+      "name": "gitleaks/gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks \ud83d\udd11",
+      "language": "Go",
+      "stars": 21875
+    },
+    {
+      "rank": 6,
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
+      "language": "Python",
+      "stars": 16317
+    },
+    {
+      "rank": 7,
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.",
+      "language": "TypeScript",
+      "stars": 16300
+    },
+    {
+      "rank": 8,
+      "name": "Lightricks/LTX-Video",
+      "url": "https://github.com/Lightricks/LTX-Video",
+      "description": "Official repository for LTX-Video",
+      "language": "Python",
+      "stars": 7194
+    },
+    {
+      "rank": 9,
+      "name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": 15767
+    },
+    {
+      "rank": 10,
+      "name": "PromtEngineer/localGPT",
+      "url": "https://github.com/PromtEngineer/localGPT",
+      "description": "Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.",
+      "language": "Python",
+      "stars": 21499
+    }
+  ]
+}
