@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-18 12:30 UTC_
+_Last updated: 2025-07-19 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 67278 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 67829 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 4913 | Python | No description provided. |
+| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5040 | Python | No description provided. |
 
-| [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) | 51053 | Jupyter Notebook | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. |
+| [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) | 51108 | Jupyter Notebook | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. |
 
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 27094 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 27194 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21875 | Go | Find secrets with Gitleaks 🔑 |
+| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21998 | Go | Find secrets with Gitleaks 🔑 |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 16317 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 16483 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 16300 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
+| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 16434 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
 
-| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 7194 | Python | Official repository for LTX-Video |
+| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 7269 | Python | Official repository for LTX-Video |
 
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 15767 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 15830 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
 
-| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21499 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21576 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
 <!-- TRENDING_END -->
 
 # TrendSpire
