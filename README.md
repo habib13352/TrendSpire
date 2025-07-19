@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-19 00:58 UTC_
+_Last updated: 2025-07-19 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 67829 | Python | Python tool for converting files and office documents to Markdown. |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 27306 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
 
-| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5040 | Python | No description provided. |
+| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5150 | Python | No description provided. |
 
-| [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) | 51108 | Jupyter Notebook | The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. |
+| [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) | 15174 | Go | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. |
 
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 27194 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 24136 | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
 
-| [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 21998 | Go | Find secrets with Gitleaks 🔑 |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 16624 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 16483 | Python | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | 17758 | Go | GitHub's official MCP Server |
 
-| [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 16434 | TypeScript | DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in. |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 32428 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
 
-| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 7269 | Python | Official repository for LTX-Video |
+| [bknd-io/bknd](https://github.com/bknd-io/bknd) | 2342 | TypeScript | Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more. |
 
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 15830 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | 14480 | Jupyter Notebook | Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course. |
 
-| [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) | 21576 | Python | Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 120722 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 <!-- TRENDING_END -->
 
 # TrendSpire
