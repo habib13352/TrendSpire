@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-20 01:06 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "language": "C++",
+      "stars": 27691
+    },
+    {
+      "rank": 2,
+      "name": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "description": "",
+      "language": "Python",
+      "stars": 5282
+    },
+    {
+      "rank": 3,
+      "name": "bluenviron/mediamtx",
+      "url": "https://github.com/bluenviron/mediamtx",
+      "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+      "language": "Go",
+      "stars": 15287
+    },
+    {
+      "rank": 4,
+      "name": "shadps4-emu/shadPS4",
+      "url": "https://github.com/shadps4-emu/shadPS4",
+      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "language": "C++",
+      "stars": 24519
+    },
+    {
+      "rank": 5,
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites",
+      "language": "Python",
+      "stars": 16789
+    },
+    {
+      "rank": 6,
+      "name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "stars": 17974
+    },
+    {
+      "rank": 7,
+      "name": "remoteintech/remote-jobs",
+      "url": "https://github.com/remoteintech/remote-jobs",
+      "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+      "language": "JavaScript",
+      "stars": 32856
+    },
+    {
+      "rank": 8,
+      "name": "bknd-io/bknd",
+      "url": "https://github.com/bknd-io/bknd",
+      "description": "Lightweight Firebase/Supabase alternative built to run anywhere \u2014 incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.",
+      "language": "TypeScript",
+      "stars": 2528
+    },
+    {
+      "rank": 9,
+      "name": "mrdbourke/pytorch-deep-learning",
+      "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+      "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+      "language": "Jupyter Notebook",
+      "stars": 14633
+    },
+    {
+      "rank": 10,
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 121024
+    }
+  ]
+}
