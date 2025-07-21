@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-20 12:28 UTC_
+_Last updated: 2025-07-21 01:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 9474 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 10704 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 27953 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 28067 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
 
-| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 16605 | TypeScript | The most comprehensive authentication framework for TypeScript |
+| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 16769 | TypeScript | The most comprehensive authentication framework for TypeScript |
 
-| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 33155 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 33708 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
 
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 47165 | Ruby | The personal finance app for everyone |
+| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 47792 | Ruby | The personal finance app for everyone |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 5122 | TypeScript | Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 5326 | TypeScript | Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 27650 | Python | We write your reusable computer vision tools. 💜 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 27996 | Python | We write your reusable computer vision tools. 💜 |
 
-| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 24702 | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
+| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 24849 | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
 
-| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5394 | Python | No description provided. |
+| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5510 | Python | No description provided. |
 
-| [tracel-ai/burn](https://github.com/tracel-ai/burn) | 11715 | Rust | Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability. |
+| [tracel-ai/burn](https://github.com/tracel-ai/burn) | 11819 | Rust | Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability. |
 <!-- TRENDING_END -->
 
 # TrendSpire
