@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-22 01:00 UTC_
+_Last updated: 2025-07-22 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 49363 | Ruby | The personal finance app for everyone |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 12818 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 84515 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows |
+| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 50249 | Ruby | The personal finance app for everyone |
 
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 5318 | Python | A curated list of awesome commands, files, and workflows for Claude Code |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 29235 | Python | We write your reusable computer vision tools. 💜 |
 
-| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5845 | Python | No description provided. |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 49038 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 28322 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 84733 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 312090 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 35390 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
 
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 48785 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 17316 | TypeScript | The most comprehensive authentication framework for TypeScript |
 
-| [Lissy93/dashy](https://github.com/Lissy93/dashy) | 21761 | Vue | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
+| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 14640 | Jupyter Notebook | Neural Networks: Zero to Hero |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 31515 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
+| [fujiapple852/trippy](https://github.com/fujiapple852/trippy) | 5070 | Rust | A network diagnostic tool |
 
-| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 17148 | TypeScript | The most comprehensive authentication framework for TypeScript |
+| [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) | 3866 | Python | An OSINT tool to search for accounts by username and email in social networks. |
 <!-- TRENDING_END -->
 
 # TrendSpire
