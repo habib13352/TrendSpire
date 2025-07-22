@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-21 12:31 UTC_
+_Last updated: 2025-07-22 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 48329 | Ruby | The personal finance app for everyone |
+| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 49363 | Ruby | The personal finance app for everyone |
 
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 84331 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 84515 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows |
 
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 4975 | Python | A curated list of awesome commands, files, and workflows for Claude Code |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 5318 | Python | A curated list of awesome commands, files, and workflows for Claude Code |
 
-| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5708 | Python | No description provided. |
+| [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) | 5845 | Python | No description provided. |
 
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 28210 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 28322 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 311931 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 312090 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 48628 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 48785 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
-| [Lissy93/dashy](https://github.com/Lissy93/dashy) | 21594 | Vue | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
+| [Lissy93/dashy](https://github.com/Lissy93/dashy) | 21761 | Vue | 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 31339 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 31515 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
 
-| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 16987 | TypeScript | The most comprehensive authentication framework for TypeScript |
+| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 17148 | TypeScript | The most comprehensive authentication framework for TypeScript |
 <!-- TRENDING_END -->
 
 # TrendSpire
