@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-23 01:01 UTC_
+_Last updated: 2025-07-23 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 14161 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 15446 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 50480 | Ruby | The personal finance app for everyone |
+| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 50827 | Ruby | The personal finance app for everyone |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 29437 | Python | We write your reusable computer vision tools. 💜 |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 44571 | Python | Investment Research for Everyone, Everywhere. |
 
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 49195 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| [moby/moby](https://github.com/moby/moby) | 70139 | Go | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
 
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 84848 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22236 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 35715 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 36002 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
 
-| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 17449 | TypeScript | The most comprehensive authentication framework for TypeScript |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 312448 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 14798 | Jupyter Notebook | Neural Networks: Zero to Hero |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 29673 | Python | We write your reusable computer vision tools. 💜 |
 
-| [fujiapple852/trippy](https://github.com/fujiapple852/trippy) | 5286 | Rust | A network diagnostic tool |
+| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 12534 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
 
-| [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) | 4034 | Python | An OSINT tool to search for accounts by username and email in social networks. |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 31860 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
 <!-- TRENDING_END -->
 
 # TrendSpire

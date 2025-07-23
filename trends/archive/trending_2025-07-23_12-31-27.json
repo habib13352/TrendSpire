@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-23 12:31 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "srbhr/Resume-Matcher",
+      "url": "https://github.com/srbhr/Resume-Matcher",
+      "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+      "language": "TypeScript",
+      "stars": 15446
+    },
+    {
+      "rank": 2,
+      "name": "maybe-finance/maybe",
+      "url": "https://github.com/maybe-finance/maybe",
+      "description": "The personal finance app for everyone",
+      "language": "Ruby",
+      "stars": 50827
+    },
+    {
+      "rank": 3,
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Investment Research for Everyone, Everywhere.",
+      "language": "Python",
+      "stars": 44571
+    },
+    {
+      "rank": 4,
+      "name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "language": "Go",
+      "stars": 70139
+    },
+    {
+      "rank": 5,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 22236
+    },
+    {
+      "rank": 6,
+      "name": "remoteintech/remote-jobs",
+      "url": "https://github.com/remoteintech/remote-jobs",
+      "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
+      "language": "JavaScript",
+      "stars": 36002
+    },
+    {
+      "rank": 7,
+      "name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars": 312448
+    },
+    {
+      "rank": 8,
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+      "language": "Python",
+      "stars": 29673
+    },
+    {
+      "rank": 9,
+      "name": "zephyrproject-rtos/zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "stars": 12534
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "11 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 31860
+    }
+  ]
+}
