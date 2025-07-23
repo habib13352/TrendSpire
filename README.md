@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-22 12:31 UTC_
+_Last updated: 2025-07-23 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 12818 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 14161 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 50249 | Ruby | The personal finance app for everyone |
+| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 50480 | Ruby | The personal finance app for everyone |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 29235 | Python | We write your reusable computer vision tools. 💜 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 29437 | Python | We write your reusable computer vision tools. 💜 |
 
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 49038 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 49195 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 84733 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | 84848 | TypeScript | ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows |
 
-| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 35390 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 35715 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
 
-| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 17316 | TypeScript | The most comprehensive authentication framework for TypeScript |
+| [better-auth/better-auth](https://github.com/better-auth/better-auth) | 17449 | TypeScript | The most comprehensive authentication framework for TypeScript |
 
-| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 14640 | Jupyter Notebook | Neural Networks: Zero to Hero |
+| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 14798 | Jupyter Notebook | Neural Networks: Zero to Hero |
 
-| [fujiapple852/trippy](https://github.com/fujiapple852/trippy) | 5070 | Rust | A network diagnostic tool |
+| [fujiapple852/trippy](https://github.com/fujiapple852/trippy) | 5286 | Rust | A network diagnostic tool |
 
-| [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) | 3866 | Python | An OSINT tool to search for accounts by username and email in social networks. |
+| [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird) | 4034 | Python | An OSINT tool to search for accounts by username and email in social networks. |
 <!-- TRENDING_END -->
 
 # TrendSpire
