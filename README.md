@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-23 12:31 UTC_
+_Last updated: 2025-07-24 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 15446 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 16545 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 50827 | Ruby | The personal finance app for everyone |
+| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 51484 | Ruby | The personal finance app for everyone |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 44571 | Python | Investment Research for Everyone, Everywhere. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 44860 | Python | Investment Research for Everyone, Everywhere. |
 
-| [moby/moby](https://github.com/moby/moby) | 70139 | Go | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
+| [moby/moby](https://github.com/moby/moby) | 70185 | Go | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22236 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22396 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 36002 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
+| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 36210 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 312448 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 312599 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 29673 | Python | We write your reusable computer vision tools. 💜 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 29792 | Python | We write your reusable computer vision tools. 💜 |
 
-| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 12534 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 12577 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 31860 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 32038 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
