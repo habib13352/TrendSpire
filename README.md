@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-24 01:00 UTC_
+_Last updated: 2025-07-24 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 16545 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 17715 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 
-| [maybe-finance/maybe](https://github.com/maybe-finance/maybe) | 51484 | Ruby | The personal finance app for everyone |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 45292 | Python | Investment Research for Everyone, Everywhere. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 44860 | Python | Investment Research for Everyone, Everywhere. |
+| [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) | 23520 | JavaScript | Label Studio is a multi-type data labeling and annotation tool with standardized output format |
 
-| [moby/moby](https://github.com/moby/moby) | 70185 | Go | The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems |
+| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 32953 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22396 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 7041 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
 
-| [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | 36210 | JavaScript | A list of semi to fully remote-friendly companies (jobs) in tech. |
+| [frappe/hrms](https://github.com/frappe/hrms) | 3426 | Python | Open Source HR and Payroll Software |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 312599 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) | 23096 | Python | Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 29792 | Python | We write your reusable computer vision tools. 💜 |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 92426 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 12577 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| [minio/minio](https://github.com/minio/minio) | 53965 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 32038 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
+| [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) | 4788 | Jupyter Notebook | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
