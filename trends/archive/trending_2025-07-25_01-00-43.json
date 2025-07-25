@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-25 01:00 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "srbhr/Resume-Matcher",
+      "url": "https://github.com/srbhr/Resume-Matcher",
+      "description": "Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.",
+      "language": "TypeScript",
+      "stars": 18643
+    },
+    {
+      "rank": 2,
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Investment Research for Everyone, Everywhere.",
+      "language": "Python",
+      "stars": 45508
+    },
+    {
+      "rank": 3,
+      "name": "HumanSignal/label-studio",
+      "url": "https://github.com/HumanSignal/label-studio",
+      "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+      "language": "JavaScript",
+      "stars": 23657
+    },
+    {
+      "rank": 4,
+      "name": "yeongpin/cursor-free-vip",
+      "url": "https://github.com/yeongpin/cursor-free-vip",
+      "description": "[Support 0.49.x]\uff08Reset Cursor AI MachineID & Bypass Higher Token Limit\uff09 Cursor Ai \uff0c\u81ea\u52a8\u91cd\u7f6e\u673a\u5668ID \uff0c \u514d\u8d39\u5347\u7ea7\u4f7f\u7528Pro\u529f\u80fd: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+      "language": "Python",
+      "stars": 33079
+    },
+    {
+      "rank": 5,
+      "name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing \u2014 fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": 7308
+    },
+    {
+      "rank": 6,
+      "name": "frappe/hrms",
+      "url": "https://github.com/frappe/hrms",
+      "description": "Open Source HR and Payroll Software",
+      "language": "Python",
+      "stars": 3637
+    },
+    {
+      "rank": 7,
+      "name": "QwenLM/Qwen3",
+      "url": "https://github.com/QwenLM/Qwen3",
+      "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+      "language": "Python",
+      "stars": 23200
+    },
+    {
+      "rank": 8,
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
+      "language": "Jupyter Notebook",
+      "stars": 92600
+    },
+    {
+      "rank": 9,
+      "name": "minio/minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "language": "Go",
+      "stars": 54044
+    },
+    {
+      "rank": 10,
+      "name": "langchain-ai/rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "stars": 4908
+    }
+  ]
+}
