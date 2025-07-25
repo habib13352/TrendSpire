@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-25 01:00 UTC_
+_Last updated: 2025-07-25 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 18643 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 8513 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 45508 | Python | Investment Research for Everyone, Everywhere. |
+| [m1k1o/neko](https://github.com/m1k1o/neko) | 13281 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
 
-| [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) | 23657 | JavaScript | Label Studio is a multi-type data labeling and annotation tool with standardized output format |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22695 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 33079 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
+| [semgrep/semgrep](https://github.com/semgrep/semgrep) | 12134 | OCaml | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. |
 
-| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 7308 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 45903 | Python | Investment Research for Everyone, Everywhere. |
 
-| [frappe/hrms](https://github.com/frappe/hrms) | 3637 | Python | Open Source HR and Payroll Software |
+| [frappe/hrms](https://github.com/frappe/hrms) | 3908 | Python | Open Source HR and Payroll Software |
 
-| [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) | 23200 | Python | Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud. |
+| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 8803 | Rust | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 92600 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) | 9880 | TypeScript | React Native's Animated library reimplemented |
 
-| [minio/minio](https://github.com/minio/minio) | 54044 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
+| [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | 9297 | Unknown | A curated list of modern Generative Artificial Intelligence projects and services |
 
-| [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) | 4908 | Jupyter Notebook | No description provided. |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 19478 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 <!-- TRENDING_END -->
 
 # TrendSpire
