@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-26 00:59 UTC_
+_Last updated: 2025-07-26 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 8852 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
+| [frappe/hrms](https://github.com/frappe/hrms) | 4436 | Python | Open Source HR and Payroll Software |
 
-| [m1k1o/neko](https://github.com/m1k1o/neko) | 13618 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
+| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 9123 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22747 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22803 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [semgrep/semgrep](https://github.com/semgrep/semgrep) | 12256 | OCaml | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. |
+| [m1k1o/neko](https://github.com/m1k1o/neko) | 13865 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 46072 | Python | Investment Research for Everyone, Everywhere. |
+| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 7847 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
 
-| [frappe/hrms](https://github.com/frappe/hrms) | 4230 | Python | Open Source HR and Payroll Software |
+| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 28493 | Java | Open Source Identity and Access Management For Modern Applications and Services |
 
-| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 8928 | Rust | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 26169 | Python | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] |
 
-| [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) | 9943 | TypeScript | React Native's Animated library reimplemented |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 18970 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | 9411 | Unknown | A curated list of modern Generative Artificial Intelligence projects and services |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 9439 | Python | The LLM Evaluation Framework |
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 19679 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [dataease/dataease](https://github.com/dataease/dataease) | 20725 | Java | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-07-26 12:27 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "frappe/hrms",
+      "url": "https://github.com/frappe/hrms",
+      "description": "Open Source HR and Payroll Software",
+      "language": "Python",
+      "stars": 4436
+    },
+    {
+      "rank": 2,
+      "name": "QwenLM/Qwen3-Coder",
+      "url": "https://github.com/QwenLM/Qwen3-Coder",
+      "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
+      "language": "Python",
+      "stars": 9123
+    },
+    {
+      "rank": 3,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 22803
+    },
+    {
+      "rank": 4,
+      "name": "m1k1o/neko",
+      "url": "https://github.com/m1k1o/neko",
+      "description": "A self hosted virtual browser that runs in docker and uses WebRTC.",
+      "language": "Go",
+      "stars": 13865
+    },
+    {
+      "rank": 5,
+      "name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing \u2014 fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": 7847
+    },
+    {
+      "rank": 6,
+      "name": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "stars": 28493
+    },
+    {
+      "rank": 7,
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+      "language": "Python",
+      "stars": 26169
+    },
+    {
+      "rank": 8,
+      "name": "Infisical/infisical",
+      "url": "https://github.com/Infisical/infisical",
+      "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+      "language": "TypeScript",
+      "stars": 18970
+    },
+    {
+      "rank": 9,
+      "name": "confident-ai/deepeval",
+      "url": "https://github.com/confident-ai/deepeval",
+      "description": "The LLM Evaluation Framework",
+      "language": "Python",
+      "stars": 9439
+    },
+    {
+      "rank": 10,
+      "name": "dataease/dataease",
+      "url": "https://github.com/dataease/dataease",
+      "description": "\ud83d\udd25 \u4eba\u4eba\u53ef\u7528\u7684\u5f00\u6e90 BI \u5de5\u5177\uff0c\u6570\u636e\u53ef\u89c6\u5316\u795e\u5668\u3002An open-source BI tool alternative to Tableau.",
+      "language": "Java",
+      "stars": 20725
+    }
+  ]
+}
