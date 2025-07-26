@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-25 12:30 UTC_
+_Last updated: 2025-07-26 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 8513 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
+| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 8852 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [m1k1o/neko](https://github.com/m1k1o/neko) | 13281 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
+| [m1k1o/neko](https://github.com/m1k1o/neko) | 13618 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22695 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22747 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [semgrep/semgrep](https://github.com/semgrep/semgrep) | 12134 | OCaml | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. |
+| [semgrep/semgrep](https://github.com/semgrep/semgrep) | 12256 | OCaml | Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 45903 | Python | Investment Research for Everyone, Everywhere. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 46072 | Python | Investment Research for Everyone, Everywhere. |
 
-| [frappe/hrms](https://github.com/frappe/hrms) | 3908 | Python | Open Source HR and Payroll Software |
+| [frappe/hrms](https://github.com/frappe/hrms) | 4230 | Python | Open Source HR and Payroll Software |
 
-| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 8803 | Rust | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. |
+| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | 8928 | Rust | TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation. |
 
-| [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) | 9880 | TypeScript | React Native's Animated library reimplemented |
+| [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) | 9943 | TypeScript | React Native's Animated library reimplemented |
 
-| [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | 9297 | Unknown | A curated list of modern Generative Artificial Intelligence projects and services |
+| [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | 9411 | Unknown | A curated list of modern Generative Artificial Intelligence projects and services |
 
-| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 19478 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
+| [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 19679 | TypeScript | Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. |
 <!-- TRENDING_END -->
 
 # TrendSpire
