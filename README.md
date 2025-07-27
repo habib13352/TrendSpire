@@ -1,30 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-27 01:06 UTC_
+_Last updated: 2025-07-27 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [frappe/hrms](https://github.com/frappe/hrms) | 4606 | Python | Open Source HR and Payroll Software |
+| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 26107 | Python | A generative world for general-purpose robotics & embodied AI learning. |
 
-| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 9335 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 51728 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22871 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [frappe/hrms](https://github.com/frappe/hrms) | 4751 | Python | Open Source HR and Payroll Software |
 
-| [m1k1o/neko](https://github.com/m1k1o/neko) | 14015 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22929 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 7963 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) | 1615 | Python | Examples and tutorials to help developers build AI systems |
 
-| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 28596 | Java | Open Source Identity and Access Management For Modern Applications and Services |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 56585 | Markdown | 📚 Collaborative cheatsheets for console commands |
 
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 26246 | Python | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] |
-
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 19139 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
-
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 9525 | Python | The LLM Evaluation Framework |
-
-| [dataease/dataease](https://github.com/dataease/dataease) | 20796 | Java | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 19250 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 <!-- TRENDING_END -->
 
 # TrendSpire
