@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-26 12:27 UTC_
+_Last updated: 2025-07-27 01:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [frappe/hrms](https://github.com/frappe/hrms) | 4436 | Python | Open Source HR and Payroll Software |
+| [frappe/hrms](https://github.com/frappe/hrms) | 4606 | Python | Open Source HR and Payroll Software |
 
-| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 9123 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
+| [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) | 9335 | Python | Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22803 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22871 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [m1k1o/neko](https://github.com/m1k1o/neko) | 13865 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
+| [m1k1o/neko](https://github.com/m1k1o/neko) | 14015 | Go | A self hosted virtual browser that runs in docker and uses WebRTC. |
 
-| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 7847 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 7963 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
 
-| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 28493 | Java | Open Source Identity and Access Management For Modern Applications and Services |
+| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 28596 | Java | Open Source Identity and Access Management For Modern Applications and Services |
 
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 26169 | Python | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 26246 | Python | Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq] |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 18970 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 19139 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 9439 | Python | The LLM Evaluation Framework |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | 9525 | Python | The LLM Evaluation Framework |
 
-| [dataease/dataease](https://github.com/dataease/dataease) | 20725 | Java | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| [dataease/dataease](https://github.com/dataease/dataease) | 20796 | Java | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
 <!-- TRENDING_END -->
 
 # TrendSpire
