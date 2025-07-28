@@ -1,24 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-27 12:28 UTC_
+_Last updated: 2025-07-28 01:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 26107 | Python | A generative world for general-purpose robotics & embodied AI learning. |
+| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 26300 | Python | A generative world for general-purpose robotics & embodied AI learning. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 51728 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 52178 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [frappe/hrms](https://github.com/frappe/hrms) | 4751 | Python | Open Source HR and Payroll Software |
+| [frappe/hrms](https://github.com/frappe/hrms) | 4874 | Python | Open Source HR and Payroll Software |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 22929 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 23002 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) | 1615 | Python | Examples and tutorials to help developers build AI systems |
+| [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) | 1788 | Python | Examples and tutorials to help developers build AI systems |
 
-| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 56585 | Markdown | 📚 Collaborative cheatsheets for console commands |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 56801 | Markdown | 📚 Collaborative cheatsheets for console commands |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 19250 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 19401 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 <!-- TRENDING_END -->
 
 # TrendSpire
