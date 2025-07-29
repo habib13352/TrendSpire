@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-29 01:07 UTC_
+_Last updated: 2025-07-29 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 52980 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [9001/copyparty](https://github.com/9001/copyparty) | 8686 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
 
-| [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) | 26634 | Python | A generative world for general-purpose robotics & embodied AI learning. |
+| [cloudwego/eino](https://github.com/cloudwego/eino) | 5545 | Go | The ultimate LLM/AI application development framework in Golang. |
 
-| [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) | 2157 | Python | Examples and tutorials to help developers build AI systems |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 6088 | Rust | peer-2-peer that just works |
 
-| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 57190 | Markdown | 📚 Collaborative cheatsheets for console commands |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 57413 | Markdown | 📚 Collaborative cheatsheets for console commands |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 93357 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 53320 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 25437 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 121321 | C# | Windows system utilities to maximize productivity |
 
-| [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | 14434 | Python | Command-line program to download image galleries and collections from several image hosting sites |
+| [lapce/lapce](https://github.com/lapce/lapce) | 36845 | Rust | Lightning-fast and Powerful Code Editor written in Rust |
 
-| [outline/outline](https://github.com/outline/outline) | 33187 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 3193 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 2710 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 10886 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
 
-| [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) | 24088 | TypeScript | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
+| [outline/outline](https://github.com/outline/outline) | 33337 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. |
 <!-- TRENDING_END -->
 
 # TrendSpire
