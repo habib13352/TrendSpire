@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-30 01:01 UTC_
+_Last updated: 2025-07-30 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [9001/copyparty](https://github.com/9001/copyparty) | 10536 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
+| [9001/copyparty](https://github.com/9001/copyparty) | 12243 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
 
-| [cloudwego/eino](https://github.com/cloudwego/eino) | 5662 | Go | The ultimate LLM/AI application development framework in Golang. |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 31734 | Python | We write your reusable computer vision tools. 💜 |
 
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 6266 | Rust | peer-2-peer that just works |
+| [outline/outline](https://github.com/outline/outline) | 33585 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. |
 
-| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 57586 | Markdown | 📚 Collaborative cheatsheets for console commands |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 11278 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 53553 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 57760 | Markdown | 📚 Collaborative cheatsheets for console commands |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 121448 | C# | Windows system utilities to maximize productivity |
+| [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | 14558 | Python | Command-line program to download image galleries and collections from several image hosting sites |
 
-| [lapce/lapce](https://github.com/lapce/lapce) | 36922 | Rust | Lightning-fast and Powerful Code Editor written in Rust |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 387000 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 3528 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 3870 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 11014 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
+| [cloudwego/eino](https://github.com/cloudwego/eino) | 5847 | Go | The ultimate LLM/AI application development framework in Golang. |
 
-| [outline/outline](https://github.com/outline/outline) | 33448 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. |
+| [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) | 24256 | TypeScript | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
 <!-- TRENDING_END -->
 
 # TrendSpire
