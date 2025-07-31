@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-31 01:01 UTC_
+_Last updated: 2025-07-31 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [9001/copyparty](https://github.com/9001/copyparty) | 14055 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
+| [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) | 3553 | Python | No description provided. |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 32011 | Python | We write your reusable computer vision tools. 💜 |
+| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8565 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
 
-| [outline/outline](https://github.com/outline/outline) | 33693 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. |
+| [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 3728 | Python | SkyReels-V2: Infinite-length Film Generative model |
 
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 11401 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4001 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
 
-| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 57904 | Markdown | 📚 Collaborative cheatsheets for console commands |
+| [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | 3382 | Unknown | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. |
 
-| [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | 14626 | Python | Command-line program to download image galleries and collections from several image hosting sites |
+| [9001/copyparty](https://github.com/9001/copyparty) | 15510 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
 
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 387208 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91323 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 4104 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 9001 | TypeScript | ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds. |
 
-| [cloudwego/eino](https://github.com/cloudwego/eino) | 5923 | Go | The ultimate LLM/AI application development framework in Golang. |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13533 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
 
-| [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) | 24356 | TypeScript | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
+| [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) | 3460 | TypeScript | Local-first AI Notepad for Private Meetings |
 <!-- TRENDING_END -->
 
 # TrendSpire
