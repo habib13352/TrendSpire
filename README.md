@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-30 12:32 UTC_
+_Last updated: 2025-07-31 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [9001/copyparty](https://github.com/9001/copyparty) | 12243 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
+| [9001/copyparty](https://github.com/9001/copyparty) | 14055 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 31734 | Python | We write your reusable computer vision tools. 💜 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 32011 | Python | We write your reusable computer vision tools. 💜 |
 
-| [outline/outline](https://github.com/outline/outline) | 33585 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. |
+| [outline/outline](https://github.com/outline/outline) | 33693 | TypeScript | The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible. |
 
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 11278 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 11401 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
 
-| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 57760 | Markdown | 📚 Collaborative cheatsheets for console commands |
+| [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 57904 | Markdown | 📚 Collaborative cheatsheets for console commands |
 
-| [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | 14558 | Python | Command-line program to download image galleries and collections from several image hosting sites |
+| [mikf/gallery-dl](https://github.com/mikf/gallery-dl) | 14626 | Python | Command-line program to download image galleries and collections from several image hosting sites |
 
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 387000 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 387208 | Unknown | 😎 Awesome lists about all kinds of interesting topics |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 3870 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 4104 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [cloudwego/eino](https://github.com/cloudwego/eino) | 5847 | Go | The ultimate LLM/AI application development framework in Golang. |
+| [cloudwego/eino](https://github.com/cloudwego/eino) | 5923 | Go | The ultimate LLM/AI application development framework in Golang. |
 
-| [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) | 24256 | TypeScript | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
+| [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) | 24356 | TypeScript | Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. |
 <!-- TRENDING_END -->
 
 # TrendSpire
