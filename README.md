@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-01 01:08 UTC_
+_Last updated: 2025-08-01 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) | 3628 | Python | No description provided. |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4392 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
 
-| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8646 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
+| [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 6565 | HTML | Application for managing recipes, planning meals, building shopping lists and much much more! |
 
-| [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 3862 | Python | SkyReels-V2: Infinite-length Film Generative model |
+| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 2421 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4197 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91476 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | 3542 | Unknown | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. |
+| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16222 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
 
-| [9001/copyparty](https://github.com/9001/copyparty) | 16423 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
+| [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) | 2978 | C++ | Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation. |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91396 | TypeScript | JavaScript API for Chrome and Firefox |
+| [9001/copyparty](https://github.com/9001/copyparty) | 17151 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
 
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 9180 | TypeScript | ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds. |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 2747 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13567 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8767 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
 
-| [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) | 3683 | TypeScript | Local-first AI Notepad for Private Meetings |
+| [playcanvas/editor](https://github.com/playcanvas/editor) | 362 | TypeScript | Powerful visual editor environment for building WebGL, WebGPU, WebXR apps |
 <!-- TRENDING_END -->
 
 # TrendSpire
