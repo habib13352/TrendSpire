@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-07-31 12:30 UTC_
+_Last updated: 2025-08-01 01:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) | 3553 | Python | No description provided. |
+| [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) | 3628 | Python | No description provided. |
 
-| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8565 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
+| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8646 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
 
-| [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 3728 | Python | SkyReels-V2: Infinite-length Film Generative model |
+| [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) | 3862 | Python | SkyReels-V2: Infinite-length Film Generative model |
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4001 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4197 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
 
-| [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | 3382 | Unknown | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. |
+| [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) | 3542 | Unknown | The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. |
 
-| [9001/copyparty](https://github.com/9001/copyparty) | 15510 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
+| [9001/copyparty](https://github.com/9001/copyparty) | 16423 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91323 | TypeScript | JavaScript API for Chrome and Firefox |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91396 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 9001 | TypeScript | ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds. |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 9180 | TypeScript | ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds. |
 
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13533 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13567 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
 
-| [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) | 3460 | TypeScript | Local-first AI Notepad for Private Meetings |
+| [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) | 3683 | TypeScript | Local-first AI Notepad for Private Meetings |
 <!-- TRENDING_END -->
 
 # TrendSpire

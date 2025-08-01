@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-01 01:08 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "kijai/ComfyUI-WanVideoWrapper",
+      "url": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+      "description": "",
+      "language": "Python",
+      "stars": 3628
+    },
+    {
+      "rank": 2,
+      "name": "stenzek/duckstation",
+      "url": "https://github.com/stenzek/duckstation",
+      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "language": "C++",
+      "stars": 8646
+    },
+    {
+      "rank": 3,
+      "name": "SkyworkAI/SkyReels-V2",
+      "url": "https://github.com/SkyworkAI/SkyReels-V2",
+      "description": "SkyReels-V2: Infinite-length Film Generative model",
+      "language": "Python",
+      "stars": 3862
+    },
+    {
+      "rank": 4,
+      "name": "OpenPipe/ART",
+      "url": "https://github.com/OpenPipe/ART",
+      "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!",
+      "language": "Python",
+      "stars": 4197
+    },
+    {
+      "rank": 5,
+      "name": "EmenstaNougat/ESP32-BlueJammer",
+      "url": "https://github.com/EmenstaNougat/ESP32-BlueJammer",
+      "description": "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.",
+      "language": "Unknown",
+      "stars": 3542
+    },
+    {
+      "rank": 6,
+      "name": "9001/copyparty",
+      "url": "https://github.com/9001/copyparty",
+      "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+      "language": "Python",
+      "stars": 16423
+    },
+    {
+      "rank": 7,
+      "name": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "description": "JavaScript API for Chrome and Firefox",
+      "language": "TypeScript",
+      "stars": 91396
+    },
+    {
+      "rank": 8,
+      "name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "\u26a1\ufe0fWren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.",
+      "language": "TypeScript",
+      "stars": 9180
+    },
+    {
+      "rank": 9,
+      "name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": 13567
+    },
+    {
+      "rank": 10,
+      "name": "fastrepl/hyprnote",
+      "url": "https://github.com/fastrepl/hyprnote",
+      "description": "Local-first AI Notepad for Private Meetings",
+      "language": "TypeScript",
+      "stars": 3683
+    }
+  ]
+}
