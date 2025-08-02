@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-02 00:59 UTC_
+_Last updated: 2025-08-02 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4551 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 3390 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 6748 | HTML | Application for managing recipes, planning meals, building shopping lists and much much more! |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13598 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
 
-| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 2586 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 4468 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91541 | TypeScript | JavaScript API for Chrome and Firefox |
+| [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) | 1196 | Java | Open Adversary Exposure Validation Platform |
 
-| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16311 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
+| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 79591 | Clojure | Free monospaced font with programming ligatures |
 
-| [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) | 3121 | C++ | Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation. |
+| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16377 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
 
-| [9001/copyparty](https://github.com/9001/copyparty) | 17666 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 192485 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 3119 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 157386 | Unknown | Master the command line, in one page |
 
-| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8818 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
+| [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) | 64357 | Unknown | A long list of (advanced) JavaScript questions, and their explanations ✨ |
 
-| [playcanvas/editor](https://github.com/playcanvas/editor) | 496 | TypeScript | Powerful visual editor environment for building WebGL, WebGPU, WebXR apps |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 180562 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-02 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 3390
+    },
+    {
+      "rank": 2,
+      "name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": 13598
+    },
+    {
+      "rank": 3,
+      "name": "MotiaDev/motia",
+      "url": "https://github.com/MotiaDev/motia",
+      "description": "Unified Backend Framework for APIs, Events, and AI Agents",
+      "language": "TypeScript",
+      "stars": 4468
+    },
+    {
+      "rank": 4,
+      "name": "OpenBAS-Platform/openbas",
+      "url": "https://github.com/OpenBAS-Platform/openbas",
+      "description": "Open Adversary Exposure Validation Platform",
+      "language": "Java",
+      "stars": 1196
+    },
+    {
+      "rank": 5,
+      "name": "tonsky/FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
+      "language": "Clojure",
+      "stars": 79591
+    },
+    {
+      "rank": 6,
+      "name": "kubesphere/kubesphere",
+      "url": "https://github.com/kubesphere/kubesphere",
+      "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management \u2388 \ud83d\udda5 \u2601\ufe0f",
+      "language": "Go",
+      "stars": 16377
+    },
+    {
+      "rank": 7,
+      "name": "trekhleb/javascript-algorithms",
+      "url": "https://github.com/trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "language": "JavaScript",
+      "stars": 192485
+    },
+    {
+      "rank": 8,
+      "name": "jlevy/the-art-of-command-line",
+      "url": "https://github.com/jlevy/the-art-of-command-line",
+      "description": "Master the command line, in one page",
+      "language": "Unknown",
+      "stars": 157386
+    },
+    {
+      "rank": 9,
+      "name": "lydiahallie/javascript-questions",
+      "url": "https://github.com/lydiahallie/javascript-questions",
+      "description": "A long list of (advanced) JavaScript questions, and their explanations \u2728",
+      "language": "Unknown",
+      "stars": 64357
+    },
+    {
+      "rank": 10,
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "Unknown",
+      "stars": 180562
+    }
+  ]
+}
