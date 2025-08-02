@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-01 12:31 UTC_
+_Last updated: 2025-08-02 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4392 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 4551 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! |
 
-| [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 6565 | HTML | Application for managing recipes, planning meals, building shopping lists and much much more! |
+| [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) | 6748 | HTML | Application for managing recipes, planning meals, building shopping lists and much much more! |
 
-| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 2421 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
+| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 2586 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91476 | TypeScript | JavaScript API for Chrome and Firefox |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91541 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16222 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
+| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16311 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
 
-| [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) | 2978 | C++ | Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation. |
+| [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) | 3121 | C++ | Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation. |
 
-| [9001/copyparty](https://github.com/9001/copyparty) | 17151 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
+| [9001/copyparty](https://github.com/9001/copyparty) | 17666 | Python | Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 2747 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 3119 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8767 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
+| [stenzek/duckstation](https://github.com/stenzek/duckstation) | 8818 | C++ | Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64 |
 
-| [playcanvas/editor](https://github.com/playcanvas/editor) | 362 | TypeScript | Powerful visual editor environment for building WebGL, WebGPU, WebXR apps |
+| [playcanvas/editor](https://github.com/playcanvas/editor) | 496 | TypeScript | Powerful visual editor environment for building WebGL, WebGPU, WebXR apps |
 <!-- TRENDING_END -->
 
 # TrendSpire
