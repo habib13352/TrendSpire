@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-03 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 4128
+    },
+    {
+      "rank": 2,
+      "name": "wg-easy/wg-easy",
+      "url": "https://github.com/wg-easy/wg-easy",
+      "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+      "language": "TypeScript",
+      "stars": 20871
+    },
+    {
+      "rank": 3,
+      "name": "eclipse-sumo/sumo",
+      "url": "https://github.com/eclipse-sumo/sumo",
+      "description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.",
+      "language": "C++",
+      "stars": 3234
+    },
+    {
+      "rank": 4,
+      "name": "trekhleb/javascript-algorithms",
+      "url": "https://github.com/trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "language": "JavaScript",
+      "stars": 192634
+    },
+    {
+      "rank": 5,
+      "name": "XTLS/Xray-core",
+      "url": "https://github.com/XTLS/Xray-core",
+      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
+      "language": "Go",
+      "stars": 30315
+    },
+    {
+      "rank": 6,
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 41785
+    },
+    {
+      "rank": 7,
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 61147
+    },
+    {
+      "rank": 8,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 46167
+    },
+    {
+      "rank": 9,
+      "name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "Go",
+      "stars": 16428
+    },
+    {
+      "rank": 10,
+      "name": "TideDra/zotero-arxiv-daily",
+      "url": "https://github.com/TideDra/zotero-arxiv-daily",
+      "description": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+      "language": "Python",
+      "stars": 2552
+    }
+  ]
+}

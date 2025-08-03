@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-03 01:08 UTC_
+_Last updated: 2025-08-03 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 3722 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 4128 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13639 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 20871 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 4650 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
+| [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) | 3234 | C++ | Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation. |
 
-| [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) | 1251 | Java | Open Adversary Exposure Validation Platform |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 192634 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 
-| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 79694 | Clojure | Free monospaced font with programming ligatures |
+| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 30315 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
 
-| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16441 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 41785 | C# | The Free Software Media System - Server Backend & API |
 
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 192560 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 61147 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 157524 | Unknown | Master the command line, in one page |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 46167 | C++ | Truly independent web browser |
 
-| [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) | 64479 | Unknown | A long list of (advanced) JavaScript questions, and their explanations ✨ |
+| [sst/opencode](https://github.com/sst/opencode) | 16428 | Go | AI coding agent, built for the terminal. |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 180709 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | 2552 | Python | Recommend new arxiv papers of your interest daily according to your Zotero libarary. |
 <!-- TRENDING_END -->
 
 # TrendSpire
