@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-02 12:28 UTC_
+_Last updated: 2025-08-03 01:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 3390 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 3722 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13598 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13639 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 4468 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 4650 | TypeScript | Unified Backend Framework for APIs, Events, and AI Agents |
 
-| [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) | 1196 | Java | Open Adversary Exposure Validation Platform |
+| [OpenBAS-Platform/openbas](https://github.com/OpenBAS-Platform/openbas) | 1251 | Java | Open Adversary Exposure Validation Platform |
 
-| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 79591 | Clojure | Free monospaced font with programming ligatures |
+| [tonsky/FiraCode](https://github.com/tonsky/FiraCode) | 79694 | Clojure | Free monospaced font with programming ligatures |
 
-| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16377 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
+| [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) | 16441 | Go | The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ |
 
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 192485 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 192560 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 
-| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 157386 | Unknown | Master the command line, in one page |
+| [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 157524 | Unknown | Master the command line, in one page |
 
-| [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) | 64357 | Unknown | A long list of (advanced) JavaScript questions, and their explanations ✨ |
+| [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) | 64479 | Unknown | A long list of (advanced) JavaScript questions, and their explanations ✨ |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 180562 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 180709 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
