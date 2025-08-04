@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-08-04 12:33 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 6117
+    },
+    {
+      "rank": 2,
+      "name": "souzatharsis/podcastfy",
+      "url": "https://github.com/souzatharsis/podcastfy",
+      "description": "An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI",
+      "language": "Python",
+      "stars": 4334
+    },
+    {
+      "rank": 3,
+      "name": "actualbudget/actual",
+      "url": "https://github.com/actualbudget/actual",
+      "description": "A local-first personal finance app",
+      "language": "TypeScript",
+      "stars": 20653
+    },
+    {
+      "rank": 4,
+      "name": "MotiaDev/motia",
+      "url": "https://github.com/MotiaDev/motia",
+      "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.",
+      "language": "TypeScript",
+      "stars": 4983
+    },
+    {
+      "rank": 5,
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 61657
+    },
+    {
+      "rank": 6,
+      "name": "MaaAssistantArknights/MaaAssistantArknights",
+      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+      "description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "C++",
+      "stars": 17207
+    },
+    {
+      "rank": 7,
+      "name": "reflex-dev/reflex",
+      "url": "https://github.com/reflex-dev/reflex",
+      "description": "\ud83d\udd78\ufe0f Web apps in pure Python \ud83d\udc0d",
+      "language": "Python",
+      "stars": 24357
+    },
+    {
+      "rank": 8,
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 41974
+    },
+    {
+      "rank": 9,
+      "name": "wg-easy/wg-easy",
+      "url": "https://github.com/wg-easy/wg-easy",
+      "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+      "language": "TypeScript",
+      "stars": 21307
+    }
+  ]
+}
