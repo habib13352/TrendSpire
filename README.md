@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-03 12:29 UTC_
+_Last updated: 2025-08-04 01:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 4128 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 4916 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 20871 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 21074 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 
-| [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) | 3234 | C++ | Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation. |
+| [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) | 3329 | C++ | Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation. |
 
-| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 192634 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
+| [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 192720 | JavaScript | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings |
 
-| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 30315 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
+| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 30383 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 41785 | C# | The Free Software Media System - Server Backend & API |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 41870 | C# | The Free Software Media System - Server Backend & API |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 61147 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 61360 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 46167 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 46296 | C++ | Truly independent web browser |
 
-| [sst/opencode](https://github.com/sst/opencode) | 16428 | Go | AI coding agent, built for the terminal. |
+| [sst/opencode](https://github.com/sst/opencode) | 16750 | Go | AI coding agent, built for the terminal. |
 
-| [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | 2552 | Python | Recommend new arxiv papers of your interest daily according to your Zotero libarary. |
+| [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | 2646 | Python | Recommend new arxiv papers of your interest daily according to your Zotero libarary. |
 <!-- TRENDING_END -->
 
 # TrendSpire
