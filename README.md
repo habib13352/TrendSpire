@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-05 01:03 UTC_
+_Last updated: 2025-08-05 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 6973 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 8104 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) | 4549 | Python | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 24821 | Python | 🕸️ Web apps in pure Python 🐍 |
 
-| [actualbudget/actual](https://github.com/actualbudget/actual) | 20816 | TypeScript | A local-first personal finance app |
+| [ethereum/solidity](https://github.com/ethereum/solidity) | 24707 | C++ | Solidity, the Smart Contract Programming Language |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 5175 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. |
+| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 6720 | Python | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 61935 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 6459 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 17257 | C++ | 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients. |
+| [actualbudget/actual](https://github.com/actualbudget/actual) | 21013 | TypeScript | A local-first personal finance app |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 24563 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13741 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 42081 | C# | The Free Software Media System - Server Backend & API |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 359504 | Python | A collective list of free APIs |
 
-| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 21504 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| [hashcat/hashcat](https://github.com/hashcat/hashcat) | 23411 | C | World's fastest and most advanced password recovery utility |
+
+| [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | 2883 | Python | Recommend new arxiv papers of your interest daily according to your Zotero libarary. |
 <!-- TRENDING_END -->
 
 # TrendSpire
