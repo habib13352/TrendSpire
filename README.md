@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-04 12:33 UTC_
+_Last updated: 2025-08-05 01:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 6117 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 6973 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
 
-| [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) | 4334 | Python | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
+| [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy) | 4549 | Python | An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI |
 
-| [actualbudget/actual](https://github.com/actualbudget/actual) | 20653 | TypeScript | A local-first personal finance app |
+| [actualbudget/actual](https://github.com/actualbudget/actual) | 20816 | TypeScript | A local-first personal finance app |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 4983 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 5175 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 61657 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 61935 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 17207 | C++ | 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients. |
+| [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) | 17257 | C++ | 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients. |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 24357 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 24563 | Python | 🕸️ Web apps in pure Python 🐍 |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 41974 | C# | The Free Software Media System - Server Backend & API |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 42081 | C# | The Free Software Media System - Server Backend & API |
 
-| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 21307 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
+| [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) | 21504 | TypeScript | The easiest way to run WireGuard VPN + Web-based Admin UI. |
 <!-- TRENDING_END -->
 
 # TrendSpire
