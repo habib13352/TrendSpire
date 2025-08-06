@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-06 01:02 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 9087
+    },
+    {
+      "rank": 2,
+      "name": "reflex-dev/reflex",
+      "url": "https://github.com/reflex-dev/reflex",
+      "description": "\ud83d\udd78\ufe0f Web apps in pure Python \ud83d\udc0d",
+      "language": "Python",
+      "stars": 25016
+    },
+    {
+      "rank": 3,
+      "name": "ethereum/solidity",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": 24766
+    },
+    {
+      "rank": 4,
+      "name": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+      "language": "Python",
+      "stars": 7037
+    },
+    {
+      "rank": 5,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+      "language": "TypeScript",
+      "stars": 6571
+    },
+    {
+      "rank": 6,
+      "name": "actualbudget/actual",
+      "url": "https://github.com/actualbudget/actual",
+      "description": "A local-first personal finance app",
+      "language": "TypeScript",
+      "stars": 21119
+    },
+    {
+      "rank": 7,
+      "name": "pointfreeco/swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+      "language": "Swift",
+      "stars": 13765
+    },
+    {
+      "rank": 8,
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 359804
+    },
+    {
+      "rank": 9,
+      "name": "hashcat/hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "stars": 23611
+    },
+    {
+      "rank": 10,
+      "name": "TideDra/zotero-arxiv-daily",
+      "url": "https://github.com/TideDra/zotero-arxiv-daily",
+      "description": "Recommend new arxiv papers of your interest daily according to your Zotero libarary.",
+      "language": "Python",
+      "stars": 2953
+    }
+  ]
+}

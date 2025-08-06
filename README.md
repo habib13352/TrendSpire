@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-05 12:32 UTC_
+_Last updated: 2025-08-06 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 8104 | TypeScript | Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 9087 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 24821 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 25016 | Python | 🕸️ Web apps in pure Python 🐍 |
 
-| [ethereum/solidity](https://github.com/ethereum/solidity) | 24707 | C++ | Solidity, the Smart Contract Programming Language |
+| [ethereum/solidity](https://github.com/ethereum/solidity) | 24766 | C++ | Solidity, the Smart Contract Programming Language |
 
-| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 6720 | Python | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. |
+| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 7037 | Python | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 6459 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 6571 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [actualbudget/actual](https://github.com/actualbudget/actual) | 21013 | TypeScript | A local-first personal finance app |
+| [actualbudget/actual](https://github.com/actualbudget/actual) | 21119 | TypeScript | A local-first personal finance app |
 
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13741 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13765 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 359504 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 359804 | Python | A collective list of free APIs |
 
-| [hashcat/hashcat](https://github.com/hashcat/hashcat) | 23411 | C | World's fastest and most advanced password recovery utility |
+| [hashcat/hashcat](https://github.com/hashcat/hashcat) | 23611 | C | World's fastest and most advanced password recovery utility |
 
-| [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | 2883 | Python | Recommend new arxiv papers of your interest daily according to your Zotero libarary. |
+| [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | 2953 | Python | Recommend new arxiv papers of your interest daily according to your Zotero libarary. |
 <!-- TRENDING_END -->
 
 # TrendSpire
