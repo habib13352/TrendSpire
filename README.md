@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-06 01:02 UTC_
+_Last updated: 2025-08-06 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 9087 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 10586 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 25016 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 10058 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [ethereum/solidity](https://github.com/ethereum/solidity) | 24766 | C++ | Solidity, the Smart Contract Programming Language |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 6687 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 7037 | Python | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15160 | TypeScript | The AI Browser Automation Framework |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 6571 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33541 | Python | Python packaging and dependency management made easy |
 
-| [actualbudget/actual](https://github.com/actualbudget/actual) | 21119 | TypeScript | A local-first personal finance app |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 24594 | TypeScript | NVR with realtime local object detection for IP cameras |
 
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 13765 | Swift | A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. |
+| [ethereum/solidity](https://github.com/ethereum/solidity) | 24823 | C++ | Solidity, the Smart Contract Programming Language |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 359804 | Python | A collective list of free APIs |
+| [openssl/openssl](https://github.com/openssl/openssl) | 28193 | C | TLS/SSL and crypto library |
 
-| [hashcat/hashcat](https://github.com/hashcat/hashcat) | 23611 | C | World's fastest and most advanced password recovery utility |
+| [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | 896 | Shell | Open-source firmware for Ingenic SoC IP cameras |
 
-| [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) | 2953 | Python | Recommend new arxiv papers of your interest daily according to your Zotero libarary. |
+| [dstotijn/hetty](https://github.com/dstotijn/hetty) | 7565 | Go | An HTTP toolkit for security research. |
 <!-- TRENDING_END -->
 
 # TrendSpire
