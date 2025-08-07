@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-07 12:32 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": 12446
+    },
+    {
+      "rank": 2,
+      "name": "browserbase/stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "description": "The AI Browser Automation Framework",
+      "language": "TypeScript",
+      "stars": 15505
+    },
+    {
+      "rank": 3,
+      "name": "lvgl/lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+      "language": "C",
+      "stars": 20485
+    },
+    {
+      "rank": 4,
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "language": "Python",
+      "stars": 54309
+    },
+    {
+      "rank": 5,
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+      "language": "Go",
+      "stars": 149223
+    },
+    {
+      "rank": 6,
+      "name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": 17655
+    },
+    {
+      "rank": 7,
+      "name": "jesseduffield/lazygit",
+      "url": "https://github.com/jesseduffield/lazygit",
+      "description": "simple terminal UI for git commands",
+      "language": "Go",
+      "stars": 62778
+    },
+    {
+      "rank": 8,
+      "name": "ethereum/solidity",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": 24884
+    },
+    {
+      "rank": 9,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+      "language": "TypeScript",
+      "stars": 6941
+    },
+    {
+      "rank": 10,
+      "name": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "stars": 66169
+    }
+  ]
+}

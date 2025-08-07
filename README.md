@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-07 01:02 UTC_
+_Last updated: 2025-08-07 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 11619 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 12446 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 10731 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15505 | TypeScript | The AI Browser Automation Framework |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 6802 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [lvgl/lvgl](https://github.com/lvgl/lvgl) | 20485 | C | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15301 | TypeScript | The AI Browser Automation Framework |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 54309 | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
 
-| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33612 | Python | Python packaging and dependency management made easy |
+| [ollama/ollama](https://github.com/ollama/ollama) | 149223 | Go | Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. |
 
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 24711 | TypeScript | NVR with realtime local object detection for IP cameras |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17655 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [ethereum/solidity](https://github.com/ethereum/solidity) | 24852 | C++ | Solidity, the Smart Contract Programming Language |
+| [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 62778 | Go | simple terminal UI for git commands |
 
-| [openssl/openssl](https://github.com/openssl/openssl) | 28226 | C | TLS/SSL and crypto library |
+| [ethereum/solidity](https://github.com/ethereum/solidity) | 24884 | C++ | Solidity, the Smart Contract Programming Language |
 
-| [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | 956 | Shell | Open-source firmware for Ingenic SoC IP cameras |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 6941 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [dstotijn/hetty](https://github.com/dstotijn/hetty) | 7777 | Go | An HTTP toolkit for security research. |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66169 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 <!-- TRENDING_END -->
 
 # TrendSpire
