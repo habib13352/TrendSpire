@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-07 01:02 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "A high-performance algorithmic trading platform and event-driven backtester",
+      "language": "Rust",
+      "stars": 11619
+    },
+    {
+      "rank": 2,
+      "name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 10731
+    },
+    {
+      "rank": 3,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+      "language": "TypeScript",
+      "stars": 6802
+    },
+    {
+      "rank": 4,
+      "name": "browserbase/stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "description": "The AI Browser Automation Framework",
+      "language": "TypeScript",
+      "stars": 15301
+    },
+    {
+      "rank": 5,
+      "name": "python-poetry/poetry",
+      "url": "https://github.com/python-poetry/poetry",
+      "description": "Python packaging and dependency management made easy",
+      "language": "Python",
+      "stars": 33612
+    },
+    {
+      "rank": 6,
+      "name": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "language": "TypeScript",
+      "stars": 24711
+    },
+    {
+      "rank": 7,
+      "name": "ethereum/solidity",
+      "url": "https://github.com/ethereum/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "stars": 24852
+    },
+    {
+      "rank": 8,
+      "name": "openssl/openssl",
+      "url": "https://github.com/openssl/openssl",
+      "description": "TLS/SSL and crypto library",
+      "language": "C",
+      "stars": 28226
+    },
+    {
+      "rank": 9,
+      "name": "themactep/thingino-firmware",
+      "url": "https://github.com/themactep/thingino-firmware",
+      "description": "Open-source firmware for Ingenic SoC IP cameras",
+      "language": "Shell",
+      "stars": 956
+    },
+    {
+      "rank": 10,
+      "name": "dstotijn/hetty",
+      "url": "https://github.com/dstotijn/hetty",
+      "description": "An HTTP toolkit for security research.",
+      "language": "Go",
+      "stars": 7777
+    }
+  ]
+}

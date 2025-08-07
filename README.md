@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-06 12:32 UTC_
+_Last updated: 2025-08-07 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 10586 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 11619 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 10058 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 10731 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 6687 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 6802 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15160 | TypeScript | The AI Browser Automation Framework |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15301 | TypeScript | The AI Browser Automation Framework |
 
-| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33541 | Python | Python packaging and dependency management made easy |
+| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33612 | Python | Python packaging and dependency management made easy |
 
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 24594 | TypeScript | NVR with realtime local object detection for IP cameras |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 24711 | TypeScript | NVR with realtime local object detection for IP cameras |
 
-| [ethereum/solidity](https://github.com/ethereum/solidity) | 24823 | C++ | Solidity, the Smart Contract Programming Language |
+| [ethereum/solidity](https://github.com/ethereum/solidity) | 24852 | C++ | Solidity, the Smart Contract Programming Language |
 
-| [openssl/openssl](https://github.com/openssl/openssl) | 28193 | C | TLS/SSL and crypto library |
+| [openssl/openssl](https://github.com/openssl/openssl) | 28226 | C | TLS/SSL and crypto library |
 
-| [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | 896 | Shell | Open-source firmware for Ingenic SoC IP cameras |
+| [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware) | 956 | Shell | Open-source firmware for Ingenic SoC IP cameras |
 
-| [dstotijn/hetty](https://github.com/dstotijn/hetty) | 7565 | Go | An HTTP toolkit for security research. |
+| [dstotijn/hetty](https://github.com/dstotijn/hetty) | 7777 | Go | An HTTP toolkit for security research. |
 <!-- TRENDING_END -->
 
 # TrendSpire
