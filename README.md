@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-08 01:02 UTC_
+_Last updated: 2025-08-08 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 12679 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 12939 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15667 | TypeScript | The AI Browser Automation Framework |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66484 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 
-| [lvgl/lvgl](https://github.com/lvgl/lvgl) | 20600 | C | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. |
+| [openai/codex](https://github.com/openai/codex) | 32543 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 54419 | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17848 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [ollama/ollama](https://github.com/ollama/ollama) | 149373 | Go | Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. |
+| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | 7523 | Unknown | FFMPEG Assembly Language Lessons |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17752 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [polarsource/polar](https://github.com/polarsource/polar) | 6016 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
 
-| [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 62938 | Go | simple terminal UI for git commands |
+| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33712 | Python | Python packaging and dependency management made easy |
 
-| [ethereum/solidity](https://github.com/ethereum/solidity) | 24913 | C++ | Solidity, the Smart Contract Programming Language |
+| [google/adk-python](https://github.com/google/adk-python) | 11695 | Python | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 7034 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15815 | TypeScript | The AI Browser Automation Framework |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66325 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 20508 | Unknown | A list of AI autonomous agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
