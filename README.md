@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-07 12:32 UTC_
+_Last updated: 2025-08-08 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 12446 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 12679 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15505 | TypeScript | The AI Browser Automation Framework |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15667 | TypeScript | The AI Browser Automation Framework |
 
-| [lvgl/lvgl](https://github.com/lvgl/lvgl) | 20485 | C | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. |
+| [lvgl/lvgl](https://github.com/lvgl/lvgl) | 20600 | C | Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. |
 
-| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 54309 | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [vllm-project/vllm](https://github.com/vllm-project/vllm) | 54419 | Python | A high-throughput and memory-efficient inference and serving engine for LLMs |
 
-| [ollama/ollama](https://github.com/ollama/ollama) | 149223 | Go | Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. |
+| [ollama/ollama](https://github.com/ollama/ollama) | 149373 | Go | Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17655 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17752 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 62778 | Go | simple terminal UI for git commands |
+| [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) | 62938 | Go | simple terminal UI for git commands |
 
-| [ethereum/solidity](https://github.com/ethereum/solidity) | 24884 | C++ | Solidity, the Smart Contract Programming Language |
+| [ethereum/solidity](https://github.com/ethereum/solidity) | 24913 | C++ | Solidity, the Smart Contract Programming Language |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 6941 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 7034 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66169 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66325 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 <!-- TRENDING_END -->
 
 # TrendSpire
