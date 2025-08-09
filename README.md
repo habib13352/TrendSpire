@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-08 12:31 UTC_
+_Last updated: 2025-08-09 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 12939 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 13105 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66484 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66619 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 
-| [openai/codex](https://github.com/openai/codex) | 32543 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 32859 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17848 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17916 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | 7523 | Unknown | FFMPEG Assembly Language Lessons |
+| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | 7726 | Unknown | FFMPEG Assembly Language Lessons |
 
-| [polarsource/polar](https://github.com/polarsource/polar) | 6016 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
+| [polarsource/polar](https://github.com/polarsource/polar) | 6151 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
 
-| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33712 | Python | Python packaging and dependency management made easy |
+| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33762 | Python | Python packaging and dependency management made easy |
 
-| [google/adk-python](https://github.com/google/adk-python) | 11695 | Python | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [google/adk-python](https://github.com/google/adk-python) | 11838 | Python | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15815 | TypeScript | The AI Browser Automation Framework |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15906 | TypeScript | The AI Browser Automation Framework |
 
-| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 20508 | Unknown | A list of AI autonomous agents |
+| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 20691 | Unknown | A list of AI autonomous agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
