@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-09 00:56 UTC_
+_Last updated: 2025-08-09 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 13105 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [openai/codex](https://github.com/openai/codex) | 33143 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 66619 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 11960 | Dart | 简简单单的看直播 |
 
-| [openai/codex](https://github.com/openai/codex) | 32859 | Rust | Lightweight coding agent that runs in your terminal |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 13229 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 17916 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 73996 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 
-| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | 7726 | Unknown | FFMPEG Assembly Language Lessons |
+| [polarsource/polar](https://github.com/polarsource/polar) | 6280 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
 
-| [polarsource/polar](https://github.com/polarsource/polar) | 6151 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 29390 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [python-poetry/poetry](https://github.com/python-poetry/poetry) | 33762 | Python | Python packaging and dependency management made easy |
+| [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) | 3923 | Go | The simplest way to protect your apps with a login screen. |
 
-| [google/adk-python](https://github.com/google/adk-python) | 11838 | Python | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 2692 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 15906 | TypeScript | The AI Browser Automation Framework |
+| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13005 | C | Simple Directmedia Layer |
 
-| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | 20691 | Unknown | A list of AI autonomous agents |
+| [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | 21495 | Python | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
 <!-- TRENDING_END -->
 
 # TrendSpire
