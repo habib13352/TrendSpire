@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-09 12:27 UTC_
+_Last updated: 2025-08-10 01:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openai/codex](https://github.com/openai/codex) | 33143 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 33403 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 11960 | Dart | 简简单单的看直播 |
+| [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 12004 | Dart | 简简单单的看直播 |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 13229 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 13345 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 73996 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 74076 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 
-| [polarsource/polar](https://github.com/polarsource/polar) | 6280 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
+| [polarsource/polar](https://github.com/polarsource/polar) | 6408 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 29390 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 29558 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) | 3923 | Go | The simplest way to protect your apps with a login screen. |
+| [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) | 4145 | Go | The simplest way to protect your apps with a login screen. |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 2692 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 2921 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13005 | C | Simple Directmedia Layer |
+| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13045 | C | Simple Directmedia Layer |
 
-| [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | 21495 | Python | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
+| [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | 21609 | Python | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
 <!-- TRENDING_END -->
 
 # TrendSpire
