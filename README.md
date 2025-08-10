@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-10 01:05 UTC_
+_Last updated: 2025-08-10 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openai/codex](https://github.com/openai/codex) | 33403 | Rust | Lightweight coding agent that runs in your terminal |
+| [umami-software/umami](https://github.com/umami-software/umami) | 27967 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 12004 | Dart | 简简单单的看直播 |
+| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13082 | C | Simple Directmedia Layer |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 13345 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [menloresearch/jan](https://github.com/menloresearch/jan) | 35762 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 74076 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 74152 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 
-| [polarsource/polar](https://github.com/polarsource/polar) | 6408 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
+| [openai/codex](https://github.com/openai/codex) | 33631 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 29558 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 30827 | TypeScript | 🧡 Follow everything in one place |
 
-| [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) | 4145 | Go | The simplest way to protect your apps with a login screen. |
+| [polarsource/polar](https://github.com/polarsource/polar) | 6507 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 2921 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 35336 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 
-| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13045 | C | Simple Directmedia Layer |
+| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | 55048 | Kotlin | The Magic Mask for Android |
 
-| [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) | 21609 | Python | Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. |
+| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 4240 | TypeScript | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project |
 <!-- TRENDING_END -->
 
 # TrendSpire

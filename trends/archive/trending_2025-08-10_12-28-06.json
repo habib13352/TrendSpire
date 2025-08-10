@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-10 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "umami-software/umami",
+      "url": "https://github.com/umami-software/umami",
+      "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+      "language": "TypeScript",
+      "stars": 27967
+    },
+    {
+      "rank": 2,
+      "name": "libsdl-org/SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple Directmedia Layer",
+      "language": "C",
+      "stars": 13082
+    },
+    {
+      "rank": 3,
+      "name": "menloresearch/jan",
+      "url": "https://github.com/menloresearch/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+      "language": "TypeScript",
+      "stars": 35762
+    },
+    {
+      "rank": 4,
+      "name": "nomic-ai/gpt4all",
+      "url": "https://github.com/nomic-ai/gpt4all",
+      "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+      "language": "C++",
+      "stars": 74152
+    },
+    {
+      "rank": 5,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 33631
+    },
+    {
+      "rank": 6,
+      "name": "RSSNext/Folo",
+      "url": "https://github.com/RSSNext/Folo",
+      "description": "\ud83e\udde1 Follow everything in one place",
+      "language": "TypeScript",
+      "stars": 30827
+    },
+    {
+      "rank": 7,
+      "name": "polarsource/polar",
+      "url": "https://github.com/polarsource/polar",
+      "description": "An open source engine for your digital products. Sell SaaS and digital products in minutes.",
+      "language": "Python",
+      "stars": 6507
+    },
+    {
+      "rank": 8,
+      "name": "fastapi/full-stack-fastapi-template",
+      "url": "https://github.com/fastapi/full-stack-fastapi-template",
+      "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+      "language": "TypeScript",
+      "stars": 35336
+    },
+    {
+      "rank": 9,
+      "name": "topjohnwu/Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
+      "language": "Kotlin",
+      "stars": 55048
+    },
+    {
+      "rank": 10,
+      "name": "idosal/git-mcp",
+      "url": "https://github.com/idosal/git-mcp",
+      "description": "Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project",
+      "language": "TypeScript",
+      "stars": 4240
+    }
+  ]
+}
