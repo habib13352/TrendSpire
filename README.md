@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-10 12:28 UTC_
+_Last updated: 2025-08-11 01:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 27967 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [umami-software/umami](https://github.com/umami-software/umami) | 28531 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13082 | C | Simple Directmedia Layer |
+| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13132 | C | Simple Directmedia Layer |
 
-| [menloresearch/jan](https://github.com/menloresearch/jan) | 35762 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
+| [menloresearch/jan](https://github.com/menloresearch/jan) | 35908 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 74152 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 74256 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 
-| [openai/codex](https://github.com/openai/codex) | 33631 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 33943 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 30827 | TypeScript | 🧡 Follow everything in one place |
+| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 30945 | TypeScript | 🧡 Follow everything in one place |
 
-| [polarsource/polar](https://github.com/polarsource/polar) | 6507 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
+| [polarsource/polar](https://github.com/polarsource/polar) | 6667 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
 
-| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 35336 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 35536 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 
-| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | 55048 | Kotlin | The Magic Mask for Android |
+| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | 55109 | Kotlin | The Magic Mask for Android |
 
-| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 4240 | TypeScript | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project |
+| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 4395 | TypeScript | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project |
 <!-- TRENDING_END -->
 
 # TrendSpire
