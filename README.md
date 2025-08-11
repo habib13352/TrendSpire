@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-11 01:03 UTC_
+_Last updated: 2025-08-11 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 28531 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 74539 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 
-| [libsdl-org/SDL](https://github.com/libsdl-org/SDL) | 13132 | C | Simple Directmedia Layer |
+| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 7298 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
 
-| [menloresearch/jan](https://github.com/menloresearch/jan) | 35908 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
+| [trailofbits/buttercup](https://github.com/trailofbits/buttercup) | 421 | Python | No description provided. |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 74256 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 16364 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [openai/codex](https://github.com/openai/codex) | 33943 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 34170 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 30945 | TypeScript | 🧡 Follow everything in one place |
+| [menloresearch/jan](https://github.com/menloresearch/jan) | 36077 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
 
-| [polarsource/polar](https://github.com/polarsource/polar) | 6667 | Python | An open source engine for your digital products. Sell SaaS and digital products in minutes. |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 94474 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
 
-| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 35536 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 9729 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | 55109 | Kotlin | The Magic Mask for Android |
+| [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 12245 | Dart | 简简单单的看直播 |
 
-| [idosal/git-mcp](https://github.com/idosal/git-mcp) | 4395 | TypeScript | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 35747 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
