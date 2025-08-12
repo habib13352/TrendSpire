@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-12 00:57 UTC_
+_Last updated: 2025-08-12 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 75275 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 6213 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 7466 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
+| [microsoft/poml](https://github.com/microsoft/poml) | 645 | TypeScript | Prompt Orchestration Markup Language |
 
-| [trailofbits/buttercup](https://github.com/trailofbits/buttercup) | 530 | Python | No description provided. |
+| [denizsafak/abogen](https://github.com/denizsafak/abogen) | 2068 | Python | Generate audiobooks from EPUBs, PDFs and text with synchronized captions. |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 16566 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 75892 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 
-| [openai/codex](https://github.com/openai/codex) | 34383 | Rust | Lightweight coding agent that runs in your terminal |
+| [umami-software/umami](https://github.com/umami-software/umami) | 29435 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [menloresearch/jan](https://github.com/menloresearch/jan) | 36185 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
+| [unslothai/notebooks](https://github.com/unslothai/notebooks) | 2836 | Jupyter Notebook | 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more. |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 94622 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 36047 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 9844 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5504 | Go | OpenTelemetry Collector |
 
-| [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live) | 12277 | Dart | 简简单单的看直播 |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 315477 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 35883 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1115 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
 <!-- TRENDING_END -->
 
 # TrendSpire
