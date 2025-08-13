@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-12 12:29 UTC_
+_Last updated: 2025-08-13 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 6213 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 6875 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [microsoft/poml](https://github.com/microsoft/poml) | 645 | TypeScript | Prompt Orchestration Markup Language |
+| [microsoft/poml](https://github.com/microsoft/poml) | 930 | TypeScript | Prompt Orchestration Markup Language |
 
-| [denizsafak/abogen](https://github.com/denizsafak/abogen) | 2068 | Python | Generate audiobooks from EPUBs, PDFs and text with synchronized captions. |
+| [denizsafak/abogen](https://github.com/denizsafak/abogen) | 2300 | Python | Generate audiobooks from EPUBs, PDFs and text with synchronized captions. |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 75892 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 76019 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 29435 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [umami-software/umami](https://github.com/umami-software/umami) | 29588 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [unslothai/notebooks](https://github.com/unslothai/notebooks) | 2836 | Jupyter Notebook | 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more. |
+| [unslothai/notebooks](https://github.com/unslothai/notebooks) | 2993 | Jupyter Notebook | 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more. |
 
-| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 36047 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 36219 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5504 | Go | OpenTelemetry Collector |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5548 | Go | OpenTelemetry Collector |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 315477 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 315648 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1115 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
+| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1421 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
 <!-- TRENDING_END -->
 
 # TrendSpire
