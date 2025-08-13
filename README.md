@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-13 00:58 UTC_
+_Last updated: 2025-08-13 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 6875 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 7439 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [microsoft/poml](https://github.com/microsoft/poml) | 930 | TypeScript | Prompt Orchestration Markup Language |
+| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1648 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
 
-| [denizsafak/abogen](https://github.com/denizsafak/abogen) | 2300 | Python | Generate audiobooks from EPUBs, PDFs and text with synchronized captions. |
+| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 26246 | TypeScript | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 76019 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 7886 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 29588 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [menloresearch/jan](https://github.com/menloresearch/jan) | 36542 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
 
-| [unslothai/notebooks](https://github.com/unslothai/notebooks) | 2993 | Jupyter Notebook | 100+ Fine-tuning LLM Notebooks on Google Colab, Kaggle, and more. |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 15886 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
 
-| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | 36219 | TypeScript | Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. |
+| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | 55594 | Go | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5548 | Go | OpenTelemetry Collector |
+| [filamentphp/filament](https://github.com/filamentphp/filament) | 25479 | PHP | A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 315648 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5588 | Go | OpenTelemetry Collector |
 
-| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1421 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 76177 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
