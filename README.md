@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-14 00:58 UTC_
+_Last updated: 2025-08-14 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 7955 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 8411 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1889 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
+| [microsoft/poml](https://github.com/microsoft/poml) | 1868 | TypeScript | Prompt Orchestration Markup Language |
 
-| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 26349 | TypeScript | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 31066 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 
-| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 8087 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
+| [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) | 5357 | Go | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. |
 
-| [menloresearch/jan](https://github.com/menloresearch/jan) | 36749 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
+| [redis/go-redis](https://github.com/redis/go-redis) | 21277 | Go | Redis Go client |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 16046 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
+| [colmap/colmap](https://github.com/colmap/colmap) | 9194 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
 
-| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | 55721 | Go | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
+| [angular/components](https://github.com/angular/components) | 24790 | TypeScript | Component infrastructure and Material Design components for Angular |
 
-| [filamentphp/filament](https://github.com/filamentphp/filament) | 25560 | PHP | A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 16220 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5630 | Go | OpenTelemetry Collector |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 10438 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 76258 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 25405 | Java | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
 <!-- TRENDING_END -->
 
 # TrendSpire
