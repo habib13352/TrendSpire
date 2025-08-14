@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-13 12:30 UTC_
+_Last updated: 2025-08-14 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 7439 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 7955 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1648 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
+| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 1889 | TypeScript | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. |
 
-| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 26246 | TypeScript | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. |
+| [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) | 26349 | TypeScript | Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application. |
 
-| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 7886 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
+| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 8087 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
 
-| [menloresearch/jan](https://github.com/menloresearch/jan) | 36542 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
+| [menloresearch/jan](https://github.com/menloresearch/jan) | 36749 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 15886 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 16046 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
 
-| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | 55594 | Go | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
+| [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) | 55721 | Go | A simple zero-config tool to make locally trusted development certificates with any names you'd like. |
 
-| [filamentphp/filament](https://github.com/filamentphp/filament) | 25479 | PHP | A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire |
+| [filamentphp/filament](https://github.com/filamentphp/filament) | 25560 | PHP | A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5588 | Go | OpenTelemetry Collector |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5630 | Go | OpenTelemetry Collector |
 
-| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 76177 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
+| [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) | 76258 | C++ | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
