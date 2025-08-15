@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-15 00:58 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": 8923
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/poml",
+      "url": "https://github.com/microsoft/poml",
+      "description": "Prompt Orchestration Markup Language",
+      "language": "TypeScript",
+      "stars": 2075
+    },
+    {
+      "rank": 3,
+      "name": "pathwaycom/pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": 31233
+    },
+    {
+      "rank": 4,
+      "name": "external-secrets/external-secrets",
+      "url": "https://github.com/external-secrets/external-secrets",
+      "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+      "language": "Go",
+      "stars": 5435
+    },
+    {
+      "rank": 5,
+      "name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": 21308
+    },
+    {
+      "rank": 6,
+      "name": "colmap/colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "stars": 9266
+    },
+    {
+      "rank": 7,
+      "name": "angular/components",
+      "url": "https://github.com/angular/components",
+      "description": "Component infrastructure and Material Design components for Angular",
+      "language": "TypeScript",
+      "stars": 24829
+    },
+    {
+      "rank": 8,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+      "language": "TypeScript",
+      "stars": 16314
+    },
+    {
+      "rank": 9,
+      "name": "midday-ai/midday",
+      "url": "https://github.com/midday-ai/midday",
+      "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+      "language": "TypeScript",
+      "stars": 10520
+    },
+    {
+      "rank": 10,
+      "name": "conductor-oss/conductor",
+      "url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+      "language": "Java",
+      "stars": 25471
+    }
+  ]
+}

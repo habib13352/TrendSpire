@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-14 12:30 UTC_
+_Last updated: 2025-08-15 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 8411 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 8923 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [microsoft/poml](https://github.com/microsoft/poml) | 1868 | TypeScript | Prompt Orchestration Markup Language |
+| [microsoft/poml](https://github.com/microsoft/poml) | 2075 | TypeScript | Prompt Orchestration Markup Language |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 31066 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 31233 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 
-| [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) | 5357 | Go | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. |
+| [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) | 5435 | Go | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. |
 
-| [redis/go-redis](https://github.com/redis/go-redis) | 21277 | Go | Redis Go client |
+| [redis/go-redis](https://github.com/redis/go-redis) | 21308 | Go | Redis Go client |
 
-| [colmap/colmap](https://github.com/colmap/colmap) | 9194 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
+| [colmap/colmap](https://github.com/colmap/colmap) | 9266 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
 
-| [angular/components](https://github.com/angular/components) | 24790 | TypeScript | Component infrastructure and Material Design components for Angular |
+| [angular/components](https://github.com/angular/components) | 24829 | TypeScript | Component infrastructure and Material Design components for Angular |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 16220 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 16314 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 10438 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 10520 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 25405 | Java | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
+| [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 25471 | Java | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
 <!-- TRENDING_END -->
 
 # TrendSpire
