@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-15 00:58 UTC_
+_Last updated: 2025-08-15 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 8923 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 8545 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
 
-| [microsoft/poml](https://github.com/microsoft/poml) | 2075 | TypeScript | Prompt Orchestration Markup Language |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 9305 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 31233 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [budtmo/docker-android](https://github.com/budtmo/docker-android) | 11890 | Python | Android in docker solution with noVNC supported and video recording |
 
-| [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) | 5435 | Go | External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. |
+| [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) | 3621 | Python | SpatialLM: Training Large Language Models for Structured Indoor Modeling |
 
-| [redis/go-redis](https://github.com/redis/go-redis) | 21308 | Go | Redis Go client |
+| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 7111 | Python | A research prototype of a human-centered web agent |
 
-| [colmap/colmap](https://github.com/colmap/colmap) | 9266 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
+| [datalab-to/marker](https://github.com/datalab-to/marker) | 27555 | Python | Convert PDF to markdown + JSON quickly with high accuracy |
 
-| [angular/components](https://github.com/angular/components) | 24829 | TypeScript | Component infrastructure and Material Design components for Angular |
+| [redis/go-redis](https://github.com/redis/go-redis) | 21341 | Go | Redis Go client |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 16314 | TypeScript | The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra. |
+| [qarmin/czkawka](https://github.com/qarmin/czkawka) | 24989 | Rust | Multi functional app to find duplicates, empty folders, similar images etc. |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 10520 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) | 4865 | C++ | The Librum client application |
 
-| [conductor-oss/conductor](https://github.com/conductor-oss/conductor) | 25471 | Java | Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 71559 | Python | Python tool for converting files and office documents to Markdown. |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-15 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tadata-org/fastapi_mcp",
+      "url": "https://github.com/tadata-org/fastapi_mcp",
+      "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+      "language": "Python",
+      "stars": 8545
+    },
+    {
+      "rank": 2,
+      "name": "ubicloud/ubicloud",
+      "url": "https://github.com/ubicloud/ubicloud",
+      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "language": "Ruby",
+      "stars": 9305
+    },
+    {
+      "rank": 3,
+      "name": "budtmo/docker-android",
+      "url": "https://github.com/budtmo/docker-android",
+      "description": "Android in docker solution with noVNC supported and video recording",
+      "language": "Python",
+      "stars": 11890
+    },
+    {
+      "rank": 4,
+      "name": "manycore-research/SpatialLM",
+      "url": "https://github.com/manycore-research/SpatialLM",
+      "description": "SpatialLM: Training Large Language Models for Structured Indoor Modeling",
+      "language": "Python",
+      "stars": 3621
+    },
+    {
+      "rank": 5,
+      "name": "microsoft/magentic-ui",
+      "url": "https://github.com/microsoft/magentic-ui",
+      "description": "A research prototype of a human-centered web agent",
+      "language": "Python",
+      "stars": 7111
+    },
+    {
+      "rank": 6,
+      "name": "datalab-to/marker",
+      "url": "https://github.com/datalab-to/marker",
+      "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+      "language": "Python",
+      "stars": 27555
+    },
+    {
+      "rank": 7,
+      "name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "description": "Redis Go client",
+      "language": "Go",
+      "stars": 21341
+    },
+    {
+      "rank": 8,
+      "name": "qarmin/czkawka",
+      "url": "https://github.com/qarmin/czkawka",
+      "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+      "language": "Rust",
+      "stars": 24989
+    },
+    {
+      "rank": 9,
+      "name": "Librum-Reader/Librum",
+      "url": "https://github.com/Librum-Reader/Librum",
+      "description": "The Librum client application",
+      "language": "C++",
+      "stars": 4865
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 71559
+    }
+  ]
+}
