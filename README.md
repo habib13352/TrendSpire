@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-16 00:55 UTC_
+_Last updated: 2025-08-16 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 8702 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 6042 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 9478 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [microsoft/poml](https://github.com/microsoft/poml) | 2652 | TypeScript | Prompt Orchestration Markup Language |
 
-| [budtmo/docker-android](https://github.com/budtmo/docker-android) | 12053 | Python | Android in docker solution with noVNC supported and video recording |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4275 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) | 3709 | Python | SpatialLM: Training Large Language Models for Structured Indoor Modeling |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 410733 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 7245 | Python | A research prototype of a human-centered web agent |
+| [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 10695 | Unknown | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
 
-| [datalab-to/marker](https://github.com/datalab-to/marker) | 27728 | Python | Convert PDF to markdown + JSON quickly with high accuracy |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 86782 | JavaScript |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
 
-| [redis/go-redis](https://github.com/redis/go-redis) | 21373 | Go | Redis Go client |
+| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1426 | C | Header only library for writing build recipes in C. |
 
-| [qarmin/czkawka](https://github.com/qarmin/czkawka) | 25154 | Rust | Multi functional app to find duplicates, empty folders, similar images etc. |
+| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 1121 | Python | A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP). |
 
-| [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) | 4958 | C++ | The Librum client application |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 3891 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 71714 | Python | Python tool for converting files and office documents to Markdown. |
+| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 3335 | C# | PixiEditor is a Universal Editor for all your 2D needs |
 <!-- TRENDING_END -->
 
 # TrendSpire
