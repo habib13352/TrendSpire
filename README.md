@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-15 12:28 UTC_
+_Last updated: 2025-08-16 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 8545 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
+| [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) | 8702 | Python | Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! |
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 9305 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 9478 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [budtmo/docker-android](https://github.com/budtmo/docker-android) | 11890 | Python | Android in docker solution with noVNC supported and video recording |
+| [budtmo/docker-android](https://github.com/budtmo/docker-android) | 12053 | Python | Android in docker solution with noVNC supported and video recording |
 
-| [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) | 3621 | Python | SpatialLM: Training Large Language Models for Structured Indoor Modeling |
+| [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) | 3709 | Python | SpatialLM: Training Large Language Models for Structured Indoor Modeling |
 
-| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 7111 | Python | A research prototype of a human-centered web agent |
+| [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) | 7245 | Python | A research prototype of a human-centered web agent |
 
-| [datalab-to/marker](https://github.com/datalab-to/marker) | 27555 | Python | Convert PDF to markdown + JSON quickly with high accuracy |
+| [datalab-to/marker](https://github.com/datalab-to/marker) | 27728 | Python | Convert PDF to markdown + JSON quickly with high accuracy |
 
-| [redis/go-redis](https://github.com/redis/go-redis) | 21341 | Go | Redis Go client |
+| [redis/go-redis](https://github.com/redis/go-redis) | 21373 | Go | Redis Go client |
 
-| [qarmin/czkawka](https://github.com/qarmin/czkawka) | 24989 | Rust | Multi functional app to find duplicates, empty folders, similar images etc. |
+| [qarmin/czkawka](https://github.com/qarmin/czkawka) | 25154 | Rust | Multi functional app to find duplicates, empty folders, similar images etc. |
 
-| [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) | 4865 | C++ | The Librum client application |
+| [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) | 4958 | C++ | The Librum client application |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 71559 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 71714 | Python | Python tool for converting files and office documents to Markdown. |
 <!-- TRENDING_END -->
 
 # TrendSpire
