@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-16 12:26 UTC_
+_Last updated: 2025-08-17 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 6042 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 6626 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [microsoft/poml](https://github.com/microsoft/poml) | 2652 | TypeScript | Prompt Orchestration Markup Language |
+| [microsoft/poml](https://github.com/microsoft/poml) | 2824 | TypeScript | Prompt Orchestration Markup Language |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4275 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4341 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 410733 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 411029 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 10695 | Unknown | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
+| [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 10889 | Unknown | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
 
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 86782 | JavaScript |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 86985 | JavaScript |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
 
-| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1426 | C | Header only library for writing build recipes in C. |
+| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1506 | C | Header only library for writing build recipes in C. |
 
-| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 1121 | Python | A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP). |
+| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 1241 | Python | A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP). |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 3891 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 4138 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 3335 | C# | PixiEditor is a Universal Editor for all your 2D needs |
+| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 3610 | C# | PixiEditor is a Universal Editor for all your 2D needs |
 <!-- TRENDING_END -->
 
 # TrendSpire
