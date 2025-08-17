@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-17 01:02 UTC_
+_Last updated: 2025-08-17 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 6626 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 7016 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [microsoft/poml](https://github.com/microsoft/poml) | 2824 | TypeScript | Prompt Orchestration Markup Language |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 4347 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4341 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 58517 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 411029 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1543 | C | Header only library for writing build recipes in C. |
 
-| [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) | 10889 | Unknown | This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md |
+| [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 2472 | Python | Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence |
 
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 86985 | JavaScript |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
+| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 3821 | C# | PixiEditor is a Universal Editor for all your 2D needs |
 
-| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1506 | C | Header only library for writing build recipes in C. |
+| [dtyq/magic](https://github.com/dtyq/magic) | 2112 | PHP | Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system) |
 
-| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | 1241 | Python | A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP). |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4405 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 4138 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [colmap/colmap](https://github.com/colmap/colmap) | 9439 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
 
-| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 3610 | C# | PixiEditor is a Universal Editor for all your 2D needs |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 49590 | Python | Financial data aggregator for humans and AI agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
