@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-18 01:01 UTC_
+_Last updated: 2025-08-18 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 7619 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 8365 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 4863 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 5451 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 58769 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 36591 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
 
-| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1596 | C | Header only library for writing build recipes in C. |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 64414 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 2660 | Python | Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence |
+| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | 8938 | Unknown | Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks. |
 
-| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 4020 | C# | PixiEditor is a Universal Editor for all your 2D needs |
+| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 4312 | C# | PixiEditor is a Universal Editor for all your 2D needs |
 
-| [dtyq/magic](https://github.com/dtyq/magic) | 2248 | PHP | Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system) |
+| [immich-app/immich](https://github.com/immich-app/immich) | 73130 | TypeScript | High performance self-hosted photo and video management solution. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4521 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 59318 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [colmap/colmap](https://github.com/colmap/colmap) | 9488 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 6366 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 49830 | Python | Financial data aggregator for humans and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50083 | Python | Financial data aggregator for humans and AI agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
