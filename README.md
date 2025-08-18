@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-17 12:27 UTC_
+_Last updated: 2025-08-18 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 7016 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 7619 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 4347 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 4863 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 58517 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 58769 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1543 | C | Header only library for writing build recipes in C. |
+| [tsoding/nob.h](https://github.com/tsoding/nob.h) | 1596 | C | Header only library for writing build recipes in C. |
 
-| [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 2472 | Python | Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence |
+| [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 2660 | Python | Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence |
 
-| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 3821 | C# | PixiEditor is a Universal Editor for all your 2D needs |
+| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 4020 | C# | PixiEditor is a Universal Editor for all your 2D needs |
 
-| [dtyq/magic](https://github.com/dtyq/magic) | 2112 | PHP | Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system) |
+| [dtyq/magic](https://github.com/dtyq/magic) | 2248 | PHP | Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system) |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4405 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4521 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [colmap/colmap](https://github.com/colmap/colmap) | 9439 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
+| [colmap/colmap](https://github.com/colmap/colmap) | 9488 | C++ | COLMAP - Structure-from-Motion and Multi-View Stereo |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 49590 | Python | Financial data aggregator for humans and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 49830 | Python | Financial data aggregator for humans and AI agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
