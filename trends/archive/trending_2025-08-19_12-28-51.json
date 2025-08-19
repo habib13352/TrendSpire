@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-19 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": 5999
+    },
+    {
+      "rank": 2,
+      "name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.",
+      "language": "Python",
+      "stars": 9534
+    },
+    {
+      "rank": 3,
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "language": "Python",
+      "stars": 4718
+    },
+    {
+      "rank": 4,
+      "name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing \u2014 fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": 8931
+    },
+    {
+      "rank": 5,
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 65492
+    },
+    {
+      "rank": 6,
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data aggregator for humans and AI agents.",
+      "language": "Python",
+      "stars": 50415
+    },
+    {
+      "rank": 7,
+      "name": "imsyy/SPlayer",
+      "url": "https://github.com/imsyy/SPlayer",
+      "description": "\ud83c\udf89 \u4e00\u4e2a\u7b80\u7ea6\u7684\u97f3\u4e50\u64ad\u653e\u5668\uff0c\u652f\u6301\u9010\u5b57\u6b4c\u8bcd\uff0c\u4e0b\u8f7d\u6b4c\u66f2\uff0c\u5c55\u793a\u8bc4\u8bba\u533a\uff0c\u97f3\u4e50\u4e91\u76d8\u53ca\u6b4c\u5355\u7ba1\u7406\uff0c\u97f3\u4e50\u9891\u8c31\uff0c\u79fb\u52a8\u7aef\u57fa\u7840\u9002\u914d | \u7f51\u6613\u4e91\u97f3\u4e50 | A minimalist music player",
+      "language": "Vue",
+      "stars": 4702
+    },
+    {
+      "rank": 8,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": 59973
+    },
+    {
+      "rank": 9,
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 1879
+    },
+    {
+      "rank": 10,
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 73463
+    }
+  ]
+}

@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-19 00:56 UTC_
+_Last updated: 2025-08-19 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 8971 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 5999 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 5654 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 9534 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 36754 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4718 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 64947 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 8931 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
 
-| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | 9194 | Unknown | Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks. |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 65492 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 4500 | C# | PixiEditor is a Universal Editor for all your 2D needs |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50415 | Python | Financial data aggregator for humans and AI agents. |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 73297 | TypeScript | High performance self-hosted photo and video management solution. |
+| [imsyy/SPlayer](https://github.com/imsyy/SPlayer) | 4702 | Vue | 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 59579 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 59973 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 6478 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 1879 | Python | Useful tool to track location or mobile number |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50228 | Python | Financial data aggregator for humans and AI agents. |
+| [immich-app/immich](https://github.com/immich-app/immich) | 73463 | TypeScript | High performance self-hosted photo and video management solution. |
 <!-- TRENDING_END -->
 
 # TrendSpire
