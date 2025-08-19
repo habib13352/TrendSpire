@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-18 12:30 UTC_
+_Last updated: 2025-08-19 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 8365 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 8971 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 5451 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 5654 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 36591 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 36754 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 64414 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 64947 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | 8938 | Unknown | Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks. |
+| [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) | 9194 | Unknown | Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks. |
 
-| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 4312 | C# | PixiEditor is a Universal Editor for all your 2D needs |
+| [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor) | 4500 | C# | PixiEditor is a Universal Editor for all your 2D needs |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 73130 | TypeScript | High performance self-hosted photo and video management solution. |
+| [immich-app/immich](https://github.com/immich-app/immich) | 73297 | TypeScript | High performance self-hosted photo and video management solution. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 59318 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 59579 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 6366 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 6478 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50083 | Python | Financial data aggregator for humans and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50228 | Python | Financial data aggregator for humans and AI agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
