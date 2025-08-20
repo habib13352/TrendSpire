@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-19 12:28 UTC_
+_Last updated: 2025-08-20 00:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 5999 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 6541 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 9534 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 9719 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4718 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4802 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 8931 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 9174 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 65492 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 65755 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50415 | Python | Financial data aggregator for humans and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50529 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [imsyy/SPlayer](https://github.com/imsyy/SPlayer) | 4702 | Vue | 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player |
+| [imsyy/SPlayer](https://github.com/imsyy/SPlayer) | 4762 | Vue | 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 59973 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 60234 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 1879 | Python | Useful tool to track location or mobile number |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 2115 | Python | Useful tool to track location or mobile number |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 73463 | TypeScript | High performance self-hosted photo and video management solution. |
+| [immich-app/immich](https://github.com/immich-app/immich) | 73611 | TypeScript | High performance self-hosted photo and video management solution. |
 <!-- TRENDING_END -->
 
 # TrendSpire
