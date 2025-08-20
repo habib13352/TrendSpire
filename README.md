@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-20 00:54 UTC_
+_Last updated: 2025-08-20 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 6541 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 7844 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 9719 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 3157 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 4802 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91791 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 9174 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [bitwarden/clients](https://github.com/bitwarden/clients) | 10661 | TypeScript | Bitwarden client apps (web, browser extension, desktop, and cli). |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 65755 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [Leantime/leantime](https://github.com/Leantime/leantime) | 5852 | PHP | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 50529 | Python | Financial data platform for analysts, quants and AI agents. |
+| [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | 11538 | Unknown | The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. |
 
-| [imsyy/SPlayer](https://github.com/imsyy/SPlayer) | 4762 | Vue | 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 6789 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 60234 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 37011 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 2115 | Python | Useful tool to track location or mobile number |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 65982 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 73611 | TypeScript | High performance self-hosted photo and video management solution. |
+| [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) | 433 | Python | A benchmark for LLMs on complicated tasks in the terminal |
 <!-- TRENDING_END -->
 
 # TrendSpire
