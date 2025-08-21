@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-21 00:53 UTC_
+_Last updated: 2025-08-21 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 8625 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 4686 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 3847 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 9337 | TypeScript | Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 91857 | TypeScript | JavaScript API for Chrome and Firefox |
+| [google/googletest](https://github.com/google/googletest) | 36625 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [bitwarden/clients](https://github.com/bitwarden/clients) | 10742 | TypeScript | Bitwarden client apps (web, browser extension, desktop, and cli). |
+| [bitwarden/clients](https://github.com/bitwarden/clients) | 10825 | TypeScript | Bitwarden client apps (web, browser extension, desktop, and cli). |
 
-| [Leantime/leantime](https://github.com/Leantime/leantime) | 6119 | PHP | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind. |
+| [Budibase/budibase](https://github.com/Budibase/budibase) | 25468 | TypeScript | Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform.. |
 
-| [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | 11674 | Unknown | The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 50228 | TypeScript | The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥 |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 6871 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 2446 | Python | Useful tool to track location or mobile number |
 
-| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 37106 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [nextjs/saas-starter](https://github.com/nextjs/saas-starter) | 13552 | TypeScript | Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 66405 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 4595 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) | 492 | Python | A benchmark for LLMs on complicated tasks in the terminal |
+| [HeyPuter/puter](https://github.com/HeyPuter/puter) | 35337 | JavaScript | 🌐 The Internet OS! Free, Open-Source, and Self-Hostable. |
 <!-- TRENDING_END -->
 
 # TrendSpire
