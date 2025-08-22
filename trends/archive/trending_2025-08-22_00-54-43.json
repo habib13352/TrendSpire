@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-22 00:54 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "Vue",
+      "stars": 5463
+    },
+    {
+      "rank": 2,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.",
+      "language": "TypeScript",
+      "stars": 9900
+    },
+    {
+      "rank": 3,
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 36666
+    },
+    {
+      "rank": 4,
+      "name": "bitwarden/clients",
+      "url": "https://github.com/bitwarden/clients",
+      "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+      "language": "TypeScript",
+      "stars": 10895
+    },
+    {
+      "rank": 5,
+      "name": "Budibase/budibase",
+      "url": "https://github.com/Budibase/budibase",
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more \ud83d\ude80 No code / Low code platform..",
+      "language": "TypeScript",
+      "stars": 25629
+    },
+    {
+      "rank": 6,
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "description": "The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data \ud83d\udd25",
+      "language": "TypeScript",
+      "stars": 50580
+    },
+    {
+      "rank": 7,
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 2617
+    },
+    {
+      "rank": 8,
+      "name": "nextjs/saas-starter",
+      "url": "https://github.com/nextjs/saas-starter",
+      "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+      "language": "TypeScript",
+      "stars": 13720
+    },
+    {
+      "rank": 9,
+      "name": "plait-board/drawnix",
+      "url": "https://github.com/plait-board/drawnix",
+      "description": "\u5f00\u6e90\u767d\u677f\u5de5\u5177\uff08SaaS\uff09\uff0c\u4e00\u4f53\u5316\u767d\u677f\uff0c\u5305\u542b\u601d\u7ef4\u5bfc\u56fe\u3001\u6d41\u7a0b\u56fe\u3001\u81ea\u7531\u753b\u7b49\u3002All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "language": "TypeScript",
+      "stars": 4726
+    },
+    {
+      "rank": 10,
+      "name": "HeyPuter/puter",
+      "url": "https://github.com/HeyPuter/puter",
+      "description": "\ud83c\udf10 The Internet OS! Free, Open-Source, and Self-Hostable.",
+      "language": "JavaScript",
+      "stars": 35474
+    }
+  ]
+}
