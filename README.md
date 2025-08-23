@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-22 12:27 UTC_
+_Last updated: 2025-08-23 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 10526 | TypeScript | Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 11171 | TypeScript | Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 6401 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 6831 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [google/googletest](https://github.com/google/googletest) | 36726 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [google/googletest](https://github.com/google/googletest) | 36781 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 767 | Python | 基于大模型和 RAG 的智能问数系统。Intelligent questioning system based on LLMs and RAG. |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 862 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 9974 | TypeScript | Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 10118 | TypeScript | Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 2856 | Python | Useful tool to track location or mobile number |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 3089 | Python | Useful tool to track location or mobile number |
 
-| [puckeditor/puck](https://github.com/puckeditor/puck) | 7649 | TypeScript | The visual editor for React |
+| [puckeditor/puck](https://github.com/puckeditor/puck) | 7907 | TypeScript | The visual editor for React |
 
-| [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | 23462 | TypeScript | Open Source Alternative to Vercel, Netlify and Heroku. |
+| [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | 23637 | TypeScript | Open Source Alternative to Vercel, Netlify and Heroku. |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 92068 | TypeScript | JavaScript API for Chrome and Firefox |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 92111 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) | 2026 | Go | Six Degrees of Domain Admin |
+| [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) | 2135 | Go | Six Degrees of Domain Admin |
 <!-- TRENDING_END -->
 
 # TrendSpire
