@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-23 00:52 UTC_
+_Last updated: 2025-08-23 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 11171 | TypeScript | Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 7413 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 6831 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 5250 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [google/googletest](https://github.com/google/googletest) | 36781 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [Budibase/budibase](https://github.com/Budibase/budibase) | 25828 | TypeScript | Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform.. |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 862 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 11507 | TypeScript | Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools. |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 10118 | TypeScript | Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server. |
+| [google/googletest](https://github.com/google/googletest) | 36825 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 3089 | Python | Useful tool to track location or mobile number |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 3277 | Python | Useful tool to track location or mobile number |
 
-| [puckeditor/puck](https://github.com/puckeditor/puck) | 7907 | TypeScript | The visual editor for React |
+| [Leantime/leantime](https://github.com/Leantime/leantime) | 6752 | PHP | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind. |
 
-| [Dokploy/dokploy](https://github.com/Dokploy/dokploy) | 23637 | TypeScript | Open Source Alternative to Vercel, Netlify and Heroku. |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 71527 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 92111 | TypeScript | JavaScript API for Chrome and Firefox |
+| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 4502 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
 
-| [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound) | 2135 | Go | Six Degrees of Domain Admin |
+| [zigtools/zls](https://github.com/zigtools/zls) | 4034 | Zig | A language server for Zig supporting developers with features like autocomplete and goto definition |
 <!-- TRENDING_END -->
 
 # TrendSpire
