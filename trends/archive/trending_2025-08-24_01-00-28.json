@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-24 01:00 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "Vue",
+      "stars": 7999
+    },
+    {
+      "rank": 2,
+      "name": "plait-board/drawnix",
+      "url": "https://github.com/plait-board/drawnix",
+      "description": "\u5f00\u6e90\u767d\u677f\u5de5\u5177\uff08SaaS\uff09\uff0c\u4e00\u4f53\u5316\u767d\u677f\uff0c\u5305\u542b\u601d\u7ef4\u5bfc\u56fe\u3001\u6d41\u7a0b\u56fe\u3001\u81ea\u7531\u753b\u7b49\u3002All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "language": "TypeScript",
+      "stars": 5713
+    },
+    {
+      "rank": 3,
+      "name": "Budibase/budibase",
+      "url": "https://github.com/Budibase/budibase",
+      "description": "Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more \ud83d\ude80 No code / Low code platform..",
+      "language": "TypeScript",
+      "stars": 25948
+    },
+    {
+      "rank": 4,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.",
+      "language": "TypeScript",
+      "stars": 11614
+    },
+    {
+      "rank": 5,
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 36851
+    },
+    {
+      "rank": 6,
+      "name": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars": 3451
+    },
+    {
+      "rank": 7,
+      "name": "Leantime/leantime",
+      "url": "https://github.com/Leantime/leantime",
+      "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+      "language": "PHP",
+      "stars": 6949
+    },
+    {
+      "rank": 8,
+      "name": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "language": "TypeScript",
+      "stars": 71622
+    },
+    {
+      "rank": 9,
+      "name": "winapps-org/winapps",
+      "url": "https://github.com/winapps-org/winapps",
+      "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+      "language": "Shell",
+      "stars": 4837
+    },
+    {
+      "rank": 10,
+      "name": "zigtools/zls",
+      "url": "https://github.com/zigtools/zls",
+      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+      "language": "Zig",
+      "stars": 4066
+    }
+  ]
+}

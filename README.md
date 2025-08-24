@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-23 12:25 UTC_
+_Last updated: 2025-08-24 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 7413 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 7999 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 5250 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 5713 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [Budibase/budibase](https://github.com/Budibase/budibase) | 25828 | TypeScript | Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform.. |
+| [Budibase/budibase](https://github.com/Budibase/budibase) | 25948 | TypeScript | Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform.. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 11507 | TypeScript | Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 11614 | TypeScript | Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools. |
 
-| [google/googletest](https://github.com/google/googletest) | 36825 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [google/googletest](https://github.com/google/googletest) | 36851 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 3277 | Python | Useful tool to track location or mobile number |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 3451 | Python | Useful tool to track location or mobile number |
 
-| [Leantime/leantime](https://github.com/Leantime/leantime) | 6752 | PHP | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind. |
+| [Leantime/leantime](https://github.com/Leantime/leantime) | 6949 | PHP | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind. |
 
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 71527 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 71622 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
 
-| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 4502 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
+| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 4837 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
 
-| [zigtools/zls](https://github.com/zigtools/zls) | 4034 | Zig | A language server for Zig supporting developers with features like autocomplete and goto definition |
+| [zigtools/zls](https://github.com/zigtools/zls) | 4066 | Zig | A language server for Zig supporting developers with features like autocomplete and goto definition |
 <!-- TRENDING_END -->
 
 # TrendSpire
