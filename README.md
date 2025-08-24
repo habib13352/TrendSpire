@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-24 01:00 UTC_
+_Last updated: 2025-08-24 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 7999 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 5126 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
 
-| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 5713 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 8698 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [Budibase/budibase](https://github.com/Budibase/budibase) | 25948 | TypeScript | Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform.. |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 2030 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 11614 | TypeScript | Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools. |
+| [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) | 888 | TypeScript | Import a 3D Model and automatically assign and export animations |
 
-| [google/googletest](https://github.com/google/googletest) | 36851 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 365955 | Python | 📚 Freely available programming books |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 3451 | Python | Useful tool to track location or mobile number |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 6199 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [Leantime/leantime](https://github.com/Leantime/leantime) | 6949 | PHP | Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind. |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 11135 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 71622 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 123581 | Python | A feature-rich command-line audio/video downloader |
 
-| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 4837 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
+| [django/django](https://github.com/django/django) | 84673 | Python | The Web framework for perfectionists with deadlines. |
 
-| [zigtools/zls](https://github.com/zigtools/zls) | 4066 | Zig | A language server for Zig supporting developers with features like autocomplete and goto definition |
+| [nunchaku-tech/ComfyUI-nunchaku](https://github.com/nunchaku-tech/ComfyUI-nunchaku) | 1946 | Python | ComfyUI Plugin of Nunchaku |
 <!-- TRENDING_END -->
 
 # TrendSpire

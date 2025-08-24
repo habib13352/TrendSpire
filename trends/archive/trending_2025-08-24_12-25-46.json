@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-24 12:25 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "winapps-org/winapps",
+      "url": "https://github.com/winapps-org/winapps",
+      "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
+      "language": "Shell",
+      "stars": 5126
+    },
+    {
+      "rank": 2,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "Vue",
+      "stars": 8698
+    },
+    {
+      "rank": 3,
+      "name": "HKUDS/DeepCode",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "language": "Python",
+      "stars": 2030
+    },
+    {
+      "rank": 4,
+      "name": "scottpetrovic/mesh2motion-app",
+      "url": "https://github.com/scottpetrovic/mesh2motion-app",
+      "description": "Import a 3D Model and automatically assign and export animations",
+      "language": "TypeScript",
+      "stars": 888
+    },
+    {
+      "rank": 5,
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "\ud83d\udcda Freely available programming books",
+      "language": "Python",
+      "stars": 365955
+    },
+    {
+      "rank": 6,
+      "name": "plait-board/drawnix",
+      "url": "https://github.com/plait-board/drawnix",
+      "description": "\u5f00\u6e90\u767d\u677f\u5de5\u5177\uff08SaaS\uff09\uff0c\u4e00\u4f53\u5316\u767d\u677f\uff0c\u5305\u542b\u601d\u7ef4\u5bfc\u56fe\u3001\u6d41\u7a0b\u56fe\u3001\u81ea\u7531\u753b\u7b49\u3002All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "language": "TypeScript",
+      "stars": 6199
+    },
+    {
+      "rank": 7,
+      "name": "midday-ai/midday",
+      "url": "https://github.com/midday-ai/midday",
+      "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+      "language": "TypeScript",
+      "stars": 11135
+    },
+    {
+      "rank": 8,
+      "name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": 123581
+    },
+    {
+      "rank": 9,
+      "name": "django/django",
+      "url": "https://github.com/django/django",
+      "description": "The Web framework for perfectionists with deadlines.",
+      "language": "Python",
+      "stars": 84673
+    },
+    {
+      "rank": 10,
+      "name": "nunchaku-tech/ComfyUI-nunchaku",
+      "url": "https://github.com/nunchaku-tech/ComfyUI-nunchaku",
+      "description": "ComfyUI Plugin of Nunchaku",
+      "language": "Python",
+      "stars": 1946
+    }
+  ]
+}
