@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-25 00:56 UTC_
+_Last updated: 2025-08-25 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 6017 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 6822 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 9226 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 2819 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 2358 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 7015 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
 
-| [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) | 1010 | TypeScript | Import a 3D Model and automatically assign and export animations |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 10061 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 366103 | Python | 📚 Freely available programming books |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 4414 | Python | Useful tool to track location or mobile number |
 
-| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 6341 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
+| [willccbb/verifiers](https://github.com/willccbb/verifiers) | 2096 | Python | Verifiers for LLM Reinforcement Learning |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 11263 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | 21289 | Python | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
 
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 123719 | Python | A feature-rich command-line audio/video downloader |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 75337 | JavaScript | ⚡ Dynamically generated stats for your github readmes |
 
-| [django/django](https://github.com/django/django) | 84717 | Python | The Web framework for perfectionists with deadlines. |
+| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 15557 | Jupyter Notebook | Neural Networks: Zero to Hero |
 
-| [Klipper3d/klipper](https://github.com/Klipper3d/klipper) | 10697 | C | Klipper is a 3d-printer firmware |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 9185 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 <!-- TRENDING_END -->
 
 # TrendSpire
