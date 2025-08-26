@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-26 12:30 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "language": "JavaScript",
+      "stars": 10175
+    },
+    {
+      "rank": 2,
+      "name": "plait-board/drawnix",
+      "url": "https://github.com/plait-board/drawnix",
+      "description": "\u5f00\u6e90\u767d\u677f\u5de5\u5177\uff08SaaS\uff09\uff0c\u4e00\u4f53\u5316\u767d\u677f\uff0c\u5305\u542b\u601d\u7ef4\u5bfc\u56fe\u3001\u6d41\u7a0b\u56fe\u3001\u81ea\u7531\u753b\u7b49\u3002All in one open-source whiteboard tool with mind, flowchart, freehand and etc.",
+      "language": "TypeScript",
+      "stars": 8809
+    },
+    {
+      "rank": 3,
+      "name": "willccbb/verifiers",
+      "url": "https://github.com/willccbb/verifiers",
+      "description": "Verifiers for LLM Reinforcement Learning",
+      "language": "Python",
+      "stars": 2373
+    },
+    {
+      "rank": 4,
+      "name": "HKUDS/DeepCode",
+      "url": "https://github.com/HKUDS/DeepCode",
+      "description": "\"DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)\"",
+      "language": "Python",
+      "stars": 3930
+    },
+    {
+      "rank": 5,
+      "name": "TheAlgorithms/Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "stars": 62978
+    },
+    {
+      "rank": 6,
+      "name": "MODSetter/SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+      "language": "Python",
+      "stars": 6700
+    },
+    {
+      "rank": 7,
+      "name": "eythaann/Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "stars": 10734
+    },
+    {
+      "rank": 8,
+      "name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528",
+      "language": "JavaScript",
+      "stars": 41317
+    },
+    {
+      "rank": 9,
+      "name": "GitHubDaily/GitHubDaily",
+      "url": "https://github.com/GitHubDaily/GitHubDaily",
+      "description": "\u575a\u6301\u5206\u4eab GitHub \u4e0a\u9ad8\u8d28\u91cf\u3001\u6709\u8da3\u5b9e\u7528\u7684\u5f00\u6e90\u6280\u672f\u6559\u7a0b\u3001\u5f00\u53d1\u8005\u5de5\u5177\u3001\u7f16\u7a0b\u7f51\u7ad9\u3001\u6280\u672f\u8d44\u8baf\u3002A list cool, interesting projects of GitHub.",
+      "language": "Unknown",
+      "stars": 41114
+    },
+    {
+      "rank": 10,
+      "name": "IBM/mcp-context-forge",
+      "url": "https://github.com/IBM/mcp-context-forge",
+      "description": "A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).",
+      "language": "Python",
+      "stars": 1731
+    }
+  ]
+}
