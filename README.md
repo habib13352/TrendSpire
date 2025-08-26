@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-25 12:29 UTC_
+_Last updated: 2025-08-26 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 6822 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 7486 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 2819 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 3338 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 7015 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
+| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 7260 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 10061 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 10330 | Vue | 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 4414 | Python | Useful tool to track location or mobile number |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 4664 | Python | Useful tool to track location or mobile number |
 
-| [willccbb/verifiers](https://github.com/willccbb/verifiers) | 2096 | Python | Verifiers for LLM Reinforcement Learning |
+| [willccbb/verifiers](https://github.com/willccbb/verifiers) | 2244 | Python | Verifiers for LLM Reinforcement Learning |
 
-| [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | 21289 | Python | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
+| [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) | 21474 | Python | Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). |
 
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 75337 | JavaScript | ⚡ Dynamically generated stats for your github readmes |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | 75416 | JavaScript | ⚡ Dynamically generated stats for your github readmes |
 
-| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 15557 | Jupyter Notebook | Neural Networks: Zero to Hero |
+| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 15719 | Jupyter Notebook | Neural Networks: Zero to Hero |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 9185 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 9579 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 <!-- TRENDING_END -->
 
 # TrendSpire
