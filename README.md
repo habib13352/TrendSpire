@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-27 00:53 UTC_
+_Last updated: 2025-08-27 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 11637 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 12776 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 8980 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 9306 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [willccbb/verifiers](https://github.com/willccbb/verifiers) | 2462 | Python | Verifiers for LLM Reinforcement Learning |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 1125 | Python | Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 4079 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [microsoft/terminal](https://github.com/microsoft/terminal) | 99351 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
 
-| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 63024 | Java | All Algorithms implemented in Java |
+| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 29289 | Rust | Secure and fast microVMs for serverless computing. |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 6834 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 16375 | Jupyter Notebook | Neural Networks: Zero to Hero |
 
-| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 10958 | Rust | The Fully Customizable Desktop Environment for Windows 10/11. |
+| [santinic/audiblez](https://github.com/santinic/audiblez) | 4436 | Python | Generate audiobooks from e-books |
 
-| [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) | 40396 | Unknown | Collection of Summer 2026 tech internships! |
+| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 9776 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
 
-| [tw93/Pake](https://github.com/tw93/Pake) | 41461 | JavaScript | 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用 |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 6056 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more! |
 
-| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 41193 | Unknown | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
+| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 11248 | Rust | The Fully Customizable Desktop Environment for Windows 10/11. |
 <!-- TRENDING_END -->
 
 # TrendSpire
