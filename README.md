@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-27 12:28 UTC_
+_Last updated: 2025-08-28 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 12776 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 13739 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 9306 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
+| [plait-board/drawnix](https://github.com/plait-board/drawnix) | 9446 | TypeScript | 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc. |
 
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 1125 | Python | Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 1421 | Python | Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface |
 
-| [microsoft/terminal](https://github.com/microsoft/terminal) | 99351 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [microsoft/terminal](https://github.com/microsoft/terminal) | 99429 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
 
-| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 29289 | Rust | Secure and fast microVMs for serverless computing. |
+| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 29417 | Rust | Secure and fast microVMs for serverless computing. |
 
-| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 16375 | Jupyter Notebook | Neural Networks: Zero to Hero |
+| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 16553 | Jupyter Notebook | Neural Networks: Zero to Hero |
 
-| [santinic/audiblez](https://github.com/santinic/audiblez) | 4436 | Python | Generate audiobooks from e-books |
+| [santinic/audiblez](https://github.com/santinic/audiblez) | 4653 | Python | Generate audiobooks from e-books |
 
-| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 9776 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
+| [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | 9917 | Go | MCP Toolbox for Databases is an open source MCP server for databases. |
 
-| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 6056 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more! |
+| [OpenPipe/ART](https://github.com/OpenPipe/ART) | 6181 | Python | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more! |
 
-| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 11248 | Rust | The Fully Customizable Desktop Environment for Windows 10/11. |
+| [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) | 11477 | Rust | The Fully Customizable Desktop Environment for Windows 10/11. |
 <!-- TRENDING_END -->
 
 # TrendSpire
