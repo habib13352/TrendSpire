@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-28 12:28 UTC_
+_Last updated: 2025-08-29 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 14844 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 15852 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 10089 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 10312 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. |
 
-| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 29547 | Rust | Secure and fast microVMs for serverless computing. |
+| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 29672 | Rust | Secure and fast microVMs for serverless computing. |
 
-| [chroma-core/chroma](https://github.com/chroma-core/chroma) | 22253 | Rust | Open-source search and retrieval database for AI applications. |
+| [chroma-core/chroma](https://github.com/chroma-core/chroma) | 22422 | Rust | Open-source search and retrieval database for AI applications. |
 
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 173068 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 173125 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
 
-| [santinic/audiblez](https://github.com/santinic/audiblez) | 4898 | Python | Generate audiobooks from e-books |
+| [santinic/audiblez](https://github.com/santinic/audiblez) | 5071 | Python | Generate audiobooks from e-books |
 
-| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 16785 | Jupyter Notebook | Neural Networks: Zero to Hero |
+| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 16922 | Jupyter Notebook | Neural Networks: Zero to Hero |
 
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 46247 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 46304 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 7069 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 7180 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
 
-| [microsoft/terminal](https://github.com/microsoft/terminal) | 99504 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [microsoft/terminal](https://github.com/microsoft/terminal) | 99569 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
 <!-- TRENDING_END -->
 
 # TrendSpire
