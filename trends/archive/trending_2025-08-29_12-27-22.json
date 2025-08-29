@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-08-29 12:27 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "QuentinFuxa/WhisperLiveKit",
+      "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+      "language": "Python",
+      "stars": 2079
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/mcp",
+      "url": "https://github.com/microsoft/mcp",
+      "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+      "language": "C#",
+      "stars": 637
+    },
+    {
+      "rank": 3,
+      "name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "description": "\u26a1\ufe0f GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.",
+      "language": "TypeScript",
+      "stars": 10628
+    },
+    {
+      "rank": 4,
+      "name": "OpenBMB/MiniCPM-V",
+      "url": "https://github.com/OpenBMB/MiniCPM-V",
+      "description": "MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone",
+      "language": "Python",
+      "stars": 20378
+    },
+    {
+      "rank": 5,
+      "name": "twbs/bootstrap",
+      "url": "https://github.com/twbs/bootstrap",
+      "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+      "language": "MDX",
+      "stars": 173183
+    },
+    {
+      "rank": 6,
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": 204989
+    },
+    {
+      "rank": 7,
+      "name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+      "language": "TypeScript",
+      "stars": 1335
+    },
+    {
+      "rank": 8,
+      "name": "nats-io/nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "stars": 17925
+    },
+    {
+      "rank": 9,
+      "name": "spf13/cobra",
+      "url": "https://github.com/spf13/cobra",
+      "description": "A Commander for modern Go CLI interactions",
+      "language": "Go",
+      "stars": 41668
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "language": "C++",
+      "stars": 99648
+    }
+  ]
+}

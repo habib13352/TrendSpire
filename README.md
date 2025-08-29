@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-29 00:52 UTC_
+_Last updated: 2025-08-29 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 15852 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 2079 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
 
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 10312 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. |
+| [microsoft/mcp](https://github.com/microsoft/mcp) | 637 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
 
-| [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) | 29672 | Rust | Secure and fast microVMs for serverless computing. |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 10628 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. |
 
-| [chroma-core/chroma](https://github.com/chroma-core/chroma) | 22422 | Rust | Open-source search and retrieval database for AI applications. |
+| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 20378 | Python | MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone |
 
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 173125 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 173183 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
 
-| [santinic/audiblez](https://github.com/santinic/audiblez) | 5071 | Python | Generate audiobooks from e-books |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 204989 | Python | All Algorithms implemented in Python |
 
-| [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) | 16922 | Jupyter Notebook | Neural Networks: Zero to Hero |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 1335 | TypeScript | HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling |
 
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 46304 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 17925 | Go | High-Performance server for NATS.io, the cloud and edge native messaging system. |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 7180 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [spf13/cobra](https://github.com/spf13/cobra) | 41668 | Go | A Commander for modern Go CLI interactions |
 
-| [microsoft/terminal](https://github.com/microsoft/terminal) | 99569 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [microsoft/terminal](https://github.com/microsoft/terminal) | 99648 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
 <!-- TRENDING_END -->
 
 # TrendSpire
