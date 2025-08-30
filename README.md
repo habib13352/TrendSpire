@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-29 12:27 UTC_
+_Last updated: 2025-08-30 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 2079 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 2875 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
 
-| [microsoft/mcp](https://github.com/microsoft/mcp) | 637 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
+| [microsoft/mcp](https://github.com/microsoft/mcp) | 1088 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
 
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 10628 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. |
+| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 10756 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. |
 
-| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 20378 | Python | MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone |
+| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 20467 | Python | MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone |
 
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 173183 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 173218 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 204989 | Python | All Algorithms implemented in Python |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 205136 | Python | All Algorithms implemented in Python |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 1335 | TypeScript | HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 1474 | TypeScript | HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling |
 
-| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 17925 | Go | High-Performance server for NATS.io, the cloud and edge native messaging system. |
+| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 17988 | Go | High-Performance server for NATS.io, the cloud and edge native messaging system. |
 
-| [spf13/cobra](https://github.com/spf13/cobra) | 41668 | Go | A Commander for modern Go CLI interactions |
+| [spf13/cobra](https://github.com/spf13/cobra) | 41699 | Go | A Commander for modern Go CLI interactions |
 
-| [microsoft/terminal](https://github.com/microsoft/terminal) | 99648 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [microsoft/terminal](https://github.com/microsoft/terminal) | 99699 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
 <!-- TRENDING_END -->
 
 # TrendSpire
