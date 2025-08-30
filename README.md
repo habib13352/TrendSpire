@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-30 00:50 UTC_
+_Last updated: 2025-08-30 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 2875 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 25284 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [microsoft/mcp](https://github.com/microsoft/mcp) | 1088 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
+| [inventree/InvenTree](https://github.com/inventree/InvenTree) | 5439 | Python | Open Source Inventory Management System |
 
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 10756 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds. |
+| [microsoft/mcp](https://github.com/microsoft/mcp) | 1399 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
 
-| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 20467 | Python | MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 3449 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
 
-| [twbs/bootstrap](https://github.com/twbs/bootstrap) | 173218 | MDX | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 16542 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 205136 | Python | All Algorithms implemented in Python |
+| [elixir-lang/expert](https://github.com/elixir-lang/expert) | 997 | Elixir | Official Elixir Language Server Protocol implementation |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 1474 | TypeScript | HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling |
+| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13402 | Python | E-mails, subdomains and names Harvester - OSINT |
 
-| [nats-io/nats-server](https://github.com/nats-io/nats-server) | 17988 | Go | High-Performance server for NATS.io, the cloud and edge native messaging system. |
+| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 46366 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
 
-| [spf13/cobra](https://github.com/spf13/cobra) | 41699 | Go | A Commander for modern Go CLI interactions |
+| [dockur/windows](https://github.com/dockur/windows) | 37787 | Shell | Windows inside a Docker container. |
 
-| [microsoft/terminal](https://github.com/microsoft/terminal) | 99699 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 5407 | Unknown | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
