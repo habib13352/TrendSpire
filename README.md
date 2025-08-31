@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-30 12:24 UTC_
+_Last updated: 2025-08-31 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 25284 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 25679 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [inventree/InvenTree](https://github.com/inventree/InvenTree) | 5439 | Python | Open Source Inventory Management System |
+| [inventree/InvenTree](https://github.com/inventree/InvenTree) | 5583 | Python | Open Source Inventory Management System |
 
-| [microsoft/mcp](https://github.com/microsoft/mcp) | 1399 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
+| [microsoft/mcp](https://github.com/microsoft/mcp) | 1498 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
 
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 3449 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 3677 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
 
-| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 16542 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 16652 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
 
-| [elixir-lang/expert](https://github.com/elixir-lang/expert) | 997 | Elixir | Official Elixir Language Server Protocol implementation |
+| [elixir-lang/expert](https://github.com/elixir-lang/expert) | 1082 | Elixir | Official Elixir Language Server Protocol implementation |
 
-| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13402 | Python | E-mails, subdomains and names Harvester - OSINT |
+| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13534 | Python | E-mails, subdomains and names Harvester - OSINT |
 
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 46366 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 46424 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
 
-| [dockur/windows](https://github.com/dockur/windows) | 37787 | Shell | Windows inside a Docker container. |
+| [dockur/windows](https://github.com/dockur/windows) | 38147 | Shell | Windows inside a Docker container. |
 
-| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 5407 | Unknown | No description provided. |
+| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 5479 | Unknown | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
