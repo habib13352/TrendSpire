@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-31 00:57 UTC_
+_Last updated: 2025-08-31 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 25679 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 3889 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
 
-| [inventree/InvenTree](https://github.com/inventree/InvenTree) | 5583 | Python | Open Source Inventory Management System |
+| [dockur/windows](https://github.com/dockur/windows) | 38488 | Shell | Windows inside a Docker container. |
 
-| [microsoft/mcp](https://github.com/microsoft/mcp) | 1498 | C# | Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration |
+| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13612 | Python | E-mails, subdomains and names Harvester - OSINT |
 
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 3677 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 25941 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 16652 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 68284 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [elixir-lang/expert](https://github.com/elixir-lang/expert) | 1082 | Elixir | Official Elixir Language Server Protocol implementation |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 205707 | Python | All Algorithms implemented in Python |
 
-| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13534 | Python | E-mails, subdomains and names Harvester - OSINT |
+| [JetBrains/koog](https://github.com/JetBrains/koog) | 1802 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
 
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 46424 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | 7177 | Java | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
 
-| [dockur/windows](https://github.com/dockur/windows) | 38147 | Shell | Windows inside a Docker container. |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 41304 | Rust | A refreshingly simple data-driven game engine built in Rust |
 
-| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 5479 | Unknown | No description provided. |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 16740 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
