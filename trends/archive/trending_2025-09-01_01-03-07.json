@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-01 01:03 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "QuentinFuxa/WhisperLiveKit",
+      "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+      "description": "Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.",
+      "language": "Python",
+      "stars": 4482
+    },
+    {
+      "rank": 2,
+      "name": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "stars": 39185
+    },
+    {
+      "rank": 3,
+      "name": "laramies/theHarvester",
+      "url": "https://github.com/laramies/theHarvester",
+      "description": "E-mails, subdomains and names Harvester - OSINT",
+      "language": "Python",
+      "stars": 13729
+    },
+    {
+      "rank": 4,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 26001
+    },
+    {
+      "rank": 5,
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": 205958
+    },
+    {
+      "rank": 6,
+      "name": "JetBrains/koog",
+      "url": "https://github.com/JetBrains/koog",
+      "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms \u2013 from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+      "language": "Kotlin",
+      "stars": 1852
+    },
+    {
+      "rank": 7,
+      "name": "gunnarmorling/1brc",
+      "url": "https://github.com/gunnarmorling/1brc",
+      "description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+      "language": "Java",
+      "stars": 7219
+    },
+    {
+      "rank": 8,
+      "name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": 41419
+    },
+    {
+      "rank": 9,
+      "name": "activepieces/activepieces",
+      "url": "https://github.com/activepieces/activepieces",
+      "description": "AI Agents & MCPs & AI Workflow Automation \u2022 (280+ MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents",
+      "language": "TypeScript",
+      "stars": 16824
+    },
+    {
+      "rank": 10,
+      "name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling",
+      "language": "TypeScript",
+      "stars": 1757
+    }
+  ]
+}

@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-08-31 12:25 UTC_
+_Last updated: 2025-09-01 01:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 3889 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 4482 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
 
-| [dockur/windows](https://github.com/dockur/windows) | 38488 | Shell | Windows inside a Docker container. |
+| [dockur/windows](https://github.com/dockur/windows) | 39185 | Shell | Windows inside a Docker container. |
 
-| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13612 | Python | E-mails, subdomains and names Harvester - OSINT |
+| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13729 | Python | E-mails, subdomains and names Harvester - OSINT |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 25941 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 26001 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 68284 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 205958 | Python | All Algorithms implemented in Python |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 205707 | Python | All Algorithms implemented in Python |
+| [JetBrains/koog](https://github.com/JetBrains/koog) | 1852 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
 
-| [JetBrains/koog](https://github.com/JetBrains/koog) | 1802 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
+| [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | 7219 | Java | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
 
-| [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) | 7177 | Java | 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 41419 | Rust | A refreshingly simple data-driven game engine built in Rust |
 
-| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 41304 | Rust | A refreshingly simple data-driven game engine built in Rust |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 16824 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
 
-| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 16740 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 1757 | TypeScript | HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling |
 <!-- TRENDING_END -->
 
 # TrendSpire
