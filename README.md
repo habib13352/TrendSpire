@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-02 00:53 UTC_
+_Last updated: 2025-09-02 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dockur/windows](https://github.com/dockur/windows) | 41126 | Shell | Windows inside a Docker container. |
+| [dockur/windows](https://github.com/dockur/windows) | 42165 | Shell | Windows inside a Docker container. |
 
-| [JetBrains/koog](https://github.com/JetBrains/koog) | 2310 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 36479 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 26201 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [JetBrains/koog](https://github.com/JetBrains/koog) | 2605 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
 
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | 5544 | Python | Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 8014 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [activepieces/activepieces](https://github.com/activepieces/activepieces) | 17012 | TypeScript | AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 65270 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) | 46213 | Python | Focus on prompting and generating |
+| [google/mangle](https://github.com/google/mangle) | 1946 | Go | No description provided. |
 
-| [laramies/theHarvester](https://github.com/laramies/theHarvester) | 13991 | Python | E-mails, subdomains and names Harvester - OSINT |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 11323 | Python | SoTA open-source TTS |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 1952 | TypeScript | HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18141 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 11105 | Python | SoTA open-source TTS |
+| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 1908 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
 
-| [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) | 20968 | Python | MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97015 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 <!-- TRENDING_END -->
 
 # TrendSpire
