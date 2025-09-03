@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-02 12:28 UTC_
+_Last updated: 2025-09-03 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dockur/windows](https://github.com/dockur/windows) | 42165 | Shell | Windows inside a Docker container. |
+| [dockur/windows](https://github.com/dockur/windows) | 43007 | Shell | Windows inside a Docker container. |
 
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 36479 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 36917 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
 
-| [JetBrains/koog](https://github.com/JetBrains/koog) | 2605 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
+| [JetBrains/koog](https://github.com/JetBrains/koog) | 2676 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 8014 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 8540 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 65270 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [google/mangle](https://github.com/google/mangle) | 2051 | Go | No description provided. |
 
-| [google/mangle](https://github.com/google/mangle) | 1946 | Go | No description provided. |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 11486 | Python | SoTA open-source TTS |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 11323 | Python | SoTA open-source TTS |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18242 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18141 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2090 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
 
-| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 1908 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97145 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97015 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 3535 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. |
 <!-- TRENDING_END -->
 
 # TrendSpire
