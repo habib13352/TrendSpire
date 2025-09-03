@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-03 00:50 UTC_
+_Last updated: 2025-09-03 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [dockur/windows](https://github.com/dockur/windows) | 43007 | Shell | Windows inside a Docker container. |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18405 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 36917 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
+| [dockur/windows](https://github.com/dockur/windows) | 43806 | Shell | Windows inside a Docker container. |
 
-| [JetBrains/koog](https://github.com/JetBrains/koog) | 2676 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
+| [JetBrains/koog](https://github.com/JetBrains/koog) | 2745 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 8540 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 122850 | C# | Windows system utilities to maximize productivity |
 
-| [google/mangle](https://github.com/google/mangle) | 2051 | Go | No description provided. |
+| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2299 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 11486 | Python | SoTA open-source TTS |
+| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | 3735 | Unknown | Awesome MCP Servers - A curated list of Model Context Protocol servers |
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18242 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 8985 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2090 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
+| [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 12614 | C# | Full Modular Monolith application with Domain-Driven Design approach. |
 
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97145 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | 5845 | C# | Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. |
 
-| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 3535 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. |
+| [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | 18798 | Bicep | Clean Architecture Solution Template for ASP.NET Core |
 <!-- TRENDING_END -->
 
 # TrendSpire
