@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-03 12:27 UTC_
+_Last updated: 2025-09-04 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18405 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18783 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 
-| [dockur/windows](https://github.com/dockur/windows) | 43806 | Shell | Windows inside a Docker container. |
+| [dockur/windows](https://github.com/dockur/windows) | 43981 | Shell | Windows inside a Docker container. |
 
-| [JetBrains/koog](https://github.com/JetBrains/koog) | 2745 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
+| [JetBrains/koog](https://github.com/JetBrains/koog) | 2804 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 122850 | C# | Windows system utilities to maximize productivity |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 122954 | C# | Windows system utilities to maximize productivity |
 
-| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2299 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
+| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2496 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
 
-| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | 3735 | Unknown | Awesome MCP Servers - A curated list of Model Context Protocol servers |
+| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | 3904 | Unknown | Awesome MCP Servers - A curated list of Model Context Protocol servers |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 8985 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 9276 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 12614 | C# | Full Modular Monolith application with Domain-Driven Design approach. |
+| [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 12663 | C# | Full Modular Monolith application with Domain-Driven Design approach. |
 
-| [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | 5845 | C# | Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. |
+| [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | 5908 | C# | Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. |
 
-| [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | 18798 | Bicep | Clean Architecture Solution Template for ASP.NET Core |
+| [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | 18829 | Bicep | Clean Architecture Solution Template for ASP.NET Core |
 <!-- TRENDING_END -->
 
 # TrendSpire
