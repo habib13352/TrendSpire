@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-04 00:50 UTC_
+_Last updated: 2025-09-04 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 18783 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 4316 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. |
 
-| [dockur/windows](https://github.com/dockur/windows) | 43981 | Shell | Windows inside a Docker container. |
+| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2728 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
 
-| [JetBrains/koog](https://github.com/JetBrains/koog) | 2804 | Kotlin | Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97437 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 122954 | C# | Windows system utilities to maximize productivity |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 37468 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
 
-| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2496 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28289 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | 3904 | Unknown | Awesome MCP Servers - A curated list of Model Context Protocol servers |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 123103 | C# | Windows system utilities to maximize productivity |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 9276 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 19069 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 
-| [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) | 12663 | C# | Full Modular Monolith application with Domain-Driven Design approach. |
+| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 20447 | Go | Find, verify, and analyze leaked credentials |
 
-| [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) | 5908 | C# | Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included. |
+| [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | 27793 | Python | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. |
 
-| [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) | 18829 | Bicep | Clean Architecture Solution Template for ASP.NET Core |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 50301 | Go | Open Source realtime backend in 1 file |
 <!-- TRENDING_END -->
 
 # TrendSpire

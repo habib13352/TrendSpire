@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-04 12:27 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "bytebot-ai/bytebot",
+      "url": "https://github.com/bytebot-ai/bytebot",
+      "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+      "language": "TypeScript",
+      "stars": 4316
+    },
+    {
+      "rank": 2,
+      "name": "LukeGus/Termix",
+      "url": "https://github.com/LukeGus/Termix",
+      "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+      "language": "TypeScript",
+      "stars": 2728
+    },
+    {
+      "rank": 3,
+      "name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "stars": 97437
+    },
+    {
+      "rank": 4,
+      "name": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "language": "Python",
+      "stars": 37468
+    },
+    {
+      "rank": 5,
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 28289
+    },
+    {
+      "rank": 6,
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Windows system utilities to maximize productivity",
+      "language": "C#",
+      "stars": 123103
+    },
+    {
+      "rank": 7,
+      "name": "pedroslopez/whatsapp-web.js",
+      "url": "https://github.com/pedroslopez/whatsapp-web.js",
+      "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+      "language": "JavaScript",
+      "stars": 19069
+    },
+    {
+      "rank": 8,
+      "name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": 20447
+    },
+    {
+      "rank": 9,
+      "name": "eriklindernoren/ML-From-Scratch",
+      "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+      "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+      "language": "Python",
+      "stars": 27793
+    },
+    {
+      "rank": 10,
+      "name": "pocketbase/pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "description": "Open Source realtime backend in 1 file",
+      "language": "Go",
+      "stars": 50301
+    }
+  ]
+}
