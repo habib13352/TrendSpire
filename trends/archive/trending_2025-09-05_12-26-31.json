@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-05 12:26 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "bytebot-ai/bytebot",
+      "url": "https://github.com/bytebot-ai/bytebot",
+      "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+      "language": "TypeScript",
+      "stars": 5023
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": 21363
+    },
+    {
+      "rank": 3,
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 28433
+    },
+    {
+      "rank": 4,
+      "name": "trufflesecurity/trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
+      "language": "Go",
+      "stars": 20662
+    },
+    {
+      "rank": 5,
+      "name": "mack-a/v2ray-agent",
+      "url": "https://github.com/mack-a/v2ray-agent",
+      "description": "Xray\u3001Tuic\u3001hysteria2\u3001sing-box \u516b\u5408\u4e00\u4e00\u952e\u811a\u672c",
+      "language": "Shell",
+      "stars": 16892
+    },
+    {
+      "rank": 6,
+      "name": "nukeop/nuclear",
+      "url": "https://github.com/nukeop/nuclear",
+      "description": "Streaming music player that finds free music for you",
+      "language": "TypeScript",
+      "stars": 14184
+    },
+    {
+      "rank": 7,
+      "name": "EvolutionAPI/evolution-api",
+      "url": "https://github.com/EvolutionAPI/evolution-api",
+      "description": "Evolution API is an open-source WhatsApp integration API",
+      "language": "TypeScript",
+      "stars": 5087
+    },
+    {
+      "rank": 8,
+      "name": "appcypher/awesome-mcp-servers",
+      "url": "https://github.com/appcypher/awesome-mcp-servers",
+      "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+      "language": "Unknown",
+      "stars": 4241
+    },
+    {
+      "rank": 9,
+      "name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": 8788
+    },
+    {
+      "rank": 10,
+      "name": "coleam00/ottomator-agents",
+      "url": "https://github.com/coleam00/ottomator-agents",
+      "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+      "language": "Python",
+      "stars": 3796
+    }
+  ]
+}

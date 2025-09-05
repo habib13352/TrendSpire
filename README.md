@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-05 00:51 UTC_
+_Last updated: 2025-09-05 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 4652 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. |
+| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 5023 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. |
 
-| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2891 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21363 | Python | Official inference framework for 1-bit LLMs |
 
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97541 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28433 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 37565 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
+| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 20662 | Go | Find, verify, and analyze leaked credentials |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28361 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 16892 | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 123181 | C# | Windows system utilities to maximize productivity |
+| [nukeop/nuclear](https://github.com/nukeop/nuclear) | 14184 | TypeScript | Streaming music player that finds free music for you |
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 19149 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) | 5087 | TypeScript | Evolution API is an open-source WhatsApp integration API |
 
-| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 20562 | Go | Find, verify, and analyze leaked credentials |
+| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | 4241 | Unknown | Awesome MCP Servers - A curated list of Model Context Protocol servers |
 
-| [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | 27951 | Python | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 8788 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 50428 | Go | Open Source realtime backend in 1 file |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3796 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 <!-- TRENDING_END -->
 
 # TrendSpire
