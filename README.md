@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-04 12:27 UTC_
+_Last updated: 2025-09-05 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 4316 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. |
+| [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) | 4652 | TypeScript | Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment. |
 
-| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2728 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
+| [LukeGus/Termix](https://github.com/LukeGus/Termix) | 2891 | TypeScript | Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. |
 
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97437 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 97541 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 37468 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 37565 | Python | Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28289 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28361 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 123103 | C# | Windows system utilities to maximize productivity |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 123181 | C# | Windows system utilities to maximize productivity |
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 19069 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 19149 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 
-| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 20447 | Go | Find, verify, and analyze leaked credentials |
+| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 20562 | Go | Find, verify, and analyze leaked credentials |
 
-| [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | 27793 | Python | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. |
+| [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | 27951 | Python | Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning. |
 
-| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 50301 | Go | Open Source realtime backend in 1 file |
+| [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) | 50428 | Go | Open Source realtime backend in 1 file |
 <!-- TRENDING_END -->
 
 # TrendSpire
