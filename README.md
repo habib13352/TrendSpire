@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-07 00:56 UTC_
+_Last updated: 2025-09-07 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17163 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 9372 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28608 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17390 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
 
-| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 21003 | Go | Find, verify, and analyze leaked credentials |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3965 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [rails/rails](https://github.com/rails/rails) | 57485 | Ruby | Ruby on Rails |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 29590 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21592 | Python | Official inference framework for 1-bit LLMs |
+| [FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) | 976 | Java | FTC Android Studio Workspace for robot programming in Android Studio |
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3928 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 23571 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 9197 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 8508 | TypeScript | Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social |
 
-| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 17099 | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 65392 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
 
-| [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | 14917 | Java | Quarkus: Supersonic Subatomic Java. |
+| [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 3785 | Rust | Distributed query engine providing simple and reliable data processing for any modality and scale |
 
-| [apache/airflow](https://github.com/apache/airflow) | 42145 | Python | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21637 | Python | Official inference framework for 1-bit LLMs |
 <!-- TRENDING_END -->
 
 # TrendSpire
