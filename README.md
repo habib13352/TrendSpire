@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-06 12:23 UTC_
+_Last updated: 2025-09-07 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 16908 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
+| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17163 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28543 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 28608 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 20871 | Go | Find, verify, and analyze leaked credentials |
+| [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 21003 | Go | Find, verify, and analyze leaked credentials |
 
-| [rails/rails](https://github.com/rails/rails) | 57437 | Ruby | Ruby on Rails |
+| [rails/rails](https://github.com/rails/rails) | 57485 | Ruby | Ruby on Rails |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21528 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21592 | Python | Official inference framework for 1-bit LLMs |
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3865 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3928 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 9080 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 9197 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 17058 | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
+| [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) | 17099 | Shell | Xray、Tuic、hysteria2、sing-box 八合一一键脚本 |
 
-| [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | 14888 | Java | Quarkus: Supersonic Subatomic Java. |
+| [quarkusio/quarkus](https://github.com/quarkusio/quarkus) | 14917 | Java | Quarkus: Supersonic Subatomic Java. |
 
-| [apache/airflow](https://github.com/apache/airflow) | 42082 | Python | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
+| [apache/airflow](https://github.com/apache/airflow) | 42145 | Python | Apache Airflow - A platform to programmatically author, schedule, and monitor workflows |
 <!-- TRENDING_END -->
 
 # TrendSpire
