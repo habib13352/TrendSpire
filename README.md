@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-08 00:55 UTC_
+_Last updated: 2025-09-08 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 9829 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 10530 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17474 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 36652 | Jupyter Notebook | 11 Lessons to Get Started Building AI Agents |
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 4023 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17681 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 29812 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 18344 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) | 1008 | Java | FTC Android Studio Workspace for robot programming in Android Studio |
+| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 23703 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 
-| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 23635 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 9056 | TypeScript | Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social |
 
-| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 8796 | TypeScript | Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social |
+| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 2665 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 65523 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 81688 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 3909 | Rust | Distributed query engine providing simple and reliable data processing for any modality and scale |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 97057 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21716 | Python | Official inference framework for 1-bit LLMs |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 65769 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
 <!-- TRENDING_END -->
 
 # TrendSpire
