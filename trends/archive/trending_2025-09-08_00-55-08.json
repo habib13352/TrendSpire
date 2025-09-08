@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-08 00:55 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": 9829
+    },
+    {
+      "rank": 2,
+      "name": "zama-ai/fhevm",
+      "url": "https://github.com/zama-ai/fhevm",
+      "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+      "language": "Rust",
+      "stars": 17474
+    },
+    {
+      "rank": 3,
+      "name": "coleam00/ottomator-agents",
+      "url": "https://github.com/coleam00/ottomator-agents",
+      "description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!",
+      "language": "Python",
+      "stars": 4023
+    },
+    {
+      "rank": 4,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 29812
+    },
+    {
+      "rank": 5,
+      "name": "FIRST-Tech-Challenge/FtcRobotController",
+      "url": "https://github.com/FIRST-Tech-Challenge/FtcRobotController",
+      "description": "FTC Android Studio Workspace for robot programming in Android Studio",
+      "language": "Java",
+      "stars": 1008
+    },
+    {
+      "rank": 6,
+      "name": "openwrt/openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "stars": 23635
+    },
+    {
+      "rank": 7,
+      "name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social",
+      "language": "TypeScript",
+      "stars": 8796
+    },
+    {
+      "rank": 8,
+      "name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+      "language": "Java",
+      "stars": 65523
+    },
+    {
+      "rank": 9,
+      "name": "Eventual-Inc/Daft",
+      "url": "https://github.com/Eventual-Inc/Daft",
+      "description": "Distributed query engine providing simple and reliable data processing for any modality and scale",
+      "language": "Rust",
+      "stars": 3909
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": 21716
+    }
+  ]
+}

@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-07 12:24 UTC_
+_Last updated: 2025-09-08 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 9372 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 9829 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17390 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
+| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17474 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
 
-| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 3965 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
+| [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) | 4023 | Python | All the open source AI Agents hosted on the oTTomator Live Agent Studio platform! |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 29590 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 29812 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) | 976 | Java | FTC Android Studio Workspace for robot programming in Android Studio |
+| [FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) | 1008 | Java | FTC Android Studio Workspace for robot programming in Android Studio |
 
-| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 23571 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
+| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 23635 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 
-| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 8508 | TypeScript | Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 8796 | TypeScript | Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 65392 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 65523 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
 
-| [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 3785 | Rust | Distributed query engine providing simple and reliable data processing for any modality and scale |
+| [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) | 3909 | Rust | Distributed query engine providing simple and reliable data processing for any modality and scale |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21637 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 21716 | Python | Official inference framework for 1-bit LLMs |
 <!-- TRENDING_END -->
 
 # TrendSpire
