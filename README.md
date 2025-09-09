@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-09 00:52 UTC_
+_Last updated: 2025-09-09 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 10745 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 11024 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 36878 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | 2631 | Python | XLeRobot: Practical Dual-Arm Mobile Home Robot for $660 |
 
-| [zama-ai/fhevm](https://github.com/zama-ai/fhevm) | 17798 | Rust | FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 82283 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 18426 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 66175 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
 
-| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 23759 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
+| [vercel/examples](https://github.com/vercel/examples) | 4132 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
 
-| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 9248 | TypeScript | Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social |
+| [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | 23564 | Python | An open-source RAG-based tool for chatting with your documents. |
 
-| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 2950 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
+| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 37743 | Jupyter Notebook | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 81937 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 36694 | Python | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 97268 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
+| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3333 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 65982 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 40182 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 <!-- TRENDING_END -->
 
 # TrendSpire
