@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-10 12:27 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Physical-Intelligence/openpi",
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "description": "",
+      "language": "Python",
+      "stars": 5055
+    },
+    {
+      "rank": 2,
+      "name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": 2667
+    },
+    {
+      "rank": 3,
+      "name": "vercel/examples",
+      "url": "https://github.com/vercel/examples",
+      "description": "Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.",
+      "language": "TypeScript",
+      "stars": 4329
+    },
+    {
+      "rank": 4,
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 37421
+    },
+    {
+      "rank": 5,
+      "name": "11cafe/jaaz",
+      "url": "https://github.com/11cafe/jaaz",
+      "description": "The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.",
+      "language": "TypeScript",
+      "stars": 3754
+    },
+    {
+      "rank": 6,
+      "name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 65066
+    },
+    {
+      "rank": 7,
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+      "language": "TypeScript",
+      "stars": 27032
+    },
+    {
+      "rank": 8,
+      "name": "tesseract-ocr/tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "stars": 69387
+    },
+    {
+      "rank": 9,
+      "name": "huggingface/aisheets",
+      "url": "https://github.com/huggingface/aisheets",
+      "description": "Build, enrich, and transform datasets using AI models with no code",
+      "language": "TypeScript",
+      "stars": 1085
+    },
+    {
+      "rank": 10,
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+      "language": "Unknown",
+      "stars": 82954
+    }
+  ]
+}

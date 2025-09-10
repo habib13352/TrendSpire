@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-10 00:51 UTC_
+_Last updated: 2025-09-10 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 11225 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 5055 | Python | No description provided. |
 
-| [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | 2773 | Python | XLeRobot: Practical Dual-Arm Mobile Home Robot for $660 |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 2667 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 82606 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [vercel/examples](https://github.com/vercel/examples) | 4329 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 66348 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 37421 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
 
-| [vercel/examples](https://github.com/vercel/examples) | 4225 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
+| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3754 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
 
-| [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | 23673 | Python | An open-source RAG-based tool for chatting with your documents. |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 65066 | Scala | Source code for the X Recommendation Algorithm |
 
-| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 38286 | Jupyter Notebook | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 27032 | TypeScript | 人人都能用英语 |
 
-| [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 36806 | Python | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 |
+| [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 69387 | C++ | Tesseract Open Source OCR Engine (main repository) |
 
-| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3520 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
+| [huggingface/aisheets](https://github.com/huggingface/aisheets) | 1085 | TypeScript | Build, enrich, and transform datasets using AI models with no code |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 40790 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 82954 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
 <!-- TRENDING_END -->
 
 # TrendSpire
