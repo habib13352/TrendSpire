@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-09 12:29 UTC_
+_Last updated: 2025-09-10 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 11024 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 11225 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | 2631 | Python | XLeRobot: Practical Dual-Arm Mobile Home Robot for $660 |
+| [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot) | 2773 | Python | XLeRobot: Practical Dual-Arm Mobile Home Robot for $660 |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 82283 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 82606 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 66175 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 66348 | Java | #1 Locally hosted web application that allows you to perform various operations on PDF files |
 
-| [vercel/examples](https://github.com/vercel/examples) | 4132 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
+| [vercel/examples](https://github.com/vercel/examples) | 4225 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
 
-| [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | 23564 | Python | An open-source RAG-based tool for chatting with your documents. |
+| [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) | 23673 | Python | An open-source RAG-based tool for chatting with your documents. |
 
-| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 37743 | Jupyter Notebook | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. |
+| [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) | 38286 | Jupyter Notebook | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. |
 
-| [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 36694 | Python | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 |
+| [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | 36806 | Python | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 |
 
-| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3333 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
+| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3520 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 40182 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 40790 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 <!-- TRENDING_END -->
 
 # TrendSpire
