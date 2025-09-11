@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-10 12:27 UTC_
+_Last updated: 2025-09-11 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 5055 | Python | No description provided. |
+| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 5544 | Python | No description provided. |
 
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 2667 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 3134 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
 
-| [vercel/examples](https://github.com/vercel/examples) | 4329 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
+| [vercel/examples](https://github.com/vercel/examples) | 4409 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 37421 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 37585 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
 
-| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3754 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
+| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3965 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 65066 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 65435 | Scala | Source code for the X Recommendation Algorithm |
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 27032 | TypeScript | 人人都能用英语 |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 27139 | TypeScript | 人人都能用英语 |
 
-| [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 69387 | C++ | Tesseract Open Source OCR Engine (main repository) |
+| [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 69451 | C++ | Tesseract Open Source OCR Engine (main repository) |
 
-| [huggingface/aisheets](https://github.com/huggingface/aisheets) | 1085 | TypeScript | Build, enrich, and transform datasets using AI models with no code |
+| [huggingface/aisheets](https://github.com/huggingface/aisheets) | 1222 | TypeScript | Build, enrich, and transform datasets using AI models with no code |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 82954 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 83157 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
 <!-- TRENDING_END -->
 
 # TrendSpire
