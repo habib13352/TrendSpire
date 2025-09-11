@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-11 00:52 UTC_
+_Last updated: 2025-09-11 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 5544 | Python | No description provided. |
+| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 6099 | Python | No description provided. |
 
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 3134 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 3521 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
 
-| [vercel/examples](https://github.com/vercel/examples) | 4409 | TypeScript | Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 65799 | Scala | Source code for the X Recommendation Algorithm |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 37585 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [google/material-design-icons](https://github.com/google/material-design-icons) | 52074 | Unknown | Material Design icons by Google (Material Symbols) |
 
-| [11cafe/jaaz](https://github.com/11cafe/jaaz) | 3965 | TypeScript | The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally. |
+| [ccfos/nightingale](https://github.com/ccfos/nightingale) | 11643 | Go | Nightingale for monitoring and alerting, just as Grafana for visualization. |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 65435 | Scala | Source code for the X Recommendation Algorithm |
+| [mxrch/GHunt](https://github.com/mxrch/GHunt) | 17396 | Python | 🕵️‍♂️ Offensive Google framework. |
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 27139 | TypeScript | 人人都能用英语 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 33099 | Python | High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud. |
 
-| [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) | 69451 | C++ | Tesseract Open Source OCR Engine (main repository) |
+| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 10061 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
 
-| [huggingface/aisheets](https://github.com/huggingface/aisheets) | 1222 | TypeScript | Build, enrich, and transform datasets using AI models with no code |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 7938 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 83157 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [heroui-inc/heroui](https://github.com/heroui-inc/heroui) | 25895 | TypeScript | 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) |
 <!-- TRENDING_END -->
 
 # TrendSpire
