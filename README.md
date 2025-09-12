@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-12 00:50 UTC_
+_Last updated: 2025-09-12 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 6475 | Python | No description provided. |
+| [trueadm/ripple](https://github.com/trueadm/ripple) | 3196 | JavaScript | the elegant TypeScript UI framework |
 
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 3664 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
+| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 6875 | Python | No description provided. |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 66045 | Scala | Source code for the X Recommendation Algorithm |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 987 | TypeScript | Generate code from the terminal! |
 
-| [google/material-design-icons](https://github.com/google/material-design-icons) | 52140 | Unknown | Material Design icons by Google (Material Symbols) |
+| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1472 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
 
-| [ccfos/nightingale](https://github.com/ccfos/nightingale) | 11774 | Go | Nightingale for monitoring and alerting, just as Grafana for visualization. |
+| [firebase/genkit](https://github.com/firebase/genkit) | 3022 | TypeScript | An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms. |
 
-| [mxrch/GHunt](https://github.com/mxrch/GHunt) | 17586 | Python | 🕵️‍♂️ Offensive Google framework. |
+| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 28856 | HTML | all of the workflows of n8n i could find (also from the site itself) |
 
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 33183 | Python | High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud. |
+| [epfml/ML_course](https://github.com/epfml/ML_course) | 1555 | Jupyter Notebook | EPFL Machine Learning Course, Fall 2025 |
 
-| [trueadm/ripple](https://github.com/trueadm/ripple) | 2901 | JavaScript | the elegant TypeScript UI framework |
+| [expo/expo](https://github.com/expo/expo) | 43118 | TypeScript | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
 
-| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 10216 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | 5321 | Python | the LLM vulnerability scanner |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 8064 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
+| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 37134 | Go | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 <!-- TRENDING_END -->
 
 # TrendSpire
