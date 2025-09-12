@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-12 00:50 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Physical-Intelligence/openpi",
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "description": "",
+      "language": "Python",
+      "stars": 6475
+    },
+    {
+      "rank": 2,
+      "name": "modelcontextprotocol/registry",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "description": "A community driven registry service for Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "stars": 3664
+    },
+    {
+      "rank": 3,
+      "name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 66045
+    },
+    {
+      "rank": 4,
+      "name": "google/material-design-icons",
+      "url": "https://github.com/google/material-design-icons",
+      "description": "Material Design icons by Google (Material Symbols)",
+      "language": "Unknown",
+      "stars": 52140
+    },
+    {
+      "rank": 5,
+      "name": "ccfos/nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Nightingale for monitoring and alerting, just as Grafana for visualization.",
+      "language": "Go",
+      "stars": 11774
+    },
+    {
+      "rank": 6,
+      "name": "mxrch/GHunt",
+      "url": "https://github.com/mxrch/GHunt",
+      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Offensive Google framework.",
+      "language": "Python",
+      "stars": 17586
+    },
+    {
+      "rank": 7,
+      "name": "agno-agi/agno",
+      "url": "https://github.com/agno-agi/agno",
+      "description": "High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.",
+      "language": "Python",
+      "stars": 33183
+    },
+    {
+      "rank": 8,
+      "name": "trueadm/ripple",
+      "url": "https://github.com/trueadm/ripple",
+      "description": "the elegant TypeScript UI framework",
+      "language": "JavaScript",
+      "stars": 2901
+    },
+    {
+      "rank": 9,
+      "name": "aaPanel/BillionMail",
+      "url": "https://github.com/aaPanel/BillionMail",
+      "description": "BillionMail gives you open-source MailServer, NewsLetter, Email Marketing \u2014 fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr",
+      "language": "Go",
+      "stars": 10216
+    },
+    {
+      "rank": 10,
+      "name": "MotiaDev/motia",
+      "url": "https://github.com/MotiaDev/motia",
+      "description": "Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.",
+      "language": "TypeScript",
+      "stars": 8064
+    }
+  ]
+}

@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-11 12:26 UTC_
+_Last updated: 2025-09-12 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 6099 | Python | No description provided. |
+| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 6475 | Python | No description provided. |
 
-| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 3521 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
+| [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | 3664 | Go | A community driven registry service for Model Context Protocol (MCP) servers. |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 65799 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 66045 | Scala | Source code for the X Recommendation Algorithm |
 
-| [google/material-design-icons](https://github.com/google/material-design-icons) | 52074 | Unknown | Material Design icons by Google (Material Symbols) |
+| [google/material-design-icons](https://github.com/google/material-design-icons) | 52140 | Unknown | Material Design icons by Google (Material Symbols) |
 
-| [ccfos/nightingale](https://github.com/ccfos/nightingale) | 11643 | Go | Nightingale for monitoring and alerting, just as Grafana for visualization. |
+| [ccfos/nightingale](https://github.com/ccfos/nightingale) | 11774 | Go | Nightingale for monitoring and alerting, just as Grafana for visualization. |
 
-| [mxrch/GHunt](https://github.com/mxrch/GHunt) | 17396 | Python | 🕵️‍♂️ Offensive Google framework. |
+| [mxrch/GHunt](https://github.com/mxrch/GHunt) | 17586 | Python | 🕵️‍♂️ Offensive Google framework. |
 
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 33099 | Python | High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud. |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 33183 | Python | High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud. |
 
-| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 10061 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
+| [trueadm/ripple](https://github.com/trueadm/ripple) | 2901 | JavaScript | the elegant TypeScript UI framework |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 7938 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
+| [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) | 10216 | Go | BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr |
 
-| [heroui-inc/heroui](https://github.com/heroui-inc/heroui) | 25895 | TypeScript | 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 8064 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
 <!-- TRENDING_END -->
 
 # TrendSpire
