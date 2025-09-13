@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-12 12:26 UTC_
+_Last updated: 2025-09-13 00:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [trueadm/ripple](https://github.com/trueadm/ripple) | 3196 | JavaScript | the elegant TypeScript UI framework |
+| [trueadm/ripple](https://github.com/trueadm/ripple) | 3720 | JavaScript | the elegant TypeScript UI framework |
 
-| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 6875 | Python | No description provided. |
+| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 7092 | Python | No description provided. |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 987 | TypeScript | Generate code from the terminal! |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 1166 | TypeScript | Generate code from the terminal! |
 
-| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1472 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
+| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1648 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
 
-| [firebase/genkit](https://github.com/firebase/genkit) | 3022 | TypeScript | An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms. |
+| [firebase/genkit](https://github.com/firebase/genkit) | 3153 | TypeScript | An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms. |
 
-| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 28856 | HTML | all of the workflows of n8n i could find (also from the site itself) |
+| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 29071 | HTML | all of the workflows of n8n i could find (also from the site itself) |
 
-| [epfml/ML_course](https://github.com/epfml/ML_course) | 1555 | Jupyter Notebook | EPFL Machine Learning Course, Fall 2025 |
+| [epfml/ML_course](https://github.com/epfml/ML_course) | 1617 | Jupyter Notebook | EPFL Machine Learning Course, Fall 2025 |
 
-| [expo/expo](https://github.com/expo/expo) | 43118 | TypeScript | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
+| [expo/expo](https://github.com/expo/expo) | 43204 | TypeScript | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
 
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | 5321 | Python | the LLM vulnerability scanner |
+| [NVIDIA/garak](https://github.com/NVIDIA/garak) | 5453 | Python | the LLM vulnerability scanner |
 
-| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 37134 | Go | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 37221 | Go | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 <!-- TRENDING_END -->
 
 # TrendSpire
