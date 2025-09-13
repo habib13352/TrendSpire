@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-13 00:47 UTC_
+_Last updated: 2025-09-13 12:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [trueadm/ripple](https://github.com/trueadm/ripple) | 3720 | JavaScript | the elegant TypeScript UI framework |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 48555 | C# | PowerShell for every system! |
 
-| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | 7092 | Python | No description provided. |
+| [trueadm/ripple](https://github.com/trueadm/ripple) | 4038 | JavaScript | the elegant TypeScript UI framework |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 1166 | TypeScript | Generate code from the terminal! |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 8200 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
 
-| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1648 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
+| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 22233 | Go | The Go language implementation of gRPC. HTTP/2 based RPC |
 
-| [firebase/genkit](https://github.com/firebase/genkit) | 3153 | TypeScript | An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms. |
+| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1759 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
 
-| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 29071 | HTML | all of the workflows of n8n i could find (also from the site itself) |
+| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4248 | Java | 🧩 Patches for ReVanced |
 
-| [epfml/ML_course](https://github.com/epfml/ML_course) | 1617 | Jupyter Notebook | EPFL Machine Learning Course, Fall 2025 |
+| [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) | 5263 | Python | This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. |
 
-| [expo/expo](https://github.com/expo/expo) | 43204 | TypeScript | An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web. |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 1306 | TypeScript | Generate code from the terminal! |
 
-| [NVIDIA/garak](https://github.com/NVIDIA/garak) | 5453 | Python | the LLM vulnerability scanner |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69018 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [milvus-io/milvus](https://github.com/milvus-io/milvus) | 37221 | Go | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| [facebook/folly](https://github.com/facebook/folly) | 29768 | C++ | An open-source C++ library developed and used at Facebook. |
 <!-- TRENDING_END -->
 
 # TrendSpire
