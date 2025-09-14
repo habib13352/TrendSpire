@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-13 12:23 UTC_
+_Last updated: 2025-09-14 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 48555 | C# | PowerShell for every system! |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 48942 | C# | PowerShell for every system! |
 
-| [trueadm/ripple](https://github.com/trueadm/ripple) | 4038 | JavaScript | the elegant TypeScript UI framework |
+| [trueadm/ripple](https://github.com/trueadm/ripple) | 4196 | JavaScript | the elegant TypeScript UI framework |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 8200 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
+| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 8277 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
 
-| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 22233 | Go | The Go language implementation of gRPC. HTTP/2 based RPC |
+| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 22272 | Go | The Go language implementation of gRPC. HTTP/2 based RPC |
 
-| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1759 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
+| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1881 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
 
-| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4248 | Java | 🧩 Patches for ReVanced |
+| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4349 | Java | 🧩 Patches for ReVanced |
 
-| [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) | 5263 | Python | This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. |
+| [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) | 5294 | Python | This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 1306 | TypeScript | Generate code from the terminal! |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 1456 | TypeScript | Generate code from the terminal! |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69018 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69053 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [facebook/folly](https://github.com/facebook/folly) | 29768 | C++ | An open-source C++ library developed and used at Facebook. |
+| [facebook/folly](https://github.com/facebook/folly) | 29804 | C++ | An open-source C++ library developed and used at Facebook. |
 <!-- TRENDING_END -->
 
 # TrendSpire
