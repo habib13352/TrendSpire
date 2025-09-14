@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-14 00:55 UTC_
+_Last updated: 2025-09-14 12:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 48942 | C# | PowerShell for every system! |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49222 | C# | PowerShell for every system! |
 
-| [trueadm/ripple](https://github.com/trueadm/ripple) | 4196 | JavaScript | the elegant TypeScript UI framework |
+| [trueadm/ripple](https://github.com/trueadm/ripple) | 4342 | JavaScript | the elegant TypeScript UI framework |
 
-| [MotiaDev/motia](https://github.com/MotiaDev/motia) | 8277 | TypeScript | Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management. |
+| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 1718 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
 
-| [grpc/grpc-go](https://github.com/grpc/grpc-go) | 22272 | Go | The Go language implementation of gRPC. HTTP/2 based RPC |
+| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38071 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
 
-| [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) | 1881 | Python | Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 68232 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4349 | Java | 🧩 Patches for ReVanced |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24126 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 
-| [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) | 5294 | Python | This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 11971 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 1456 | TypeScript | Generate code from the terminal! |
+| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4429 | Java | 🧩 Patches for ReVanced |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69053 | C++ | Protocol Buffers - Google's data interchange format |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 22267 | Python | AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
 
-| [facebook/folly](https://github.com/facebook/folly) | 29804 | C++ | An open-source C++ library developed and used at Facebook. |
+| [docker/mcp-gateway](https://github.com/docker/mcp-gateway) | 373 | Go | docker mcp CLI plugin / MCP Gateway |
 <!-- TRENDING_END -->
 
 # TrendSpire
