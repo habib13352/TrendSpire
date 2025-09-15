@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-14 12:23 UTC_
+_Last updated: 2025-09-15 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49222 | C# | PowerShell for every system! |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49457 | C# | PowerShell for every system! |
 
-| [trueadm/ripple](https://github.com/trueadm/ripple) | 4342 | JavaScript | the elegant TypeScript UI framework |
+| [trueadm/ripple](https://github.com/trueadm/ripple) | 4496 | JavaScript | the elegant TypeScript UI framework |
 
-| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 1718 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
+| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 1862 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
 
-| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38071 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
+| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38179 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 68232 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 68404 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24126 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24284 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 11971 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | 12059 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
 
-| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4429 | Java | 🧩 Patches for ReVanced |
+| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4493 | Java | 🧩 Patches for ReVanced |
 
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 22267 | Python | AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 22377 | Python | AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
 
-| [docker/mcp-gateway](https://github.com/docker/mcp-gateway) | 373 | Go | docker mcp CLI plugin / MCP Gateway |
+| [docker/mcp-gateway](https://github.com/docker/mcp-gateway) | 454 | Go | docker mcp CLI plugin / MCP Gateway |
 <!-- TRENDING_END -->
 
 # TrendSpire
