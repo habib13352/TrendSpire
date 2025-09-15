@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-15 00:56 UTC_
+_Last updated: 2025-09-15 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49457 | C# | PowerShell for every system! |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 74075 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [trueadm/ripple](https://github.com/trueadm/ripple) | 4496 | JavaScript | the elegant TypeScript UI framework |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49678 | C# | PowerShell for every system! |
 
-| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 1862 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 84960 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
 
-| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38179 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40170 | Python | An AI Hedge Fund Team |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 68404 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | 10747 | C++ | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24284 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [simdjson/simdjson](https://github.com/simdjson/simdjson) | 21853 | C++ | Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks |
 
-| [midday-ai/midday](https://github.com/midday-ai/midday) | 12059 | TypeScript | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24452 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 
-| [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches) | 4493 | Java | 🧩 Patches for ReVanced |
+| [sst/opencode](https://github.com/sst/opencode) | 23209 | TypeScript | AI coding agent, built for the terminal. |
 
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 22377 | Python | AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. |
+| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 30078 | HTML | all of the workflows of n8n i could find (also from the site itself) |
 
-| [docker/mcp-gateway](https://github.com/docker/mcp-gateway) | 454 | Go | docker mcp CLI plugin / MCP Gateway |
+| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38304 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
 <!-- TRENDING_END -->
 
 # TrendSpire

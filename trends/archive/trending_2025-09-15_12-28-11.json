@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-15 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 74075
+    },
+    {
+      "rank": 2,
+      "name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": 49678
+    },
+    {
+      "rank": 3,
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.",
+      "language": "Unknown",
+      "stars": 84960
+    },
+    {
+      "rank": 4,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 40170
+    },
+    {
+      "rank": 5,
+      "name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": 10747
+    },
+    {
+      "rank": 6,
+      "name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": 21853
+    },
+    {
+      "rank": 7,
+      "name": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+      "language": "TypeScript",
+      "stars": 24452
+    },
+    {
+      "rank": 8,
+      "name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "TypeScript",
+      "stars": 23209
+    },
+    {
+      "rank": 9,
+      "name": "Zie619/n8n-workflows",
+      "url": "https://github.com/Zie619/n8n-workflows",
+      "description": "all of the workflows of n8n i could find (also from the site itself)",
+      "language": "HTML",
+      "stars": 30078
+    },
+    {
+      "rank": 10,
+      "name": "ccxt/ccxt",
+      "url": "https://github.com/ccxt/ccxt",
+      "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go",
+      "language": "Python",
+      "stars": 38304
+    }
+  ]
+}
