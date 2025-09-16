@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-16 00:51 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "language": "Jupyter Notebook",
+      "stars": 71307
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 74365
+    },
+    {
+      "rank": 3,
+      "name": "PowerShell/PowerShell",
+      "url": "https://github.com/PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars": 49765
+    },
+    {
+      "rank": 4,
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": "Unknown",
+      "stars": 85216
+    },
+    {
+      "rank": 5,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 40341
+    },
+    {
+      "rank": 6,
+      "name": "SoftFever/OrcaSlicer",
+      "url": "https://github.com/SoftFever/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "stars": 10819
+    },
+    {
+      "rank": 7,
+      "name": "simdjson/simdjson",
+      "url": "https://github.com/simdjson/simdjson",
+      "description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks",
+      "language": "C++",
+      "stars": 21981
+    },
+    {
+      "rank": 8,
+      "name": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+      "language": "TypeScript",
+      "stars": 24611
+    },
+    {
+      "rank": 9,
+      "name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "AI coding agent, built for the terminal.",
+      "language": "TypeScript",
+      "stars": 23442
+    },
+    {
+      "rank": 10,
+      "name": "Zie619/n8n-workflows",
+      "url": "https://github.com/Zie619/n8n-workflows",
+      "description": "all of the workflows of n8n i could find (also from the site itself)",
+      "language": "HTML",
+      "stars": 30338
+    }
+  ]
+}

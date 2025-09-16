@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-15 12:28 UTC_
+_Last updated: 2025-09-16 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 74075 | Python | Python tool for converting files and office documents to Markdown. |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 71307 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49678 | C# | PowerShell for every system! |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 74365 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 84960 | Unknown | FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models. |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49765 | C# | PowerShell for every system! |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40170 | Python | An AI Hedge Fund Team |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 85216 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | 10747 | C++ | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40341 | Python | An AI Hedge Fund Team |
 
-| [simdjson/simdjson](https://github.com/simdjson/simdjson) | 21853 | C++ | Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks |
+| [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | 10819 | C++ | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24452 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [simdjson/simdjson](https://github.com/simdjson/simdjson) | 21981 | C++ | Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks |
 
-| [sst/opencode](https://github.com/sst/opencode) | 23209 | TypeScript | AI coding agent, built for the terminal. |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24611 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 
-| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 30078 | HTML | all of the workflows of n8n i could find (also from the site itself) |
+| [sst/opencode](https://github.com/sst/opencode) | 23442 | TypeScript | AI coding agent, built for the terminal. |
 
-| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38304 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
+| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 30338 | HTML | all of the workflows of n8n i could find (also from the site itself) |
 <!-- TRENDING_END -->
 
 # TrendSpire
