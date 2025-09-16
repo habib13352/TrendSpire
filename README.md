@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-16 00:51 UTC_
+_Last updated: 2025-09-16 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 71307 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 74862 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 74365 | Python | Python tool for converting files and office documents to Markdown. |
+| [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 2163 | Python | Run LLMs with MLX |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 49765 | C# | PowerShell for every system! |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 1728 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 85216 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 2160 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40341 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40455 | Python | An AI Hedge Fund Team |
 
-| [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | 10819 | C++ | G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) |
+| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38554 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
 
-| [simdjson/simdjson](https://github.com/simdjson/simdjson) | 21981 | C++ | Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 6433 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 24611 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 53927 | Python | Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
 
-| [sst/opencode](https://github.com/sst/opencode) | 23442 | TypeScript | AI coding agent, built for the terminal. |
+| [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) | 3020 | Python | zero-shot voice conversion & singing voice conversion, with real-time support |
 
-| [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | 30338 | HTML | all of the workflows of n8n i could find (also from the site itself) |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6392 | C | AI wearables. Put it on, speak, transcribe, automatically |
 <!-- TRENDING_END -->
 
 # TrendSpire
