@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-16 12:27 UTC_
+_Last updated: 2025-09-17 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 74862 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 75834 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 2163 | Python | Run LLMs with MLX |
+| [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 2254 | Python | Run LLMs with MLX |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 1728 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 1855 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
 
-| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 2160 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
+| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 2334 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40455 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40557 | Python | An AI Hedge Fund Team |
 
-| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38554 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
+| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38675 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 6433 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 6575 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 53927 | Python | Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices) |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 54158 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages. |
 
-| [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) | 3020 | Python | zero-shot voice conversion & singing voice conversion, with real-time support |
+| [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) | 3130 | Python | zero-shot voice conversion & singing voice conversion, with real-time support |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6392 | C | AI wearables. Put it on, speak, transcribe, automatically |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6542 | C | AI wearables. Put it on, speak, transcribe, automatically |
 <!-- TRENDING_END -->
 
 # TrendSpire
