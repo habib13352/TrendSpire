@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-17 00:51 UTC_
+_Last updated: 2025-09-17 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 75834 | Python | Python tool for converting files and office documents to Markdown. |
+| [category-labs/monad](https://github.com/category-labs/monad) | 305 | C++ | No description provided. |
 
-| [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 2254 | Python | Run LLMs with MLX |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 76708 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 1855 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
+| [category-labs/monad-bft](https://github.com/category-labs/monad-bft) | 297 | Rust | No description provided. |
 
-| [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | 2334 | JavaScript | DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains. |
+| [WebKit/WebKit](https://github.com/WebKit/WebKit) | 9015 | JavaScript | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40557 | Python | An AI Hedge Fund Team |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 25119 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 
-| [ccxt/ccxt](https://github.com/ccxt/ccxt) | 38675 | Python | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go |
+| [openai/codex](https://github.com/openai/codex) | 41824 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 6575 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57007 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 54158 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages. |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 2084 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
 
-| [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc) | 3130 | Python | zero-shot voice conversion & singing voice conversion, with real-time support |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 5567 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6542 | C | AI wearables. Put it on, speak, transcribe, automatically |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40696 | Python | An AI Hedge Fund Team |
 <!-- TRENDING_END -->
 
 # TrendSpire
