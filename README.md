@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-18 00:50 UTC_
+_Last updated: 2025-09-18 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [category-labs/monad](https://github.com/category-labs/monad) | 592 | C++ | No description provided. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 78032 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 77384 | Python | Python tool for converting files and office documents to Markdown. |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 207485 | Python | All Algorithms implemented in Python |
 
-| [category-labs/monad-bft](https://github.com/category-labs/monad-bft) | 356 | Rust | No description provided. |
+| [curl/curl](https://github.com/curl/curl) | 39118 | C | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
 
-| [WebKit/WebKit](https://github.com/WebKit/WebKit) | 9109 | JavaScript | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. |
+| [flutter/flutter](https://github.com/flutter/flutter) | 172601 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 25254 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 8535 | Python | Tongyi DeepResearch, the Leading Open-source DeepResearch Agent |
 
-| [openai/codex](https://github.com/openai/codex) | 42087 | Rust | Lightweight coding agent that runs in your terminal |
+| [category-labs/monad](https://github.com/category-labs/monad) | 733 | C++ | No description provided. |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57139 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | 7627 | C | Open-source framework for conversational voice AI agents. |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 2174 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 328329 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 5704 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6715 | C | AI wearables. Put it on, speak, transcribe, automatically |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40816 | Python | An AI Hedge Fund Team |
+| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 28876 | Rust | Main repository for the Linera protocol |
 <!-- TRENDING_END -->
 
 # TrendSpire
