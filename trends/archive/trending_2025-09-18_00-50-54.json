@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-18 00:50 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "category-labs/monad",
+      "url": "https://github.com/category-labs/monad",
+      "description": "",
+      "language": "C++",
+      "stars": 592
+    },
+    {
+      "rank": 2,
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 77384
+    },
+    {
+      "rank": 3,
+      "name": "category-labs/monad-bft",
+      "url": "https://github.com/category-labs/monad-bft",
+      "description": "",
+      "language": "Rust",
+      "stars": 356
+    },
+    {
+      "rank": 4,
+      "name": "WebKit/WebKit",
+      "url": "https://github.com/WebKit/WebKit",
+      "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+      "language": "JavaScript",
+      "stars": 9109
+    },
+    {
+      "rank": 5,
+      "name": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+      "language": "TypeScript",
+      "stars": 25254
+    },
+    {
+      "rank": 6,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 42087
+    },
+    {
+      "rank": 7,
+      "name": "nocodb/nocodb",
+      "url": "https://github.com/nocodb/nocodb",
+      "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source Airtable Alternative",
+      "language": "TypeScript",
+      "stars": 57139
+    },
+    {
+      "rank": 8,
+      "name": "dataease/SQLBot",
+      "url": "https://github.com/dataease/SQLBot",
+      "description": "\u57fa\u4e8e\u5927\u6a21\u578b\u548c RAG \u7684\u667a\u80fd\u95ee\u6570\u7cfb\u7edf\u3002Text-to-SQL Generation via LLMs using RAG.",
+      "language": "Python",
+      "stars": 2174
+    },
+    {
+      "rank": 9,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 5704
+    },
+    {
+      "rank": 10,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 40816
+    }
+  ]
+}

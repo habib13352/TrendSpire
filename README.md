@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-17 12:27 UTC_
+_Last updated: 2025-09-18 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [category-labs/monad](https://github.com/category-labs/monad) | 305 | C++ | No description provided. |
+| [category-labs/monad](https://github.com/category-labs/monad) | 592 | C++ | No description provided. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 76708 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 77384 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [category-labs/monad-bft](https://github.com/category-labs/monad-bft) | 297 | Rust | No description provided. |
+| [category-labs/monad-bft](https://github.com/category-labs/monad-bft) | 356 | Rust | No description provided. |
 
-| [WebKit/WebKit](https://github.com/WebKit/WebKit) | 9015 | JavaScript | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. |
+| [WebKit/WebKit](https://github.com/WebKit/WebKit) | 9109 | JavaScript | Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux. |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 25119 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 25254 | TypeScript | Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI |
 
-| [openai/codex](https://github.com/openai/codex) | 41824 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 42087 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57007 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57139 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 2084 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 2174 | Python | 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 5567 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 5704 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40696 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 40816 | Python | An AI Hedge Fund Team |
 <!-- TRENDING_END -->
 
 # TrendSpire
