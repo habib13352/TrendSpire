@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-18 12:27 UTC_
+_Last updated: 2025-09-19 00:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 78032 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 78628 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 207485 | Python | All Algorithms implemented in Python |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 207600 | Python | All Algorithms implemented in Python |
 
-| [curl/curl](https://github.com/curl/curl) | 39118 | C | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
+| [curl/curl](https://github.com/curl/curl) | 39186 | C | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 172601 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [flutter/flutter](https://github.com/flutter/flutter) | 172678 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 8535 | Python | Tongyi DeepResearch, the Leading Open-source DeepResearch Agent |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 8931 | Python | Tongyi DeepResearch, the Leading Open-source DeepResearch Agent |
 
-| [category-labs/monad](https://github.com/category-labs/monad) | 733 | C++ | No description provided. |
+| [category-labs/monad](https://github.com/category-labs/monad) | 756 | C++ | No description provided. |
 
-| [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | 7627 | C | Open-source framework for conversational voice AI agents. |
+| [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | 7715 | C | Open-source framework for conversational voice AI agents. |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 328329 | Unknown | A complete computer science study plan to become a software engineer. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 328495 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6715 | C | AI wearables. Put it on, speak, transcribe, automatically |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6827 | C | AI wearables. Put it on, speak, transcribe, automatically |
 
-| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 28876 | Rust | Main repository for the Linera protocol |
+| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29173 | Rust | Main repository for the Linera protocol |
 <!-- TRENDING_END -->
 
 # TrendSpire
