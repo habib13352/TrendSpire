@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-19 00:53 UTC_
+_Last updated: 2025-09-19 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 78628 | Python | Python tool for converting files and office documents to Markdown. |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 9566 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 207600 | Python | All Algorithms implemented in Python |
+| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22532 | Lua | Neovim config for the lazy |
 
-| [curl/curl](https://github.com/curl/curl) | 39186 | C | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 8662 | Shell | Opinionated Arch/Hyprland Setup |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 172678 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 7789 | JavaScript | WebGoat is a deliberately insecure application |
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 8931 | Python | Tongyi DeepResearch, the Leading Open-source DeepResearch Agent |
+| [flutter/flutter](https://github.com/flutter/flutter) | 172761 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [category-labs/monad](https://github.com/category-labs/monad) | 756 | C++ | No description provided. |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57302 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 
-| [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) | 7715 | C | Open-source framework for conversational voice AI agents. |
+| [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | 33138 | Python | Detectron2 is a platform for object detection, segmentation and other visual recognition tasks. |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 328495 | Unknown | A complete computer science study plan to become a software engineer. |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22352 | C++ | A modern formatting library |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 6827 | C | AI wearables. Put it on, speak, transcribe, automatically |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 6631 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29173 | Rust | Main repository for the Linera protocol |
+| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29450 | Rust | Main repository for the Linera protocol |
 <!-- TRENDING_END -->
 
 # TrendSpire
