@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-20 00:49 UTC_
+_Last updated: 2025-09-20 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 10363 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 7923 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22622 | Lua | Neovim config for the lazy |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 11003 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 8787 | Shell | Opinionated Arch/Hyprland Setup |
+| [flutter/flutter](https://github.com/flutter/flutter) | 172910 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 7887 | JavaScript | WebGoat is a deliberately insecure application |
+| [winfunc/opcode](https://github.com/winfunc/opcode) | 16693 | TypeScript | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 172829 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 41914 | TypeScript | very good whiteboard SDK / infinite canvas SDK |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57394 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22406 | C++ | A modern formatting library |
 
-| [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | 33227 | Python | Detectron2 is a platform for object detection, segmentation and other visual recognition tasks. |
+| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29904 | Rust | Main repository for the Linera protocol |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22373 | C++ | A modern formatting library |
+| [grafana/loki](https://github.com/grafana/loki) | 26459 | Go | Like Prometheus, but for logs. |
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 7192 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 40932 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29699 | Rust | Main repository for the Linera protocol |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23430 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
 <!-- TRENDING_END -->
 
 # TrendSpire
