@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-19 12:28 UTC_
+_Last updated: 2025-09-20 00:49 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 9566 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 10363 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22532 | Lua | Neovim config for the lazy |
+| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22622 | Lua | Neovim config for the lazy |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 8662 | Shell | Opinionated Arch/Hyprland Setup |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 8787 | Shell | Opinionated Arch/Hyprland Setup |
 
-| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 7789 | JavaScript | WebGoat is a deliberately insecure application |
+| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 7887 | JavaScript | WebGoat is a deliberately insecure application |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 172761 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [flutter/flutter](https://github.com/flutter/flutter) | 172829 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57302 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 57394 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 
-| [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | 33138 | Python | Detectron2 is a platform for object detection, segmentation and other visual recognition tasks. |
+| [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) | 33227 | Python | Detectron2 is a platform for object detection, segmentation and other visual recognition tasks. |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22352 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22373 | C++ | A modern formatting library |
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 6631 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 7192 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29450 | Rust | Main repository for the Linera protocol |
+| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29699 | Rust | Main repository for the Linera protocol |
 <!-- TRENDING_END -->
 
 # TrendSpire
