@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-20 12:24 UTC_
+_Last updated: 2025-09-21 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 7923 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 9142 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 11003 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 11473 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 172910 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [flutter/flutter](https://github.com/flutter/flutter) | 172965 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [winfunc/opcode](https://github.com/winfunc/opcode) | 16693 | TypeScript | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
+| [winfunc/opcode](https://github.com/winfunc/opcode) | 16823 | TypeScript | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
 
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 41914 | TypeScript | very good whiteboard SDK / infinite canvas SDK |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 42049 | TypeScript | very good whiteboard SDK / infinite canvas SDK |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22406 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22430 | C++ | A modern formatting library |
 
-| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 29904 | Rust | Main repository for the Linera protocol |
+| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 30034 | Rust | Main repository for the Linera protocol |
 
-| [grafana/loki](https://github.com/grafana/loki) | 26459 | Go | Like Prometheus, but for logs. |
+| [grafana/loki](https://github.com/grafana/loki) | 26518 | Go | Like Prometheus, but for logs. |
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 40932 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 41174 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23430 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23526 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
 <!-- TRENDING_END -->
 
 # TrendSpire
