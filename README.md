@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-21 00:57 UTC_
+_Last updated: 2025-09-21 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 9142 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 11933 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 11473 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 10854 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 172965 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [torvalds/linux](https://github.com/torvalds/linux) | 202536 | C | Linux kernel source tree |
 
-| [winfunc/opcode](https://github.com/winfunc/opcode) | 16823 | TypeScript | A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more. |
+| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22711 | Lua | Neovim config for the lazy |
 
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 42049 | TypeScript | very good whiteboard SDK / infinite canvas SDK |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 86822 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22430 | C++ | A modern formatting library |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 8950 | Shell | Opinionated Arch/Hyprland Setup |
 
-| [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) | 30034 | Rust | Main repository for the Linera protocol |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22454 | C++ | A modern formatting library |
 
-| [grafana/loki](https://github.com/grafana/loki) | 26518 | Go | Like Prometheus, but for logs. |
+| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 2505 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 41174 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 7997 | JavaScript | WebGoat is a deliberately insecure application |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23526 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23615 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
 <!-- TRENDING_END -->
 
 # TrendSpire
