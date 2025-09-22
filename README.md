@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-22 00:56 UTC_
+_Last updated: 2025-09-22 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 12559 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 12968 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 11381 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 42038 | Rust | A refreshingly simple data-driven game engine built in Rust |
 
-| [torvalds/linux](https://github.com/torvalds/linux) | 202698 | C | Linux kernel source tree |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 13515 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22798 | Lua | Neovim config for the lazy |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 42381 | TypeScript | very good whiteboard SDK / infinite canvas SDK |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 86993 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 73864 | Java | Free and Open Source, Distributed, RESTful Search Engine |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 9071 | Shell | Opinionated Arch/Hyprland Setup |
+| [torvalds/linux](https://github.com/torvalds/linux) | 202873 | C | Linux kernel source tree |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22482 | C++ | A modern formatting library |
+| [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 29024 | C++ | Self-hosted game stream host for Moonlight. |
 
-| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 2618 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
+| [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 137592 | Python | Command-line program to download videos from YouTube.com and other video sites |
 
-| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 8068 | JavaScript | WebGoat is a deliberately insecure application |
+| [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) | 3856 | JavaScript | Minecraft AI with LLMs+Mineflayer |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23735 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
+| [eslint/eslint](https://github.com/eslint/eslint) | 26295 | JavaScript | Find and fix problems in your JavaScript code. |
 <!-- TRENDING_END -->
 
 # TrendSpire
