@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-21 12:24 UTC_
+_Last updated: 2025-09-22 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 11933 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 12559 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 10854 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 11381 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [torvalds/linux](https://github.com/torvalds/linux) | 202536 | C | Linux kernel source tree |
+| [torvalds/linux](https://github.com/torvalds/linux) | 202698 | C | Linux kernel source tree |
 
-| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22711 | Lua | Neovim config for the lazy |
+| [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) | 22798 | Lua | Neovim config for the lazy |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 86822 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 86993 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 8950 | Shell | Opinionated Arch/Hyprland Setup |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 9071 | Shell | Opinionated Arch/Hyprland Setup |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22454 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22482 | C++ | A modern formatting library |
 
-| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 2505 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
+| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 2618 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
 
-| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 7997 | JavaScript | WebGoat is a deliberately insecure application |
+| [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) | 8068 | JavaScript | WebGoat is a deliberately insecure application |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23615 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 23735 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
 <!-- TRENDING_END -->
 
 # TrendSpire
