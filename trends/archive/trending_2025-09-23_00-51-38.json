@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-23 00:51 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Gar-b-age/CookLikeHOC",
+      "url": "https://github.com/Gar-b-age/CookLikeHOC",
+      "description": "\ud83e\udd62\u50cf\u8001\u4e61\u9e21\ud83d\udc14\u90a3\u6837\u505a\u996d\u3002\u4e3b\u8981\u90e8\u5206\u4e8e2024\u5e74\u5b8c\u5de5\uff0c\u975e\u8001\u4e61\u9e21\u5b98\u65b9\u4ed3\u5e93\u3002\u6587\u5b57\u6765\u81ea\u300a\u8001\u4e61\u9e21\u83dc\u54c1\u6eaf\u6e90\u62a5\u544a\u300b\uff0c\u5e76\u505a\u5f52\u7eb3\u3001\u7f16\u8f91\u4e0e\u6574\u7406\u3002CookLikeHOC.",
+      "language": "JavaScript",
+      "stars": 14020
+    },
+    {
+      "rank": 2,
+      "name": "bevyengine/bevy",
+      "url": "https://github.com/bevyengine/bevy",
+      "description": "A refreshingly simple data-driven game engine built in Rust",
+      "language": "Rust",
+      "stars": 42122
+    },
+    {
+      "rank": 3,
+      "name": "Alibaba-NLP/DeepResearch",
+      "url": "https://github.com/Alibaba-NLP/DeepResearch",
+      "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+      "language": "Python",
+      "stars": 13765
+    },
+    {
+      "rank": 4,
+      "name": "tldraw/tldraw",
+      "url": "https://github.com/tldraw/tldraw",
+      "description": "very good whiteboard SDK / infinite canvas SDK",
+      "language": "TypeScript",
+      "stars": 42471
+    },
+    {
+      "rank": 5,
+      "name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "stars": 73941
+    },
+    {
+      "rank": 6,
+      "name": "LizardByte/Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "stars": 29100
+    },
+    {
+      "rank": 7,
+      "name": "ytdl-org/youtube-dl",
+      "url": "https://github.com/ytdl-org/youtube-dl",
+      "description": "Command-line program to download videos from YouTube.com and other video sites",
+      "language": "Python",
+      "stars": 137723
+    },
+    {
+      "rank": 8,
+      "name": "mindcraft-bots/mindcraft",
+      "url": "https://github.com/mindcraft-bots/mindcraft",
+      "description": "Minecraft AI with LLMs+Mineflayer",
+      "language": "JavaScript",
+      "stars": 3976
+    },
+    {
+      "rank": 9,
+      "name": "eslint/eslint",
+      "url": "https://github.com/eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "language": "JavaScript",
+      "stars": 26351
+    },
+    {
+      "rank": 10,
+      "name": "poteto/hiring-without-whiteboards",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "description": "\u2b50\ufe0f Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "stars": 49558
+    }
+  ]
+}
