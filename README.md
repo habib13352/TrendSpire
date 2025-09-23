@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-23 00:51 UTC_
+_Last updated: 2025-09-23 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 14020 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 16612 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 42122 | Rust | A refreshingly simple data-driven game engine built in Rust |
+| [bevyengine/bevy](https://github.com/bevyengine/bevy) | 42218 | Rust | A refreshingly simple data-driven game engine built in Rust |
 
-| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 13765 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
+| [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) | 14069 | Python | Tongyi Deep Research, the Leading Open-source Deep Research Agent |
 
-| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 42471 | TypeScript | very good whiteboard SDK / infinite canvas SDK |
+| [tldraw/tldraw](https://github.com/tldraw/tldraw) | 42614 | TypeScript | very good whiteboard SDK / infinite canvas SDK |
 
-| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 73941 | Java | Free and Open Source, Distributed, RESTful Search Engine |
+| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 74031 | Java | Free and Open Source, Distributed, RESTful Search Engine |
 
-| [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 29100 | C++ | Self-hosted game stream host for Moonlight. |
+| [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 29205 | C++ | Self-hosted game stream host for Moonlight. |
 
-| [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 137723 | Python | Command-line program to download videos from YouTube.com and other video sites |
+| [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) | 137858 | Python | Command-line program to download videos from YouTube.com and other video sites |
 
-| [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) | 3976 | JavaScript | Minecraft AI with LLMs+Mineflayer |
+| [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft) | 4102 | JavaScript | Minecraft AI with LLMs+Mineflayer |
 
-| [eslint/eslint](https://github.com/eslint/eslint) | 26351 | JavaScript | Find and fix problems in your JavaScript code. |
+| [eslint/eslint](https://github.com/eslint/eslint) | 26399 | JavaScript | Find and fix problems in your JavaScript code. |
 
-| [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | 49558 | JavaScript | ⭐️ Companies that don't have a broken hiring process |
+| [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) | 49676 | JavaScript | ⭐️ Companies that don't have a broken hiring process |
 <!-- TRENDING_END -->
 
 # TrendSpire
