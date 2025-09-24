@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-24 00:52 UTC_
+_Last updated: 2025-09-24 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 84221 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 84654 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 48331 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 48462 | C++ | Truly independent web browser |
 
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 37776 | Go | ⚡️ Express inspired web framework written in Go |
+| [gofiber/fiber](https://github.com/gofiber/fiber) | 37875 | Go | ⚡️ Express inspired web framework written in Go |
 
-| [eslint/eslint](https://github.com/eslint/eslint) | 26444 | JavaScript | Find and fix problems in your JavaScript code. |
+| [eslint/eslint](https://github.com/eslint/eslint) | 26488 | JavaScript | Find and fix problems in your JavaScript code. |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22534 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22574 | C++ | A modern formatting library |
 
-| [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 90701 | Unknown | A collection of (mostly) technical things every software developer should know about |
+| [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 91236 | Unknown | A collection of (mostly) technical things every software developer should know about |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87056 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87113 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 26382 | Solidity | OpenZeppelin Contracts is a library for secure smart contract development. |
+| [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 26419 | Solidity | OpenZeppelin Contracts is a library for secure smart contract development. |
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 17351 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 17809 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
 
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 370067 | Python | 📚 Freely available programming books |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 370226 | Python | 📚 Freely available programming books |
 <!-- TRENDING_END -->
 
 # TrendSpire
