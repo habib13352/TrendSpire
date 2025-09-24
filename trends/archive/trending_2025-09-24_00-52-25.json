@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-24 00:52 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance\u2014up to 40 times faster\u2014thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": 84221
+    },
+    {
+      "rank": 2,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 48331
+    },
+    {
+      "rank": 3,
+      "name": "gofiber/fiber",
+      "url": "https://github.com/gofiber/fiber",
+      "description": "\u26a1\ufe0f Express inspired web framework written in Go",
+      "language": "Go",
+      "stars": 37776
+    },
+    {
+      "rank": 4,
+      "name": "eslint/eslint",
+      "url": "https://github.com/eslint/eslint",
+      "description": "Find and fix problems in your JavaScript code.",
+      "language": "JavaScript",
+      "stars": 26444
+    },
+    {
+      "rank": 5,
+      "name": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 22534
+    },
+    {
+      "rank": 6,
+      "name": "mtdvio/every-programmer-should-know",
+      "url": "https://github.com/mtdvio/every-programmer-should-know",
+      "description": "A collection of (mostly) technical things every software developer should know about",
+      "language": "Unknown",
+      "stars": 90701
+    },
+    {
+      "rank": 7,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 87056
+    },
+    {
+      "rank": 8,
+      "name": "OpenZeppelin/openzeppelin-contracts",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+      "language": "Solidity",
+      "stars": 26382
+    },
+    {
+      "rank": 9,
+      "name": "Gar-b-age/CookLikeHOC",
+      "url": "https://github.com/Gar-b-age/CookLikeHOC",
+      "description": "\ud83e\udd62\u50cf\u8001\u4e61\u9e21\ud83d\udc14\u90a3\u6837\u505a\u996d\u3002\u4e3b\u8981\u90e8\u5206\u4e8e2024\u5e74\u5b8c\u5de5\uff0c\u975e\u8001\u4e61\u9e21\u5b98\u65b9\u4ed3\u5e93\u3002\u6587\u5b57\u6765\u81ea\u300a\u8001\u4e61\u9e21\u83dc\u54c1\u6eaf\u6e90\u62a5\u544a\u300b\uff0c\u5e76\u505a\u5f52\u7eb3\u3001\u7f16\u8f91\u4e0e\u6574\u7406\u3002CookLikeHOC.",
+      "language": "JavaScript",
+      "stars": 17351
+    },
+    {
+      "rank": 10,
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": "\ud83d\udcda Freely available programming books",
+      "language": "Python",
+      "stars": 370067
+    }
+  ]
+}
