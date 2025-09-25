@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-24 12:28 UTC_
+_Last updated: 2025-09-25 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 84654 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
+| [cloudflare/capnweb](https://github.com/cloudflare/capnweb) | 1736 | TypeScript | JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 48462 | C++ | Truly independent web browser |
+| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 74301 | Java | Free and Open Source, Distributed, RESTful Search Engine |
 
-| [gofiber/fiber](https://github.com/gofiber/fiber) | 37875 | Go | ⚡️ Express inspired web framework written in Go |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 48575 | C++ | Truly independent web browser |
 
-| [eslint/eslint](https://github.com/eslint/eslint) | 26488 | JavaScript | Find and fix problems in your JavaScript code. |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 5538 | Python | "RAG-Anything: All-in-One RAG Framework" |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22574 | C++ | A modern formatting library |
+| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 46036 | Python | Ultralytics YOLO 🚀 |
 
-| [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) | 91236 | Unknown | A collection of (mostly) technical things every software developer should know about |
+| [istio/istio](https://github.com/istio/istio) | 37352 | Go | Connect, secure, control, and observe services. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87113 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 84964 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
 
-| [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) | 26419 | Solidity | OpenZeppelin Contracts is a library for secure smart contract development. |
+| [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | 42949 | Python | Free, open source crypto trading bot |
 
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 17809 | JavaScript | 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
+| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | 6438 | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. |
 
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 370226 | Python | 📚 Freely available programming books |
+| [aliasrobotics/cai](https://github.com/aliasrobotics/cai) | 4217 | Python | Cybersecurity AI (CAI), the framework for AI Security |
 <!-- TRENDING_END -->
 
 # TrendSpire
