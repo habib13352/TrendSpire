@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-26 00:51 UTC_
+_Last updated: 2025-09-26 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85448 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 29600 | TypeScript | 人人都能用英语 |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 2940 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 6107 | Python | "RAG-Anything: All-in-One RAG Framework" |
 
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 127868 | Python | A feature-rich command-line audio/video downloader |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 3122 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 209129 | Python | All Algorithms implemented in Python |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85811 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 29249 | TypeScript | 人人都能用英语 |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 10625 | Shell | Opinionated Arch/Hyprland Setup |
 
-| [Olow304/memvid](https://github.com/Olow304/memvid) | 8949 | Python | Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed. |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 13985 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [TanStack/router](https://github.com/TanStack/router) | 11270 | TypeScript | 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering. |
+| [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) | 3518 | TypeScript | Stay on top of trending topics on social media and the web with AI |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 48794 | C++ | Truly independent web browser |
+| [netdata/netdata](https://github.com/netdata/netdata) | 76052 | C | The fastest path to AI-powered full stack observability, even for lean teams. |
 
-| [coinbase/x402](https://github.com/coinbase/x402) | 1336 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 43675 | C# | The Free Software Media System - Server Backend & API |
 
-| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 50081 | Python | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
+| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | 6740 | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. |
 <!-- TRENDING_END -->
 
 # TrendSpire
