@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-25 12:29 UTC_
+_Last updated: 2025-09-26 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85102 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85448 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 2788 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 2940 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
 
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 127672 | Python | A feature-rich command-line audio/video downloader |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 127868 | Python | A feature-rich command-line audio/video downloader |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 208918 | Python | All Algorithms implemented in Python |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 209129 | Python | All Algorithms implemented in Python |
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 29161 | TypeScript | 人人都能用英语 |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 29249 | TypeScript | 人人都能用英语 |
 
-| [Olow304/memvid](https://github.com/Olow304/memvid) | 8772 | Python | Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed. |
+| [Olow304/memvid](https://github.com/Olow304/memvid) | 8949 | Python | Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed. |
 
-| [TanStack/router](https://github.com/TanStack/router) | 11199 | TypeScript | 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering. |
+| [TanStack/router](https://github.com/TanStack/router) | 11270 | TypeScript | 🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 48690 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 48794 | C++ | Truly independent web browser |
 
-| [coinbase/x402](https://github.com/coinbase/x402) | 1230 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [coinbase/x402](https://github.com/coinbase/x402) | 1336 | TypeScript | A payments protocol for the internet. Built on HTTP. |
 
-| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 49938 | Python | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
+| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 50081 | Python | 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
 <!-- TRENDING_END -->
 
 # TrendSpire

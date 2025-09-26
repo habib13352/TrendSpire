@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-26 00:51 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance\u2014up to 40 times faster\u2014thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": 85448
+    },
+    {
+      "rank": 2,
+      "name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "The best way to get AI to solve hard problems in complex codebases.",
+      "language": "TypeScript",
+      "stars": 2940
+    },
+    {
+      "rank": 3,
+      "name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "stars": 127868
+    },
+    {
+      "rank": 4,
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": 209129
+    },
+    {
+      "rank": 5,
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+      "language": "TypeScript",
+      "stars": 29249
+    },
+    {
+      "rank": 6,
+      "name": "Olow304/memvid",
+      "url": "https://github.com/Olow304/memvid",
+      "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+      "language": "Python",
+      "stars": 8949
+    },
+    {
+      "rank": 7,
+      "name": "TanStack/router",
+      "url": "https://github.com/TanStack/router",
+      "description": "\ud83e\udd16 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+      "language": "TypeScript",
+      "stars": 11270
+    },
+    {
+      "rank": 8,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 48794
+    },
+    {
+      "rank": 9,
+      "name": "coinbase/x402",
+      "url": "https://github.com/coinbase/x402",
+      "description": "A payments protocol for the internet. Built on HTTP.",
+      "language": "TypeScript",
+      "stars": 1336
+    },
+    {
+      "rank": 10,
+      "name": "Asabeneh/30-Days-Of-Python",
+      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+      "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "Python",
+      "stars": 50081
+    }
+  ]
+}
