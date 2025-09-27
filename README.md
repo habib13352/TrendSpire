@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-27 00:50 UTC_
+_Last updated: 2025-09-27 12:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 29967 | TypeScript | 人人都能用英语 |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 3395 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
 
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 6346 | Python | "RAG-Anything: All-in-One RAG Framework" |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 14204 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 3242 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
+| [coinbase/x402](https://github.com/coinbase/x402) | 1469 | TypeScript | A payments protocol for the internet. Built on HTTP. |
 
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85879 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 6517 | Python | "RAG-Anything: All-in-One RAG Framework" |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 10906 | Shell | Opinionated Arch/Hyprland Setup |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85930 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 14113 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 40199 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) | 3650 | TypeScript | Stay on top of trending topics on social media and the web with AI |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 28644 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
 
-| [netdata/netdata](https://github.com/netdata/netdata) | 76127 | C | The fastest path to AI-powered full stack observability, even for lean teams. |
+| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 9900 | TypeScript | The official TypeScript SDK for Model Context Protocol servers and clients |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 43757 | C# | The Free Software Media System - Server Backend & API |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 30383 | TypeScript | 人人都能用英语 |
 
-| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | 6825 | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. |
+| [directus/directus](https://github.com/directus/directus) | 32445 | TypeScript | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
