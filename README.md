@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-26 12:27 UTC_
+_Last updated: 2025-09-27 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 29600 | TypeScript | 人人都能用英语 |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 29967 | TypeScript | 人人都能用英语 |
 
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 6107 | Python | "RAG-Anything: All-in-One RAG Framework" |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 6346 | Python | "RAG-Anything: All-in-One RAG Framework" |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 3122 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 3242 | TypeScript | The best way to get AI to solve hard problems in complex codebases. |
 
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85811 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
+| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85879 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 10625 | Shell | Opinionated Arch/Hyprland Setup |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 10906 | Shell | Opinionated Arch/Hyprland Setup |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 13985 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 14113 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) | 3518 | TypeScript | Stay on top of trending topics on social media and the web with AI |
+| [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) | 3650 | TypeScript | Stay on top of trending topics on social media and the web with AI |
 
-| [netdata/netdata](https://github.com/netdata/netdata) | 76052 | C | The fastest path to AI-powered full stack observability, even for lean teams. |
+| [netdata/netdata](https://github.com/netdata/netdata) | 76127 | C | The fastest path to AI-powered full stack observability, even for lean teams. |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 43675 | C# | The Free Software Media System - Server Backend & API |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 43757 | C# | The Free Software Media System - Server Backend & API |
 
-| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | 6740 | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. |
+| [bytedance/Dolphin](https://github.com/bytedance/Dolphin) | 6825 | Python | The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. |
 <!-- TRENDING_END -->
 
 # TrendSpire

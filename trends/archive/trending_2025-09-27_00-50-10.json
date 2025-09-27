@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-27 00:50 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+      "language": "TypeScript",
+      "stars": 29967
+    },
+    {
+      "rank": 2,
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
+      "language": "Python",
+      "stars": 6346
+    },
+    {
+      "rank": 3,
+      "name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "The best way to get AI to solve hard problems in complex codebases.",
+      "language": "TypeScript",
+      "stars": 3242
+    },
+    {
+      "rank": 4,
+      "name": "gin-gonic/gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance\u2014up to 40 times faster\u2014thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+      "language": "Go",
+      "stars": 85879
+    },
+    {
+      "rank": 5,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Opinionated Arch/Hyprland Setup",
+      "language": "Shell",
+      "stars": 10906
+    },
+    {
+      "rank": 6,
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": 14113
+    },
+    {
+      "rank": 7,
+      "name": "ericciarla/trendFinder",
+      "url": "https://github.com/ericciarla/trendFinder",
+      "description": "Stay on top of trending topics on social media and the web with AI",
+      "language": "TypeScript",
+      "stars": 3650
+    },
+    {
+      "rank": 8,
+      "name": "netdata/netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "C",
+      "stars": 76127
+    },
+    {
+      "rank": 9,
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 43757
+    },
+    {
+      "rank": 10,
+      "name": "bytedance/Dolphin",
+      "url": "https://github.com/bytedance/Dolphin",
+      "description": "The official repo for \u201cDolphin: Document Image Parsing via Heterogeneous Anchor Prompting\u201d, ACL, 2025.",
+      "language": "Python",
+      "stars": 6825
+    }
+  ]
+}
