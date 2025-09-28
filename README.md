@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-28 00:57 UTC_
+_Last updated: 2025-09-28 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 3954 | TypeScript | The best way to get AI coding agents to solve hard problems in complex codebases. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 56222 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 14359 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 337961 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 
-| [coinbase/x402](https://github.com/coinbase/x402) | 1574 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 73138 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 6884 | Python | "RAG-Anything: All-in-One RAG Framework" |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 4449 | TypeScript | The best way to get AI coding agents to solve hard problems in complex codebases. |
 
-| [gin-gonic/gin](https://github.com/gin-gonic/gin) | 85971 | Go | Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. |
+| [typst/typst](https://github.com/typst/typst) | 46014 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 40300 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 70434 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 28773 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| [microsoft/qlib](https://github.com/microsoft/qlib) | 31349 | Python | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. |
 
-| [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | 9978 | TypeScript | The official TypeScript SDK for Model Context Protocol servers and clients |
+| [sst/opencode](https://github.com/sst/opencode) | 25189 | TypeScript | AI coding agent, built for the terminal. |
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 30446 | TypeScript | 人人都能用英语 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 40561 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [directus/directus](https://github.com/directus/directus) | 32559 | TypeScript | The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more. |
+| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 30621 | TypeScript | 人人都能用英语 |
 <!-- TRENDING_END -->
 
 # TrendSpire
