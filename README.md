@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-29 00:54 UTC_
+_Last updated: 2025-09-29 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 56684 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 41026 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 338218 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 57233 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 73330 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 338500 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 4588 | TypeScript | The best way to get AI coding agents to solve hard problems in complex codebases. |
+| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 3962 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
 
-| [typst/typst](https://github.com/typst/typst) | 46103 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | 29109 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 70534 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | 5270 | Unknown | A simple task management system for managing AI dev agents |
 
-| [microsoft/qlib](https://github.com/microsoft/qlib) | 31433 | Python | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. |
+| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 4782 | TypeScript | The best way to get AI coding agents to solve hard problems in complex codebases. |
 
-| [sst/opencode](https://github.com/sst/opencode) | 25353 | TypeScript | AI coding agent, built for the terminal. |
+| [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | 12348 | HTML | A fast, clean, responsive Hugo theme. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 40711 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 40564 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
 
-| [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) | 30678 | TypeScript | 人人都能用英语 |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 44060 | C# | The Free Software Media System - Server Backend & API |
 <!-- TRENDING_END -->
 
 # TrendSpire

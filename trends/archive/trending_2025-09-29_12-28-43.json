@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-29 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 41026
+    },
+    {
+      "rank": 2,
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 57233
+    },
+    {
+      "rank": 3,
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript",
+      "stars": 338500
+    },
+    {
+      "rank": 4,
+      "name": "Done-0/fuck-u-code",
+      "url": "https://github.com/Done-0/fuck-u-code",
+      "description": "Legacy-Mess Detector \u2013 assess the \u201clegacy-mess level\u201d of your code and output a beautiful report | \u5c4e\u5c71\u4ee3\u7801\u68c0\u6d4b\u5668\uff0c\u8bc4\u4f30\u4ee3\u7801\u7684\u201c\u5c4e\u5c71\u7b49\u7ea7\u201d\u5e76\u8f93\u51fa\u7f8e\u89c2\u7684\u62a5\u544a",
+      "language": "Go",
+      "stars": 3962
+    },
+    {
+      "rank": 5,
+      "name": "frappe/erpnext",
+      "url": "https://github.com/frappe/erpnext",
+      "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+      "language": "Python",
+      "stars": 29109
+    },
+    {
+      "rank": 6,
+      "name": "snarktank/ai-dev-tasks",
+      "url": "https://github.com/snarktank/ai-dev-tasks",
+      "description": "A simple task management system for managing AI dev agents",
+      "language": "Unknown",
+      "stars": 5270
+    },
+    {
+      "rank": 7,
+      "name": "humanlayer/humanlayer",
+      "url": "https://github.com/humanlayer/humanlayer",
+      "description": "The best way to get AI coding agents to solve hard problems in complex codebases.",
+      "language": "TypeScript",
+      "stars": 4782
+    },
+    {
+      "rank": 8,
+      "name": "adityatelange/hugo-PaperMod",
+      "url": "https://github.com/adityatelange/hugo-PaperMod",
+      "description": "A fast, clean, responsive Hugo theme.",
+      "language": "HTML",
+      "stars": 12348
+    },
+    {
+      "rank": 9,
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars": 40564
+    },
+    {
+      "rank": 10,
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend & API",
+      "language": "C#",
+      "stars": 44060
+    }
+  ]
+}
