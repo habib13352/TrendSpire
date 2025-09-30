@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-30 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 43042
+    },
+    {
+      "rank": 2,
+      "name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 30960
+    },
+    {
+      "rank": 3,
+      "name": "typst/typst",
+      "url": "https://github.com/typst/typst",
+      "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+      "language": "Rust",
+      "stars": 46282
+    },
+    {
+      "rank": 4,
+      "name": "fastapi/fastapi",
+      "url": "https://github.com/fastapi/fastapi",
+      "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "language": "Python",
+      "stars": 90010
+    },
+    {
+      "rank": 5,
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 57838
+    },
+    {
+      "rank": 6,
+      "name": "DevCaress/guia-entrevistas-de-programacion",
+      "url": "https://github.com/DevCaress/guia-entrevistas-de-programacion",
+      "description": "",
+      "language": "Unknown",
+      "stars": 6014
+    },
+    {
+      "rank": 7,
+      "name": "anthropics/claude-agent-sdk-python",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "description": "",
+      "language": "Python",
+      "stars": 1355
+    },
+    {
+      "rank": 8,
+      "name": "juliangarnier/anime",
+      "url": "https://github.com/juliangarnier/anime",
+      "description": "JavaScript animation engine",
+      "language": "JavaScript",
+      "stars": 64178
+    },
+    {
+      "rank": 9,
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript",
+      "stars": 338932
+    },
+    {
+      "rank": 10,
+      "name": "Done-0/fuck-u-code",
+      "url": "https://github.com/Done-0/fuck-u-code",
+      "description": "Legacy-Mess Detector \u2013 assess the \u201clegacy-mess level\u201d of your code and output a beautiful report | \u5c4e\u5c71\u4ee3\u7801\u68c0\u6d4b\u5668\uff0c\u8bc4\u4f30\u4ee3\u7801\u7684\u201c\u5c4e\u5c71\u7b49\u7ea7\u201d\u5e76\u8f93\u51fa\u7f8e\u89c2\u7684\u62a5\u544a",
+      "language": "Go",
+      "stars": 4428
+    }
+  ]
+}

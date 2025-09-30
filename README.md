@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-30 00:52 UTC_
+_Last updated: 2025-09-30 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 41828 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 43042 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 57543 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [nextcloud/server](https://github.com/nextcloud/server) | 30960 | PHP | ☁️ Nextcloud server, a safe home for all your data |
 
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 338698 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [typst/typst](https://github.com/typst/typst) | 46282 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4102 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | 90010 | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 
-| [frappe/erpnext](https://github.com/frappe/erpnext) | 29196 | Python | Free and Open Source Enterprise Resource Planning (ERP) |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 57838 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) | 5386 | Unknown | A simple task management system for managing AI dev agents |
+| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6014 | Unknown | No description provided. |
 
-| [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) | 4950 | TypeScript | The best way to get AI coding agents to solve hard problems in complex codebases. |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1355 | Python | No description provided. |
 
-| [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) | 12382 | HTML | A fast, clean, responsive Hugo theme. |
+| [juliangarnier/anime](https://github.com/juliangarnier/anime) | 64178 | JavaScript | JavaScript animation engine |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 40808 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 338932 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 44130 | C# | The Free Software Media System - Server Backend & API |
+| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4428 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
 <!-- TRENDING_END -->
 
 # TrendSpire
