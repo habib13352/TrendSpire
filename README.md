@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-01 00:58 UTC_
+_Last updated: 2025-10-01 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 43698 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 44347 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [nextcloud/server](https://github.com/nextcloud/server) | 31302 | PHP | ☁️ Nextcloud server, a safe home for all your data |
+| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4580 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
 
-| [typst/typst](https://github.com/typst/typst) | 46363 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1657 | Python | No description provided. |
 
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | 90158 | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 66157 | TypeScript | 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application. |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 57920 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [nextcloud/server](https://github.com/nextcloud/server) | 31567 | PHP | ☁️ Nextcloud server, a safe home for all your data |
 
-| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6050 | Unknown | No description provided. |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 8555 | JavaScript | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. |
 
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1502 | Python | No description provided. |
+| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25633 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
 
-| [juliangarnier/anime](https://github.com/juliangarnier/anime) | 64340 | JavaScript | JavaScript animation engine |
+| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 63875 | Unknown | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
 
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 339054 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 29133 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4517 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
+| [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) | 15366 | Python | pix2tex: Using a ViT to convert images of equations into LaTeX code. |
 <!-- TRENDING_END -->
 
 # TrendSpire

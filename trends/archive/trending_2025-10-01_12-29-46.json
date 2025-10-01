@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-01 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 44347
+    },
+    {
+      "rank": 2,
+      "name": "Done-0/fuck-u-code",
+      "url": "https://github.com/Done-0/fuck-u-code",
+      "description": "Legacy-Mess Detector \u2013 assess the \u201clegacy-mess level\u201d of your code and output a beautiful report | \u5c4e\u5c71\u4ee3\u7801\u68c0\u6d4b\u5668\uff0c\u8bc4\u4f30\u4ee3\u7801\u7684\u201c\u5c4e\u5c71\u7b49\u7ea7\u201d\u5e76\u8f93\u51fa\u7f8e\u89c2\u7684\u62a5\u544a",
+      "language": "Go",
+      "stars": 4580
+    },
+    {
+      "rank": 3,
+      "name": "anthropics/claude-agent-sdk-python",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "description": "",
+      "language": "Python",
+      "stars": 1657
+    },
+    {
+      "rank": 4,
+      "name": "lobehub/lobe-chat",
+      "url": "https://github.com/lobehub/lobe-chat",
+      "description": "\ud83e\udd2f Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.",
+      "language": "TypeScript",
+      "stars": 66157
+    },
+    {
+      "rank": 5,
+      "name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 31567
+    },
+    {
+      "rank": 6,
+      "name": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+      "language": "JavaScript",
+      "stars": 8555
+    },
+    {
+      "rank": 7,
+      "name": "SDWebImage/SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "stars": 25633
+    },
+    {
+      "rank": 8,
+      "name": "mlabonne/llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "language": "Unknown",
+      "stars": 63875
+    },
+    {
+      "rank": 9,
+      "name": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 29133
+    },
+    {
+      "rank": 10,
+      "name": "lukas-blecher/LaTeX-OCR",
+      "url": "https://github.com/lukas-blecher/LaTeX-OCR",
+      "description": "pix2tex: Using a ViT to convert images of equations into LaTeX code.",
+      "language": "Python",
+      "stars": 15366
+    }
+  ]
+}
