@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-09-30 12:29 UTC_
+_Last updated: 2025-10-01 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 43042 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 43698 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [nextcloud/server](https://github.com/nextcloud/server) | 30960 | PHP | ☁️ Nextcloud server, a safe home for all your data |
+| [nextcloud/server](https://github.com/nextcloud/server) | 31302 | PHP | ☁️ Nextcloud server, a safe home for all your data |
 
-| [typst/typst](https://github.com/typst/typst) | 46282 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
+| [typst/typst](https://github.com/typst/typst) | 46363 | Rust | A new markup-based typesetting system that is powerful and easy to learn. |
 
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | 90010 | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | 90158 | Python | FastAPI framework, high performance, easy to learn, fast to code, ready for production |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 57838 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 57920 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6014 | Unknown | No description provided. |
+| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6050 | Unknown | No description provided. |
 
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1355 | Python | No description provided. |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1502 | Python | No description provided. |
 
-| [juliangarnier/anime](https://github.com/juliangarnier/anime) | 64178 | JavaScript | JavaScript animation engine |
+| [juliangarnier/anime](https://github.com/juliangarnier/anime) | 64340 | JavaScript | JavaScript animation engine |
 
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 338932 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 339054 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 
-| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4428 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
+| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4517 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
 <!-- TRENDING_END -->
 
 # TrendSpire
