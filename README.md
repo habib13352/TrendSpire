@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-01 12:29 UTC_
+_Last updated: 2025-10-02 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 44347 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 44912 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4580 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
+| [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) | 4670 | Go | Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 |
 
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1657 | Python | No description provided. |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1809 | Python | No description provided. |
 
-| [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 66157 | TypeScript | 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application. |
+| [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) | 66271 | TypeScript | 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application. |
 
-| [nextcloud/server](https://github.com/nextcloud/server) | 31567 | PHP | ☁️ Nextcloud server, a safe home for all your data |
+| [nextcloud/server](https://github.com/nextcloud/server) | 31662 | PHP | ☁️ Nextcloud server, a safe home for all your data |
 
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 8555 | JavaScript | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 8747 | JavaScript | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. |
 
-| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25633 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
+| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25662 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
 
-| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 63875 | Unknown | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 64035 | Unknown | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 29133 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 29202 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) | 15366 | Python | pix2tex: Using a ViT to convert images of equations into LaTeX code. |
+| [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) | 15485 | Python | pix2tex: Using a ViT to convert images of equations into LaTeX code. |
 <!-- TRENDING_END -->
 
 # TrendSpire
