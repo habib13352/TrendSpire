@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-03 12:27 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "\u57fa\u4e8e\u591a\u667a\u80fd\u4f53LLM\u7684\u4e2d\u6587\u91d1\u878d\u4ea4\u6613\u6846\u67b6 - TradingAgents\u4e2d\u6587\u589e\u5f3a\u7248",
+      "language": "Python",
+      "stars": 7996
+    },
+    {
+      "rank": 2,
+      "name": "google/tunix",
+      "url": "https://github.com/google/tunix",
+      "description": "A JAX-native LLM Post-Training Library",
+      "language": "Python",
+      "stars": 1247
+    },
+    {
+      "rank": 3,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 34974
+    },
+    {
+      "rank": 4,
+      "name": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Airweave lets agents search any app",
+      "language": "Python",
+      "stars": 3427
+    },
+    {
+      "rank": 5,
+      "name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+      "language": "Java",
+      "stars": 21624
+    },
+    {
+      "rank": 6,
+      "name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 32547
+    },
+    {
+      "rank": 7,
+      "name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": 13184
+    },
+    {
+      "rank": 8,
+      "name": "Infisical/infisical",
+      "url": "https://github.com/Infisical/infisical",
+      "description": "Infisical is the open-source platform for secrets management, PKI, and SSH access.",
+      "language": "TypeScript",
+      "stars": 20219
+    },
+    {
+      "rank": 9,
+      "name": "SDWebImage/SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "stars": 25726
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "language": "Python",
+      "stars": 1446
+    }
+  ]
+}

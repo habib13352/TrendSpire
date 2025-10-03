@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-03 00:51 UTC_
+_Last updated: 2025-10-03 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nextcloud/server](https://github.com/nextcloud/server) | 32242 | PHP | ☁️ Nextcloud server, a safe home for all your data |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 7996 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 
-| [google/tunix](https://github.com/google/tunix) | 896 | Python | A JAX-native LLM Post-Training Library |
+| [google/tunix](https://github.com/google/tunix) | 1247 | Python | A JAX-native LLM Post-Training Library |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 43984 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 34974 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 1567 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 3427 | Python | Airweave lets agents search any app |
 
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1985 | Python | No description provided. |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21624 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
 
-| [atuinsh/desktop](https://github.com/atuinsh/desktop) | 961 | TypeScript | 📖 Runbooks that run |
+| [nextcloud/server](https://github.com/nextcloud/server) | 32547 | PHP | ☁️ Nextcloud server, a safe home for all your data |
 
-| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25700 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 13184 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 8194 | Python | Official repository for LTX-Video |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 20219 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 34880 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25726 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 78894 | TypeScript | High performance self-hosted photo and video management solution. |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 1446 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 <!-- TRENDING_END -->
 
 # TrendSpire
