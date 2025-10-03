@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-02 12:26 UTC_
+_Last updated: 2025-10-03 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nextcloud/server](https://github.com/nextcloud/server) | 31816 | PHP | ☁️ Nextcloud server, a safe home for all your data |
+| [nextcloud/server](https://github.com/nextcloud/server) | 32242 | PHP | ☁️ Nextcloud server, a safe home for all your data |
 
-| [google/tunix](https://github.com/google/tunix) | 465 | Python | A JAX-native LLM Post-Training Library |
+| [google/tunix](https://github.com/google/tunix) | 896 | Python | A JAX-native LLM Post-Training Library |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 43882 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 43984 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 1357 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 1567 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1903 | Python | No description provided. |
+| [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) | 1985 | Python | No description provided. |
 
-| [atuinsh/desktop](https://github.com/atuinsh/desktop) | 762 | TypeScript | 📖 Runbooks that run |
+| [atuinsh/desktop](https://github.com/atuinsh/desktop) | 961 | TypeScript | 📖 Runbooks that run |
 
-| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25680 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
+| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25700 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
 
-| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 8152 | Python | Official repository for LTX-Video |
+| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 8194 | Python | Official repository for LTX-Video |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 34723 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 34880 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 78501 | TypeScript | High performance self-hosted photo and video management solution. |
+| [immich-app/immich](https://github.com/immich-app/immich) | 78894 | TypeScript | High performance self-hosted photo and video management solution. |
 <!-- TRENDING_END -->
 
 # TrendSpire

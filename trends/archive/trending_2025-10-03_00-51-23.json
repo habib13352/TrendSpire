@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-03 00:51 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "nextcloud/server",
+      "url": "https://github.com/nextcloud/server",
+      "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
+      "language": "PHP",
+      "stars": 32242
+    },
+    {
+      "rank": 2,
+      "name": "google/tunix",
+      "url": "https://github.com/google/tunix",
+      "description": "A JAX-native LLM Post-Training Library",
+      "language": "Python",
+      "stars": 896
+    },
+    {
+      "rank": 3,
+      "name": "pathwaycom/pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": 43984
+    },
+    {
+      "rank": 4,
+      "name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "TypeScript",
+      "stars": 1567
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/claude-agent-sdk-python",
+      "url": "https://github.com/anthropics/claude-agent-sdk-python",
+      "description": "",
+      "language": "Python",
+      "stars": 1985
+    },
+    {
+      "rank": 6,
+      "name": "atuinsh/desktop",
+      "url": "https://github.com/atuinsh/desktop",
+      "description": "\ud83d\udcd6 Runbooks that run",
+      "language": "TypeScript",
+      "stars": 961
+    },
+    {
+      "rank": 7,
+      "name": "SDWebImage/SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "stars": 25700
+    },
+    {
+      "rank": 8,
+      "name": "Lightricks/LTX-Video",
+      "url": "https://github.com/Lightricks/LTX-Video",
+      "description": "Official repository for LTX-Video",
+      "language": "Python",
+      "stars": 8194
+    },
+    {
+      "rank": 9,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 34880
+    },
+    {
+      "rank": 10,
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars": 78894
+    }
+  ]
+}
