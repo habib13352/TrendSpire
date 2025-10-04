@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-04 00:48 UTC_
+_Last updated: 2025-10-04 12:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 8469 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35143 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [google/tunix](https://github.com/google/tunix) | 1332 | Python | A JAX-native LLM Post-Training Library |
+| [meshery/meshery](https://github.com/meshery/meshery) | 8032 | JavaScript | Meshery, the cloud native manager |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35055 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [google/tunix](https://github.com/google/tunix) | 1402 | Python | A JAX-native LLM Post-Training Library |
 
-| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 3617 | Python | Airweave lets agents search any app |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 1776 | JavaScript | Stremio - Freedom to Stream |
 
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21679 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 13832 | Zig | The financial transactions database designed for mission critical safety and performance. |
 
-| [nextcloud/server](https://github.com/nextcloud/server) | 32608 | PHP | ☁️ Nextcloud server, a safe home for all your data |
+| [paaatrick/playball](https://github.com/paaatrick/playball) | 994 | JavaScript | Watch MLB games from the comfort of your own terminal |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 13300 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 41681 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 20288 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | 6420 | Python | Agent S: an open agentic framework that uses computers like a human |
 
-| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25737 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21735 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
 
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 1786 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 22461 | Python | Official inference framework for 1-bit LLMs |
 <!-- TRENDING_END -->
 
 # TrendSpire
