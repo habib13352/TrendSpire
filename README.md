@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-03 12:27 UTC_
+_Last updated: 2025-10-04 00:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 7996 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 8469 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 
-| [google/tunix](https://github.com/google/tunix) | 1247 | Python | A JAX-native LLM Post-Training Library |
+| [google/tunix](https://github.com/google/tunix) | 1332 | Python | A JAX-native LLM Post-Training Library |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 34974 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35055 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 3427 | Python | Airweave lets agents search any app |
+| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 3617 | Python | Airweave lets agents search any app |
 
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21624 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21679 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
 
-| [nextcloud/server](https://github.com/nextcloud/server) | 32547 | PHP | ☁️ Nextcloud server, a safe home for all your data |
+| [nextcloud/server](https://github.com/nextcloud/server) | 32608 | PHP | ☁️ Nextcloud server, a safe home for all your data |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 13184 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 13300 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 20219 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 20288 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25726 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
+| [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage) | 25737 | Objective-C | Asynchronous image downloader with cache support as a UIImageView category |
 
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 1446 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 1786 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 <!-- TRENDING_END -->
 
 # TrendSpire
