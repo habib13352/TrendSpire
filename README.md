@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-04 12:23 UTC_
+_Last updated: 2025-10-05 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35143 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35614 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 8032 | JavaScript | Meshery, the cloud native manager |
+| [meshery/meshery](https://github.com/meshery/meshery) | 8307 | JavaScript | Meshery, the cloud native manager |
 
-| [google/tunix](https://github.com/google/tunix) | 1402 | Python | A JAX-native LLM Post-Training Library |
+| [google/tunix](https://github.com/google/tunix) | 1470 | Python | A JAX-native LLM Post-Training Library |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 1776 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 1900 | JavaScript | Stremio - Freedom to Stream |
 
-| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 13832 | Zig | The financial transactions database designed for mission critical safety and performance. |
+| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 13892 | Zig | The financial transactions database designed for mission critical safety and performance. |
 
-| [paaatrick/playball](https://github.com/paaatrick/playball) | 994 | JavaScript | Watch MLB games from the comfort of your own terminal |
+| [paaatrick/playball](https://github.com/paaatrick/playball) | 1053 | JavaScript | Watch MLB games from the comfort of your own terminal |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 41681 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 41771 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
 
-| [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | 6420 | Python | Agent S: an open agentic framework that uses computers like a human |
+| [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | 6532 | Python | Agent S: an open agentic framework that uses computers like a human |
 
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21735 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21794 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 22461 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 22562 | Python | Official inference framework for 1-bit LLMs |
 <!-- TRENDING_END -->
 
 # TrendSpire

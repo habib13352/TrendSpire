@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-05 00:56 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 35614
+    },
+    {
+      "rank": 2,
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "JavaScript",
+      "stars": 8307
+    },
+    {
+      "rank": 3,
+      "name": "google/tunix",
+      "url": "https://github.com/google/tunix",
+      "description": "A JAX-native LLM Post-Training Library",
+      "language": "Python",
+      "stars": 1470
+    },
+    {
+      "rank": 4,
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "stars": 1900
+    },
+    {
+      "rank": 5,
+      "name": "tigerbeetle/tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
+      "language": "Zig",
+      "stars": 13892
+    },
+    {
+      "rank": 6,
+      "name": "paaatrick/playball",
+      "url": "https://github.com/paaatrick/playball",
+      "description": "Watch MLB games from the comfort of your own terminal",
+      "language": "JavaScript",
+      "stars": 1053
+    },
+    {
+      "rank": 7,
+      "name": "AykutSarac/jsoncrack.com",
+      "url": "https://github.com/AykutSarac/jsoncrack.com",
+      "description": "\u2728 Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+      "language": "TypeScript",
+      "stars": 41771
+    },
+    {
+      "rank": 8,
+      "name": "simular-ai/Agent-S",
+      "url": "https://github.com/simular-ai/Agent-S",
+      "description": "Agent S: an open agentic framework that uses computers like a human",
+      "language": "Python",
+      "stars": 6532
+    },
+    {
+      "rank": 9,
+      "name": "kestra-io/kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.",
+      "language": "Java",
+      "stars": 21794
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": 22562
+    }
+  ]
+}
