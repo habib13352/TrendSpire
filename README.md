@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-05 00:56 UTC_
+_Last updated: 2025-10-05 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35614 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 22691 | Python | Official inference framework for 1-bit LLMs |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 8307 | JavaScript | Meshery, the cloud native manager |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 16595 | Batchfile | No description provided. |
 
-| [google/tunix](https://github.com/google/tunix) | 1470 | Python | A JAX-native LLM Post-Training Library |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35918 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 1900 | JavaScript | Stremio - Freedom to Stream |
+| [meshery/meshery](https://github.com/meshery/meshery) | 8471 | JavaScript | Meshery, the cloud native manager |
 
-| [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) | 13892 | Zig | The financial transactions database designed for mission critical safety and performance. |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 1997 | JavaScript | Stremio - Freedom to Stream |
 
-| [paaatrick/playball](https://github.com/paaatrick/playball) | 1053 | JavaScript | Watch MLB games from the comfort of your own terminal |
+| [glide-browser/glide](https://github.com/glide-browser/glide) | 607 | TypeScript | An extensible and keyboard-focused web browser |
 
-| [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) | 41771 | TypeScript | ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. |
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 90036 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 
-| [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | 6532 | Python | Agent S: an open agentic framework that uses computers like a human |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 9161 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21794 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21891 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 22562 | Python | Official inference framework for 1-bit LLMs |
+| [meshtastic/firmware](https://github.com/meshtastic/firmware) | 5739 | C++ | The official firmware for Meshtastic, an open-source, off-grid mesh communication system. |
 <!-- TRENDING_END -->
 
 # TrendSpire
