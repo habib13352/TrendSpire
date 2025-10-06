@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-06 00:53 UTC_
+_Last updated: 2025-10-06 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 23253 | Python | Official inference framework for 1-bit LLMs |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 20828 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 16789 | Batchfile | No description provided. |
+| [meshery/meshery](https://github.com/meshery/meshery) | 8650 | JavaScript | Meshery, the cloud native manager |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35988 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 7501 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 8545 | JavaScript | Meshery, the cloud native manager |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2286 | JavaScript | Stremio - Freedom to Stream |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2127 | JavaScript | Stremio - Freedom to Stream |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 23708 | Python | Official inference framework for 1-bit LLMs |
 
-| [glide-browser/glide](https://github.com/glide-browser/glide) | 722 | TypeScript | An extensible and keyboard-focused web browser |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 50890 | Roff | 所有小初高、大学PDF教材。 |
 
-| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 90151 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [audacity/audacity](https://github.com/audacity/audacity) | 14807 | C++ | Audio Editor |
 
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 9258 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 36129 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 22006 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| [openemr/openemr](https://github.com/openemr/openemr) | 3724 | PHP | The most popular open source electronic health records and medical practice management solution. |
 
-| [meshtastic/firmware](https://github.com/meshtastic/firmware) | 5797 | C++ | The official firmware for Meshtastic, an open-source, off-grid mesh communication system. |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 26990 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
 <!-- TRENDING_END -->
 
 # TrendSpire
