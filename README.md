@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-05 12:24 UTC_
+_Last updated: 2025-10-06 00:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 22691 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 23253 | Python | Official inference framework for 1-bit LLMs |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 16595 | Batchfile | No description provided. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 16789 | Batchfile | No description provided. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35918 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 35988 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 8471 | JavaScript | Meshery, the cloud native manager |
+| [meshery/meshery](https://github.com/meshery/meshery) | 8545 | JavaScript | Meshery, the cloud native manager |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 1997 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2127 | JavaScript | Stremio - Freedom to Stream |
 
-| [glide-browser/glide](https://github.com/glide-browser/glide) | 607 | TypeScript | An extensible and keyboard-focused web browser |
+| [glide-browser/glide](https://github.com/glide-browser/glide) | 722 | TypeScript | An extensible and keyboard-focused web browser |
 
-| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 90036 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 90151 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 9161 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 9258 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 21891 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | 22006 | Java | Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable. |
 
-| [meshtastic/firmware](https://github.com/meshtastic/firmware) | 5739 | C++ | The official firmware for Meshtastic, an open-source, off-grid mesh communication system. |
+| [meshtastic/firmware](https://github.com/meshtastic/firmware) | 5797 | C++ | The official firmware for Meshtastic, an open-source, off-grid mesh communication system. |
 <!-- TRENDING_END -->
 
 # TrendSpire
