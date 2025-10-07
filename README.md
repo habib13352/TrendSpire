@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-07 00:52 UTC_
+_Last updated: 2025-10-07 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 21434 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2954 | JavaScript | Stremio - Freedom to Stream |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 8950 | JavaScript | Meshery, the cloud native manager |
+| [trycua/cua](https://github.com/trycua/cua) | 9916 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
 
-| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 7684 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 16546 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2692 | JavaScript | Stremio - Freedom to Stream |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 21923 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 23805 | Python | Official inference framework for 1-bit LLMs |
+| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 7871 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 50975 | Roff | 所有小初高、大学PDF教材。 |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 44378 | TypeScript | Build AI Agents, Visually |
 
-| [audacity/audacity](https://github.com/audacity/audacity) | 14926 | C++ | Audio Editor |
+| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3028 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 36247 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 27272 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
 
-| [openemr/openemr](https://github.com/openemr/openemr) | 3836 | PHP | The most popular open source electronic health records and medical practice management solution. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 16967 | Batchfile | No description provided. |
 
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 27119 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
+| [audacity/audacity](https://github.com/audacity/audacity) | 14995 | C++ | Audio Editor |
 <!-- TRENDING_END -->
 
 # TrendSpire
