@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-06 12:28 UTC_
+_Last updated: 2025-10-07 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 20828 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 21434 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 8650 | JavaScript | Meshery, the cloud native manager |
+| [meshery/meshery](https://github.com/meshery/meshery) | 8950 | JavaScript | Meshery, the cloud native manager |
 
-| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 7501 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
+| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 7684 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2286 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2692 | JavaScript | Stremio - Freedom to Stream |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 23708 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 23805 | Python | Official inference framework for 1-bit LLMs |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 50890 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 50975 | Roff | 所有小初高、大学PDF教材。 |
 
-| [audacity/audacity](https://github.com/audacity/audacity) | 14807 | C++ | Audio Editor |
+| [audacity/audacity](https://github.com/audacity/audacity) | 14926 | C++ | Audio Editor |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 36129 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 36247 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [openemr/openemr](https://github.com/openemr/openemr) | 3724 | PHP | The most popular open source electronic health records and medical practice management solution. |
+| [openemr/openemr](https://github.com/openemr/openemr) | 3836 | PHP | The most popular open source electronic health records and medical practice management solution. |
 
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 26990 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 27119 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
 <!-- TRENDING_END -->
 
 # TrendSpire
