@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-07 12:29 UTC_
+_Last updated: 2025-10-08 00:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 2954 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 3948 | JavaScript | Stremio - Freedom to Stream |
 
-| [trycua/cua](https://github.com/trycua/cua) | 9916 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| [trycua/cua](https://github.com/trycua/cua) | 10063 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 16546 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 16689 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 21923 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 22067 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 7871 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
+| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 8058 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
 
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 44378 | TypeScript | Build AI Agents, Visually |
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 44636 | TypeScript | Build AI Agents, Visually |
 
-| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3028 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
+| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3344 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
 
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 27272 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
+| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 27428 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 16967 | Batchfile | No description provided. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 17003 | Batchfile | No description provided. |
 
-| [audacity/audacity](https://github.com/audacity/audacity) | 14995 | C++ | Audio Editor |
+| [audacity/audacity](https://github.com/audacity/audacity) | 15097 | C++ | Audio Editor |
 <!-- TRENDING_END -->
 
 # TrendSpire
