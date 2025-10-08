@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-08 00:51 UTC_
+_Last updated: 2025-10-08 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 3948 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 4688 | JavaScript | Stremio - Freedom to Stream |
 
-| [trycua/cua](https://github.com/trycua/cua) | 10063 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 22173 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 16689 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17386 | TypeScript | The AI Browser Automation Framework |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 22067 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 51431 | Roff | 所有小初高、大学PDF教材。 |
 
-| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 8058 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
+| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 8181 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
 
-| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 44636 | TypeScript | Build AI Agents, Visually |
+| [trycua/cua](https://github.com/trycua/cua) | 10204 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
 
-| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3344 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
+| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3629 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
 
-| [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) | 27428 | Python | Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! |
+| [openemr/openemr](https://github.com/openemr/openemr) | 4120 | PHP | The most popular open source electronic health records and medical practice management solution. |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 17003 | Batchfile | No description provided. |
+| [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) | 19856 | Java | Open-source IoT Platform - Device management, data collection, processing and visualization. |
 
-| [audacity/audacity](https://github.com/audacity/audacity) | 15097 | C++ | Audio Editor |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 15634 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 <!-- TRENDING_END -->
 
 # TrendSpire
