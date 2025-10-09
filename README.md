@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-08 12:28 UTC_
+_Last updated: 2025-10-09 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 4688 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 5487 | JavaScript | Stremio - Freedom to Stream |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 22173 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [Infisical/infisical](https://github.com/Infisical/infisical) | 22274 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17386 | TypeScript | The AI Browser Automation Framework |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17532 | TypeScript | The AI Browser Automation Framework |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 51431 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 51559 | Roff | 所有小初高、大学PDF教材。 |
 
-| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 8181 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
+| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 8317 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
 
-| [trycua/cua](https://github.com/trycua/cua) | 10204 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| [trycua/cua](https://github.com/trycua/cua) | 10342 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
 
-| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3629 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
+| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3843 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
 
-| [openemr/openemr](https://github.com/openemr/openemr) | 4120 | PHP | The most popular open source electronic health records and medical practice management solution. |
+| [openemr/openemr](https://github.com/openemr/openemr) | 4197 | PHP | The most popular open source electronic health records and medical practice management solution. |
 
-| [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) | 19856 | Java | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) | 19981 | Java | Open-source IoT Platform - Device management, data collection, processing and visualization. |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 15634 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 15741 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 <!-- TRENDING_END -->
 
 # TrendSpire
