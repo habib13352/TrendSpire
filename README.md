@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-09 00:52 UTC_
+_Last updated: 2025-10-09 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 5487 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 6223 | JavaScript | Stremio - Freedom to Stream |
 
-| [Infisical/infisical](https://github.com/Infisical/infisical) | 22274 | TypeScript | Infisical is the open-source platform for secrets management, PKI, and SSH access. |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 8707 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17532 | TypeScript | The AI Browser Automation Framework |
+| [google/computer-use-preview](https://github.com/google/computer-use-preview) | 495 | Python | No description provided. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 51559 | Roff | 所有小初高、大学PDF教材。 |
+| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 7583 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
 
-| [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) | 8317 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
+| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 1958 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
 
-| [trycua/cua](https://github.com/trycua/cua) | 10342 | Python | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | 6498 | Rust | Format Rust code |
 
-| [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) | 3843 | JavaScript | Desktop App for downloading Videos and Audios from hundreds of sites |
+| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 924 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 
-| [openemr/openemr](https://github.com/openemr/openemr) | 4197 | PHP | The most popular open source electronic health records and medical practice management solution. |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 15812 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) | 19981 | Java | Open-source IoT Platform - Device management, data collection, processing and visualization. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52019 | Roff | 所有小初高、大学PDF教材。 |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 15741 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17743 | TypeScript | The AI Browser Automation Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
