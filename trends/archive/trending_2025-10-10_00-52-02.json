@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-10 00:52 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "stars": 6718
+    },
+    {
+      "rank": 2,
+      "name": "MODSetter/SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+      "language": "Python",
+      "stars": 8878
+    },
+    {
+      "rank": 3,
+      "name": "google/computer-use-preview",
+      "url": "https://github.com/google/computer-use-preview",
+      "description": "",
+      "language": "Python",
+      "stars": 653
+    },
+    {
+      "rank": 4,
+      "name": "TibixDev/winboat",
+      "url": "https://github.com/TibixDev/winboat",
+      "description": "Run Windows apps on \ud83d\udc27 Linux with \u2728 seamless integration",
+      "language": "TypeScript",
+      "stars": 8280
+    },
+    {
+      "rank": 5,
+      "name": "timelinize/timelinize",
+      "url": "https://github.com/timelinize/timelinize",
+      "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+      "language": "Go",
+      "stars": 2170
+    },
+    {
+      "rank": 6,
+      "name": "rust-lang/rustfmt",
+      "url": "https://github.com/rust-lang/rustfmt",
+      "description": "Format Rust code",
+      "language": "Rust",
+      "stars": 6539
+    },
+    {
+      "rank": 7,
+      "name": "PixelGuys/Cubyz",
+      "url": "https://github.com/PixelGuys/Cubyz",
+      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+      "language": "Zig",
+      "stars": 1127
+    },
+    {
+      "rank": 8,
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": 15973
+    },
+    {
+      "rank": 9,
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+      "language": "Roff",
+      "stars": 52121
+    },
+    {
+      "rank": 10,
+      "name": "browserbase/stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "description": "The AI Browser Automation Framework",
+      "language": "TypeScript",
+      "stars": 17877
+    }
+  ]
+}

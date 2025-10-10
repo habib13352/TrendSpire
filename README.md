@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-09 12:28 UTC_
+_Last updated: 2025-10-10 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 6223 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 6718 | JavaScript | Stremio - Freedom to Stream |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 8707 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 8878 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
 
-| [google/computer-use-preview](https://github.com/google/computer-use-preview) | 495 | Python | No description provided. |
+| [google/computer-use-preview](https://github.com/google/computer-use-preview) | 653 | Python | No description provided. |
 
-| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 7583 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
+| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 8280 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
 
-| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 1958 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
+| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 2170 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
 
-| [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | 6498 | Rust | Format Rust code |
+| [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | 6539 | Rust | Format Rust code |
 
-| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 924 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
+| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 1127 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 15812 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 15973 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52019 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52121 | Roff | 所有小初高、大学PDF教材。 |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17743 | TypeScript | The AI Browser Automation Framework |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17877 | TypeScript | The AI Browser Automation Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
