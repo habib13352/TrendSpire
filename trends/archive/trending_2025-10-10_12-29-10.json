@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-10 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "browserbase/stagehand",
+      "url": "https://github.com/browserbase/stagehand",
+      "description": "The AI Browser Automation Framework",
+      "language": "TypeScript",
+      "stars": 17995
+    },
+    {
+      "rank": 2,
+      "name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba",
+      "language": "C++",
+      "stars": 19305
+    },
+    {
+      "rank": 3,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 36006
+    },
+    {
+      "rank": 4,
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+      "language": "Roff",
+      "stars": 52436
+    },
+    {
+      "rank": 5,
+      "name": "TibixDev/winboat",
+      "url": "https://github.com/TibixDev/winboat",
+      "description": "Run Windows apps on \ud83d\udc27 Linux with \u2728 seamless integration",
+      "language": "TypeScript",
+      "stars": 8840
+    },
+    {
+      "rank": 6,
+      "name": "microsoft/RD-Agent",
+      "url": "https://github.com/microsoft/RD-Agent",
+      "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. \ud83d\udd17https://aka.ms/RD-Agent-Tech-Report",
+      "language": "Python",
+      "stars": 8241
+    },
+    {
+      "rank": 7,
+      "name": "MODSetter/SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+      "language": "Python",
+      "stars": 9031
+    },
+    {
+      "rank": 8,
+      "name": "CapSoftware/Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "language": "TypeScript",
+      "stars": 12216
+    },
+    {
+      "rank": 9,
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "description": "Stremio - Freedom to Stream",
+      "language": "JavaScript",
+      "stars": 7109
+    },
+    {
+      "rank": 10,
+      "name": "xyflow/xyflow",
+      "url": "https://github.com/xyflow/xyflow",
+      "description": "React Flow |\u00a0Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+      "language": "TypeScript",
+      "stars": 32326
+    }
+  ]
+}

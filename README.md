@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-10 00:52 UTC_
+_Last updated: 2025-10-10 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 6718 | JavaScript | Stremio - Freedom to Stream |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17995 | TypeScript | The AI Browser Automation Framework |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 8878 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19305 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
 
-| [google/computer-use-preview](https://github.com/google/computer-use-preview) | 653 | Python | No description provided. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36006 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 8280 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52436 | Roff | 所有小初高、大学PDF教材。 |
 
-| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 2170 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
+| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 8840 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
 
-| [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) | 6539 | Rust | Format Rust code |
+| [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | 8241 | Python | Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report |
 
-| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 1127 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9031 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 15973 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12216 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52121 | Roff | 所有小初高、大学PDF教材。 |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 7109 | JavaScript | Stremio - Freedom to Stream |
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17877 | TypeScript | The AI Browser Automation Framework |
+| [xyflow/xyflow](https://github.com/xyflow/xyflow) | 32326 | TypeScript | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
 <!-- TRENDING_END -->
 
 # TrendSpire
