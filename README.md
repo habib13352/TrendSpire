@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-10 12:29 UTC_
+_Last updated: 2025-10-11 00:49 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 17995 | TypeScript | The AI Browser Automation Framework |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 18109 | TypeScript | The AI Browser Automation Framework |
 
-| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19305 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
+| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19386 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36006 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36163 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52436 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52535 | Roff | 所有小初高、大学PDF教材。 |
 
-| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 8840 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
+| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 9242 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
 
-| [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | 8241 | Python | Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report |
+| [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | 8325 | Python | Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9031 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9127 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
 
-| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12216 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12375 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 7109 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 7234 | JavaScript | Stremio - Freedom to Stream |
 
-| [xyflow/xyflow](https://github.com/xyflow/xyflow) | 32326 | TypeScript | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
+| [xyflow/xyflow](https://github.com/xyflow/xyflow) | 32429 | TypeScript | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
 <!-- TRENDING_END -->
 
 # TrendSpire
