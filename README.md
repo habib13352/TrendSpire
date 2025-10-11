@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-11 00:49 UTC_
+_Last updated: 2025-10-11 12:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | 18109 | TypeScript | The AI Browser Automation Framework |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36433 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19386 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
+| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 13948 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36163 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9227 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52535 | Roff | 所有小初高、大学PDF教材。 |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7055 | JavaScript | CLI tool for configuring and monitoring Claude Code |
 
-| [TibixDev/winboat](https://github.com/TibixDev/winboat) | 9242 | TypeScript | Run Windows apps on 🐧 Linux with ✨ seamless integration |
+| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 2435 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
 
-| [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) | 8325 | Python | Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report |
+| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 1658 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9127 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 11622 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12375 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
+| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 6556 | TypeScript | 🛍️ Typescript E-commerce Platform |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 7234 | JavaScript | Stremio - Freedom to Stream |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12547 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
 
-| [xyflow/xyflow](https://github.com/xyflow/xyflow) | 32429 | TypeScript | React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 3744 | Python | 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
 <!-- TRENDING_END -->
 
 # TrendSpire
