@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-11 12:23 UTC_
+_Last updated: 2025-10-12 00:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36433 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36961 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 13948 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
+| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 14058 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9227 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9344 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7055 | JavaScript | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7222 | JavaScript | CLI tool for configuring and monitoring Claude Code |
 
-| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 2435 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
+| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 2564 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
 
-| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 1658 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
+| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 1806 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 11622 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 11797 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 6556 | TypeScript | 🛍️ Typescript E-commerce Platform |
+| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 6786 | TypeScript | 🛍️ Typescript E-commerce Platform |
 
-| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12547 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
+| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12668 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 3744 | Python | 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 3802 | Python | 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
 <!-- TRENDING_END -->
 
 # TrendSpire
