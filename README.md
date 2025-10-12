@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-12 00:54 UTC_
+_Last updated: 2025-10-12 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 36961 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 37386 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 14058 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7343 | JavaScript | CLI tool for configuring and monitoring Claude Code |
 
-| [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) | 9344 | Python | Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9 |
+| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 6923 | TypeScript | 🛍️ Typescript E-commerce Platform |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7222 | JavaScript | CLI tool for configuring and monitoring Claude Code |
+| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19759 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
 
-| [timelinize/timelinize](https://github.com/timelinize/timelinize) | 2564 | Go | Store your data from all your accounts and devices in a single cohesive timeline on your own computer |
+| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 22572 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
 
-| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 1806 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52987 | Roff | 所有小初高、大学PDF教材。 |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 11797 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 4754 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
 
-| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 6786 | TypeScript | 🛍️ Typescript E-commerce Platform |
+| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 39073 | TypeScript | 🧡 Everything is RSSible |
 
-| [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | 12668 | TypeScript | Open source Loom alternative. Beautiful, shareable screen recordings. |
+| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | 358 | C# | A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. |
 
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 3802 | Python | 🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG. |
+| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 94783 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
 <!-- TRENDING_END -->
 
 # TrendSpire

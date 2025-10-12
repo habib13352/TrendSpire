@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-12 12:24 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 37386
+    },
+    {
+      "rank": 2,
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "JavaScript",
+      "stars": 7343
+    },
+    {
+      "rank": 3,
+      "name": "evershopcommerce/evershop",
+      "url": "https://github.com/evershopcommerce/evershop",
+      "description": "\ud83d\udecd\ufe0f Typescript E-commerce Platform",
+      "language": "TypeScript",
+      "stars": 6923
+    },
+    {
+      "rank": 4,
+      "name": "78/xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba",
+      "language": "C++",
+      "stars": 19759
+    },
+    {
+      "rank": 5,
+      "name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "language": "TypeScript",
+      "stars": 22572
+    },
+    {
+      "rank": 6,
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+      "language": "Roff",
+      "stars": 52987
+    },
+    {
+      "rank": 7,
+      "name": "WECENG/ticket-purchase",
+      "url": "https://github.com/WECENG/ticket-purchase",
+      "description": "\u5927\u9ea6\u81ea\u52a8\u62a2\u7968\uff0c\u652f\u6301\u4eba\u5458\u3001\u57ce\u5e02\u3001\u65e5\u671f\u573a\u6b21\u3001\u4ef7\u683c\u9009\u62e9",
+      "language": "Python",
+      "stars": 4754
+    },
+    {
+      "rank": 8,
+      "name": "DIYgod/RSSHub",
+      "url": "https://github.com/DIYgod/RSSHub",
+      "description": "\ud83e\udde1 Everything is RSSible",
+      "language": "TypeScript",
+      "stars": 39073
+    },
+    {
+      "rank": 9,
+      "name": "DearVa/Everywhere",
+      "url": "https://github.com/DearVa/Everywhere",
+      "description": "A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.",
+      "language": "C#",
+      "stars": 358
+    },
+    {
+      "rank": 10,
+      "name": "Anduin2017/HowToCook",
+      "url": "https://github.com/Anduin2017/HowToCook",
+      "description": "\u7a0b\u5e8f\u5458\u5728\u5bb6\u505a\u996d\u65b9\u6cd5\u6307\u5357\u3002Programmer's guide about how to cook at home (Simplified Chinese only).",
+      "language": "Dockerfile",
+      "stars": 94783
+    }
+  ]
+}
