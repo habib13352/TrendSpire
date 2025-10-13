@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-12 12:24 UTC_
+_Last updated: 2025-10-13 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 37386 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 37897 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7343 | JavaScript | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7501 | JavaScript | CLI tool for configuring and monitoring Claude Code |
 
-| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 6923 | TypeScript | 🛍️ Typescript E-commerce Platform |
+| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 7149 | TypeScript | 🛍️ Typescript E-commerce Platform |
 
-| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19759 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
+| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19835 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
 
-| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 22572 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
+| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 22934 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 52987 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 53063 | Roff | 所有小初高、大学PDF教材。 |
 
-| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 4754 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
+| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 4810 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
 
-| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 39073 | TypeScript | 🧡 Everything is RSSible |
+| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 39142 | TypeScript | 🧡 Everything is RSSible |
 
-| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | 358 | C# | A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. |
+| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | 540 | C# | A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. |
 
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 94783 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
+| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 94831 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
 <!-- TRENDING_END -->
 
 # TrendSpire
