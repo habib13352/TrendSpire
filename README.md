@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-13 00:56 UTC_
+_Last updated: 2025-10-13 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 37897 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 19814 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 7501 | JavaScript | CLI tool for configuring and monitoring Claude Code |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 12592 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) | 7149 | TypeScript | 🛍️ Typescript E-commerce Platform |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 38449 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) | 19835 | C++ | An MCP-based chatbot | 一个基于MCP的聊天机器人 |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22079 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 22934 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
+| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 4924 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 53063 | Roff | 所有小初高、大学PDF教材。 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 368729 | Python | A collective list of free APIs |
 
-| [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) | 4810 | Python | 大麦自动抢票，支持人员、城市、日期场次、价格选择 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 77722 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
 
-| [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 39142 | TypeScript | 🧡 Everything is RSSible |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 81185 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | 540 | C# | A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 87598 | C++ | LLM inference in C/C++ |
 
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 94831 | Dockerfile | 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only). |
+| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 2241 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 <!-- TRENDING_END -->
 
 # TrendSpire
