@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-14 00:52 UTC_
+_Last updated: 2025-10-14 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 20953 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 22036 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 12676 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87427 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 38591 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 30055 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22296 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 6230 | Java | Agentic AI Framework for Java Developers |
 
-| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5008 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 19350 | Jupyter Notebook | 📚 从零开始的大语言模型原理与实践教程 |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 369028 | Python | A collective list of free APIs |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22512 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 77780 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 46209 | Python | Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 81291 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8348 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
 
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 87687 | C++ | LLM inference in C/C++ |
+| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5099 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
 
-| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 2374 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
+| [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) | 946 | Verilog | Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum! |
 <!-- TRENDING_END -->
 
 # TrendSpire

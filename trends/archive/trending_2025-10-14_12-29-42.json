@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-14 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "language": "Jupyter Notebook",
+      "stars": 22036
+    },
+    {
+      "rank": 2,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 87427
+    },
+    {
+      "rank": 3,
+      "name": "GorvGoyl/Clone-Wars",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "language": "Unknown",
+      "stars": 30055
+    },
+    {
+      "rank": 4,
+      "name": "alibaba/spring-ai-alibaba",
+      "url": "https://github.com/alibaba/spring-ai-alibaba",
+      "description": "Agentic AI Framework for Java Developers",
+      "language": "Java",
+      "stars": 6230
+    },
+    {
+      "rank": 5,
+      "name": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "description": "\ud83d\udcda \u4ece\u96f6\u5f00\u59cb\u7684\u5927\u8bed\u8a00\u6a21\u578b\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "language": "Jupyter Notebook",
+      "stars": 19350
+    },
+    {
+      "rank": 6,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "language": "JavaScript",
+      "stars": 22512
+    },
+    {
+      "rank": 7,
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars": 46209
+    },
+    {
+      "rank": 8,
+      "name": "nitrojs/nitro",
+      "url": "https://github.com/nitrojs/nitro",
+      "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+      "language": "TypeScript",
+      "stars": 8348
+    },
+    {
+      "rank": 9,
+      "name": "Klavis-AI/klavis",
+      "url": "https://github.com/Klavis-AI/klavis",
+      "description": "Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale",
+      "language": "Python",
+      "stars": 5099
+    },
+    {
+      "rank": 10,
+      "name": "chili-chips-ba/wireguard-fpga",
+      "url": "https://github.com/chili-chips-ba/wireguard-fpga",
+      "description": "Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!",
+      "language": "Verilog",
+      "stars": 946
+    }
+  ]
+}
