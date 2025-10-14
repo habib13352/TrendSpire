@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-13 12:28 UTC_
+_Last updated: 2025-10-14 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 19814 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 20953 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 12592 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 12676 | Python | Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 38449 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 38591 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22079 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22296 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 4924 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
+| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5008 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 368729 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 369028 | Python | A collective list of free APIs |
 
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 77722 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 77780 | TypeScript | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 81185 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 81291 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 87598 | C++ | LLM inference in C/C++ |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 87687 | C++ | LLM inference in C/C++ |
 
-| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 2241 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
+| [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz) | 2374 | Zig | Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects. |
 <!-- TRENDING_END -->
 
 # TrendSpire
