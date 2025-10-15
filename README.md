@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-15 00:53 UTC_
+_Last updated: 2025-10-15 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 22863 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 23714 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87478 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 27519 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 
-| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 30388 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8647 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
 
-| [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 6265 | Java | Agentic AI Framework for Java Developers |
+| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | 15868 | TypeScript | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
 
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 19439 | Jupyter Notebook | 📚 从零开始的大语言模型原理与实践教程 |
+| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 45628 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22637 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87542 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 46325 | Python | Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. |
+| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26698 | C++ | Cloud-native high-performance edge/middle/service proxy |
 
-| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8487 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
+| [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) | 5729 | TypeScript | Evolution API is an open-source WhatsApp integration API |
 
-| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5152 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
+| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4481 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
 
-| [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) | 1041 | Verilog | Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum! |
+| [enactic/openarm](https://github.com/enactic/openarm) | 1111 | MDX | A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments. |
 <!-- TRENDING_END -->
 
 # TrendSpire

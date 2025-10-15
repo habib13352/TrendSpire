@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-15 12:30 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+      "language": "Jupyter Notebook",
+      "stars": 23714
+    },
+    {
+      "rank": 2,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
+      "language": "Python",
+      "stars": 27519
+    },
+    {
+      "rank": 3,
+      "name": "nitrojs/nitro",
+      "url": "https://github.com/nitrojs/nitro",
+      "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+      "language": "TypeScript",
+      "stars": 8647
+    },
+    {
+      "rank": 4,
+      "name": "langchain-ai/langchainjs",
+      "url": "https://github.com/langchain-ai/langchainjs",
+      "description": "\ud83e\udd9c\ud83d\udd17 Build context-aware reasoning applications \ud83e\udd9c\ud83d\udd17",
+      "language": "TypeScript",
+      "stars": 15868
+    },
+    {
+      "rank": 5,
+      "name": "karpathy/nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+      "language": "Python",
+      "stars": 45628
+    },
+    {
+      "rank": 6,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 87542
+    },
+    {
+      "rank": 7,
+      "name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": 26698
+    },
+    {
+      "rank": 8,
+      "name": "EvolutionAPI/evolution-api",
+      "url": "https://github.com/EvolutionAPI/evolution-api",
+      "description": "Evolution API is an open-source WhatsApp integration API",
+      "language": "TypeScript",
+      "stars": 5729
+    },
+    {
+      "rank": 9,
+      "name": "devlikeapro/waha",
+      "url": "https://github.com/devlikeapro/waha",
+      "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+      "language": "TypeScript",
+      "stars": 4481
+    },
+    {
+      "rank": 10,
+      "name": "enactic/openarm",
+      "url": "https://github.com/enactic/openarm",
+      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+      "language": "MDX",
+      "stars": 1111
+    }
+  ]
+}
