@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-14 12:29 UTC_
+_Last updated: 2025-10-15 00:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 22036 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 22863 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87427 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87478 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 30055 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 30388 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 
-| [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 6230 | Java | Agentic AI Framework for Java Developers |
+| [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) | 6265 | Java | Agentic AI Framework for Java Developers |
 
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 19350 | Jupyter Notebook | 📚 从零开始的大语言模型原理与实践教程 |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 19439 | Jupyter Notebook | 📚 从零开始的大语言模型原理与实践教程 |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22512 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 22637 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 46209 | Python | Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 46325 | Python | Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows. |
 
-| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8348 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
+| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8487 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
 
-| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5099 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
+| [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) | 5152 | Python | Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale |
 
-| [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) | 946 | Verilog | Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum! |
+| [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) | 1041 | Verilog | Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum! |
 <!-- TRENDING_END -->
 
 # TrendSpire
