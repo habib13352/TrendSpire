@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-16 00:53 UTC_
+_Last updated: 2025-10-16 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 23875 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87684 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 27654 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4795 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
 
-| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8821 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
+| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 14732 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | 15944 | TypeScript | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
+| [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) | 6554 | Python | This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. |
 
-| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 45821 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 46049 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87610 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 14895 | PowerShell | Scripts to build a trimmed-down Windows 11 image. |
 
-| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26732 | C++ | Cloud-native high-performance edge/middle/service proxy |
+| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26772 | C++ | Cloud-native high-performance edge/middle/service proxy |
 
-| [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) | 5808 | TypeScript | Evolution API is an open-source WhatsApp integration API |
+| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 30998 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 
-| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4666 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
+| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 30578 | Unknown | leaked prompts of GPTs |
 
-| [enactic/openarm](https://github.com/enactic/openarm) | 1200 | MDX | A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments. |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26105 | Python | 🕸️ Web apps in pure Python 🐍 |
 <!-- TRENDING_END -->
 
 # TrendSpire
