@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-15 12:30 UTC_
+_Last updated: 2025-10-16 00:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 23714 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 23875 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 27519 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 27654 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 
-| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8647 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
+| [nitrojs/nitro](https://github.com/nitrojs/nitro) | 8821 | TypeScript | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. |
 
-| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | 15868 | TypeScript | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
+| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | 15944 | TypeScript | 🦜🔗 Build context-aware reasoning applications 🦜🔗 |
 
-| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 45628 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 45821 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87542 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87610 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26698 | C++ | Cloud-native high-performance edge/middle/service proxy |
+| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26732 | C++ | Cloud-native high-performance edge/middle/service proxy |
 
-| [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) | 5729 | TypeScript | Evolution API is an open-source WhatsApp integration API |
+| [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) | 5808 | TypeScript | Evolution API is an open-source WhatsApp integration API |
 
-| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4481 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
+| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4666 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
 
-| [enactic/openarm](https://github.com/enactic/openarm) | 1111 | MDX | A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments. |
+| [enactic/openarm](https://github.com/enactic/openarm) | 1200 | MDX | A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments. |
 <!-- TRENDING_END -->
 
 # TrendSpire
