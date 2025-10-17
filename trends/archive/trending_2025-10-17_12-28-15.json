@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-17 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
+      "language": "Python",
+      "stars": 28401
+    },
+    {
+      "rank": 2,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 88076
+    },
+    {
+      "rank": 3,
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript",
+      "stars": 340899
+    },
+    {
+      "rank": 4,
+      "name": "dockur/windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "stars": 47353
+    },
+    {
+      "rank": 5,
+      "name": "reflex-dev/reflex",
+      "url": "https://github.com/reflex-dev/reflex",
+      "description": "\ud83d\udd78\ufe0f Web apps in pure Python \ud83d\udc0d",
+      "language": "Python",
+      "stars": 26503
+    },
+    {
+      "rank": 6,
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "Python",
+      "stars": 5003
+    },
+    {
+      "rank": 7,
+      "name": "stamparm/maltrail",
+      "url": "https://github.com/stamparm/maltrail",
+      "description": "Malicious traffic detection system",
+      "language": "Python",
+      "stars": 7386
+    },
+    {
+      "rank": 8,
+      "name": "linexjlin/GPTs",
+      "url": "https://github.com/linexjlin/GPTs",
+      "description": "leaked prompts of GPTs",
+      "language": "Unknown",
+      "stars": 30890
+    },
+    {
+      "rank": 9,
+      "name": "keycloak/keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "stars": 30237
+    },
+    {
+      "rank": 10,
+      "name": "devlikeapro/waha",
+      "url": "https://github.com/devlikeapro/waha",
+      "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+      "language": "TypeScript",
+      "stars": 5040
+    }
+  ]
+}

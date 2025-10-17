@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-17 00:53 UTC_
+_Last updated: 2025-10-17 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87894 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 28401 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 
-| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4926 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88076 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 14818 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 340899 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 
-| [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) | 6685 | Python | This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. |
+| [dockur/windows](https://github.com/dockur/windows) | 47353 | Shell | Windows inside a Docker container. |
 
-| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 46197 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26503 | Python | 🕸️ Web apps in pure Python 🐍 |
 
-| [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 14977 | PowerShell | Scripts to build a trimmed-down Windows 11 image. |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 5003 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26814 | C++ | Cloud-native high-performance edge/middle/service proxy |
+| [stamparm/maltrail](https://github.com/stamparm/maltrail) | 7386 | Python | Malicious traffic detection system |
 
-| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 31283 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 30890 | Unknown | leaked prompts of GPTs |
 
-| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 30717 | Unknown | leaked prompts of GPTs |
+| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 30237 | Java | Open Source Identity and Access Management For Modern Applications and Services |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26316 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 5040 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
 <!-- TRENDING_END -->
 
 # TrendSpire
