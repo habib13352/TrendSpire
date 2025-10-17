@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-16 12:29 UTC_
+_Last updated: 2025-10-17 00:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87684 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 87894 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4795 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
+| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 4926 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
 
-| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 14732 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
+| [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) | 14818 | Jupyter Notebook | Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud. |
 
-| [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) | 6554 | Python | This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. |
+| [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) | 6685 | Python | This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. |
 
-| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 46049 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
+| [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) | 46197 | Python | The simplest, fastest repository for training/finetuning medium-sized GPTs. |
 
-| [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 14895 | PowerShell | Scripts to build a trimmed-down Windows 11 image. |
+| [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | 14977 | PowerShell | Scripts to build a trimmed-down Windows 11 image. |
 
-| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26772 | C++ | Cloud-native high-performance edge/middle/service proxy |
+| [envoyproxy/envoy](https://github.com/envoyproxy/envoy) | 26814 | C++ | Cloud-native high-performance edge/middle/service proxy |
 
-| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 30998 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 31283 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 
-| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 30578 | Unknown | leaked prompts of GPTs |
+| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 30717 | Unknown | leaked prompts of GPTs |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26105 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26316 | Python | 🕸️ Web apps in pure Python 🐍 |
 <!-- TRENDING_END -->
 
 # TrendSpire

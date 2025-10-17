@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-17 00:53 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 87894
+    },
+    {
+      "rank": 2,
+      "name": "devlikeapro/waha",
+      "url": "https://github.com/devlikeapro/waha",
+      "description": "WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)",
+      "language": "TypeScript",
+      "stars": 4926
+    },
+    {
+      "rank": 3,
+      "name": "QwenLM/Qwen3-VL",
+      "url": "https://github.com/QwenLM/Qwen3-VL",
+      "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+      "language": "Jupyter Notebook",
+      "stars": 14818
+    },
+    {
+      "rank": 4,
+      "name": "ChristianLempa/boilerplates",
+      "url": "https://github.com/ChristianLempa/boilerplates",
+      "description": "This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.",
+      "language": "Python",
+      "stars": 6685
+    },
+    {
+      "rank": 5,
+      "name": "karpathy/nanoGPT",
+      "url": "https://github.com/karpathy/nanoGPT",
+      "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+      "language": "Python",
+      "stars": 46197
+    },
+    {
+      "rank": 6,
+      "name": "ntdevlabs/tiny11builder",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
+      "description": "Scripts to build a trimmed-down Windows 11 image.",
+      "language": "PowerShell",
+      "stars": 14977
+    },
+    {
+      "rank": 7,
+      "name": "envoyproxy/envoy",
+      "url": "https://github.com/envoyproxy/envoy",
+      "description": "Cloud-native high-performance edge/middle/service proxy",
+      "language": "C++",
+      "stars": 26814
+    },
+    {
+      "rank": 8,
+      "name": "GorvGoyl/Clone-Wars",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+      "language": "Unknown",
+      "stars": 31283
+    },
+    {
+      "rank": 9,
+      "name": "linexjlin/GPTs",
+      "url": "https://github.com/linexjlin/GPTs",
+      "description": "leaked prompts of GPTs",
+      "language": "Unknown",
+      "stars": 30717
+    },
+    {
+      "rank": 10,
+      "name": "reflex-dev/reflex",
+      "url": "https://github.com/reflex-dev/reflex",
+      "description": "\ud83d\udd78\ufe0f Web apps in pure Python \ud83d\udc0d",
+      "language": "Python",
+      "stars": 26316
+    }
+  ]
+}
