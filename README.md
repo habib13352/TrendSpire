@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-17 12:28 UTC_
+_Last updated: 2025-10-18 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 28401 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 29147 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88076 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88243 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 340899 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 341038 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
 
-| [dockur/windows](https://github.com/dockur/windows) | 47353 | Shell | Windows inside a Docker container. |
+| [dockur/windows](https://github.com/dockur/windows) | 47505 | Shell | Windows inside a Docker container. |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26503 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 3986 | Vue | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉 |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 5003 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26647 | Python | 🕸️ Web apps in pure Python 🐍 |
 
-| [stamparm/maltrail](https://github.com/stamparm/maltrail) | 7386 | Python | Malicious traffic detection system |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 5157 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 30890 | Unknown | leaked prompts of GPTs |
+| [stamparm/maltrail](https://github.com/stamparm/maltrail) | 7496 | Python | Malicious traffic detection system |
 
-| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 30237 | Java | Open Source Identity and Access Management For Modern Applications and Services |
+| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 31026 | Unknown | leaked prompts of GPTs |
 
-| [devlikeapro/waha](https://github.com/devlikeapro/waha) | 5040 | TypeScript | WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go) |
+| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 30331 | Java | Open Source Identity and Access Management For Modern Applications and Services |
 <!-- TRENDING_END -->
 
 # TrendSpire
