@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-18 00:50 UTC_
+_Last updated: 2025-10-18 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 29147 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 21188 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88243 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88356 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 341038 | TypeScript | Interactive roadmaps, guides and other educational content to help developers grow in their careers. |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 29821 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 
-| [dockur/windows](https://github.com/dockur/windows) | 47505 | Shell | Windows inside a Docker container. |
+| [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | 25785 | CMake | C++ Library Manager for Windows, Linux, and MacOS |
 
-| [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 3986 | Vue | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉 |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 11734 | Go | An open-source, cross-platform terminal for seamless workflows |
 
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 26647 | Python | 🕸️ Web apps in pure Python 🐍 |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 48743 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 5157 | Python | An Open Source implementation of Notebook LM with more flexibility and features |
+| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 4242 | TypeScript | 🐬DeepChat - A smart assistant that connects powerful AI to your personal world |
 
-| [stamparm/maltrail](https://github.com/stamparm/maltrail) | 7496 | Python | Malicious traffic detection system |
+| [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 2682 | Java | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
 
-| [linexjlin/GPTs](https://github.com/linexjlin/GPTs) | 31026 | Unknown | leaked prompts of GPTs |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 58242 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [keycloak/keycloak](https://github.com/keycloak/keycloak) | 30331 | Java | Open Source Identity and Access Management For Modern Applications and Services |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 124696 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
 <!-- TRENDING_END -->
 
 # TrendSpire

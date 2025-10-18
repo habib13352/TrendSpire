@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-18 12:25 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 21188
+    },
+    {
+      "rank": 2,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 88356
+    },
+    {
+      "rank": 3,
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "\ud83d\ude80\ud83d\ude80 \u300c\u5927\u6a21\u578b\u300d2\u5c0f\u65f6\u5b8c\u5168\u4ece0\u8bad\u7ec326M\u7684\u5c0f\u53c2\u6570GPT\uff01\ud83c\udf0f Train a 26M-parameter GPT from scratch in just 2h!",
+      "language": "Python",
+      "stars": 29821
+    },
+    {
+      "rank": 4,
+      "name": "microsoft/vcpkg",
+      "url": "https://github.com/microsoft/vcpkg",
+      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "language": "CMake",
+      "stars": 25785
+    },
+    {
+      "rank": 5,
+      "name": "wavetermdev/waveterm",
+      "url": "https://github.com/wavetermdev/waveterm",
+      "description": "An open-source, cross-platform terminal for seamless workflows",
+      "language": "Go",
+      "stars": 11734
+    },
+    {
+      "rank": 6,
+      "name": "pathwaycom/pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": 48743
+    },
+    {
+      "rank": 7,
+      "name": "ThinkInAIXYZ/deepchat",
+      "url": "https://github.com/ThinkInAIXYZ/deepchat",
+      "description": "\ud83d\udc2cDeepChat - A smart assistant that connects powerful AI to your personal world",
+      "language": "TypeScript",
+      "stars": 4242
+    },
+    {
+      "rank": 8,
+      "name": "modelcontextprotocol/java-sdk",
+      "url": "https://github.com/modelcontextprotocol/java-sdk",
+      "description": "The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI",
+      "language": "Java",
+      "stars": 2682
+    },
+    {
+      "rank": 9,
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": 58242
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "language": "C#",
+      "stars": 124696
+    }
+  ]
+}
