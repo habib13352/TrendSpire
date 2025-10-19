@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-19 00:59 UTC_
+_Last updated: 2025-10-19 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 21354 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 21546 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88400 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 5455 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 29939 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 30093 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 
-| [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | 25820 | CMake | C++ Library Manager for Windows, Linux, and MacOS |
+| [atuinsh/desktop](https://github.com/atuinsh/desktop) | 1614 | TypeScript | 📖 Runbooks that run |
 
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 11840 | Go | An open-source, cross-platform terminal for seamless workflows |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 373253 | Python | 📚 Freely available programming books |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 48827 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 8245 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 
-| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 4356 | TypeScript | 🐬DeepChat - A smart assistant that connects powerful AI to your personal world |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 14661 | Python | Automate browser-based workflows with LLMs and Computer Vision |
 
-| [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | 2720 | Java | The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 58636 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 58434 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 211307 | Python | All Algorithms implemented in Python |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 124794 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
+| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 4443 | TypeScript | 🐬DeepChat - A smart assistant that connects powerful AI to your personal world |
 <!-- TRENDING_END -->
 
 # TrendSpire
