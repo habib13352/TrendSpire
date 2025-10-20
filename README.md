@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-19 12:25 UTC_
+_Last updated: 2025-10-20 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 21546 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 22105 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 5455 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 5668 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 30093 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 30198 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 
-| [atuinsh/desktop](https://github.com/atuinsh/desktop) | 1614 | TypeScript | 📖 Runbooks that run |
+| [atuinsh/desktop](https://github.com/atuinsh/desktop) | 1720 | TypeScript | 📖 Runbooks that run |
 
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 373253 | Python | 📚 Freely available programming books |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 373421 | Python | 📚 Freely available programming books |
 
-| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 8245 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
+| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 8431 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 14661 | Python | Automate browser-based workflows with LLMs and Computer Vision |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 14745 | Python | Automate browser-based workflows with LLMs and Computer Vision |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 58636 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 58947 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 211307 | Python | All Algorithms implemented in Python |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 211412 | Python | All Algorithms implemented in Python |
 
-| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 4443 | TypeScript | 🐬DeepChat - A smart assistant that connects powerful AI to your personal world |
+| [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) | 4529 | TypeScript | 🐬DeepChat - A smart assistant that connects powerful AI to your personal world |
 <!-- TRENDING_END -->
 
 # TrendSpire
