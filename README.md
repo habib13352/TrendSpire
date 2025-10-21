@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-21 00:54 UTC_
+_Last updated: 2025-10-21 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 23514 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 9401 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 
-| [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | 27361 | Go | The universal proxy platform |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 76304 | JavaScript | A fancy self-hosted monitoring tool |
 
-| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 12474 | Python | Generate audiobooks from e-books, voice cloning & 1107+ languages! |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 6472 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 92233 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 12754 | Python | Generate audiobooks from e-books, voice cloning & 1107+ languages! |
 
-| [huggingface/lerobot](https://github.com/huggingface/lerobot) | 18284 | Python | 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 24178 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 12204 | Go | An open-source, cross-platform terminal for seamless workflows |
+| [sharkdp/bat](https://github.com/sharkdp/bat) | 55221 | Rust | A cat(1) clone with wings. |
 
-| [karpathy/micrograd](https://github.com/karpathy/micrograd) | 13163 | Jupyter Notebook | A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 15060 | Python | Automate browser-based workflows with LLMs and Computer Vision |
 
-| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 9600 | TypeScript | Open source codebase powering the HuggingChat app |
+| [oceanbase/miniob](https://github.com/oceanbase/miniob) | 4047 | C++ | MiniOB is a compact database that assists developers in understanding the fundamental workings of a database. |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 211627 | Python | All Algorithms implemented in Python |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 7849 | C++ | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 6174 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [servo/servo](https://github.com/servo/servo) | 32322 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
 <!-- TRENDING_END -->
 
 # TrendSpire
