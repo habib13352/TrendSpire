@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-22 00:55 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "mountain-loop/yaak",
+      "url": "https://github.com/mountain-loop/yaak",
+      "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
+      "language": "TypeScript",
+      "stars": 10310
+    },
+    {
+      "rank": 2,
+      "name": "louislam/uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "language": "JavaScript",
+      "stars": 76476
+    },
+    {
+      "rank": 3,
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 6755
+    },
+    {
+      "rank": 4,
+      "name": "DrewThomasson/ebook2audiobook",
+      "url": "https://github.com/DrewThomasson/ebook2audiobook",
+      "description": "Generate audiobooks from e-books, voice cloning & 1107+ languages!",
+      "language": "Python",
+      "stars": 12905
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 24333
+    },
+    {
+      "rank": 6,
+      "name": "sharkdp/bat",
+      "url": "https://github.com/sharkdp/bat",
+      "description": "A cat(1) clone with wings.",
+      "language": "Rust",
+      "stars": 55321
+    },
+    {
+      "rank": 7,
+      "name": "Skyvern-AI/skyvern",
+      "url": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser-based workflows with LLMs and Computer Vision",
+      "language": "Python",
+      "stars": 15133
+    },
+    {
+      "rank": 8,
+      "name": "oceanbase/miniob",
+      "url": "https://github.com/oceanbase/miniob",
+      "description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.",
+      "language": "C++",
+      "stars": 4108
+    },
+    {
+      "rank": 9,
+      "name": "k2-fsa/sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "stars": 7923
+    },
+    {
+      "rank": 10,
+      "name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": 32486
+    }
+  ]
+}

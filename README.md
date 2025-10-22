@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-21 12:29 UTC_
+_Last updated: 2025-10-22 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 9401 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
+| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 10310 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 76304 | JavaScript | A fancy self-hosted monitoring tool |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 76476 | JavaScript | A fancy self-hosted monitoring tool |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 6472 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 6755 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 12754 | Python | Generate audiobooks from e-books, voice cloning & 1107+ languages! |
+| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 12905 | Python | Generate audiobooks from e-books, voice cloning & 1107+ languages! |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 24178 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 24333 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [sharkdp/bat](https://github.com/sharkdp/bat) | 55221 | Rust | A cat(1) clone with wings. |
+| [sharkdp/bat](https://github.com/sharkdp/bat) | 55321 | Rust | A cat(1) clone with wings. |
 
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 15060 | Python | Automate browser-based workflows with LLMs and Computer Vision |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 15133 | Python | Automate browser-based workflows with LLMs and Computer Vision |
 
-| [oceanbase/miniob](https://github.com/oceanbase/miniob) | 4047 | C++ | MiniOB is a compact database that assists developers in understanding the fundamental workings of a database. |
+| [oceanbase/miniob](https://github.com/oceanbase/miniob) | 4108 | C++ | MiniOB is a compact database that assists developers in understanding the fundamental workings of a database. |
 
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 7849 | C++ | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 7923 | C++ | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages |
 
-| [servo/servo](https://github.com/servo/servo) | 32322 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
+| [servo/servo](https://github.com/servo/servo) | 32486 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
 <!-- TRENDING_END -->
 
 # TrendSpire
