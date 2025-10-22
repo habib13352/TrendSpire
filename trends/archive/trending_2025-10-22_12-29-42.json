@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-22 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "mountain-loop/yaak",
+      "url": "https://github.com/mountain-loop/yaak",
+      "description": "The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC \ud83e\uddac",
+      "language": "TypeScript",
+      "stars": 11196
+    },
+    {
+      "rank": 2,
+      "name": "servo/servo",
+      "url": "https://github.com/servo/servo",
+      "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+      "language": "Rust",
+      "stars": 32670
+    },
+    {
+      "rank": 3,
+      "name": "emcie-co/parlant",
+      "url": "https://github.com/emcie-co/parlant",
+      "description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.",
+      "language": "Python",
+      "stars": 14045
+    },
+    {
+      "rank": 4,
+      "name": "guofei9987/blind_watermark",
+      "url": "https://github.com/guofei9987/blind_watermark",
+      "description": "Blind&Invisible Watermark \uff0c\u56fe\u7247\u76f2\u6c34\u5370\uff0c\u63d0\u53d6\u6c34\u5370\u65e0\u987b\u539f\u56fe\uff01",
+      "language": "Python",
+      "stars": 7582
+    },
+    {
+      "rank": 5,
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 7050
+    },
+    {
+      "rank": 6,
+      "name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 16633
+    },
+    {
+      "rank": 7,
+      "name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars": 23375
+    },
+    {
+      "rank": 8,
+      "name": "huggingface/chat-ui",
+      "url": "https://github.com/huggingface/chat-ui",
+      "description": "Open source codebase powering the HuggingChat app",
+      "language": "TypeScript",
+      "stars": 9890
+    },
+    {
+      "rank": 9,
+      "name": "rossant/awesome-math",
+      "url": "https://github.com/rossant/awesome-math",
+      "description": "A curated list of awesome mathematics resources",
+      "language": "Python",
+      "stars": 10266
+    },
+    {
+      "rank": 10,
+      "name": "drawdb-io/drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+      "language": "JavaScript",
+      "stars": 33415
+    }
+  ]
+}
