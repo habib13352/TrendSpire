@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-22 12:29 UTC_
+_Last updated: 2025-10-23 00:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 11196 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
+| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 12058 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 
-| [servo/servo](https://github.com/servo/servo) | 32670 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
+| [servo/servo](https://github.com/servo/servo) | 32800 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 14045 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 14219 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 7582 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 7794 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 7050 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 7313 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 16633 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 16728 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 23375 | Python | SOTA Open Source TTS |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 23490 | Python | SOTA Open Source TTS |
 
-| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 9890 | TypeScript | Open source codebase powering the HuggingChat app |
+| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 9973 | TypeScript | Open source codebase powering the HuggingChat app |
 
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 10266 | Python | A curated list of awesome mathematics resources |
+| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 10436 | Python | A curated list of awesome mathematics resources |
 
-| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 33415 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 33642 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
 <!-- TRENDING_END -->
 
 # TrendSpire
