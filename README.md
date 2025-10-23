@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-23 00:54 UTC_
+_Last updated: 2025-10-23 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 12058 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
+| [minio/minio](https://github.com/minio/minio) | 56015 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 
-| [servo/servo](https://github.com/servo/servo) | 32800 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
+| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 8518 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 14219 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 12964 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 7794 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 50262 | C++ | Truly independent web browser |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 7313 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33048 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 16728 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 16835 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 23490 | Python | SOTA Open Source TTS |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 8083 | C++ | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages |
 
-| [huggingface/chat-ui](https://github.com/huggingface/chat-ui) | 9973 | TypeScript | Open source codebase powering the HuggingChat app |
+| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 10856 | Python | A curated list of awesome mathematics resources |
 
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 10436 | Python | A curated list of awesome mathematics resources |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 76817 | JavaScript | A fancy self-hosted monitoring tool |
 
-| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 33642 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 4535 | Python | Introduction to Machine Learning Systems |
 <!-- TRENDING_END -->
 
 # TrendSpire
