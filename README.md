@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-24 00:50 UTC_
+_Last updated: 2025-10-24 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [minio/minio](https://github.com/minio/minio) | 56576 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 50601 | C++ | Truly independent web browser |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 8799 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 9171 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
 
-| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 13243 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75526 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 50439 | C++ | Truly independent web browser |
+| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13367 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33161 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [minio/minio](https://github.com/minio/minio) | 57057 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 16939 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 14548 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 8166 | C++ | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages |
+| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 4532 | Vue | 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward |
 
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 11096 | Python | A curated list of awesome mathematics resources |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33285 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 76954 | JavaScript | A fancy self-hosted monitoring tool |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 50432 | C# | PowerShell for every system! |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 4662 | Python | Introduction to Machine Learning Systems |
+| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 8373 | Python | Official repository for LTX-Video |
 <!-- TRENDING_END -->
 
 # TrendSpire
