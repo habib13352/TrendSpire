@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-23 12:29 UTC_
+_Last updated: 2025-10-24 00:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [minio/minio](https://github.com/minio/minio) | 56015 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
+| [minio/minio](https://github.com/minio/minio) | 56576 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 8518 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 8799 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
 
-| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 12964 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
+| [mountain-loop/yaak](https://github.com/mountain-loop/yaak) | 13243 | TypeScript | The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 50262 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 50439 | C++ | Truly independent web browser |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33048 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33161 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 16835 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 16939 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 8083 | C++ | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | 8166 | C++ | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages |
 
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 10856 | Python | A curated list of awesome mathematics resources |
+| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 11096 | Python | A curated list of awesome mathematics resources |
 
-| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 76817 | JavaScript | A fancy self-hosted monitoring tool |
+| [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | 76954 | JavaScript | A fancy self-hosted monitoring tool |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 4535 | Python | Introduction to Machine Learning Systems |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 4662 | Python | Introduction to Machine Learning Systems |
 <!-- TRENDING_END -->
 
 # TrendSpire
