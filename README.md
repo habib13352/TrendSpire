@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-24 12:30 UTC_
+_Last updated: 2025-10-25 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 50601 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 51441 | C++ | Truly independent web browser |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 9171 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 9627 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
 
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75526 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75676 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 
-| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13367 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13401 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
 
-| [minio/minio](https://github.com/minio/minio) | 57057 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
+| [minio/minio](https://github.com/minio/minio) | 57141 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 14548 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 14633 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
 
-| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 4532 | Vue | 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward |
+| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 4572 | Vue | 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33285 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33371 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 50432 | C# | PowerShell for every system! |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 50476 | C# | PowerShell for every system! |
 
-| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 8373 | Python | Official repository for LTX-Video |
+| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 8434 | Python | Official repository for LTX-Video |
 <!-- TRENDING_END -->
 
 # TrendSpire
