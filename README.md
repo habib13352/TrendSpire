@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-25 00:52 UTC_
+_Last updated: 2025-10-25 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 51441 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 51951 | C++ | Truly independent web browser |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 9627 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | 3577 | Unknown | Standard Open Arm 100 |
 
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75676 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
+| [coinbase/x402](https://github.com/coinbase/x402) | 2456 | TypeScript | A payments protocol for the internet. Built on HTTP. |
 
-| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13401 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 9985 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
 
-| [minio/minio](https://github.com/minio/minio) | 57141 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33427 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [emcie-co/parlant](https://github.com/emcie-co/parlant) | 14633 | Python | LLM agents built for control. Designed for real-world use. Deployed in minutes. |
+| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13442 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
 
-| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 4572 | Vue | 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75790 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33371 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 372230 | Python | A collective list of free APIs |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 50476 | C# | PowerShell for every system! |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 10921 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) | 8434 | Python | Official repository for LTX-Video |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 132384 | Python | A feature-rich command-line audio/video downloader |
 <!-- TRENDING_END -->
 
 # TrendSpire
