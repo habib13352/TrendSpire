@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-25 12:25 UTC_
+_Last updated: 2025-10-26 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 51951 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 52540 | C++ | Truly independent web browser |
 
-| [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | 3577 | Unknown | Standard Open Arm 100 |
+| [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | 3808 | Unknown | Standard Open Arm 100 |
 
-| [coinbase/x402](https://github.com/coinbase/x402) | 2456 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [coinbase/x402](https://github.com/coinbase/x402) | 2557 | TypeScript | A payments protocol for the internet. Built on HTTP. |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 9985 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 10069 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33427 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33528 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13442 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13480 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
 
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75790 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75917 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 372230 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 372576 | Python | A collective list of free APIs |
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 10921 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 11060 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
 
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 132384 | Python | A feature-rich command-line audio/video downloader |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 132549 | Python | A feature-rich command-line audio/video downloader |
 <!-- TRENDING_END -->
 
 # TrendSpire
