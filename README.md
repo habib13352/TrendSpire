@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-26 00:57 UTC_
+_Last updated: 2025-10-26 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 52540 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 53028 | C++ | Truly independent web browser |
 
-| [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | 3808 | Unknown | Standard Open Arm 100 |
+| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 37215 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
 
-| [coinbase/x402](https://github.com/coinbase/x402) | 2557 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 3276 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | 10069 | Python | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 73018 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 33528 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 2036 | Python | The absolute trainer to light up AI agents. |
 
-| [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr) | 13480 | C | Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 372834 | Python | A collective list of free APIs |
 
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | 75917 | TypeScript | Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) |
+| [coinbase/x402](https://github.com/coinbase/x402) | 2648 | TypeScript | A payments protocol for the internet. Built on HTTP. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 372576 | Python | A collective list of free APIs |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 323973 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) | 11060 | Ruby | Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services. |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 25091 | HTML | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP) |
 
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 132549 | Python | A feature-rich command-line audio/video downloader |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 88727 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 <!-- TRENDING_END -->
 
 # TrendSpire
