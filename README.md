@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-26 12:25 UTC_
+_Last updated: 2025-10-27 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 53028 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 53621 | C++ | Truly independent web browser |
 
-| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 37215 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
+| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 37781 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 3276 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 3434 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 73018 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 73182 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 2036 | Python | The absolute trainer to light up AI agents. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 2308 | Python | The absolute trainer to light up AI agents. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 372834 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 373151 | Python | A collective list of free APIs |
 
-| [coinbase/x402](https://github.com/coinbase/x402) | 2648 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [coinbase/x402](https://github.com/coinbase/x402) | 2758 | TypeScript | A payments protocol for the internet. Built on HTTP. |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 323973 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 324092 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 25091 | HTML | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP) |
+| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 25159 | HTML | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP) |
 
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 88727 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
+| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 88784 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
 <!-- TRENDING_END -->
 
 # TrendSpire
