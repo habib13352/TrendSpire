@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-27 00:59 UTC_
+_Last updated: 2025-10-27 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 53621 | C++ | Truly independent web browser |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 56519 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 
-| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 37781 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
+| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 38496 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 3434 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 430199 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 73182 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 2627 | Python | The absolute trainer to light up AI agents. |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 2308 | Python | The absolute trainer to light up AI agents. |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 54209 | C++ | Truly independent web browser |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 373151 | Python | A collective list of free APIs |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 76493 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [coinbase/x402](https://github.com/coinbase/x402) | 2758 | TypeScript | A payments protocol for the internet. Built on HTTP. |
+| [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) | 4018 | Unknown | Standard Open Arm 100 |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 324092 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [coinbase/x402](https://github.com/coinbase/x402) | 2908 | TypeScript | A payments protocol for the internet. Built on HTTP. |
 
-| [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) | 25159 | HTML | Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP) |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 373431 | Python | A collective list of free APIs |
 
-| [2dust/v2rayN](https://github.com/2dust/v2rayN) | 88784 | C# | A GUI client for Windows, Linux and macOS, support Xray and sing-box and others |
+| [bol-van/zapret](https://github.com/bol-van/zapret) | 12891 | C | DPI bypass multi platform |
 <!-- TRENDING_END -->
 
 # TrendSpire
