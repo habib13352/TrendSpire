@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-29 00:57 UTC_
+_Last updated: 2025-10-29 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 57980 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) | 7830 | Go | node of the decentralized oracle network, bridging on and off-chain computation |
 
-| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 39147 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 4242 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 3315 | Python | The absolute trainer to light up AI agents. |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 15432 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 
-| [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) | 2160 | Python | Depix is a PoC for a technique to recover plaintext from pixelized screenshots. |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5919 | Go | OpenTelemetry Collector |
 
-| [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | 6029 | Rust | Rust GUI components for building fantastic cross-platform desktop application by using GPUI. |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 92545 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 
-| [juanfont/headscale](https://github.com/juanfont/headscale) | 32142 | Go | An open source, self-hosted implementation of the Tailscale control server |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69406 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 7055 | Python | Introduction to Machine Learning Systems |
+| [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) | 2189 | Swift | Voice-to-text app for macOS to transcribe what you say to text almost instantly |
 
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 15045 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [block/goose](https://github.com/block/goose) | 20941 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 19224 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | 14899 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
 
-| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 41460 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
+| [dotnet/eShop](https://github.com/dotnet/eShop) | 9366 | C# | A reference .NET application implementing an eCommerce site |
 <!-- TRENDING_END -->
 
 # TrendSpire

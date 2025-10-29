@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-29 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "smartcontractkit/chainlink",
+      "url": "https://github.com/smartcontractkit/chainlink",
+      "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+      "language": "Go",
+      "stars": 7830
+    },
+    {
+      "rank": 2,
+      "name": "cjpais/Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "TypeScript",
+      "stars": 4242
+    },
+    {
+      "rank": 3,
+      "name": "qeeqbox/social-analyzer",
+      "url": "https://github.com/qeeqbox/social-analyzer",
+      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "language": "JavaScript",
+      "stars": 15432
+    },
+    {
+      "rank": 4,
+      "name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": 5919
+    },
+    {
+      "rank": 5,
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "language": "JavaScript",
+      "stars": 92545
+    },
+    {
+      "rank": 6,
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 69406
+    },
+    {
+      "rank": 7,
+      "name": "Beingpax/VoiceInk",
+      "url": "https://github.com/Beingpax/VoiceInk",
+      "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
+      "language": "Swift",
+      "stars": 2189
+    },
+    {
+      "rank": 8,
+      "name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 20941
+    },
+    {
+      "rank": 9,
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "language": "Python",
+      "stars": 14899
+    },
+    {
+      "rank": 10,
+      "name": "dotnet/eShop",
+      "url": "https://github.com/dotnet/eShop",
+      "description": "A reference .NET application implementing an eCommerce site",
+      "language": "C#",
+      "stars": 9366
+    }
+  ]
+}
