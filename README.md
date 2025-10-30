@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-29 12:29 UTC_
+_Last updated: 2025-10-30 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) | 7830 | Go | node of the decentralized oracle network, bridging on and off-chain computation |
+| [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) | 7896 | Go | node of the decentralized oracle network, bridging on and off-chain computation |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 4242 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 4491 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 15432 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 15740 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5919 | Go | OpenTelemetry Collector |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5970 | Go | OpenTelemetry Collector |
 
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 92545 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 92741 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69406 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69441 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) | 2189 | Swift | Voice-to-text app for macOS to transcribe what you say to text almost instantly |
+| [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) | 2284 | Swift | Voice-to-text app for macOS to transcribe what you say to text almost instantly |
 
-| [block/goose](https://github.com/block/goose) | 20941 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 21061 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 14899 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | 15085 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
 
-| [dotnet/eShop](https://github.com/dotnet/eShop) | 9366 | C# | A reference .NET application implementing an eCommerce site |
+| [dotnet/eShop](https://github.com/dotnet/eShop) | 9403 | C# | A reference .NET application implementing an eCommerce site |
 <!-- TRENDING_END -->
 
 # TrendSpire
