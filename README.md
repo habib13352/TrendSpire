@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-30 00:56 UTC_
+_Last updated: 2025-10-30 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) | 7896 | Go | node of the decentralized oracle network, bridging on and off-chain computation |
+| [helm/helm](https://github.com/helm/helm) | 28743 | Go | The Kubernetes Package Manager |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 4491 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [storybookjs/storybook](https://github.com/storybookjs/storybook) | 88273 | TypeScript | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation |
 
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 15740 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6026 | Go | OpenTelemetry Collector |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 5970 | Go | OpenTelemetry Collector |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16082 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 92741 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 19672 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 69441 | C++ | Protocol Buffers - Google's data interchange format |
+| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15213 | C++ | A C++ header-only HTTP/HTTPS server and client library |
 
-| [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) | 2284 | Swift | Voice-to-text app for macOS to transcribe what you say to text almost instantly |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | 15273 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
 
-| [block/goose](https://github.com/block/goose) | 21061 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 7019 | Python | AI Toolkit for Healthcare Imaging |
 
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 15085 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
+| [janhq/jan](https://github.com/janhq/jan) | 38426 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
 
-| [dotnet/eShop](https://github.com/dotnet/eShop) | 9403 | C# | A reference .NET application implementing an eCommerce site |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 42147 | Python | Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. |
 <!-- TRENDING_END -->
 
 # TrendSpire
