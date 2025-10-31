@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-10-31 00:54 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "helm/helm",
+      "url": "https://github.com/helm/helm",
+      "description": "The Kubernetes Package Manager",
+      "language": "Go",
+      "stars": 28789
+    },
+    {
+      "rank": 2,
+      "name": "storybookjs/storybook",
+      "url": "https://github.com/storybookjs/storybook",
+      "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+      "language": "TypeScript",
+      "stars": 88369
+    },
+    {
+      "rank": 3,
+      "name": "open-telemetry/opentelemetry-collector",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector",
+      "description": "OpenTelemetry Collector",
+      "language": "Go",
+      "stars": 6066
+    },
+    {
+      "rank": 4,
+      "name": "qeeqbox/social-analyzer",
+      "url": "https://github.com/qeeqbox/social-analyzer",
+      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+      "language": "JavaScript",
+      "stars": 16328
+    },
+    {
+      "rank": 5,
+      "name": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "stars": 19838
+    },
+    {
+      "rank": 6,
+      "name": "yhirose/cpp-httplib",
+      "url": "https://github.com/yhirose/cpp-httplib",
+      "description": "A C++ header-only HTTP/HTTPS server and client library",
+      "language": "C++",
+      "stars": 15271
+    },
+    {
+      "rank": 7,
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "language": "Python",
+      "stars": 15365
+    },
+    {
+      "rank": 8,
+      "name": "Project-MONAI/MONAI",
+      "url": "https://github.com/Project-MONAI/MONAI",
+      "description": "AI Toolkit for Healthcare Imaging",
+      "language": "Python",
+      "stars": 7131
+    },
+    {
+      "rank": 9,
+      "name": "janhq/jan",
+      "url": "https://github.com/janhq/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "language": "TypeScript",
+      "stars": 38589
+    },
+    {
+      "rank": 10,
+      "name": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.",
+      "language": "Python",
+      "stars": 42263
+    }
+  ]
+}

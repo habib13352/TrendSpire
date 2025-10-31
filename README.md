@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-30 12:29 UTC_
+_Last updated: 2025-10-31 00:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [helm/helm](https://github.com/helm/helm) | 28743 | Go | The Kubernetes Package Manager |
+| [helm/helm](https://github.com/helm/helm) | 28789 | Go | The Kubernetes Package Manager |
 
-| [storybookjs/storybook](https://github.com/storybookjs/storybook) | 88273 | TypeScript | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation |
+| [storybookjs/storybook](https://github.com/storybookjs/storybook) | 88369 | TypeScript | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6026 | Go | OpenTelemetry Collector |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6066 | Go | OpenTelemetry Collector |
 
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16082 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16328 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 19672 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 19838 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15213 | C++ | A C++ header-only HTTP/HTTPS server and client library |
+| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15271 | C++ | A C++ header-only HTTP/HTTPS server and client library |
 
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 15273 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | 15365 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
 
-| [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 7019 | Python | AI Toolkit for Healthcare Imaging |
+| [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 7131 | Python | AI Toolkit for Healthcare Imaging |
 
-| [janhq/jan](https://github.com/janhq/jan) | 38426 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
+| [janhq/jan](https://github.com/janhq/jan) | 38589 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
 
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 42147 | Python | Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 42263 | Python | Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. |
 <!-- TRENDING_END -->
 
 # TrendSpire
