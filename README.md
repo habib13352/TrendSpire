@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-31 00:54 UTC_
+_Last updated: 2025-10-31 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [helm/helm](https://github.com/helm/helm) | 28789 | Go | The Kubernetes Package Manager |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88716 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [storybookjs/storybook](https://github.com/storybookjs/storybook) | 88369 | TypeScript | Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4600 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6066 | Go | OpenTelemetry Collector |
+| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 71753 | C | A new bootable USB solution. |
 
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16328 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | 11185 | JavaScript | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 19838 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22770 | C++ | A modern formatting library |
 
-| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15271 | C++ | A C++ header-only HTTP/HTTPS server and client library |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16611 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 15365 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6110 | Go | OpenTelemetry Collector |
 
-| [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | 7131 | Python | AI Toolkit for Healthcare Imaging |
+| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15338 | C++ | A C++ header-only HTTP/HTTPS server and client library |
 
-| [janhq/jan](https://github.com/janhq/jan) | 38589 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 4577 | Python | The absolute trainer to light up AI agents. |
 
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | 42263 | Python | Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management. |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 2144 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
