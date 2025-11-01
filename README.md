@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-01 00:57 UTC_
+_Last updated: 2025-11-01 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88758 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [get-convex/chef](https://github.com/get-convex/chef) | 2548 | TypeScript | The only AI app builder that knows backend |
 
-| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4666 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 14101 | Python | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. |
 
-| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 71887 | C | A new bootable USB solution. |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 7085 | Go | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
 
-| [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | 11219 | JavaScript | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| [janhq/jan](https://github.com/janhq/jan) | 38864 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22801 | C++ | A modern formatting library |
+| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 93602 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
 
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16793 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 74587 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6156 | Go | OpenTelemetry Collector |
+| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 38788 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
 
-| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15372 | C++ | A C++ header-only HTTP/HTTPS server and client library |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88793 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 5115 | Python | The absolute trainer to light up AI agents. |
+| [github/copilot-cli](https://github.com/github/copilot-cli) | 4396 | Unknown | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 2282 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 33845 | Java | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
 <!-- TRENDING_END -->
 
 # TrendSpire

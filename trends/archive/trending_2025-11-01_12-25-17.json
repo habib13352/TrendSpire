@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-11-01 12:25 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "get-convex/chef",
+      "url": "https://github.com/get-convex/chef",
+      "description": "The only AI app builder that knows backend",
+      "language": "TypeScript",
+      "stars": 2548
+    },
+    {
+      "rank": 2,
+      "name": "suitenumerique/docs",
+      "url": "https://github.com/suitenumerique/docs",
+      "description": "A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.",
+      "language": "Python",
+      "stars": 14101
+    },
+    {
+      "rank": 3,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "language": "Go",
+      "stars": 7085
+    },
+    {
+      "rank": 4,
+      "name": "janhq/jan",
+      "url": "https://github.com/janhq/jan",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "language": "TypeScript",
+      "stars": 38864
+    },
+    {
+      "rank": 5,
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+      "language": "JavaScript",
+      "stars": 93602
+    },
+    {
+      "rank": 6,
+      "name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 74587
+    },
+    {
+      "rank": 7,
+      "name": "juspay/hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+      "language": "Rust",
+      "stars": 38788
+    },
+    {
+      "rank": 8,
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": 88793
+    },
+    {
+      "rank": 9,
+      "name": "github/copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "language": "Unknown",
+      "stars": 4396
+    },
+    {
+      "rank": 10,
+      "name": "YunaiV/ruoyi-vue-pro",
+      "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+      "description": "\ud83d\udd25 \u5b98\u65b9\u63a8\u8350 \ud83d\udd25 RuoYi-Vue \u5168\u65b0 Pro \u7248\u672c\uff0c\u4f18\u5316\u91cd\u6784\u6240\u6709\u529f\u80fd\u3002\u57fa\u4e8e Spring Boot + MyBatis Plus + Vue & Element \u5b9e\u73b0\u7684\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf + \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\uff0c\u652f\u6301 RBAC \u52a8\u6001\u6743\u9650\u3001\u6570\u636e\u6743\u9650\u3001SaaS \u591a\u79df\u6237\u3001Flowable \u5de5\u4f5c\u6d41\u3001\u4e09\u65b9\u767b\u5f55\u3001\u652f\u4ed8\u3001\u77ed\u4fe1\u3001\u5546\u57ce\u3001CRM\u3001ERP\u3001AI \u5927\u6a21\u578b\u7b49\u529f\u80fd\u3002\u4f60\u7684 \u2b50\ufe0f Star \u2b50\ufe0f\uff0c\u662f\u4f5c\u8005\u751f\u53d1\u7684\u52a8\u529b\uff01",
+      "language": "Java",
+      "stars": 33845
+    }
+  ]
+}
