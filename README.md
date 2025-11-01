@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-10-31 12:29 UTC_
+_Last updated: 2025-11-01 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88716 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88758 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4600 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4666 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 
-| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 71753 | C | A new bootable USB solution. |
+| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | 71887 | C | A new bootable USB solution. |
 
-| [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | 11185 | JavaScript | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
+| [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | 11219 | JavaScript | Community curated list of templates for the nuclei engine to find security vulnerabilities. |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22770 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 22801 | C++ | A modern formatting library |
 
-| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16611 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
+| [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) | 16793 | JavaScript | API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites |
 
-| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6110 | Go | OpenTelemetry Collector |
+| [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) | 6156 | Go | OpenTelemetry Collector |
 
-| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15338 | C++ | A C++ header-only HTTP/HTTPS server and client library |
+| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | 15372 | C++ | A C++ header-only HTTP/HTTPS server and client library |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 4577 | Python | The absolute trainer to light up AI agents. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 5115 | Python | The absolute trainer to light up AI agents. |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 2144 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 2282 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
