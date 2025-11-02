@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-02 00:58 UTC_
+_Last updated: 2025-11-02 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [get-convex/chef](https://github.com/get-convex/chef) | 2715 | TypeScript | The only AI app builder that knows backend |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 3857 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 14202 | Python | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4768 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 7191 | Go | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 5862 | Python | The absolute trainer to light up AI agents. |
 
-| [janhq/jan](https://github.com/janhq/jan) | 38946 | TypeScript | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8241 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) | 93737 | JavaScript | 24 Lessons, 12 Weeks, Get Started as a Web Developer |
+| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7426 | Python | Nano vLLM |
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 74743 | Python | real time face swap and one-click video deepfake with only a single image |
+| [sst/opencode](https://github.com/sst/opencode) | 30285 | TypeScript | The AI coding agent built for the terminal. |
 
-| [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | 38916 | Rust | An open source payments switch written in Rust to make payments fast, reliable and affordable |
+| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 19891 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 88835 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 48983 | JavaScript | Based on a true story |
 
-| [github/copilot-cli](https://github.com/github/copilot-cli) | 4516 | Unknown | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. |
+| [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) | 2263 | Python | autonomous ai agents for trading in python |
 
-| [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro) | 33879 | Java | 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！ |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 14276 | Python | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. |
 <!-- TRENDING_END -->
 
 # TrendSpire
