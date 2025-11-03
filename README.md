@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-02 12:24 UTC_
+_Last updated: 2025-11-03 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 3857 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 4250 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4768 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4830 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 5862 | Python | The absolute trainer to light up AI agents. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 6098 | Python | The absolute trainer to light up AI agents. |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8241 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8394 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7426 | Python | Nano vLLM |
+| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7559 | Python | Nano vLLM |
 
-| [sst/opencode](https://github.com/sst/opencode) | 30285 | TypeScript | The AI coding agent built for the terminal. |
+| [sst/opencode](https://github.com/sst/opencode) | 30561 | TypeScript | The AI coding agent built for the terminal. |
 
-| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 19891 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
+| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 20114 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
 
-| [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 48983 | JavaScript | Based on a true story |
+| [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 49077 | JavaScript | Based on a true story |
 
-| [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) | 2263 | Python | autonomous ai agents for trading in python |
+| [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) | 2439 | Python | autonomous ai agents for trading in python |
 
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 14276 | Python | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. |
+| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 14361 | Python | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. |
 <!-- TRENDING_END -->
 
 # TrendSpire
