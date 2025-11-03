@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-03 00:58 UTC_
+_Last updated: 2025-11-03 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 4250 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 5632 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 4830 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7753 | Python | Nano vLLM |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 6098 | Python | The absolute trainer to light up AI agents. |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8674 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8394 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 20315 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
 
-| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7559 | Python | Nano vLLM |
+| [sst/opencode](https://github.com/sst/opencode) | 30818 | TypeScript | The AI coding agent built for the terminal. |
 
-| [sst/opencode](https://github.com/sst/opencode) | 30561 | TypeScript | The AI coding agent built for the terminal. |
+| [get-convex/chef](https://github.com/get-convex/chef) | 2961 | TypeScript | The only AI app builder that knows backend |
 
-| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 20114 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 94510 | Python | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 
-| [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) | 49077 | JavaScript | Based on a true story |
+| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 22874 | Python | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account) |
 
-| [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents) | 2439 | Python | autonomous ai agents for trading in python |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 36443 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
 
-| [suitenumerique/docs](https://github.com/suitenumerique/docs) | 14361 | Python | A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. |
+| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 18925 | Python | 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
