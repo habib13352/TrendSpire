@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-04 00:55 UTC_
+_Last updated: 2025-11-04 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 6584 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 10235 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7887 | Python | Nano vLLM |
+| [sst/opentui](https://github.com/sst/opentui) | 3608 | TypeScript | OpenTUI is a library for building terminal user interfaces (TUIs) |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8790 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 8084 | Python | Nano vLLM |
 
-| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 20476 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 36772 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
 
-| [sst/opencode](https://github.com/sst/opencode) | 31076 | TypeScript | The AI coding agent built for the terminal. |
+| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 19062 | Python | 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。 |
 
-| [get-convex/chef](https://github.com/get-convex/chef) | 3076 | TypeScript | The only AI app builder that knows backend |
+| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 20555 | Unknown | An evolving how-to guide for securing a Linux server. |
 
-| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 94582 | Python | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 31534 | PowerShell | A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
 
-| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 23006 | Python | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account) |
+| [DearVa/Everywhere](https://github.com/DearVa/Everywhere) | 2295 | C# | A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. |
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 36595 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 9030 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 18994 | Python | 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。 |
+| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 23180 | Python | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account) |
 <!-- TRENDING_END -->
 
 # TrendSpire
