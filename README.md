@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-03 12:30 UTC_
+_Last updated: 2025-11-04 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 5632 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 6584 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7753 | Python | Nano vLLM |
+| [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 7887 | Python | Nano vLLM |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8674 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 8790 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 20315 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
+| [charmbracelet/glow](https://github.com/charmbracelet/glow) | 20476 | Go | Render markdown on the CLI, with pizzazz! 💅🏻 |
 
-| [sst/opencode](https://github.com/sst/opencode) | 30818 | TypeScript | The AI coding agent built for the terminal. |
+| [sst/opencode](https://github.com/sst/opencode) | 31076 | TypeScript | The AI coding agent built for the terminal. |
 
-| [get-convex/chef](https://github.com/get-convex/chef) | 2961 | TypeScript | The only AI app builder that knows backend |
+| [get-convex/chef](https://github.com/get-convex/chef) | 3076 | TypeScript | The only AI app builder that knows backend |
 
-| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 94510 | Python | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 94582 | Python | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 
-| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 22874 | Python | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account) |
+| [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) | 23006 | Python | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account) |
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 36443 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 36595 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
 
-| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 18925 | Python | 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。 |
+| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 18994 | Python | 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
