@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-06 00:56 UTC_
+_Last updated: 2025-11-06 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 14896 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 17114 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 16180 | Python | Automate browser based workflows with AI |
+| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 16603 | Python | Automate browser based workflows with AI |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 9441 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 18057 | TypeScript | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
 
-| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 17865 | TypeScript | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 37427 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 37255 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+| [sst/opentui](https://github.com/sst/opentui) | 4546 | TypeScript | OpenTUI is a library for building terminal user interfaces (TUIs) |
 
-| [sst/opentui](https://github.com/sst/opentui) | 4460 | TypeScript | OpenTUI is a library for building terminal user interfaces (TUIs) |
+| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 22015 | Unknown | An evolving how-to guide for securing a Linux server. |
 
-| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 7351 | Go | Prometheus Alertmanager |
+| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) | 2719 | Go | The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. |
 
-| [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) | 21177 | Dart | A modern download manager that supports all platforms. Built with Golang and Flutter. |
+| [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon) | 302 | TypeScript | 🦝 Rachoon — A self-hostable way to handle invoices |
 
-| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 21682 | Unknown | An evolving how-to guide for securing a Linux server. |
+| [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) | 7182 | Kotlin | Manga reader for Android |
 
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 32164 | PowerShell | A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
+| [ggml-org/ggml](https://github.com/ggml-org/ggml) | 13388 | C++ | Tensor library for machine learning |
 <!-- TRENDING_END -->
 
 # TrendSpire
