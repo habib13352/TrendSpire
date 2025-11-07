@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-11-07 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "666ghj/BettaFish",
+      "url": "https://github.com/666ghj/BettaFish",
+      "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
+      "language": "Python",
+      "stars": 20640
+    },
+    {
+      "rank": 2,
+      "name": "Skyvern-AI/skyvern",
+      "url": "https://github.com/Skyvern-AI/skyvern",
+      "description": "Automate browser based workflows with AI",
+      "language": "Python",
+      "stars": 16911
+    },
+    {
+      "rank": 3,
+      "name": "nocobase/nocobase",
+      "url": "https://github.com/nocobase/nocobase",
+      "description": "NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.",
+      "language": "TypeScript",
+      "stars": 18681
+    },
+    {
+      "rank": 4,
+      "name": "mudler/LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "\ud83e\udd16 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference",
+      "language": "Go",
+      "stars": 37748
+    },
+    {
+      "rank": 5,
+      "name": "sst/opentui",
+      "url": "https://github.com/sst/opentui",
+      "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+      "language": "TypeScript",
+      "stars": 4723
+    },
+    {
+      "rank": 6,
+      "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+      "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+      "description": "An evolving how-to guide for securing a Linux server.",
+      "language": "Unknown",
+      "stars": 22555
+    },
+    {
+      "rank": 7,
+      "name": "modelcontextprotocol/go-sdk",
+      "url": "https://github.com/modelcontextprotocol/go-sdk",
+      "description": "The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.",
+      "language": "Go",
+      "stars": 2853
+    },
+    {
+      "rank": 8,
+      "name": "ad-on-is/rachoon",
+      "url": "https://github.com/ad-on-is/rachoon",
+      "description": "\ud83e\udd9d Rachoon \u2014 A self-hostable way to handle invoices",
+      "language": "TypeScript",
+      "stars": 553
+    },
+    {
+      "rank": 9,
+      "name": "KotatsuApp/Kotatsu",
+      "url": "https://github.com/KotatsuApp/Kotatsu",
+      "description": "Manga reader for Android",
+      "language": "Kotlin",
+      "stars": 7338
+    },
+    {
+      "rank": 10,
+      "name": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "description": "Tensor library for machine learning",
+      "language": "C++",
+      "stars": 13510
+    }
+  ]
+}
