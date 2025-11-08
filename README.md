@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-07 12:28 UTC_
+_Last updated: 2025-11-08 00:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 20640 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 7681 | Go | Prometheus Alertmanager |
 
-| [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | 16911 | Python | Automate browser based workflows with AI |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 21545 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 18681 | TypeScript | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 17626 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 37748 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+| [lima-vm/lima](https://github.com/lima-vm/lima) | 18439 | Go | Linux virtual machines, with a focus on running containers |
 
-| [sst/opentui](https://github.com/sst/opentui) | 4723 | TypeScript | OpenTUI is a library for building terminal user interfaces (TUIs) |
+| [awslabs/mcp](https://github.com/awslabs/mcp) | 7063 | Python | AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. |
 
-| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 22555 | Unknown | An evolving how-to guide for securing a Linux server. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 3338 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) | 2853 | Go | The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 26856 | TypeScript | NVR with realtime local object detection for IP cameras |
 
-| [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon) | 553 | TypeScript | 🦝 Rachoon — A self-hostable way to handle invoices |
+| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 22724 | Unknown | An evolving how-to guide for securing a Linux server. |
 
-| [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) | 7338 | Kotlin | Manga reader for Android |
+| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | 10235 | Unknown | FFmpeg Assembly Language Lessons |
 
-| [ggml-org/ggml](https://github.com/ggml-org/ggml) | 13510 | C++ | Tensor library for machine learning |
+| [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon) | 627 | TypeScript | 🦝 Rachoon — A self-hostable way to handle invoices |
 <!-- TRENDING_END -->
 
 # TrendSpire
