@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-08 00:52 UTC_
+_Last updated: 2025-11-08 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 7681 | Go | Prometheus Alertmanager |
+| [usestrix/strix](https://github.com/usestrix/strix) | 3569 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 21545 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [umami-software/umami](https://github.com/umami-software/umami) | 31811 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 17626 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 7877 | Go | Prometheus Alertmanager |
 
-| [lima-vm/lima](https://github.com/lima-vm/lima) | 18439 | Go | Linux virtual machines, with a focus on running containers |
+| [lima-vm/lima](https://github.com/lima-vm/lima) | 18509 | Go | Linux virtual machines, with a focus on running containers |
 
-| [awslabs/mcp](https://github.com/awslabs/mcp) | 7063 | Python | AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP. |
+| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 18801 | TypeScript | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 3338 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 46402 | Java | Free universal database tool and SQL client |
 
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 26856 | TypeScript | NVR with realtime local object detection for IP cameras |
+| [localstack/localstack](https://github.com/localstack/localstack) | 62442 | Python | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
 
-| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 22724 | Unknown | An evolving how-to guide for securing a Linux server. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 75567 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) | 10235 | Unknown | FFmpeg Assembly Language Lessons |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 22530 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon) | 627 | TypeScript | 🦝 Rachoon — A self-hostable way to handle invoices |
+| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 4662 | Python | Context retrieval for AI agents across apps and databases |
 <!-- TRENDING_END -->
 
 # TrendSpire
