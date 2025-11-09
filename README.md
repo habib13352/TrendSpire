@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-08 12:25 UTC_
+_Last updated: 2025-11-09 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 3569 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [usestrix/strix](https://github.com/usestrix/strix) | 4726 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 31811 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [umami-software/umami](https://github.com/umami-software/umami) | 32313 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 7877 | Go | Prometheus Alertmanager |
+| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 7923 | Go | Prometheus Alertmanager |
 
-| [lima-vm/lima](https://github.com/lima-vm/lima) | 18509 | Go | Linux virtual machines, with a focus on running containers |
+| [lima-vm/lima](https://github.com/lima-vm/lima) | 18589 | Go | Linux virtual machines, with a focus on running containers |
 
-| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 18801 | TypeScript | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
+| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 18924 | TypeScript | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
 
-| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 46402 | Java | Free universal database tool and SQL client |
+| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 46501 | Java | Free universal database tool and SQL client |
 
-| [localstack/localstack](https://github.com/localstack/localstack) | 62442 | Python | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
+| [localstack/localstack](https://github.com/localstack/localstack) | 62582 | Python | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 75567 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 75770 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 22530 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 23047 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 4662 | Python | Context retrieval for AI agents across apps and databases |
+| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 4760 | Python | Context retrieval for AI agents across apps and databases |
 <!-- TRENDING_END -->
 
 # TrendSpire
