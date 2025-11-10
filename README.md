@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-10 00:58 UTC_
+_Last updated: 2025-11-10 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 6786 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [usestrix/strix](https://github.com/usestrix/strix) | 8239 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 32828 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [umami-software/umami](https://github.com/umami-software/umami) | 33012 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1618 | Python | Post-training with Tinker |
+| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1706 | Python | Post-training with Tinker |
 
-| [mui/material-ui](https://github.com/mui/material-ui) | 97109 | JavaScript | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
+| [mui/material-ui](https://github.com/mui/material-ui) | 97234 | JavaScript | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
 
-| [google/adk-go](https://github.com/google/adk-go) | 629 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [google/adk-go](https://github.com/google/adk-go) | 837 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [axios/axios](https://github.com/axios/axios) | 108156 | JavaScript | Promise based HTTP client for the browser and node.js |
+| [axios/axios](https://github.com/axios/axios) | 108198 | JavaScript | Promise based HTTP client for the browser and node.js |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 17788 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 17894 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 4927 | Python | Context retrieval for AI agents across apps and databases |
+| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 5055 | Python | Context retrieval for AI agents across apps and databases |
 
-| [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | 6909 | Shell | HyDE, your Development Environment 🖥️💻 |
+| [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | 7018 | Shell | HyDE, your Development Environment 🖥️💻 |
 
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 157998 | Python | Stable Diffusion web UI |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 158088 | Python | Stable Diffusion web UI |
 <!-- TRENDING_END -->
 
 # TrendSpire
