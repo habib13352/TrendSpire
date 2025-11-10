@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-09 12:25 UTC_
+_Last updated: 2025-11-10 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 5698 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [usestrix/strix](https://github.com/usestrix/strix) | 6786 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 32640 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [umami-software/umami](https://github.com/umami-software/umami) | 32828 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [prometheus/alertmanager](https://github.com/prometheus/alertmanager) | 7954 | Go | Prometheus Alertmanager |
+| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1618 | Python | Post-training with Tinker |
 
-| [lima-vm/lima](https://github.com/lima-vm/lima) | 18672 | Go | Linux virtual machines, with a focus on running containers |
+| [mui/material-ui](https://github.com/mui/material-ui) | 97109 | JavaScript | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
 
-| [nocobase/nocobase](https://github.com/nocobase/nocobase) | 19038 | TypeScript | NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions. |
+| [google/adk-go](https://github.com/google/adk-go) | 629 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) | 46574 | Java | Free universal database tool and SQL client |
+| [axios/axios](https://github.com/axios/axios) | 108156 | JavaScript | Promise based HTTP client for the browser and node.js |
 
-| [localstack/localstack](https://github.com/localstack/localstack) | 62694 | Python | 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 17788 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 75980 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 4927 | Python | Context retrieval for AI agents across apps and databases |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 23570 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | 6909 | Shell | HyDE, your Development Environment 🖥️💻 |
 
-| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 4834 | Python | Context retrieval for AI agents across apps and databases |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 157998 | Python | Stable Diffusion web UI |
 <!-- TRENDING_END -->
 
 # TrendSpire

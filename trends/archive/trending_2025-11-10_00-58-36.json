@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-11-10 00:58 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "\u2728 Open-source AI hackers for your apps \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb",
+      "language": "Python",
+      "stars": 6786
+    },
+    {
+      "rank": 2,
+      "name": "umami-software/umami",
+      "url": "https://github.com/umami-software/umami",
+      "description": "Umami is a modern, privacy-focused alternative to Google Analytics.",
+      "language": "TypeScript",
+      "stars": 32828
+    },
+    {
+      "rank": 3,
+      "name": "thinking-machines-lab/tinker-cookbook",
+      "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+      "description": "Post-training with Tinker",
+      "language": "Python",
+      "stars": 1618
+    },
+    {
+      "rank": 4,
+      "name": "mui/material-ui",
+      "url": "https://github.com/mui/material-ui",
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "stars": 97109
+    },
+    {
+      "rank": 5,
+      "name": "google/adk-go",
+      "url": "https://github.com/google/adk-go",
+      "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "language": "Go",
+      "stars": 629
+    },
+    {
+      "rank": 6,
+      "name": "axios/axios",
+      "url": "https://github.com/axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "language": "JavaScript",
+      "stars": 108156
+    },
+    {
+      "rank": 7,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "language": "TypeScript",
+      "stars": 17788
+    },
+    {
+      "rank": 8,
+      "name": "airweave-ai/airweave",
+      "url": "https://github.com/airweave-ai/airweave",
+      "description": "Context retrieval for AI agents across apps and databases",
+      "language": "Python",
+      "stars": 4927
+    },
+    {
+      "rank": 9,
+      "name": "HyDE-Project/HyDE",
+      "url": "https://github.com/HyDE-Project/HyDE",
+      "description": "HyDE, your Development Environment \ud83d\udda5\ufe0f\ud83d\udcbb",
+      "language": "Shell",
+      "stars": 6909
+    },
+    {
+      "rank": 10,
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "description": "Stable Diffusion web UI",
+      "language": "Python",
+      "stars": 157998
+    }
+  ]
+}
