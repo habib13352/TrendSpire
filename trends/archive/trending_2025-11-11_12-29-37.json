@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-11-11 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "google/adk-go",
+      "url": "https://github.com/google/adk-go",
+      "description": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "language": "Go",
+      "stars": 2136
+    },
+    {
+      "rank": 2,
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "\u2728 Open-source AI hackers for your apps \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb",
+      "language": "Python",
+      "stars": 9299
+    },
+    {
+      "rank": 3,
+      "name": "umami-software/umami",
+      "url": "https://github.com/umami-software/umami",
+      "description": "Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.",
+      "language": "TypeScript",
+      "stars": 33324
+    },
+    {
+      "rank": 4,
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+      "language": "Roff",
+      "stars": 55238
+    },
+    {
+      "rank": 5,
+      "name": "thinking-machines-lab/tinker-cookbook",
+      "url": "https://github.com/thinking-machines-lab/tinker-cookbook",
+      "description": "Post-training with Tinker",
+      "language": "Python",
+      "stars": 1798
+    },
+    {
+      "rank": 6,
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 99433
+    },
+    {
+      "rank": 7,
+      "name": "lzhoang2801/OpCore-Simplify",
+      "url": "https://github.com/lzhoang2801/OpCore-Simplify",
+      "description": "A tool designed to simplify the creation of OpenCore EFI",
+      "language": "Python",
+      "stars": 2303
+    },
+    {
+      "rank": 8,
+      "name": "YaLTeR/niri",
+      "url": "https://github.com/YaLTeR/niri",
+      "description": "A scrollable-tiling Wayland compositor.",
+      "language": "Rust",
+      "stars": 14837
+    },
+    {
+      "rank": 9,
+      "name": "bobeff/open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "description": "A list of open source games.",
+      "language": "Unknown",
+      "stars": 2479
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/call-center-ai",
+      "url": "https://github.com/microsoft/call-center-ai",
+      "description": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",
+      "language": "Python",
+      "stars": 1967
+    }
+  ]
+}

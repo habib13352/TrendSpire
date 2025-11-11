@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-11 00:56 UTC_
+_Last updated: 2025-11-11 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google/adk-go](https://github.com/google/adk-go) | 1498 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [google/adk-go](https://github.com/google/adk-go) | 2136 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 8768 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [usestrix/strix](https://github.com/usestrix/strix) | 9299 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 33173 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [umami-software/umami](https://github.com/umami-software/umami) | 33324 | TypeScript | Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 54949 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 55238 | Roff | 所有小初高、大学PDF教材。 |
 
-| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1753 | Python | Post-training with Tinker |
+| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1798 | Python | Post-training with Tinker |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 99187 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 99433 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | 2257 | Python | A tool designed to simplify the creation of OpenCore EFI |
+| [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | 2303 | Python | A tool designed to simplify the creation of OpenCore EFI |
 
-| [YaLTeR/niri](https://github.com/YaLTeR/niri) | 14751 | Rust | A scrollable-tiling Wayland compositor. |
+| [YaLTeR/niri](https://github.com/YaLTeR/niri) | 14837 | Rust | A scrollable-tiling Wayland compositor. |
 
-| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 2163 | Unknown | A list of open source games. |
+| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 2479 | Unknown | A list of open source games. |
 
-| [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) | 1639 | Python | Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number! |
+| [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) | 1967 | Python | Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number! |
 <!-- TRENDING_END -->
 
 # TrendSpire
