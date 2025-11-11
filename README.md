@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-10 12:29 UTC_
+_Last updated: 2025-11-11 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 8239 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [google/adk-go](https://github.com/google/adk-go) | 1498 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 33012 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 8768 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1706 | Python | Post-training with Tinker |
+| [umami-software/umami](https://github.com/umami-software/umami) | 33173 | TypeScript | Umami is a modern, privacy-focused alternative to Google Analytics. |
 
-| [mui/material-ui](https://github.com/mui/material-ui) | 97234 | JavaScript | Material UI: Comprehensive React component library that implements Google's Material Design. Free forever. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 54949 | Roff | 所有小初高、大学PDF教材。 |
 
-| [google/adk-go](https://github.com/google/adk-go) | 837 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1753 | Python | Post-training with Tinker |
 
-| [axios/axios](https://github.com/axios/axios) | 108198 | JavaScript | Promise based HTTP client for the browser and node.js |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 99187 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 17894 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | 2257 | Python | A tool designed to simplify the creation of OpenCore EFI |
 
-| [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 5055 | Python | Context retrieval for AI agents across apps and databases |
+| [YaLTeR/niri](https://github.com/YaLTeR/niri) | 14751 | Rust | A scrollable-tiling Wayland compositor. |
 
-| [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE) | 7018 | Shell | HyDE, your Development Environment 🖥️💻 |
+| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 2163 | Unknown | A list of open source games. |
 
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 158088 | Python | Stable Diffusion web UI |
+| [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) | 1639 | Python | Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number! |
 <!-- TRENDING_END -->
 
 # TrendSpire
