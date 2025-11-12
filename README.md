@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-11 12:29 UTC_
+_Last updated: 2025-11-12 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google/adk-go](https://github.com/google/adk-go) | 2136 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 6474 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 9299 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
+| [google/adk-go](https://github.com/google/adk-go) | 2425 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [umami-software/umami](https://github.com/umami-software/umami) | 33324 | TypeScript | Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 9621 | Python | ✨ Open-source AI hackers for your apps 👨🏻‍💻 |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 55238 | Roff | 所有小初高、大学PDF教材。 |
+| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 3073 | Unknown | A list of open source games. |
 
-| [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) | 1798 | Python | Post-training with Tinker |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 55308 | Roff | 所有小初高、大学PDF教材。 |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 99433 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) | 2868 | JavaScript | The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io |
 
-| [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify) | 2303 | Python | A tool designed to simplify the creation of OpenCore EFI |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 4073 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [YaLTeR/niri](https://github.com/YaLTeR/niri) | 14837 | Rust | A scrollable-tiling Wayland compositor. |
+| [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 132019 | TypeScript | 💯 Curated coding interview preparation materials for busy software engineers |
 
-| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 2479 | Unknown | A list of open source games. |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 44569 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
 
-| [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) | 1967 | Python | Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number! |
+| [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 31169 | C++ | Self-hosted game stream host for Moonlight. |
 <!-- TRENDING_END -->
 
 # TrendSpire
