@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-12 12:30 UTC_
+_Last updated: 2025-11-13 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 8068 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 8837 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
 
-| [google/adk-go](https://github.com/google/adk-go) | 2694 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [google/adk-go](https://github.com/google/adk-go) | 2886 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 10026 | Python | ✨ Open-source AI hackers for your apps |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 55633 | Roff | 所有小初高、大学PDF教材。 |
 
-| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 3529 | Unknown | A list of open source games. |
+| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 41190 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 55540 | Roff | 所有小初高、大学PDF教材。 |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 89122 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) | 2990 | JavaScript | The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io |
+| [traefik/traefik](https://github.com/traefik/traefik) | 57774 | Go | The Cloud Native Application Proxy |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 4268 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 22689 | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 
-| [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 132227 | TypeScript | 💯 Curated coding interview preparation materials for busy software engineers |
+| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 3898 | Unknown | A list of open source games. |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 44753 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [volcengine/verl](https://github.com/volcengine/verl) | 15435 | Python | verl: Volcano Engine Reinforcement Learning for LLMs |
 
-| [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) | 31273 | C++ | Self-hosted game stream host for Moonlight. |
+| [GibsonAI/Memori](https://github.com/GibsonAI/Memori) | 2604 | Python | Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems |
 <!-- TRENDING_END -->
 
 # TrendSpire
