@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-11-27 12:30 UTC_
+_Last updated: 2025-11-28 00:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 30691 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 31009 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点 |
 
-| [google/adk-go](https://github.com/google/adk-go) | 5167 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [google/adk-go](https://github.com/google/adk-go) | 5223 | Go | An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 59565 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 59622 | Roff | 所有小初高、大学PDF教材。 |
 
-| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 43936 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
+| [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) | 43987 | Python | [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 89879 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 89908 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [traefik/traefik](https://github.com/traefik/traefik) | 59499 | Go | The Cloud Native Application Proxy |
+| [traefik/traefik](https://github.com/traefik/traefik) | 59567 | Go | The Cloud Native Application Proxy |
 
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 24577 | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 24624 | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 
-| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 8787 | Unknown | A list of open source games. |
+| [bobeff/open-source-games](https://github.com/bobeff/open-source-games) | 8865 | Unknown | A list of open source games. |
 
-| [volcengine/verl](https://github.com/volcengine/verl) | 16728 | Python | verl: Volcano Engine Reinforcement Learning for LLMs |
+| [volcengine/verl](https://github.com/volcengine/verl) | 16757 | Python | verl: Volcano Engine Reinforcement Learning for LLMs |
 
-| [GibsonAI/Memori](https://github.com/GibsonAI/Memori) | 7468 | Python | Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems |
+| [GibsonAI/Memori](https://github.com/GibsonAI/Memori) | 7600 | Python | Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems |
 <!-- TRENDING_END -->
 
 # TrendSpire
