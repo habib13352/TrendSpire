@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-05 00:57 UTC_
+_Last updated: 2025-12-05 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [basecamp/fizzy](https://github.com/basecamp/fizzy) | 2991 | Ruby | Kanban as it should be. Not as it has been. |
+| [basecamp/fizzy](https://github.com/basecamp/fizzy) | 3777 | Ruby | Kanban as it should be. Not as it has been. |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 83535 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 13608 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
 
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 3098 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
+| [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) | 13160 | Python | The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. |
 
-| [openai/codex](https://github.com/openai/codex) | 51830 | Rust | Lightweight coding agent that runs in your terminal |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 3706 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 56324 | C++ | Truly independent web browser |
+| [facebook/react](https://github.com/facebook/react) | 241137 | JavaScript | The library for web and native user interfaces. |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 17942 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 34661 | Vue | Collection of handy online tools for developers, with great UX. |
 
-| [sst/opencode](https://github.com/sst/opencode) | 35499 | TypeScript | The AI coding agent built for the terminal. |
+| [vercel/next.js](https://github.com/vercel/next.js) | 136116 | JavaScript | The React Framework |
 
-| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 13001 | Unknown | No description provided. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 18244 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) | 13037 | Python | The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 409 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 18756 | Batchfile | No description provided. |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 83989 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 <!-- TRENDING_END -->
 
 # TrendSpire
