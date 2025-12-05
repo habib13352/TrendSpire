@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-05 00:57 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "basecamp/fizzy",
+      "url": "https://github.com/basecamp/fizzy",
+      "description": "Kanban as it should be. Not as it has been.",
+      "language": "Ruby",
+      "stars": 2991
+    },
+    {
+      "rank": 2,
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+      "language": "Zig",
+      "stars": 83535
+    },
+    {
+      "rank": 3,
+      "name": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "language": "TypeScript",
+      "stars": 3098
+    },
+    {
+      "rank": 4,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 51830
+    },
+    {
+      "rank": 5,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 56324
+    },
+    {
+      "rank": 6,
+      "name": "ashishpatel26/500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+      "language": "Unknown",
+      "stars": 17942
+    },
+    {
+      "rank": 7,
+      "name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "The AI coding agent built for the terminal.",
+      "language": "TypeScript",
+      "stars": 35499
+    },
+    {
+      "rank": 8,
+      "name": "ZJU-LLMs/Foundations-of-LLMs",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+      "description": "",
+      "language": "Unknown",
+      "stars": 13001
+    },
+    {
+      "rank": 9,
+      "name": "trustedsec/social-engineer-toolkit",
+      "url": "https://github.com/trustedsec/social-engineer-toolkit",
+      "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+      "language": "Python",
+      "stars": 13037
+    },
+    {
+      "rank": 10,
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 18756
+    }
+  ]
+}
