@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-05 12:31 UTC_
+_Last updated: 2025-12-06 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [basecamp/fizzy](https://github.com/basecamp/fizzy) | 3777 | Ruby | Kanban as it should be. Not as it has been. |
+| [basecamp/fizzy](https://github.com/basecamp/fizzy) | 4352 | Ruby | Kanban as it should be. Not as it has been. |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 13608 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 14402 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
 
-| [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) | 13160 | Python | The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. |
+| [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) | 13284 | Python | The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. |
 
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 3706 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 3939 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
 
-| [facebook/react](https://github.com/facebook/react) | 241137 | JavaScript | The library for web and native user interfaces. |
+| [facebook/react](https://github.com/facebook/react) | 241199 | JavaScript | The library for web and native user interfaces. |
 
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 34661 | Vue | Collection of handy online tools for developers, with great UX. |
+| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 34755 | Vue | Collection of handy online tools for developers, with great UX. |
 
-| [vercel/next.js](https://github.com/vercel/next.js) | 136116 | JavaScript | The React Framework |
+| [vercel/next.js](https://github.com/vercel/next.js) | 136192 | JavaScript | The React Framework |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 18244 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 18439 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 409 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 543 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 83989 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 84133 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 <!-- TRENDING_END -->
 
 # TrendSpire
