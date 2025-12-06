@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-06 00:55 UTC_
+_Last updated: 2025-12-06 12:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [basecamp/fizzy](https://github.com/basecamp/fizzy) | 4352 | Ruby | Kanban as it should be. Not as it has been. |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 10754 | Python | Open-Source Frontier Voice AI |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 14402 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 14905 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
 
-| [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) | 13284 | Python | The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here. |
+| [RosettaCommons/foundry](https://github.com/RosettaCommons/foundry) | 367 | Python | Central repository for biomolecular foundation models with shared trainers and pipeline components |
 
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 3939 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 656 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [facebook/react](https://github.com/facebook/react) | 241199 | JavaScript | The library for web and native user interfaces. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 21308 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) | 34755 | Vue | Collection of handy online tools for developers, with great UX. |
+| [psviderski/uncloud](https://github.com/psviderski/uncloud) | 3717 | Go | A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ |
 
-| [vercel/next.js](https://github.com/vercel/next.js) | 136192 | JavaScript | The React Framework |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 84268 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 18439 | Unknown | The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. |
+| [facebook/react](https://github.com/facebook/react) | 241255 | JavaScript | The library for web and native user interfaces. |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 543 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [lynx-family/lynx](https://github.com/lynx-family/lynx) | 13732 | C++ | Empower the Web community and invite more to build across platforms. |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 84133 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6676 | Unknown | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
