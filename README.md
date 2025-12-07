@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-07 01:03 UTC_
+_Last updated: 2025-12-07 12:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 11055 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 11352 | Python | Open-Source Frontier Voice AI |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 15137 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
+| [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python) | 601 | Python | cuTile is a programming model for writing parallel kernels for NVIDIA GPUs |
 
-| [RosettaCommons/foundry](https://github.com/RosettaCommons/foundry) | 415 | Python | Central repository for biomolecular foundation models with shared trainers and pipeline components |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 21569 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 821 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 7589 | Swift | Telegram-iOS |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 21424 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 10997 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
 
-| [psviderski/uncloud](https://github.com/psviderski/uncloud) | 3836 | Go | A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 15320 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 84387 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [sst/opencode](https://github.com/sst/opencode) | 36353 | TypeScript | The open source coding agent. |
 
-| [facebook/react](https://github.com/facebook/react) | 241316 | JavaScript | The library for web and native user interfaces. |
+| [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | 10014 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
 
-| [lynx-family/lynx](https://github.com/lynx-family/lynx) | 13774 | C++ | Empower the Web community and invite more to build across platforms. |
+| [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) | 1269 | Svelte | No description provided. |
 
-| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6704 | Unknown | No description provided. |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 946 | Rust | Text editor for your terminal: easy, powerful and fast |
 <!-- TRENDING_END -->
 
 # TrendSpire

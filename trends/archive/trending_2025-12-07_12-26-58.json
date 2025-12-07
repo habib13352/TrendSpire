@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-07 12:26 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 11352
+    },
+    {
+      "rank": 2,
+      "name": "NVIDIA/cutile-python",
+      "url": "https://github.com/NVIDIA/cutile-python",
+      "description": "cuTile is a programming model for writing parallel kernels for NVIDIA GPUs",
+      "language": "Python",
+      "stars": 601
+    },
+    {
+      "rank": 3,
+      "name": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "stars": 21569
+    },
+    {
+      "rank": 4,
+      "name": "TelegramMessenger/Telegram-iOS",
+      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+      "description": "Telegram-iOS",
+      "language": "Swift",
+      "stars": 7589
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": 10997
+    },
+    {
+      "rank": 6,
+      "name": "rustfs/rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "stars": 15320
+    },
+    {
+      "rank": 7,
+      "name": "sst/opencode",
+      "url": "https://github.com/sst/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 36353
+    },
+    {
+      "rank": 8,
+      "name": "BeehiveInnovations/pal-mcp-server",
+      "url": "https://github.com/BeehiveInnovations/pal-mcp-server",
+      "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+      "language": "Python",
+      "stars": 10014
+    },
+    {
+      "rank": 9,
+      "name": "microsoft/Foundry-Local",
+      "url": "https://github.com/microsoft/Foundry-Local",
+      "description": "",
+      "language": "Svelte",
+      "stars": 1269
+    },
+    {
+      "rank": 10,
+      "name": "sinelaw/fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "language": "Rust",
+      "stars": 946
+    }
+  ]
+}
