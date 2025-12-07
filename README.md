@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-06 12:27 UTC_
+_Last updated: 2025-12-07 01:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 10754 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 11055 | Python | Open-Source Frontier Voice AI |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 14905 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
+| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 15137 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
 
-| [RosettaCommons/foundry](https://github.com/RosettaCommons/foundry) | 367 | Python | Central repository for biomolecular foundation models with shared trainers and pipeline components |
+| [RosettaCommons/foundry](https://github.com/RosettaCommons/foundry) | 415 | Python | Central repository for biomolecular foundation models with shared trainers and pipeline components |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 656 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 821 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 21308 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 21424 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [psviderski/uncloud](https://github.com/psviderski/uncloud) | 3717 | Go | A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ |
+| [psviderski/uncloud](https://github.com/psviderski/uncloud) | 3836 | Go | A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 84268 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 84387 | Zig | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [facebook/react](https://github.com/facebook/react) | 241255 | JavaScript | The library for web and native user interfaces. |
+| [facebook/react](https://github.com/facebook/react) | 241316 | JavaScript | The library for web and native user interfaces. |
 
-| [lynx-family/lynx](https://github.com/lynx-family/lynx) | 13732 | C++ | Empower the Web community and invite more to build across platforms. |
+| [lynx-family/lynx](https://github.com/lynx-family/lynx) | 13774 | C++ | Empower the Web community and invite more to build across platforms. |
 
-| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6676 | Unknown | No description provided. |
+| [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion) | 6704 | Unknown | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
