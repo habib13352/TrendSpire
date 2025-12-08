@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-08 00:58 UTC_
+_Last updated: 2025-12-08 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 12115 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 13229 | Python | Open-Source Frontier Voice AI |
 
-| [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python) | 714 | Python | cuTile is a programming model for writing parallel kernels for NVIDIA GPUs |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 1172 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 21751 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [winapps-org/winapps](https://github.com/winapps-org/winapps) | 13122 | Shell | Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ |
 
-| [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 7638 | Swift | Telegram-iOS |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 22134 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 11139 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| [slidevjs/slidev](https://github.com/slidevjs/slidev) | 42463 | TypeScript | Presentation Slides for Developers |
 
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 15519 | Rust | 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
+| [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | 3524 | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack |
 
-| [sst/opencode](https://github.com/sst/opencode) | 36740 | TypeScript | The open source coding agent. |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 12948 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | 10134 | Python | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 11313 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
 
-| [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) | 1394 | Svelte | No description provided. |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 31454 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 1057 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) | 1490 | Svelte | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
