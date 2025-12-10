@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-10 00:59 UTC_
+_Last updated: 2025-12-10 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | 1578 | Go | General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 1877 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 1457 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | 2290 | Go | General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 18007 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 9192 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 16305 | Python | Open-Source Frontier Voice AI |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 13844 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python) | 1204 | Python | cuTile is a programming model for writing parallel kernels for NVIDIA GPUs |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 18139 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [google/adk-samples](https://github.com/google/adk-samples) | 7053 | Python | A collection of sample agents built with Agent Development Kit (ADK) |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 6801 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 22786 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 16703 | Python | Open-Source Frontier Voice AI |
 
-| [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas) | 1122 | Python | No description provided. |
+| [block/goose](https://github.com/block/goose) | 23168 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 32005 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 32209 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 103040 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
+| [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | 4003 | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack |
 <!-- TRENDING_END -->
 
 # TrendSpire
