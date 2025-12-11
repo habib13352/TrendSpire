@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-11 00:59 UTC_
+_Last updated: 2025-12-11 12:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 2693 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 3496 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | 2764 | Go | General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 7984 | Go | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
 
-| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 9486 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
+| [block/goose](https://github.com/block/goose) | 23598 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 14030 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | 3263 | Go | General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 18229 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [tempoxyz/tempo](https://github.com/tempoxyz/tempo) | 262 | Rust | the blockchain for payments |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 7000 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 718 | C++ | Experimental menu for GTA 5: Enhanced |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 17003 | Python | Open-Source Frontier Voice AI |
+| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 69734 | Unknown | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
 
-| [block/goose](https://github.com/block/goose) | 23374 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 9877 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 32317 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) | 3481 | C# | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ |
 
-| [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | 4126 | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 61596 | Roff | 所有小初高、大学PDF教材。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
