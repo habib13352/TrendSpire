@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-11 00:59 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "JavaScript",
+      "stars": 2693
+    },
+    {
+      "rank": 2,
+      "name": "KaijuEngine/kaiju",
+      "url": "https://github.com/KaijuEngine/kaiju",
+      "description": "General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor",
+      "language": "Go",
+      "stars": 2764
+    },
+    {
+      "rank": 3,
+      "name": "agentsmd/agents.md",
+      "url": "https://github.com/agentsmd/agents.md",
+      "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+      "language": "TypeScript",
+      "stars": 9486
+    },
+    {
+      "rank": 4,
+      "name": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 14030
+    },
+    {
+      "rank": 5,
+      "name": "dyad-sh/dyad",
+      "url": "https://github.com/dyad-sh/dyad",
+      "description": "Free, local, open-source AI app builder \u2728 v0 / lovable / Bolt alternative \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 18229
+    },
+    {
+      "rank": 6,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "language": "Python",
+      "stars": 7000
+    },
+    {
+      "rank": 7,
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 17003
+    },
+    {
+      "rank": 8,
+      "name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 23374
+    },
+    {
+      "rank": 9,
+      "name": "666ghj/BettaFish",
+      "url": "https://github.com/666ghj/BettaFish",
+      "description": "\u5fae\u8206\uff1a\u4eba\u4eba\u53ef\u7528\u7684\u591aAgent\u8206\u60c5\u5206\u6790\u52a9\u624b\uff0c\u6253\u7834\u4fe1\u606f\u8327\u623f\uff0c\u8fd8\u539f\u8206\u60c5\u539f\u8c8c\uff0c\u9884\u6d4b\u672a\u6765\u8d70\u5411\uff0c\u8f85\u52a9\u51b3\u7b56\uff01\u4ece0\u5b9e\u73b0\uff0c\u4e0d\u4f9d\u8d56\u4efb\u4f55\u6846\u67b6\u3002",
+      "language": "Python",
+      "stars": 32317
+    },
+    {
+      "rank": 10,
+      "name": "cloudflare/vibesdk",
+      "url": "https://github.com/cloudflare/vibesdk",
+      "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+      "language": "TypeScript",
+      "stars": 4126
+    }
+  ]
+}

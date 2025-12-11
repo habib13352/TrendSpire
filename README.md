@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-10 12:32 UTC_
+_Last updated: 2025-12-11 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 1877 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 2693 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | 2290 | Go | General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor |
+| [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) | 2764 | Go | General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor |
 
-| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 9192 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 9486 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 13844 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 14030 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 18139 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
+| [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | 18229 | TypeScript | Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 6801 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 7000 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 16703 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 17003 | Python | Open-Source Frontier Voice AI |
 
-| [block/goose](https://github.com/block/goose) | 23168 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 23374 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 32209 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 32317 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | 4003 | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack |
+| [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) | 4126 | TypeScript | An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack |
 <!-- TRENDING_END -->
 
 # TrendSpire
