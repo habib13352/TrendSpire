@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-13 00:55 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "JavaScript",
+      "stars": 4707
+    },
+    {
+      "rank": 2,
+      "name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 24060
+    },
+    {
+      "rank": 3,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "language": "Python",
+      "stars": 8314
+    },
+    {
+      "rank": 4,
+      "name": "agentsmd/agents.md",
+      "url": "https://github.com/agentsmd/agents.md",
+      "description": "AGENTS.md \u2014 a simple, open format for guiding coding agents",
+      "language": "TypeScript",
+      "stars": 10855
+    },
+    {
+      "rank": 5,
+      "name": "GoogleCloudPlatform/agent-starter-pack",
+      "url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+      "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+      "language": "Python",
+      "stars": 4385
+    },
+    {
+      "rank": 6,
+      "name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars": 807
+    },
+    {
+      "rank": 7,
+      "name": "refly-ai/refly",
+      "url": "https://github.com/refly-ai/refly",
+      "description": "Vibe Workflow Platform for Non-technical Creators.",
+      "language": "TypeScript",
+      "stars": 5194
+    },
+    {
+      "rank": 8,
+      "name": "HotCakeX/Harden-Windows-Security",
+      "url": "https://github.com/HotCakeX/Harden-Windows-Security",
+      "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store\u2728",
+      "language": "C#",
+      "stars": 3698
+    },
+    {
+      "rank": 9,
+      "name": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "language": "TypeScript",
+      "stars": 8230
+    },
+    {
+      "rank": 10,
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 15213
+    }
+  ]
+}

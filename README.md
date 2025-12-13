@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-12 12:31 UTC_
+_Last updated: 2025-12-13 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 4168 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 4707 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [block/goose](https://github.com/block/goose) | 23947 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 24060 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 8143 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 8314 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 10637 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 10855 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
 
-| [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) | 4265 | Python | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. |
+| [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) | 4385 | Python | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. |
 
-| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 779 | C++ | Experimental menu for GTA 5: Enhanced |
+| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 807 | C++ | Experimental menu for GTA 5: Enhanced |
 
-| [refly-ai/refly](https://github.com/refly-ai/refly) | 5084 | TypeScript | Vibe Workflow Platform for Non-technical Creators. |
+| [refly-ai/refly](https://github.com/refly-ai/refly) | 5194 | TypeScript | Vibe Workflow Platform for Non-technical Creators. |
 
-| [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) | 3626 | C# | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ |
+| [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) | 3698 | C# | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ |
 
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 7960 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 8230 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 15122 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 15213 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
 <!-- TRENDING_END -->
 
 # TrendSpire
