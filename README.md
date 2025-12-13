@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-13 00:55 UTC_
+_Last updated: 2025-12-13 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 4707 | JavaScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 25701 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
 
-| [block/goose](https://github.com/block/goose) | 24060 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 8622 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 8314 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 5073 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 10855 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
+| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 37753 | Python | Federated query engine for AI - The only MCP Server you'll ever need |
 
-| [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) | 4385 | Python | Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 19362 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 807 | C++ | Experimental menu for GTA 5: Enhanced |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 8444 | Go | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
 
-| [refly-ai/refly](https://github.com/refly-ai/refly) | 5194 | TypeScript | Vibe Workflow Platform for Non-technical Creators. |
+| [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) | 3534 | Python | Depix is a PoC for a technique to recover plaintext from pixelized screenshots. |
 
-| [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) | 3698 | C# | Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨ |
+| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 832 | C++ | Experimental menu for GTA 5: Enhanced |
 
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 8230 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 15284 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 15213 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [langgenius/dify](https://github.com/langgenius/dify) | 121511 | TypeScript | Production-ready platform for agentic workflow development. |
 <!-- TRENDING_END -->
 
 # TrendSpire
