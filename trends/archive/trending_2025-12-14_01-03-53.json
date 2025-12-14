@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-14 01:03 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "description": "React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile \ud83e\ude81",
+      "language": "TypeScript",
+      "stars": 26165
+    },
+    {
+      "rank": 2,
+      "name": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+      "language": "TypeScript",
+      "stars": 9099
+    },
+    {
+      "rank": 3,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 5249
+    },
+    {
+      "rank": 4,
+      "name": "mindsdb/mindsdb",
+      "url": "https://github.com/mindsdb/mindsdb",
+      "description": "Federated query engine for AI - The only MCP Server you'll ever need",
+      "language": "Python",
+      "stars": 37823
+    },
+    {
+      "rank": 5,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "language": "TypeScript",
+      "stars": 19468
+    },
+    {
+      "rank": 6,
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
+      "language": "Go",
+      "stars": 8551
+    },
+    {
+      "rank": 7,
+      "name": "spipm/Depixelization_poc",
+      "url": "https://github.com/spipm/Depixelization_poc",
+      "description": "Depix is a PoC for a technique to recover plaintext from pixelized screenshots.",
+      "language": "Python",
+      "stars": 3620
+    },
+    {
+      "rank": 8,
+      "name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "stars": 855
+    },
+    {
+      "rank": 9,
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars": 15361
+    },
+    {
+      "rank": 10,
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development.",
+      "language": "TypeScript",
+      "stars": 121598
+    }
+  ]
+}

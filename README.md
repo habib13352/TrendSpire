@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-13 12:28 UTC_
+_Last updated: 2025-12-14 01:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 25701 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 26165 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
 
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 8622 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
+| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 9099 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 5073 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 5249 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 37753 | Python | Federated query engine for AI - The only MCP Server you'll ever need |
+| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 37823 | Python | Federated query engine for AI - The only MCP Server you'll ever need |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 19362 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 19468 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 8444 | Go | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 8551 | Go | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
 
-| [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) | 3534 | Python | Depix is a PoC for a technique to recover plaintext from pixelized screenshots. |
+| [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) | 3620 | Python | Depix is a PoC for a technique to recover plaintext from pixelized screenshots. |
 
-| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 832 | C++ | Experimental menu for GTA 5: Enhanced |
+| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 855 | C++ | Experimental menu for GTA 5: Enhanced |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 15284 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 15361 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
 
-| [langgenius/dify](https://github.com/langgenius/dify) | 121511 | TypeScript | Production-ready platform for agentic workflow development. |
+| [langgenius/dify](https://github.com/langgenius/dify) | 121598 | TypeScript | Production-ready platform for agentic workflow development. |
 <!-- TRENDING_END -->
 
 # TrendSpire
