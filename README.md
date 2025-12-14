@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-14 01:03 UTC_
+_Last updated: 2025-12-14 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 26165 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁 |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 19637 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) | 9099 | TypeScript | A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization. |
+| [openai/codex](https://github.com/openai/codex) | 52581 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 5249 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [mdn/content](https://github.com/mdn/content) | 9894 | Markdown | The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. |
 
-| [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 37823 | Python | Federated query engine for AI - The only MCP Server you'll ever need |
+| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7770 | Rust | Feature packed AUR helper |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 19468 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | 5137 | Python | Common User Passwords Profiler (CUPP) |
 
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 8551 | Go | LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm. |
+| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 13496 | Unknown | A book for Learning the Foundations of LLMs |
 
-| [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) | 3620 | Python | Depix is a PoC for a technique to recover plaintext from pixelized screenshots. |
+| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 37076 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
 
-| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 855 | C++ | Experimental menu for GTA 5: Enhanced |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 102166 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 15361 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 8900 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [langgenius/dify](https://github.com/langgenius/dify) | 121598 | TypeScript | Production-ready platform for agentic workflow development. |
+| [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 5767 | Vue | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS） |
 <!-- TRENDING_END -->
 
 # TrendSpire

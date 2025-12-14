@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-14 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "language": "TypeScript",
+      "stars": 19637
+    },
+    {
+      "rank": 2,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 52581
+    },
+    {
+      "rank": 3,
+      "name": "mdn/content",
+      "url": "https://github.com/mdn/content",
+      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+      "language": "Markdown",
+      "stars": 9894
+    },
+    {
+      "rank": 4,
+      "name": "Morganamilo/paru",
+      "url": "https://github.com/Morganamilo/paru",
+      "description": "Feature packed AUR helper",
+      "language": "Rust",
+      "stars": 7770
+    },
+    {
+      "rank": 5,
+      "name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "description": "Common User Passwords Profiler (CUPP)",
+      "language": "Python",
+      "stars": 5137
+    },
+    {
+      "rank": 6,
+      "name": "ZJU-LLMs/Foundations-of-LLMs",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+      "description": "A book for Learning the Foundations of LLMs",
+      "language": "Unknown",
+      "stars": 13496
+    },
+    {
+      "rank": 7,
+      "name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "language": "TypeScript",
+      "stars": 37076
+    },
+    {
+      "rank": 8,
+      "name": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "language": "TypeScript",
+      "stars": 102166
+    },
+    {
+      "rank": 9,
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+      "language": "Python",
+      "stars": 8900
+    },
+    {
+      "rank": 10,
+      "name": "HuLaSpark/HuLa",
+      "url": "https://github.com/HuLaSpark/HuLa",
+      "description": "\ud83c\udf40 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS\uff08\u4e00\u6b3e\u57fa\u4e8eRust+Vue3\u6781\u81f4\u6027\u80fd\u7684\u8de8\u5e73\u53f0\u5373\u65f6\u901a\u8baf\u684c\u9762\u5e94\u7528\uff0c\u517c\u5bb9Windows\u3001MacOS\u3001Linux\u3001Android\u3001IOS\uff09",
+      "language": "Vue",
+      "stars": 5767
+    }
+  ]
+}
