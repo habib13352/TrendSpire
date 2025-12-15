@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-14 12:28 UTC_
+_Last updated: 2025-12-15 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 19637 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 20276 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [openai/codex](https://github.com/openai/codex) | 52581 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 53134 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [mdn/content](https://github.com/mdn/content) | 9894 | Markdown | The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. |
+| [mdn/content](https://github.com/mdn/content) | 10006 | Markdown | The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. |
 
-| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7770 | Rust | Feature packed AUR helper |
+| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7813 | Rust | Feature packed AUR helper |
 
-| [Mebus/cupp](https://github.com/Mebus/cupp) | 5137 | Python | Common User Passwords Profiler (CUPP) |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | 5208 | Python | Common User Passwords Profiler (CUPP) |
 
-| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 13496 | Unknown | A book for Learning the Foundations of LLMs |
+| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 13666 | Unknown | A book for Learning the Foundations of LLMs |
 
-| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 37076 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
+| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 37237 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
 
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 102166 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 102339 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 8900 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 9065 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 5767 | Vue | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS） |
+| [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 5919 | Vue | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS） |
 <!-- TRENDING_END -->
 
 # TrendSpire
