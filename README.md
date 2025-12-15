@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-15 01:01 UTC_
+_Last updated: 2025-12-15 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 20276 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 21100 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [openai/codex](https://github.com/openai/codex) | 53134 | Rust | Lightweight coding agent that runs in your terminal |
+| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 13963 | Unknown | A book for Learning the Foundations of LLMs |
 
-| [mdn/content](https://github.com/mdn/content) | 10006 | Markdown | The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more. |
+| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4462 | C++ | Jellyfin Desktop Client |
 
-| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7813 | Rust | Feature packed AUR helper |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 102527 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 
-| [Mebus/cupp](https://github.com/Mebus/cupp) | 5208 | Python | Common User Passwords Profiler (CUPP) |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 26642 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁 |
 
-| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 13666 | Unknown | A book for Learning the Foundations of LLMs |
+| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 68769 | C | OBS Studio - Free and open source software for live streaming and screen recording |
 
-| [daytonaio/daytona](https://github.com/daytonaio/daytona) | 37237 | TypeScript | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code |
+| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7853 | Rust | Feature packed AUR helper |
 
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 102339 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 12260 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 9065 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 35218 | PowerShell | A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
 
-| [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) | 5919 | Vue | 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS） |
+| [openai/codex](https://github.com/openai/codex) | 53714 | Rust | Lightweight coding agent that runs in your terminal |
 <!-- TRENDING_END -->
 
 # TrendSpire
