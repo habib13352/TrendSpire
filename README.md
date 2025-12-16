@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-16 00:59 UTC_
+_Last updated: 2025-12-16 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 21755 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 22445 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 14095 | Unknown | A book for Learning the Foundations of LLMs |
+| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 14316 | Unknown | A book for Learning the Foundations of LLMs |
 
-| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4534 | C++ | Jellyfin Desktop Client |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43021 | Python | An AI Hedge Fund Team |
 
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 102668 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 7068 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 26754 | TypeScript | React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁 |
+| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7928 | Rust | Feature packed AUR helper |
 
-| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | 68902 | C | OBS Studio - Free and open source software for live streaming and screen recording |
+| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4627 | C++ | Jellyfin Desktop Client |
 
-| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7902 | Rust | Feature packed AUR helper |
+| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 2512 | TypeScript | Backup automation for self-hosters |
 
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 12385 | Python | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
+| [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) | 605 | Rust | A plain text-based spaced repetition system. |
 
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 35385 | PowerShell | A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
+| [openai/codex](https://github.com/openai/codex) | 53955 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [openai/codex](https://github.com/openai/codex) | 53820 | Rust | Lightweight coding agent that runs in your terminal |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 11087 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 <!-- TRENDING_END -->
 
 # TrendSpire
