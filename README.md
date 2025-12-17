@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-17 00:55 UTC_
+_Last updated: 2025-12-17 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 22897 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 11716 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 
-| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 14426 | Unknown | A book for Learning the Foundations of LLMs |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 15573 | Python | SoTA open-source TTS |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43119 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43263 | Python | An AI Hedge Fund Team |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 7410 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 23363 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7958 | Rust | Feature packed AUR helper |
+| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 8415 | Python | M3U Playlist for free TV channels |
 
-| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4727 | C++ | Jellyfin Desktop Client |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 62797 | Roff | 所有小初高、大学PDF教材。 |
 
-| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 2787 | TypeScript | Backup automation for self-hosters |
+| [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) | 10308 | Unknown | ChatGPT DAN, Jailbreaks prompt |
 
-| [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) | 691 | Rust | A plain text-based spaced repetition system. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 385690 | Python | A collective list of free APIs |
 
-| [openai/codex](https://github.com/openai/codex) | 54066 | Rust | Lightweight coding agent that runs in your terminal |
+| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 2984 | TypeScript | Backup automation for self-hosters. Built on top of restic |
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 11406 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4794 | C++ | Jellyfin Desktop Client |
 <!-- TRENDING_END -->
 
 # TrendSpire
