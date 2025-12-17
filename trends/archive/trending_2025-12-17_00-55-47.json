@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-17 00:55 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "language": "TypeScript",
+      "stars": 22897
+    },
+    {
+      "rank": 2,
+      "name": "ZJU-LLMs/Foundations-of-LLMs",
+      "url": "https://github.com/ZJU-LLMs/Foundations-of-LLMs",
+      "description": "A book for Learning the Foundations of LLMs",
+      "language": "Unknown",
+      "stars": 14426
+    },
+    {
+      "rank": 3,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 43119
+    },
+    {
+      "rank": 4,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 7410
+    },
+    {
+      "rank": 5,
+      "name": "Morganamilo/paru",
+      "url": "https://github.com/Morganamilo/paru",
+      "description": "Feature packed AUR helper",
+      "language": "Rust",
+      "stars": 7958
+    },
+    {
+      "rank": 6,
+      "name": "jellyfin/jellyfin-desktop",
+      "url": "https://github.com/jellyfin/jellyfin-desktop",
+      "description": "Jellyfin Desktop Client",
+      "language": "C++",
+      "stars": 4727
+    },
+    {
+      "rank": 7,
+      "name": "nicotsx/zerobyte",
+      "url": "https://github.com/nicotsx/zerobyte",
+      "description": "Backup automation for self-hosters",
+      "language": "TypeScript",
+      "stars": 2787
+    },
+    {
+      "rank": 8,
+      "name": "eudoxia0/hashcards",
+      "url": "https://github.com/eudoxia0/hashcards",
+      "description": "A plain text-based spaced repetition system.",
+      "language": "Rust",
+      "stars": 691
+    },
+    {
+      "rank": 9,
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 54066
+    },
+    {
+      "rank": 10,
+      "name": "C4illin/ConvertX",
+      "url": "https://github.com/C4illin/ConvertX",
+      "description": "\ud83d\udcbe Self-hosted online file converter. Supports 1000+ formats \u2699\ufe0f",
+      "language": "TypeScript",
+      "stars": 11406
+    }
+  ]
+}

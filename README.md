@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-16 12:32 UTC_
+_Last updated: 2025-12-17 00:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 22445 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 22897 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 14316 | Unknown | A book for Learning the Foundations of LLMs |
+| [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) | 14426 | Unknown | A book for Learning the Foundations of LLMs |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43021 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43119 | Python | An AI Hedge Fund Team |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 7068 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 7410 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7928 | Rust | Feature packed AUR helper |
+| [Morganamilo/paru](https://github.com/Morganamilo/paru) | 7958 | Rust | Feature packed AUR helper |
 
-| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4627 | C++ | Jellyfin Desktop Client |
+| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4727 | C++ | Jellyfin Desktop Client |
 
-| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 2512 | TypeScript | Backup automation for self-hosters |
+| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 2787 | TypeScript | Backup automation for self-hosters |
 
-| [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) | 605 | Rust | A plain text-based spaced repetition system. |
+| [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards) | 691 | Rust | A plain text-based spaced repetition system. |
 
-| [openai/codex](https://github.com/openai/codex) | 53955 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 54066 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 11087 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 11406 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 <!-- TRENDING_END -->
 
 # TrendSpire
