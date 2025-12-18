@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-17 12:32 UTC_
+_Last updated: 2025-12-18 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 11716 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 12034 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 15573 | Python | SoTA open-source TTS |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 15796 | Python | SoTA open-source TTS |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43263 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43373 | Python | An AI Hedge Fund Team |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 23363 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 23460 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 8415 | Python | M3U Playlist for free TV channels |
+| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 8607 | Python | M3U Playlist for free TV channels |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 62797 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 62864 | Roff | 所有小初高、大学PDF教材。 |
 
-| [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) | 10308 | Unknown | ChatGPT DAN, Jailbreaks prompt |
+| [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) | 10432 | Unknown | ChatGPT DAN, Jailbreaks prompt |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 385690 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 386051 | Python | A collective list of free APIs |
 
-| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 2984 | TypeScript | Backup automation for self-hosters. Built on top of restic |
+| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 3222 | TypeScript | Backup automation for self-hosters. Built on top of restic |
 
-| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4794 | C++ | Jellyfin Desktop Client |
+| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4878 | C++ | Jellyfin Desktop Client |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-18 00:56 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "C4illin/ConvertX",
+      "url": "https://github.com/C4illin/ConvertX",
+      "description": "\ud83d\udcbe Self-hosted online file converter. Supports 1000+ formats \u2699\ufe0f",
+      "language": "TypeScript",
+      "stars": 12034
+    },
+    {
+      "rank": 2,
+      "name": "resemble-ai/chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "stars": 15796
+    },
+    {
+      "rank": 3,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 43373
+    },
+    {
+      "rank": 4,
+      "name": "simstudioai/sim",
+      "url": "https://github.com/simstudioai/sim",
+      "description": "Open-source platform to build and deploy AI agent workflows.",
+      "language": "TypeScript",
+      "stars": 23460
+    },
+    {
+      "rank": 5,
+      "name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 8607
+    },
+    {
+      "rank": 6,
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+      "language": "Roff",
+      "stars": 62864
+    },
+    {
+      "rank": 7,
+      "name": "0xk1h0/ChatGPT_DAN",
+      "url": "https://github.com/0xk1h0/ChatGPT_DAN",
+      "description": "ChatGPT DAN, Jailbreaks prompt",
+      "language": "Unknown",
+      "stars": 10432
+    },
+    {
+      "rank": 8,
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 386051
+    },
+    {
+      "rank": 9,
+      "name": "nicotsx/zerobyte",
+      "url": "https://github.com/nicotsx/zerobyte",
+      "description": "Backup automation for self-hosters. Built on top of restic",
+      "language": "TypeScript",
+      "stars": 3222
+    },
+    {
+      "rank": 10,
+      "name": "jellyfin/jellyfin-desktop",
+      "url": "https://github.com/jellyfin/jellyfin-desktop",
+      "description": "Jellyfin Desktop Client",
+      "language": "C++",
+      "stars": 4878
+    }
+  ]
+}
