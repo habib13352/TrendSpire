@@ -1,30 +1,22 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-18 00:56 UTC_
+_Last updated: 2025-12-18 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 12034 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 46474 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 15796 | Python | SoTA open-source TTS |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43507 | Python | An AI Hedge Fund Team |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43373 | Python | An AI Hedge Fund Team |
+| [astral-sh/ty](https://github.com/astral-sh/ty) | 14587 | Python | An extremely fast Python type checker and language server, written in Rust. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 23460 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [letta-ai/letta](https://github.com/letta-ai/letta) | 19704 | Python | Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time. |
 
-| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 8607 | Python | M3U Playlist for free TV channels |
+| [schollz/croc](https://github.com/schollz/croc) | 32538 | Go | Easily and securely send things from one computer to another 🐊 📦 |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 62864 | Roff | 所有小初高、大学PDF教材。 |
-
-| [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) | 10432 | Unknown | ChatGPT DAN, Jailbreaks prompt |
-
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 386051 | Python | A collective list of free APIs |
-
-| [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) | 3222 | TypeScript | Backup automation for self-hosters. Built on top of restic |
-
-| [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) | 4878 | C++ | Jellyfin Desktop Client |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 16024 | Python | SoTA open-source TTS |
 <!-- TRENDING_END -->
 
 # TrendSpire
