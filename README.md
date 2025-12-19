@@ -1,22 +1,22 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-18 12:34 UTC_
+_Last updated: 2025-12-19 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 46474 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 46696 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43507 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43608 | Python | An AI Hedge Fund Team |
 
-| [astral-sh/ty](https://github.com/astral-sh/ty) | 14587 | Python | An extremely fast Python type checker and language server, written in Rust. |
+| [astral-sh/ty](https://github.com/astral-sh/ty) | 14823 | Python | An extremely fast Python type checker and language server, written in Rust. |
 
-| [letta-ai/letta](https://github.com/letta-ai/letta) | 19704 | Python | Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time. |
+| [letta-ai/letta](https://github.com/letta-ai/letta) | 19860 | Python | Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time. |
 
-| [schollz/croc](https://github.com/schollz/croc) | 32538 | Go | Easily and securely send things from one computer to another 🐊 📦 |
+| [schollz/croc](https://github.com/schollz/croc) | 32906 | Go | Easily and securely send things from one computer to another 🐊 📦 |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 16024 | Python | SoTA open-source TTS |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 16231 | Python | SoTA open-source TTS |
 <!-- TRENDING_END -->
 
 # TrendSpire
