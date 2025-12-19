@@ -1,22 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-19 00:59 UTC_
+_Last updated: 2025-12-19 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 46696 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 96163 | JavaScript |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 43608 | Python | An AI Hedge Fund Team |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 46973 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [astral-sh/ty](https://github.com/astral-sh/ty) | 14823 | Python | An extremely fast Python type checker and language server, written in Rust. |
+| [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) | 383 | Python | Build RL environments for LLM training |
 
-| [letta-ai/letta](https://github.com/letta-ai/letta) | 19860 | Python | Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time. |
+| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 9461 | Python | A GPT-empowered penetration testing tool |
 
-| [schollz/croc](https://github.com/schollz/croc) | 32906 | Go | Easily and securely send things from one computer to another 🐊 📦 |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 33315 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 16231 | Python | SoTA open-source TTS |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 72431 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+
+| [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | 1309 | Python | No description provided. |
+
+| [google/adk-js](https://github.com/google/adk-js) | 254 | TypeScript | An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+
+| [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) | 18905 | Unknown | VIP cheatsheets for Stanford's CS 229 Machine Learning |
+
+| [metabase/metabase](https://github.com/metabase/metabase) | 45040 | Clojure | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊 |
 <!-- TRENDING_END -->
 
 # TrendSpire
