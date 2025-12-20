@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-19 12:30 UTC_
+_Last updated: 2025-12-20 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 96163 | JavaScript |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 96328 | JavaScript |  Now we have become very big, Different from the original idea. Collect premium software in various categories. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 46973 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 47144 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) | 383 | Python | Build RL environments for LLM training |
+| [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) | 454 | Python | Build RL environments for LLM training |
 
-| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 9461 | Python | A GPT-empowered penetration testing tool |
+| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 9604 | Python | A GPT-empowered penetration testing tool |
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 33315 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 33655 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 72431 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 72601 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | 1309 | Python | No description provided. |
+| [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | 1456 | Python | No description provided. |
 
-| [google/adk-js](https://github.com/google/adk-js) | 254 | TypeScript | An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
+| [google/adk-js](https://github.com/google/adk-js) | 395 | TypeScript | An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. |
 
-| [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) | 18905 | Unknown | VIP cheatsheets for Stanford's CS 229 Machine Learning |
+| [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) | 19009 | Unknown | VIP cheatsheets for Stanford's CS 229 Machine Learning |
 
-| [metabase/metabase](https://github.com/metabase/metabase) | 45040 | Clojure | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊 |
+| [metabase/metabase](https://github.com/metabase/metabase) | 45149 | Clojure | The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊 |
 <!-- TRENDING_END -->
 
 # TrendSpire
