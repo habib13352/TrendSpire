@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-21 12:28 UTC_
+_Last updated: 2025-12-22 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 35062 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 35648 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 9894 | Python | A GPT-empowered penetration testing tool |
+| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 10034 | Python | A GPT-empowered penetration testing tool |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 72957 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 73087 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | 1812 | Python | No description provided. |
+| [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | 1909 | Python | No description provided. |
 
-| [pollen-robotics/reachy_mini](https://github.com/pollen-robotics/reachy_mini) | 434 | Python | Reachy Mini's SDK |
+| [pollen-robotics/reachy_mini](https://github.com/pollen-robotics/reachy_mini) | 494 | Python | Reachy Mini's SDK |
 
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 4255 | Rust | Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 4418 | Rust | Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
 
-| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 47357 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
+| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 47618 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 47578 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 47708 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 198908 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 199116 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
