@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-22 01:02 UTC_
+_Last updated: 2025-12-22 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 35648 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 36385 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 10034 | Python | A GPT-empowered penetration testing tool |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 106281 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 73087 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 73275 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | 1909 | Python | No description provided. |
+| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 10215 | Python | A GPT-empowered penetration testing tool |
 
-| [pollen-robotics/reachy_mini](https://github.com/pollen-robotics/reachy_mini) | 494 | Python | Reachy Mini's SDK |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 4655 | Rust | Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
 
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 4418 | Rust | Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
+| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 35891 | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
 
-| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 47618 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
+| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 192916 | C++ | An Open Source Machine Learning Framework for Everyone |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 47708 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 4341 | Python | Typst-based CV/resume generator for academics and engineers |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 199116 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [home-assistant/core](https://github.com/home-assistant/core) | 83360 | Python | 🏡 Open source home automation that puts local control and privacy first. |
+
+| [Semperis/EntraGoat](https://github.com/Semperis/EntraGoat) | 740 | PowerShell | A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges. |
 <!-- TRENDING_END -->
 
 # TrendSpire
