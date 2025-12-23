@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-12-23 00:59 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "exo-explore/exo",
+      "url": "https://github.com/exo-explore/exo",
+      "description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a",
+      "language": "Python",
+      "stars": 37025
+    },
+    {
+      "rank": 2,
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 106442
+    },
+    {
+      "rank": 3,
+      "name": "swisskyrepo/PayloadsAllTheThings",
+      "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+      "language": "Python",
+      "stars": 73375
+    },
+    {
+      "rank": 4,
+      "name": "GreyDGL/PentestGPT",
+      "url": "https://github.com/GreyDGL/PentestGPT",
+      "description": "A GPT-empowered penetration testing tool",
+      "language": "Python",
+      "stars": 10335
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 24998
+    },
+    {
+      "rank": 6,
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!",
+      "language": "Rust",
+      "stars": 4776
+    },
+    {
+      "rank": 7,
+      "name": "danielmiessler/Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+      "language": "Go",
+      "stars": 36055
+    },
+    {
+      "rank": 8,
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 192984
+    },
+    {
+      "rank": 9,
+      "name": "rendercv/rendercv",
+      "url": "https://github.com/rendercv/rendercv",
+      "description": "Typst-based CV/resume generator for academics and engineers",
+      "language": "Python",
+      "stars": 5094
+    },
+    {
+      "rank": 10,
+      "name": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 83473
+    }
+  ]
+}

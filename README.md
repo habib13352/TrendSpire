@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-22 12:31 UTC_
+_Last updated: 2025-12-23 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 36385 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 37025 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 106281 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 106442 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 73275 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 73375 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
 
-| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 10215 | Python | A GPT-empowered penetration testing tool |
+| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 10335 | Python | A GPT-empowered penetration testing tool |
 
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 4655 | Rust | Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
+| [anthropics/skills](https://github.com/anthropics/skills) | 24998 | Python | Public repository for Agent Skills |
 
-| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 35891 | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 4776 | Rust | Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
 
-| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 192916 | C++ | An Open Source Machine Learning Framework for Everyone |
+| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 36055 | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 4341 | Python | Typst-based CV/resume generator for academics and engineers |
+| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 192984 | C++ | An Open Source Machine Learning Framework for Everyone |
 
-| [home-assistant/core](https://github.com/home-assistant/core) | 83360 | Python | 🏡 Open source home automation that puts local control and privacy first. |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 5094 | Python | Typst-based CV/resume generator for academics and engineers |
 
-| [Semperis/EntraGoat](https://github.com/Semperis/EntraGoat) | 740 | PowerShell | A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges. |
+| [home-assistant/core](https://github.com/home-assistant/core) | 83473 | Python | 🏡 Open source home automation that puts local control and privacy first. |
 <!-- TRENDING_END -->
 
 # TrendSpire
