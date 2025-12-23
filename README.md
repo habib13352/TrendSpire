@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-23 00:59 UTC_
+_Last updated: 2025-12-23 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 37025 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 5517 | Python | Typst-based CV/resume generator for academics and engineers |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 106442 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 37695 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | 73375 | Python | A list of useful payloads and bypass for Web Application Security and Pentest/CTF |
+| [google/langextract](https://github.com/google/langextract) | 18425 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) | 10335 | Python | A GPT-empowered penetration testing tool |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5270 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 24998 | Python | Public repository for Agent Skills |
+| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 14271 | TypeScript | Make beautiful isometric infrastructure diagrams |
 
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 4776 | Rust | Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it! |
+| [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | 6959 | TypeScript | The most customizable commerce platform built with TypeScript, NestJS and GraphQL. |
 
-| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 36055 | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
+| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 48266 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
 
-| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 192984 | C++ | An Open Source Machine Learning Framework for Everyone |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 118525 | Svelte | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 5094 | Python | Typst-based CV/resume generator for academics and engineers |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 13175 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [home-assistant/core](https://github.com/home-assistant/core) | 83473 | Python | 🏡 Open source home automation that puts local control and privacy first. |
+| [makeplane/plane](https://github.com/makeplane/plane) | 40853 | TypeScript | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
 <!-- TRENDING_END -->
 
 # TrendSpire
