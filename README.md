@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-23 12:31 UTC_
+_Last updated: 2025-12-24 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 5517 | Python | Typst-based CV/resume generator for academics and engineers |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 6888 | Python | Typst-based CV/resume generator for academics and engineers |
 
-| [exo-explore/exo](https://github.com/exo-explore/exo) | 37695 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
+| [exo-explore/exo](https://github.com/exo-explore/exo) | 37886 | Python | Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ |
 
-| [google/langextract](https://github.com/google/langextract) | 18425 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 18645 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5270 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5443 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 14271 | TypeScript | Make beautiful isometric infrastructure diagrams |
+| [safety-research/bloom](https://github.com/safety-research/bloom) | 560 | Python | bloom - evaluate any behavior immediately  🌸🌱 |
 
-| [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | 6959 | TypeScript | The most customizable commerce platform built with TypeScript, NestJS and GraphQL. |
+| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 14541 | TypeScript | Make beautiful isometric infrastructure diagrams |
 
-| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 48266 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
+| [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | 7094 | TypeScript | The most customizable commerce platform built with TypeScript, NestJS and GraphQL. |
 
-| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 118525 | Svelte | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
+| [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) | 48434 | Unknown | A curated list of free courses with certifications. Also available at https://free-certifications.com/ |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 13175 | Python | CLI tool for configuring and monitoring Claude Code |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | 118669 | Svelte | User-friendly AI Interface (Supports Ollama, OpenAI API, ...) |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 40853 | TypeScript | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 13347 | Python | CLI tool for configuring and monitoring Claude Code |
 <!-- TRENDING_END -->
 
 # TrendSpire
