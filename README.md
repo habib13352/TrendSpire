@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-24 12:31 UTC_
+_Last updated: 2025-12-25 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 8128 | Python | Typst-based CV/resume generator for academics and engineers |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 9079 | Python | Typst-based CV/resume generator for academics and engineers |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 68370 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 68510 | Scala | Source code for the X Recommendation Algorithm |
 
-| [google/langextract](https://github.com/google/langextract) | 18908 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 19052 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1516 | Python | A framework for efficient model inference with omni-modality models |
+| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1575 | Python | A framework for efficient model inference with omni-modality models |
 
-| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 14771 | TypeScript | Make beautiful isometric infrastructure diagrams |
+| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 14953 | TypeScript | Make beautiful isometric infrastructure diagrams |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 13519 | Python | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 13626 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [safety-research/bloom](https://github.com/safety-research/bloom) | 669 | Python | bloom - evaluate any behavior immediately  🌸🌱 |
+| [safety-research/bloom](https://github.com/safety-research/bloom) | 756 | Python | bloom - evaluate any behavior immediately  🌸🌱 |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 41272 | TypeScript | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
+| [makeplane/plane](https://github.com/makeplane/plane) | 41408 | TypeScript | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5669 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5795 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 36392 | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
+| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 36517 | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
 <!-- TRENDING_END -->
 
 # TrendSpire
