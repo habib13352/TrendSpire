@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-25 00:59 UTC_
+_Last updated: 2025-12-25 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 9079 | Python | Typst-based CV/resume generator for academics and engineers |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 9918 | Python | Typst-based CV/resume generator for academics and engineers, YAML to PDF |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 68510 | Scala | Source code for the X Recommendation Algorithm |
+| [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3071 | Python | 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. |
 
-| [google/langextract](https://github.com/google/langextract) | 19052 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 68678 | Scala | Source code for the X Recommendation Algorithm |
 
-| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1575 | Python | A framework for efficient model inference with omni-modality models |
+| [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | 7480 | TypeScript | The most customizable commerce platform built with TypeScript, NestJS and GraphQL. |
 
-| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 14953 | TypeScript | Make beautiful isometric infrastructure diagrams |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5935 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 13626 | Python | CLI tool for configuring and monitoring Claude Code |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 17501 | Python | SoTA open-source TTS |
 
-| [safety-research/bloom](https://github.com/safety-research/bloom) | 756 | Python | bloom - evaluate any behavior immediately  🌸🌱 |
+| [makeplane/plane](https://github.com/makeplane/plane) | 41568 | TypeScript | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 41408 | TypeScript | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
+| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1630 | Python | A framework for efficient model inference with omni-modality models |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5795 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
-
-| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | 36517 | Go | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. |
+| [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) | 1347 | Python | Light Video Generation Inference Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
