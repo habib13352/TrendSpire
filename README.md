@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-25 12:30 UTC_
+_Last updated: 2025-12-26 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 9918 | Python | Typst-based CV/resume generator for academics and engineers, YAML to PDF |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 10765 | Python | CV/resume generator for academics and engineers, YAML to PDF |
 
-| [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3071 | Python | 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. |
+| [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3175 | Python | 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 68678 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 68779 | Scala | Source code for the X Recommendation Algorithm |
 
-| [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | 7480 | TypeScript | The most customizable commerce platform built with TypeScript, NestJS and GraphQL. |
+| [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure) | 7587 | TypeScript | The most customizable commerce platform built with TypeScript, NestJS and GraphQL. |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 5935 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6105 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 17501 | Python | SoTA open-source TTS |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 17749 | Python | SoTA open-source TTS |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 41568 | TypeScript | 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet. |
+| [makeplane/plane](https://github.com/makeplane/plane) | 41782 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 
-| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1630 | Python | A framework for efficient model inference with omni-modality models |
+| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 1702 | Python | A framework for efficient model inference with omni-modality models |
 
-| [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) | 1347 | Python | Light Video Generation Inference Framework |
+| [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V) | 1425 | Python | Light Video Generation Inference Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-12-26 00:59 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "rendercv/rendercv",
+      "url": "https://github.com/rendercv/rendercv",
+      "description": "CV/resume generator for academics and engineers, YAML to PDF",
+      "language": "Python",
+      "stars": 10765
+    },
+    {
+      "rank": 2,
+      "name": "xerrors/Yuxi-Know",
+      "url": "https://github.com/xerrors/Yuxi-Know",
+      "description": "\u7ed3\u5408LightRAG \u77e5\u8bc6\u5e93\u7684\u77e5\u8bc6\u56fe\u8c31\u667a\u80fd\u4f53\u5e73\u53f0\u3002 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents\u3001MinerU PDF\u3001Neo4j \u3001MCP.",
+      "language": "Python",
+      "stars": 3175
+    },
+    {
+      "rank": 3,
+      "name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 68779
+    },
+    {
+      "rank": 4,
+      "name": "vendure-ecommerce/vendure",
+      "url": "https://github.com/vendure-ecommerce/vendure",
+      "description": "The most customizable commerce platform built with TypeScript, NestJS and GraphQL.",
+      "language": "TypeScript",
+      "stars": 7587
+    },
+    {
+      "rank": 5,
+      "name": "yichuan-w/LEANN",
+      "url": "https://github.com/yichuan-w/LEANN",
+      "description": "RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "language": "Python",
+      "stars": 6105
+    },
+    {
+      "rank": 6,
+      "name": "resemble-ai/chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "language": "Python",
+      "stars": 17749
+    },
+    {
+      "rank": 7,
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "language": "TypeScript",
+      "stars": 41782
+    },
+    {
+      "rank": 8,
+      "name": "vllm-project/vllm-omni",
+      "url": "https://github.com/vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "language": "Python",
+      "stars": 1702
+    },
+    {
+      "rank": 9,
+      "name": "ModelTC/LightX2V",
+      "url": "https://github.com/ModelTC/LightX2V",
+      "description": "Light Video Generation Inference Framework",
+      "language": "Python",
+      "stars": 1425
+    }
+  ]
+}
