@@ -1,22 +1,20 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-27 00:58 UTC_
+_Last updated: 2025-12-27 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 12168 | Python | CV/resume generator for academics and engineers, YAML to PDF |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215362 | Python | All Algorithms implemented in Python |
 
-| [langgenius/dify](https://github.com/langgenius/dify) | 123601 | TypeScript | Production-ready platform for agentic workflow development. |
+| [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3400 | Python | 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 40832 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [agrinman/tunnelto](https://github.com/agrinman/tunnelto) | 3230 | Rust | Expose your local web server to the internet with a public URL. |
 
-| [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) | 856 | Rust | A native desktop charting platform for crypto markets |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84303 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6422 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
-
-| [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | 3013 | Python | AI-Powered Dark Web OSINT Tool |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 12416 | Python | CV/resume generator for academics and engineers, YAML to PDF |
 <!-- TRENDING_END -->
 
 # TrendSpire
