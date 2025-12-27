@@ -1,22 +1,22 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-26 12:30 UTC_
+_Last updated: 2025-12-27 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 11793 | Python | CV/resume generator for academics and engineers, YAML to PDF |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 12168 | Python | CV/resume generator for academics and engineers, YAML to PDF |
 
-| [langgenius/dify](https://github.com/langgenius/dify) | 123387 | TypeScript | Production-ready platform for agentic workflow development. |
+| [langgenius/dify](https://github.com/langgenius/dify) | 123601 | TypeScript | Production-ready platform for agentic workflow development. |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 40720 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 40832 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) | 719 | Rust | A native desktop charting platform for crypto markets |
+| [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) | 856 | Rust | A native desktop charting platform for crypto markets |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6282 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 6422 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | 2802 | Python | AI-Powered Dark Web OSINT Tool |
+| [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) | 3013 | Python | AI-Powered Dark Web OSINT Tool |
 <!-- TRENDING_END -->
 
 # TrendSpire
