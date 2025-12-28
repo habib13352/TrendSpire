@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-12-28 12:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 20024
+    },
+    {
+      "rank": 2,
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": 215706
+    },
+    {
+      "rank": 3,
+      "name": "Sergeydigl3/zapret-discord-youtube-linux",
+      "url": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux",
+      "description": "(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux",
+      "language": "Shell",
+      "stars": 808
+    },
+    {
+      "rank": 4,
+      "name": "BloopAI/vibe-kanban",
+      "url": "https://github.com/BloopAI/vibe-kanban",
+      "description": "Kanban board to manage your AI coding agents",
+      "language": "Rust",
+      "stars": 6943
+    },
+    {
+      "rank": 5,
+      "name": "RustPython/RustPython",
+      "url": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 21018
+    },
+    {
+      "rank": 6,
+      "name": "QuantConnect/Lean",
+      "url": "https://github.com/QuantConnect/Lean",
+      "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+      "language": "C#",
+      "stars": 14261
+    },
+    {
+      "rank": 7,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": 84688
+    },
+    {
+      "rank": 8,
+      "name": "sinelaw/fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "language": "Rust",
+      "stars": 3594
+    }
+  ]
+}
