@@ -1,20 +1,20 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-27 12:28 UTC_
+_Last updated: 2025-12-28 01:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215362 | Python | All Algorithms implemented in Python |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215561 | Python | All Algorithms implemented in Python |
 
-| [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3400 | Python | 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. |
+| [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) | 3465 | Python | 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. |
 
-| [agrinman/tunnelto](https://github.com/agrinman/tunnelto) | 3230 | Rust | Expose your local web server to the internet with a public URL. |
+| [agrinman/tunnelto](https://github.com/agrinman/tunnelto) | 3719 | Rust | Expose your local web server to the internet with a public URL. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84303 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84504 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 12416 | Python | CV/resume generator for academics and engineers, YAML to PDF |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | 12664 | Python | CV/resume generator for academics and engineers, YAML to PDF |
 <!-- TRENDING_END -->
 
 # TrendSpire
