@@ -1,26 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-28 12:29 UTC_
+_Last updated: 2025-12-29 01:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20024 | Batchfile | No description provided. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20150 | Batchfile | No description provided. |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215706 | Python | All Algorithms implemented in Python |
+| [tw93/Mole](https://github.com/tw93/Mole) | 21394 | Shell | 🐹 Deep clean and optimize your Mac. |
 
-| [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) | 808 | Shell | (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215835 | Python | All Algorithms implemented in Python |
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 6943 | Rust | Kanban board to manage your AI coding agents |
+| [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) | 838 | Shell | (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux |
 
-| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21018 | Rust | A Python Interpreter written in Rust |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7358 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14261 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21130 | Rust | A Python Interpreter written in Rust |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84688 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14457 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 3594 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84859 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 3791 | Rust | Text editor for your terminal: easy, powerful and fast |
 <!-- TRENDING_END -->
 
 # TrendSpire

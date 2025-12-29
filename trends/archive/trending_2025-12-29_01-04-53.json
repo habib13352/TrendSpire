@@ -1,0 +1,77 @@
+{
+  "timestamp": "2025-12-29 01:04 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": "",
+      "language": "Batchfile",
+      "stars": 20150
+    },
+    {
+      "rank": 2,
+      "name": "tw93/Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "\ud83d\udc39 Deep clean and optimize your Mac.",
+      "language": "Shell",
+      "stars": 21394
+    },
+    {
+      "rank": 3,
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python",
+      "language": "Python",
+      "stars": 215835
+    },
+    {
+      "rank": 4,
+      "name": "Sergeydigl3/zapret-discord-youtube-linux",
+      "url": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux",
+      "description": "(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux",
+      "language": "Shell",
+      "stars": 838
+    },
+    {
+      "rank": 5,
+      "name": "BloopAI/vibe-kanban",
+      "url": "https://github.com/BloopAI/vibe-kanban",
+      "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+      "language": "Rust",
+      "stars": 7358
+    },
+    {
+      "rank": 6,
+      "name": "RustPython/RustPython",
+      "url": "https://github.com/RustPython/RustPython",
+      "description": "A Python Interpreter written in Rust",
+      "language": "Rust",
+      "stars": 21130
+    },
+    {
+      "rank": 7,
+      "name": "QuantConnect/Lean",
+      "url": "https://github.com/QuantConnect/Lean",
+      "description": "Lean Algorithmic Trading Engine by QuantConnect (Python, C#)",
+      "language": "C#",
+      "stars": 14457
+    },
+    {
+      "rank": 8,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+      "language": "Python",
+      "stars": 84859
+    },
+    {
+      "rank": 9,
+      "name": "sinelaw/fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "description": "Text editor for your terminal: easy, powerful and fast",
+      "language": "Rust",
+      "stars": 3791
+    }
+  ]
+}
