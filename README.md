@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-29 01:04 UTC_
+_Last updated: 2025-12-29 12:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20150 | Batchfile | No description provided. |
+| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14648 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
 
-| [tw93/Mole](https://github.com/tw93/Mole) | 21394 | Shell | 🐹 Deep clean and optimize your Mac. |
+| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21245 | Rust | A Python Interpreter written in Rust |
 
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 215835 | Python | All Algorithms implemented in Python |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20250 | Batchfile | No description provided. |
 
-| [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) | 838 | Shell | (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7757 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7358 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 25173 | TypeScript | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 |
 
-| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21130 | Rust | A Python Interpreter written in Rust |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41223 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
 
-| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14457 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 3972 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 84859 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103156 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 3791 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 71885 | Java | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 18848 | Python | SoTA open-source TTS |
 <!-- TRENDING_END -->
 
 # TrendSpire
