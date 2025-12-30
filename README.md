@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-30 00:59 UTC_
+_Last updated: 2025-12-30 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14854 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 8357 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21332 | Rust | A Python Interpreter written in Rust |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103803 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20315 | Batchfile | No description provided. |
+| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 15063 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7995 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | 8935 | C++ | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West. |
 
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 25402 | TypeScript | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 |
+| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 626 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
 
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41319 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19433 | Python | SoTA open-source TTS |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4110 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21428 | Rust | A Python Interpreter written in Rust |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103376 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4223 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 72016 | Java | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [alexta69/metube](https://github.com/alexta69/metube) | 11380 | Python | Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19192 | Python | SoTA open-source TTS |
+| [anthropics/skills](https://github.com/anthropics/skills) | 29807 | Python | Public repository for Agent Skills |
 <!-- TRENDING_END -->
 
 # TrendSpire
