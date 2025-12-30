@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-29 12:33 UTC_
+_Last updated: 2025-12-30 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14648 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 14854 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
 
-| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21245 | Rust | A Python Interpreter written in Rust |
+| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21332 | Rust | A Python Interpreter written in Rust |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20250 | Batchfile | No description provided. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 20315 | Batchfile | No description provided. |
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7757 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 7995 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 25173 | TypeScript | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 25402 | TypeScript | 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 |
 
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41223 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41319 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 3972 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4110 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103156 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103376 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 71885 | Java | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 72016 | Java | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 18848 | Python | SoTA open-source TTS |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19192 | Python | SoTA open-source TTS |
 <!-- TRENDING_END -->
 
 # TrendSpire
