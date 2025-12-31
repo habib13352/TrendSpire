@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-31 01:00 UTC_
+_Last updated: 2025-12-31 12:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 9060 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1301 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 104091 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | 2231 | Python | No description provided. |
 
-| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 15193 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 13561 | JavaScript | Introduction to Machine Learning Systems |
 
-| [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | 9020 | C++ | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West. |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 9872 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 794 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
+| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 933 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19638 | Python | SoTA open-source TTS |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41695 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
 
-| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21503 | Rust | A Python Interpreter written in Rust |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70108 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4327 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12442 | C++ | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
 
-| [alexta69/metube](https://github.com/alexta69/metube) | 11563 | Python | Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19849 | Python | SoTA open-source TTS |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 30192 | Python | Public repository for Agent Skills |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59483 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 <!-- TRENDING_END -->
 
 # TrendSpire
