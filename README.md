@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-30 12:31 UTC_
+_Last updated: 2025-12-31 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 8357 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 9060 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 103803 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 104091 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 15063 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
+| [QuantConnect/Lean](https://github.com/QuantConnect/Lean) | 15193 | C# | Lean Algorithmic Trading Engine by QuantConnect (Python, C#) |
 
-| [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | 8935 | C++ | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West. |
+| [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) | 9020 | C++ | A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West. |
 
-| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 626 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
+| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 794 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19433 | Python | SoTA open-source TTS |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19638 | Python | SoTA open-source TTS |
 
-| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21428 | Rust | A Python Interpreter written in Rust |
+| [RustPython/RustPython](https://github.com/RustPython/RustPython) | 21503 | Rust | A Python Interpreter written in Rust |
 
-| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4223 | Rust | Text editor for your terminal: easy, powerful and fast |
+| [sinelaw/fresh](https://github.com/sinelaw/fresh) | 4327 | Rust | Text editor for your terminal: easy, powerful and fast |
 
-| [alexta69/metube](https://github.com/alexta69/metube) | 11380 | Python | Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) |
+| [alexta69/metube](https://github.com/alexta69/metube) | 11563 | Python | Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp) |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 29807 | Python | Public repository for Agent Skills |
+| [anthropics/skills](https://github.com/anthropics/skills) | 30192 | Python | Public repository for Agent Skills |
 <!-- TRENDING_END -->
 
 # TrendSpire
