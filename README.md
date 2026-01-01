@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2025-12-31 12:30 UTC_
+_Last updated: 2026-01-01 01:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1301 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
+| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1555 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
 
-| [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | 2231 | Python | No description provided. |
+| [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | 2334 | Python | No description provided. |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 13561 | JavaScript | Introduction to Machine Learning Systems |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 13973 | JavaScript | Introduction to Machine Learning Systems |
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 9872 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 10132 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 933 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
+| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 1021 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
 
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41695 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41775 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70108 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70184 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 
-| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12442 | C++ | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
+| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12585 | C++ | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19849 | Python | SoTA open-source TTS |
+| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19960 | Python | SoTA open-source TTS |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59483 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59594 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 <!-- TRENDING_END -->
 
 # TrendSpire
