@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-01 01:07 UTC_
+_Last updated: 2026-01-01 12:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1555 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
+| [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) | 1900 | Jupyter Notebook | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. |
 
-| [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) | 2334 | Python | No description provided. |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 10408 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 13973 | JavaScript | Introduction to Machine Learning Systems |
+| [usememos/memos](https://github.com/usememos/memos) | 47762 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 10132 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12674 | C++ | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
 
-| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | 1021 | Python | MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. |
+| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1724 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
 
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 41775 | Python | 🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点 |
+| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 950 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70184 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 14186 | JavaScript | Introduction to Machine Learning Systems |
 
-| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12585 | C++ | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
+| [Polymarket/agents](https://github.com/Polymarket/agents) | 1281 | Python | Trade autonomously on Polymarket using AI Agents |
 
-| [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) | 19960 | Python | SoTA open-source TTS |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 19272 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59594 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 7593 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 <!-- TRENDING_END -->
 
 # TrendSpire
