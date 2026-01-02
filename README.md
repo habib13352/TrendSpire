@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-01 12:31 UTC_
+_Last updated: 2026-01-02 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) | 1900 | Jupyter Notebook | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. |
+| [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) | 1991 | Jupyter Notebook | Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment. |
 
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 10408 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | 10767 | Rust | Get 10X more out of Claude Code, Codex or any coding agent |
 
-| [usememos/memos](https://github.com/usememos/memos) | 47762 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [usememos/memos](https://github.com/usememos/memos) | 48072 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12674 | C++ | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
+| [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) | 12804 | C++ | 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development! |
 
-| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1724 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
+| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 1894 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
 
-| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 950 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 1206 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 14186 | JavaScript | Introduction to Machine Learning Systems |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 14477 | JavaScript | Introduction to Machine Learning Systems |
 
-| [Polymarket/agents](https://github.com/Polymarket/agents) | 1281 | Python | Trade autonomously on Polymarket using AI Agents |
+| [Polymarket/agents](https://github.com/Polymarket/agents) | 1426 | Python | Trade autonomously on Polymarket using AI Agents |
 
-| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 19272 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 19381 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 7593 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 7812 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 <!-- TRENDING_END -->
 
 # TrendSpire
