@@ -1,28 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-03 00:57 UTC_
+_Last updated: 2026-01-03 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 1747 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [usememos/memos](https://github.com/usememos/memos) | 49306 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59915 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16177 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70409 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 55790 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16020 | TypeScript | Elegant reading of real-time and hottest news |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56216 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 12964 | Python | A curated list of awesome mathematics resources |
+| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 1952 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 
-| [usememos/memos](https://github.com/usememos/memos) | 48883 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [beancount/beancount](https://github.com/beancount/beancount) | 4872 | Python | Beancount: Double-Entry Accounting from Text Files. |
 
-| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 43811 | Unknown | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
+| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 8918 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
 
-| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 20045 | Python | Faster Whisper transcription with CTranslate2 |
-
-| [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | 14510 | TypeScript | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
+| [nukeop/nuclear](https://github.com/nukeop/nuclear) | 16648 | TypeScript | Streaming music player that finds free music for you |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-01-03 12:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
+      "language": "Go",
+      "stars": 49306
+    },
+    {
+      "rank": 2,
+      "name": "ourongxing/newsnow",
+      "url": "https://github.com/ourongxing/newsnow",
+      "description": "Elegant reading of real-time and hottest news",
+      "language": "TypeScript",
+      "stars": 16177
+    },
+    {
+      "rank": 3,
+      "name": "pathwaycom/pathway",
+      "url": "https://github.com/pathwaycom/pathway",
+      "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+      "language": "Python",
+      "stars": 55790
+    },
+    {
+      "rank": 4,
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "stars": 56216
+    },
+    {
+      "rank": 5,
+      "name": "HQarroum/docker-android",
+      "url": "https://github.com/HQarroum/docker-android",
+      "description": "\ud83e\udd16 A minimal and customizable Docker image running the Android emulator as a service.",
+      "language": "Shell",
+      "stars": 1952
+    },
+    {
+      "rank": 6,
+      "name": "beancount/beancount",
+      "url": "https://github.com/beancount/beancount",
+      "description": "Beancount: Double-Entry Accounting from Text Files.",
+      "language": "Python",
+      "stars": 4872
+    },
+    {
+      "rank": 7,
+      "name": "maplibre/maplibre-gl-js",
+      "url": "https://github.com/maplibre/maplibre-gl-js",
+      "description": "MapLibre GL JS - Interactive vector tile maps in the browser",
+      "language": "TypeScript",
+      "stars": 8918
+    },
+    {
+      "rank": 8,
+      "name": "nukeop/nuclear",
+      "url": "https://github.com/nukeop/nuclear",
+      "description": "Streaming music player that finds free music for you",
+      "language": "TypeScript",
+      "stars": 16648
+    }
+  ]
+}
