@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-02 12:30 UTC_
+_Last updated: 2026-01-03 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 1442 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 1747 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59808 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 59915 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70293 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70409 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 15867 | TypeScript | Elegant reading of real-time and hottest news |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16020 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 12826 | Python | A curated list of awesome mathematics resources |
+| [rossant/awesome-math](https://github.com/rossant/awesome-math) | 12964 | Python | A curated list of awesome mathematics resources |
 
-| [usememos/memos](https://github.com/usememos/memos) | 48445 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [usememos/memos](https://github.com/usememos/memos) | 48883 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 43655 | Unknown | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
+| [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) | 43811 | Unknown | 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub. |
 
-| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 19933 | Python | Faster Whisper transcription with CTranslate2 |
+| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 20045 | Python | Faster Whisper transcription with CTranslate2 |
 
-| [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | 14449 | TypeScript | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
+| [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | 14510 | TypeScript | Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 |
 <!-- TRENDING_END -->
 
 # TrendSpire
