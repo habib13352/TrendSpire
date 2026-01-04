@@ -1,26 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-03 12:28 UTC_
+_Last updated: 2026-01-04 01:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usememos/memos](https://github.com/usememos/memos) | 49306 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [usememos/memos](https://github.com/usememos/memos) | 50139 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16177 | TypeScript | Elegant reading of real-time and hottest news |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16289 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 55790 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 55952 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56216 | Python | Financial data platform for analysts, quants and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56441 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 1952 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 2130 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 
-| [beancount/beancount](https://github.com/beancount/beancount) | 4872 | Python | Beancount: Double-Entry Accounting from Text Files. |
+| [beancount/beancount](https://github.com/beancount/beancount) | 4959 | Python | Beancount: Double-Entry Accounting from Text Files. |
 
-| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 8918 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
+| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 9078 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
 
-| [nukeop/nuclear](https://github.com/nukeop/nuclear) | 16648 | TypeScript | Streaming music player that finds free music for you |
+| [nukeop/nuclear](https://github.com/nukeop/nuclear) | 16776 | TypeScript | Streaming music player that finds free music for you |
 <!-- TRENDING_END -->
 
 # TrendSpire
