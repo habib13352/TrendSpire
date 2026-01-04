@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-04 01:07 UTC_
+_Last updated: 2026-01-04 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usememos/memos](https://github.com/usememos/memos) | 50139 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56640 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16289 | TypeScript | Elegant reading of real-time and hottest news |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70523 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 
-| [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 55952 | Python | Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG. |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 60447 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56441 | Python | Financial data platform for analysts, quants and AI agents. |
+| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 2341 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 
-| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 2130 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [usememos/memos](https://github.com/usememos/memos) | 50977 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [beancount/beancount](https://github.com/beancount/beancount) | 4959 | Python | Beancount: Double-Entry Accounting from Text Files. |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44433 | Python | An AI Hedge Fund Team |
 
-| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 9078 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16502 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [nukeop/nuclear](https://github.com/nukeop/nuclear) | 16776 | TypeScript | Streaming music player that finds free music for you |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 47025 | TypeScript | The open source coding agent. |
+
+| [5rahim/seanime](https://github.com/5rahim/seanime) | 1894 | Go | Open-source media server with a web interface and desktop app for anime and manga. |
+
+| [python/cpython](https://github.com/python/cpython) | 70617 | Python | The Python programming language |
 <!-- TRENDING_END -->
 
 # TrendSpire
