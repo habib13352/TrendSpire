@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-05 01:06 UTC_
+_Last updated: 2026-01-05 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56791 | Python | Financial data platform for analysts, quants and AI agents. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 48873 | TypeScript | The open source coding agent. |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70637 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [usememos/memos](https://github.com/usememos/memos) | 51618 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 60608 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 57017 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 2465 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16702 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [usememos/memos](https://github.com/usememos/memos) | 51248 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44642 | Python | An AI Hedge Fund Team |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44511 | Python | An AI Hedge Fund Team |
+| [python/cpython](https://github.com/python/cpython) | 70783 | Python | The Python programming language |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16560 | TypeScript | Elegant reading of real-time and hottest news |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 19614 | Python | Open-Source Frontier Voice AI |
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 47712 | TypeScript | The open source coding agent. |
+| [3b1b/manim](https://github.com/3b1b/manim) | 83051 | Python | Animation engine for explanatory math videos |
 
-| [5rahim/seanime](https://github.com/5rahim/seanime) | 2114 | Go | Open-source media server with a web interface and desktop app for anime and manga. |
+| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 9249 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
 
-| [python/cpython](https://github.com/python/cpython) | 70698 | Python | The Python programming language |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 51371 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 <!-- TRENDING_END -->
 
 # TrendSpire
