@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-04 12:29 UTC_
+_Last updated: 2026-01-05 01:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56640 | Python | Financial data platform for analysts, quants and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 56791 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70523 | Jupyter Notebook | Examples and guides for using the OpenAI API |
+| [openai/openai-cookbook](https://github.com/openai/openai-cookbook) | 70637 | Jupyter Notebook | Examples and guides for using the OpenAI API |
 
-| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 60447 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
+| [nocodb/nocodb](https://github.com/nocodb/nocodb) | 60608 | TypeScript | 🔥 🔥 🔥 Open Source Airtable Alternative |
 
-| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 2341 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
+| [HQarroum/docker-android](https://github.com/HQarroum/docker-android) | 2465 | Shell | 🤖 A minimal and customizable Docker image running the Android emulator as a service. |
 
-| [usememos/memos](https://github.com/usememos/memos) | 50977 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [usememos/memos](https://github.com/usememos/memos) | 51248 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44433 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44511 | Python | An AI Hedge Fund Team |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16502 | TypeScript | Elegant reading of real-time and hottest news |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16560 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 47025 | TypeScript | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 47712 | TypeScript | The open source coding agent. |
 
-| [5rahim/seanime](https://github.com/5rahim/seanime) | 1894 | Go | Open-source media server with a web interface and desktop app for anime and manga. |
+| [5rahim/seanime](https://github.com/5rahim/seanime) | 2114 | Go | Open-source media server with a web interface and desktop app for anime and manga. |
 
-| [python/cpython](https://github.com/python/cpython) | 70617 | Python | The Python programming language |
+| [python/cpython](https://github.com/python/cpython) | 70698 | Python | The Python programming language |
 <!-- TRENDING_END -->
 
 # TrendSpire

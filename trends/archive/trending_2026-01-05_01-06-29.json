@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-05 01:06 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "stars": 56791
+    },
+    {
+      "rank": 2,
+      "name": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "stars": 70637
+    },
+    {
+      "rank": 3,
+      "name": "nocodb/nocodb",
+      "url": "https://github.com/nocodb/nocodb",
+      "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source Airtable Alternative",
+      "language": "TypeScript",
+      "stars": 60608
+    },
+    {
+      "rank": 4,
+      "name": "HQarroum/docker-android",
+      "url": "https://github.com/HQarroum/docker-android",
+      "description": "\ud83e\udd16 A minimal and customizable Docker image running the Android emulator as a service.",
+      "language": "Shell",
+      "stars": 2465
+    },
+    {
+      "rank": 5,
+      "name": "usememos/memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "An open-source, self-hosted note-taking service. Your thoughts, your data, your control \u2014 no tracking, no ads, no subscription fees.",
+      "language": "Go",
+      "stars": 51248
+    },
+    {
+      "rank": 6,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 44511
+    },
+    {
+      "rank": 7,
+      "name": "ourongxing/newsnow",
+      "url": "https://github.com/ourongxing/newsnow",
+      "description": "Elegant reading of real-time and hottest news",
+      "language": "TypeScript",
+      "stars": 16560
+    },
+    {
+      "rank": 8,
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "stars": 47712
+    },
+    {
+      "rank": 9,
+      "name": "5rahim/seanime",
+      "url": "https://github.com/5rahim/seanime",
+      "description": "Open-source media server with a web interface and desktop app for anime and manga.",
+      "language": "Go",
+      "stars": 2114
+    },
+    {
+      "rank": 10,
+      "name": "python/cpython",
+      "url": "https://github.com/python/cpython",
+      "description": "The Python programming language",
+      "language": "Python",
+      "stars": 70698
+    }
+  ]
+}
