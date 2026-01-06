@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-06 01:01 UTC_
+_Last updated: 2026-01-06 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 49742 | TypeScript | The open source coding agent. |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70026 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [usememos/memos](https://github.com/usememos/memos) | 51894 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 27412 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 57165 | Python | Financial data platform for analysts, quants and AI agents. |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127130 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16782 | TypeScript | Elegant reading of real-time and hottest news |
+| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | 4617 | TypeScript | No description provided. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44749 | Python | An AI Hedge Fund Team |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 25261 | Python | Official inference framework for 1-bit LLMs |
 
-| [python/cpython](https://github.com/python/cpython) | 70868 | Python | The Python programming language |
+| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 6647 | JavaScript | A collaborative list of public APIs for developers |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 19764 | Python | Open-Source Frontier Voice AI |
+| [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | 2570 | Unknown | Kiro is an agentic IDE that works alongside you from prototype to production. |
 
-| [3b1b/manim](https://github.com/3b1b/manim) | 83199 | Python | Animation engine for explanatory math videos |
+| [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | 6985 | Python | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. |
 
-| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 9383 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 4583 | Jupyter Notebook | 📑 PageIndex: Document Index for Reasoning-based RAG |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 51636 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | 5255 | HTML | Free Introduction to Bash Scripting eBook |
 <!-- TRENDING_END -->
 
 # TrendSpire
