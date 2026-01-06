@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-05 12:34 UTC_
+_Last updated: 2026-01-06 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 48873 | TypeScript | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 49742 | TypeScript | The open source coding agent. |
 
-| [usememos/memos](https://github.com/usememos/memos) | 51618 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
+| [usememos/memos](https://github.com/usememos/memos) | 51894 | Go | An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 57017 | Python | Financial data platform for analysts, quants and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 57165 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16702 | TypeScript | Elegant reading of real-time and hottest news |
+| [ourongxing/newsnow](https://github.com/ourongxing/newsnow) | 16782 | TypeScript | Elegant reading of real-time and hottest news |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44642 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 44749 | Python | An AI Hedge Fund Team |
 
-| [python/cpython](https://github.com/python/cpython) | 70783 | Python | The Python programming language |
+| [python/cpython](https://github.com/python/cpython) | 70868 | Python | The Python programming language |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 19614 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 19764 | Python | Open-Source Frontier Voice AI |
 
-| [3b1b/manim](https://github.com/3b1b/manim) | 83051 | Python | Animation engine for explanatory math videos |
+| [3b1b/manim](https://github.com/3b1b/manim) | 83199 | Python | Animation engine for explanatory math videos |
 
-| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 9249 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
+| [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) | 9383 | TypeScript | MapLibre GL JS - Interactive vector tile maps in the browser |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 51371 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 51636 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 <!-- TRENDING_END -->
 
 # TrendSpire
