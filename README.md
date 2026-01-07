@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-06 12:32 UTC_
+_Last updated: 2026-01-07 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70026 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70087 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 27412 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 27789 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127130 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127273 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
 
-| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | 4617 | TypeScript | No description provided. |
+| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | 4762 | TypeScript | No description provided. |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 25261 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 25371 | Python | Official inference framework for 1-bit LLMs |
 
-| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 6647 | JavaScript | A collaborative list of public APIs for developers |
+| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 6873 | JavaScript | A collaborative list of public APIs for developers |
 
-| [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | 2570 | Unknown | Kiro is an agentic IDE that works alongside you from prototype to production. |
+| [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | 2671 | Unknown | Kiro is an agentic IDE that works alongside you from prototype to production. |
 
-| [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | 6985 | Python | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. |
+| [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | 7088 | Python | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 4583 | Jupyter Notebook | 📑 PageIndex: Document Index for Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 4714 | Jupyter Notebook | 📑 PageIndex: Document Index for Reasoning-based RAG |
 
-| [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | 5255 | HTML | Free Introduction to Bash Scripting eBook |
+| [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | 5382 | HTML | Free Introduction to Bash Scripting eBook |
 <!-- TRENDING_END -->
 
 # TrendSpire
