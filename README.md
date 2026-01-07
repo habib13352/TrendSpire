@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-07 01:01 UTC_
+_Last updated: 2026-01-07 12:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70087 | C++ | Protocol Buffers - Google's data interchange format |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 11497 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 27789 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [google/googletest](https://github.com/google/googletest) | 37713 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127273 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
+| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28200 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
 
-| [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) | 4762 | TypeScript | No description provided. |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127460 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 25371 | Python | Official inference framework for 1-bit LLMs |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70151 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 6873 | JavaScript | A collaborative list of public APIs for developers |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 18874 | TypeScript | Chrome DevTools for coding agents |
 
-| [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro) | 2671 | Unknown | Kiro is an agentic IDE that works alongside you from prototype to production. |
+| [memvid/memvid](https://github.com/memvid/memvid) | 11165 | Rust | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. |
 
-| [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) | 7088 | Python | This repo powers my experiment where ChatGPT manages a real-money micro-cap stock portfolio. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 25075 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 4714 | Jupyter Notebook | 📑 PageIndex: Document Index for Reasoning-based RAG |
+| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 16542 | Python | Generate audiobooks from e-books, voice cloning & 1158+ languages! |
 
-| [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | 5382 | HTML | Free Introduction to Bash Scripting eBook |
+| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 7106 | JavaScript | A collaborative list of public APIs for developers |
 <!-- TRENDING_END -->
 
 # TrendSpire
