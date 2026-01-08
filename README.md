@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-07 12:33 UTC_
+_Last updated: 2026-01-08 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 11497 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 11919 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [google/googletest](https://github.com/google/googletest) | 37713 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [google/googletest](https://github.com/google/googletest) | 37767 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28200 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28519 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127460 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127599 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70151 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70182 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 18874 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 18996 | TypeScript | Chrome DevTools for coding agents |
 
-| [memvid/memvid](https://github.com/memvid/memvid) | 11165 | Rust | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. |
+| [memvid/memvid](https://github.com/memvid/memvid) | 11393 | Rust | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 25075 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 25270 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 16542 | Python | Generate audiobooks from e-books, voice cloning & 1158+ languages! |
+| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 16667 | Python | Generate audiobooks from e-books, voice cloning & 1158+ languages! |
 
-| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 7106 | JavaScript | A collaborative list of public APIs for developers |
+| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 7278 | JavaScript | A collaborative list of public APIs for developers |
 <!-- TRENDING_END -->
 
 # TrendSpire
