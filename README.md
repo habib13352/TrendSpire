@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-08 01:01 UTC_
+_Last updated: 2026-01-08 12:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 11919 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19190 | TypeScript | Chrome DevTools for coding agents |
 
-| [google/googletest](https://github.com/google/googletest) | 37767 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 53067 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28519 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [nothings/stb](https://github.com/nothings/stb) | 31530 | C | stb single-file public domain libraries for C/C++ |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 127599 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
+| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3195 | Python | MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI DeepResearch and Gemini DeepResearch. |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70182 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70208 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 18996 | TypeScript | Chrome DevTools for coding agents |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 12268 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [memvid/memvid](https://github.com/memvid/memvid) | 11393 | Rust | Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory. |
+| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 12658 | Java | Access your entire server infrastructure from your local desktop |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 25270 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28826 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
 
-| [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 16667 | Python | Generate audiobooks from e-books, voice cloning & 1158+ languages! |
+| [google/googletest](https://github.com/google/googletest) | 37827 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | 7278 | JavaScript | A collaborative list of public APIs for developers |
+| [apache/superset](https://github.com/apache/superset) | 69728 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
 <!-- TRENDING_END -->
 
 # TrendSpire

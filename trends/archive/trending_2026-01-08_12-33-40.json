@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-08 12:33 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 19190
+    },
+    {
+      "rank": 2,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": 53067
+    },
+    {
+      "rank": 3,
+      "name": "nothings/stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "stars": 31530
+    },
+    {
+      "rank": 4,
+      "name": "MiroMindAI/MiroThinker",
+      "url": "https://github.com/MiroMindAI/MiroThinker",
+      "description": "MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI DeepResearch and Gemini DeepResearch.",
+      "language": "Python",
+      "stars": 3195
+    },
+    {
+      "rank": 5,
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 70208
+    },
+    {
+      "rank": 6,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 12268
+    },
+    {
+      "rank": 7,
+      "name": "xpipe-io/xpipe",
+      "url": "https://github.com/xpipe-io/xpipe",
+      "description": "Access your entire server infrastructure from your local desktop",
+      "language": "Java",
+      "stars": 12658
+    },
+    {
+      "rank": 8,
+      "name": "Lissy93/web-check",
+      "url": "https://github.com/Lissy93/web-check",
+      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
+      "language": "TypeScript",
+      "stars": 28826
+    },
+    {
+      "rank": 9,
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 37827
+    },
+    {
+      "rank": 10,
+      "name": "apache/superset",
+      "url": "https://github.com/apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "stars": 69728
+    }
+  ]
+}
