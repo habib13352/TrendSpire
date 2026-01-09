@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-08 12:33 UTC_
+_Last updated: 2026-01-09 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19190 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19344 | TypeScript | Chrome DevTools for coding agents |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 53067 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 53384 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [nothings/stb](https://github.com/nothings/stb) | 31530 | C | stb single-file public domain libraries for C/C++ |
+| [nothings/stb](https://github.com/nothings/stb) | 31645 | C | stb single-file public domain libraries for C/C++ |
 
-| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3195 | Python | MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI DeepResearch and Gemini DeepResearch. |
+| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3430 | Python | MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70208 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70233 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 12268 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 12493 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 12658 | Java | Access your entire server infrastructure from your local desktop |
+| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 12851 | Java | Access your entire server infrastructure from your local desktop |
 
-| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28826 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [NVlabs/alpasim](https://github.com/NVlabs/alpasim) | 526 | Python | No description provided. |
 
-| [google/googletest](https://github.com/google/googletest) | 37827 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28972 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
 
-| [apache/superset](https://github.com/apache/superset) | 69728 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [google/googletest](https://github.com/google/googletest) | 37857 | C++ | GoogleTest - Google Testing and Mocking Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
