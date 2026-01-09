@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-09 01:01 UTC_
+_Last updated: 2026-01-09 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19344 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19589 | TypeScript | Chrome DevTools for coding agents |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 53384 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 53810 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [nothings/stb](https://github.com/nothings/stb) | 31645 | C | stb single-file public domain libraries for C/C++ |
+| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 92301 | TypeScript | A utility-first CSS framework for rapid UI development. |
 
-| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3430 | Python | MiroThinker is an open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 20754 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70233 | C++ | Protocol Buffers - Google's data interchange format |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 13705 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 12493 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | 2730 | Python | LTX-Video Support for ComfyUI |
 
-| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 12851 | Java | Access your entire server infrastructure from your local desktop |
+| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3786 | Python | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. |
 
-| [NVlabs/alpasim](https://github.com/NVlabs/alpasim) | 526 | Python | No description provided. |
+| [google/googletest](https://github.com/google/googletest) | 37898 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [Lissy93/web-check](https://github.com/Lissy93/web-check) | 28972 | TypeScript | 🕵️‍♂️ All-in-one OSINT tool for analysing any website |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 21321 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [google/googletest](https://github.com/google/googletest) | 37857 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | 21452 | Unknown | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
