@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-10 00:59 UTC_
+_Last updated: 2026-01-10 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19748 | TypeScript | Chrome DevTools for coding agents |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 54420 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 54140 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19875 | TypeScript | Chrome DevTools for coding agents |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 15330 | Shell | Claude Code superpowers: core skills library |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 16768 | JavaScript | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. |
 
-| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 92471 | TypeScript | A utility-first CSS framework for rapid UI development. |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 4135 | Python | Memory infrastructure for LLMs and AI agents |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 20848 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 15791 | Shell | Claude Code superpowers: core skills library |
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 13927 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [google/googletest](https://github.com/google/googletest) | 37980 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | 2787 | Python | LTX-Video Support for ComfyUI |
+| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 13121 | Java | Access your entire server infrastructure from your local desktop |
 
-| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3943 | Python | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22109 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [google/googletest](https://github.com/google/googletest) | 37940 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 14100 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 21788 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [opf/openproject](https://github.com/opf/openproject) | 13569 | Ruby | OpenProject is the leading open source project management software. |
 <!-- TRENDING_END -->
 
 # TrendSpire
