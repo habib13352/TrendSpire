@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-09 12:32 UTC_
+_Last updated: 2026-01-10 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19589 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19748 | TypeScript | Chrome DevTools for coding agents |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 53810 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 54140 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 92301 | TypeScript | A utility-first CSS framework for rapid UI development. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 15330 | Shell | Claude Code superpowers: core skills library |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 20754 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) | 92471 | TypeScript | A utility-first CSS framework for rapid UI development. |
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 13705 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 20848 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | 2730 | Python | LTX-Video Support for ComfyUI |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 13927 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 
-| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3786 | Python | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. |
+| [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) | 2787 | Python | LTX-Video Support for ComfyUI |
 
-| [google/googletest](https://github.com/google/googletest) | 37898 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) | 3943 | Python | MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research. |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 21321 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [google/googletest](https://github.com/google/googletest) | 37940 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) | 21452 | Unknown | 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。 |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 21788 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 <!-- TRENDING_END -->
 
 # TrendSpire

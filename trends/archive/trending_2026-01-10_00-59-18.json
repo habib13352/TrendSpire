@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-10 00:59 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 19748
+    },
+    {
+      "rank": 2,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": 54140
+    },
+    {
+      "rank": 3,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "language": "Shell",
+      "stars": 15330
+    },
+    {
+      "rank": 4,
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars": 92471
+    },
+    {
+      "rank": 5,
+      "name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": 20848
+    },
+    {
+      "rank": 6,
+      "name": "C4illin/ConvertX",
+      "url": "https://github.com/C4illin/ConvertX",
+      "description": "\ud83d\udcbe Self-hosted online file converter. Supports 1000+ formats \u2699\ufe0f",
+      "language": "TypeScript",
+      "stars": 13927
+    },
+    {
+      "rank": 7,
+      "name": "Lightricks/ComfyUI-LTXVideo",
+      "url": "https://github.com/Lightricks/ComfyUI-LTXVideo",
+      "description": "LTX-Video Support for ComfyUI",
+      "language": "Python",
+      "stars": 2787
+    },
+    {
+      "rank": 8,
+      "name": "MiroMindAI/MiroThinker",
+      "url": "https://github.com/MiroMindAI/MiroThinker",
+      "description": "MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.",
+      "language": "Python",
+      "stars": 3943
+    },
+    {
+      "rank": 9,
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 37940
+    },
+    {
+      "rank": 10,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 21788
+    }
+  ]
+}
