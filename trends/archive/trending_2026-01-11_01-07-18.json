@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-11 01:07 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars": 54747
+    },
+    {
+      "rank": 2,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 20058
+    },
+    {
+      "rank": 3,
+      "name": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.",
+      "language": "JavaScript",
+      "stars": 16935
+    },
+    {
+      "rank": 4,
+      "name": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "description": "Memory infrastructure for LLMs and AI agents",
+      "language": "Python",
+      "stars": 4270
+    },
+    {
+      "rank": 5,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "language": "Shell",
+      "stars": 16172
+    },
+    {
+      "rank": 6,
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "stars": 38021
+    },
+    {
+      "rank": 7,
+      "name": "xpipe-io/xpipe",
+      "url": "https://github.com/xpipe-io/xpipe",
+      "description": "Access your entire server infrastructure from your local desktop",
+      "language": "Java",
+      "stars": 13260
+    },
+    {
+      "rank": 8,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 22317
+    },
+    {
+      "rank": 9,
+      "name": "C4illin/ConvertX",
+      "url": "https://github.com/C4illin/ConvertX",
+      "description": "\ud83d\udcbe Self-hosted online file converter. Supports 1000+ formats \u2699\ufe0f",
+      "language": "TypeScript",
+      "stars": 14250
+    },
+    {
+      "rank": 10,
+      "name": "opf/openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software.",
+      "language": "Ruby",
+      "stars": 13651
+    }
+  ]
+}

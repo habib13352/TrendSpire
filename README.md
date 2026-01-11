@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-10 12:29 UTC_
+_Last updated: 2026-01-11 01:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 54420 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 54747 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 19875 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 20058 | TypeScript | Chrome DevTools for coding agents |
 
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 16768 | JavaScript | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 16935 | JavaScript | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. |
 
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 4135 | Python | Memory infrastructure for LLMs and AI agents |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 4270 | Python | Memory infrastructure for LLMs and AI agents |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 15791 | Shell | Claude Code superpowers: core skills library |
+| [obra/superpowers](https://github.com/obra/superpowers) | 16172 | Shell | Claude Code superpowers: core skills library |
 
-| [google/googletest](https://github.com/google/googletest) | 37980 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [google/googletest](https://github.com/google/googletest) | 38021 | C++ | GoogleTest - Google Testing and Mocking Framework |
 
-| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 13121 | Java | Access your entire server infrastructure from your local desktop |
+| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 13260 | Java | Access your entire server infrastructure from your local desktop |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22109 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22317 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 14100 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 14250 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
 
-| [opf/openproject](https://github.com/opf/openproject) | 13569 | Ruby | OpenProject is the leading open source project management software. |
+| [opf/openproject](https://github.com/opf/openproject) | 13651 | Ruby | OpenProject is the leading open source project management software. |
 <!-- TRENDING_END -->
 
 # TrendSpire
