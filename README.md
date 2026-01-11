@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-11 01:07 UTC_
+_Last updated: 2026-01-11 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 54747 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 60703 | TypeScript | The open source coding agent. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 20058 | TypeScript | Chrome DevTools for coding agents |
+| [obra/superpowers](https://github.com/obra/superpowers) | 16500 | Shell | Claude Code superpowers: core skills library |
 
-| [github/awesome-copilot](https://github.com/github/awesome-copilot) | 16935 | JavaScript | Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. |
+| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 1273 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
 
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 4270 | Python | Memory infrastructure for LLMs and AI agents |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 15404 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 16172 | Shell | Claude Code superpowers: core skills library |
+| [makeplane/plane](https://github.com/makeplane/plane) | 43306 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 
-| [google/googletest](https://github.com/google/googletest) | 38021 | C++ | GoogleTest - Google Testing and Mocking Framework |
+| [twitter/twemoji](https://github.com/twitter/twemoji) | 17389 | HTML | Emoji for everyone. https://twemoji.twitter.com/ |
 
-| [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) | 13260 | Java | Access your entire server infrastructure from your local desktop |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22569 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22317 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 38513 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [C4illin/ConvertX](https://github.com/C4illin/ConvertX) | 14250 | TypeScript | 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 7785 | HTML | 📘 Home Assistant User documentation |
 
-| [opf/openproject](https://github.com/opf/openproject) | 13651 | Ruby | OpenProject is the leading open source project management software. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 55014 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 <!-- TRENDING_END -->
 
 # TrendSpire
