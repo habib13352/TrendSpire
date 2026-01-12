@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-11 12:29 UTC_
+_Last updated: 2026-01-12 01:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 60703 | TypeScript | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 61761 | TypeScript | The open source coding agent. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 16500 | Shell | Claude Code superpowers: core skills library |
+| [obra/superpowers](https://github.com/obra/superpowers) | 17021 | Shell | Claude Code superpowers: core skills library |
 
-| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 1273 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
+| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 1566 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 15404 | Python | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 15576 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 43306 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
+| [makeplane/plane](https://github.com/makeplane/plane) | 43539 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 
-| [twitter/twemoji](https://github.com/twitter/twemoji) | 17389 | HTML | Emoji for everyone. https://twemoji.twitter.com/ |
+| [twitter/twemoji](https://github.com/twitter/twemoji) | 17440 | HTML | Emoji for everyone. https://twemoji.twitter.com/ |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22569 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22764 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 38513 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 38650 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 7785 | HTML | 📘 Home Assistant User documentation |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 7937 | HTML | 📘 Home Assistant User documentation |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 55014 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 55254 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 <!-- TRENDING_END -->
 
 # TrendSpire
