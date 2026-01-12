@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-12 01:04 UTC_
+_Last updated: 2026-01-12 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 61761 | TypeScript | The open source coding agent. |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 33357 | Rust | Fullstack app framework for web, desktop, and mobile. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 17021 | Shell | Claude Code superpowers: core skills library |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 42011 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 1566 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
+| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 1950 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 15576 | Python | CLI tool for configuring and monitoring Claude Code |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 109209 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 43539 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 77340 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [twitter/twemoji](https://github.com/twitter/twemoji) | 17440 | HTML | Emoji for everyone. https://twemoji.twitter.com/ |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 23055 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 22764 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [obra/superpowers](https://github.com/obra/superpowers) | 18064 | Shell | Claude Code superpowers: core skills library |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 38650 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 11481 | JavaScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. |
 
-| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 7937 | HTML | 📘 Home Assistant User documentation |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 8050 | HTML | 📘 Home Assistant User documentation |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 55254 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 33402 | C | 🎥 Command line media player |
 <!-- TRENDING_END -->
 
 # TrendSpire

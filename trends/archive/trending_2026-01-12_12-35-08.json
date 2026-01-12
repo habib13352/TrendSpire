@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-12 12:35 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "DioxusLabs/dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "stars": 33357
+    },
+    {
+      "rank": 2,
+      "name": "NanmiCoder/MediaCrawler",
+      "url": "https://github.com/NanmiCoder/MediaCrawler",
+      "description": "\u5c0f\u7ea2\u4e66\u7b14\u8bb0 | \u8bc4\u8bba\u722c\u866b\u3001\u6296\u97f3\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001\u5feb\u624b\u89c6\u9891 | \u8bc4\u8bba\u722c\u866b\u3001B \u7ad9\u89c6\u9891 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u5fae\u535a\u5e16\u5b50 \uff5c \u8bc4\u8bba\u722c\u866b\u3001\u767e\u5ea6\u8d34\u5427\u5e16\u5b50 \uff5c \u767e\u5ea6\u8d34\u5427\u8bc4\u8bba\u56de\u590d\u722c\u866b | \u77e5\u4e4e\u95ee\u7b54\u6587\u7ae0\uff5c\u8bc4\u8bba\u722c\u866b",
+      "language": "Python",
+      "stars": 42011
+    },
+    {
+      "rank": 3,
+      "name": "frankbria/ralph-claude-code",
+      "url": "https://github.com/frankbria/ralph-claude-code",
+      "description": "Autonomous AI development loop for Claude Code with intelligent exit detection",
+      "language": "Shell",
+      "stars": 1950
+    },
+    {
+      "rank": 4,
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars": 109209
+    },
+    {
+      "rank": 5,
+      "name": "hacksider/Deep-Live-Cam",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": 77340
+    },
+    {
+      "rank": 6,
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 23055
+    },
+    {
+      "rank": 7,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "language": "Shell",
+      "stars": 18064
+    },
+    {
+      "rank": 8,
+      "name": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "description": "\ud83c\udf0a The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.",
+      "language": "JavaScript",
+      "stars": 11481
+    },
+    {
+      "rank": 9,
+      "name": "home-assistant/home-assistant.io",
+      "url": "https://github.com/home-assistant/home-assistant.io",
+      "description": "\ud83d\udcd8 Home Assistant User documentation",
+      "language": "HTML",
+      "stars": 8050
+    },
+    {
+      "rank": 10,
+      "name": "mpv-player/mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "\ud83c\udfa5 Command line media player",
+      "language": "C",
+      "stars": 33402
+    }
+  ]
+}
