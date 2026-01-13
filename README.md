@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-12 12:35 UTC_
+_Last updated: 2026-01-13 00:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 33357 | Rust | Fullstack app framework for web, desktop, and mobile. |
+| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 33607 | Rust | Fullstack app framework for web, desktop, and mobile. |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 42011 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 42150 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 1950 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
+| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 2223 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 109209 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 109364 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 77340 | Python | real time face swap and one-click video deepfake with only a single image |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 77504 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 23055 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 23199 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 18064 | Shell | Claude Code superpowers: core skills library |
+| [obra/superpowers](https://github.com/obra/superpowers) | 18654 | Shell | Claude Code superpowers: core skills library |
 
-| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 11481 | JavaScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. |
+| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 11686 | JavaScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. |
 
-| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 8050 | HTML | 📘 Home Assistant User documentation |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 8142 | HTML | 📘 Home Assistant User documentation |
 
-| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 33402 | C | 🎥 Command line media player |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 33487 | C | 🎥 Command line media player |
 <!-- TRENDING_END -->
 
 # TrendSpire
