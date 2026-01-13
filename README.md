@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-13 00:57 UTC_
+_Last updated: 2026-01-13 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) | 33607 | Rust | Fullstack app framework for web, desktop, and mobile. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 19629 | Shell | Claude Code superpowers: core skills library |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 42150 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) | 10829 | Python | A command-line tool to download photos from iCloud |
 
-| [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | 2223 | Shell | Autonomous AI development loop for Claude Code with intelligent exit detection |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 28819 | TypeScript | NVR with realtime local object detection for IP cameras |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 109364 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 69384 | Scala | Source code for the X Recommendation Algorithm |
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 77504 | Python | real time face swap and one-click video deepfake with only a single image |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 8225 | HTML | 📘 Home Assistant User documentation |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 23199 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 16517 | Python | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 18654 | Shell | Claude Code superpowers: core skills library |
+| [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) | 9621 | SystemVerilog | A minimal GPU design in Verilog to learn how GPUs work from the ground up |
 
-| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 11686 | JavaScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. |
+| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 10392 | Python | M3U Playlist for free TV channels |
 
-| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 8142 | HTML | 📘 Home Assistant User documentation |
-
-| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 33487 | C | 🎥 Command line media player |
+| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 23937 | TypeScript | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI |
 <!-- TRENDING_END -->
 
 # TrendSpire
