@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-01-14 12:33 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "Claude Code superpowers: core skills library",
+      "language": "Shell",
+      "stars": 21467
+    },
+    {
+      "rank": 2,
+      "name": "icloud-photos-downloader/icloud_photos_downloader",
+      "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+      "description": "A command-line tool to download photos from iCloud",
+      "language": "Python",
+      "stars": 11164
+    },
+    {
+      "rank": 3,
+      "name": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "language": "TypeScript",
+      "stars": 29144
+    },
+    {
+      "rank": 4,
+      "name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 69739
+    },
+    {
+      "rank": 5,
+      "name": "home-assistant/home-assistant.io",
+      "url": "https://github.com/home-assistant/home-assistant.io",
+      "description": "\ud83d\udcd8 Home Assistant User documentation",
+      "language": "HTML",
+      "stars": 8424
+    },
+    {
+      "rank": 6,
+      "name": "chidiwilliams/buzz",
+      "url": "https://github.com/chidiwilliams/buzz",
+      "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+      "language": "Python",
+      "stars": 16986
+    },
+    {
+      "rank": 7,
+      "name": "adam-maj/tiny-gpu",
+      "url": "https://github.com/adam-maj/tiny-gpu",
+      "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+      "language": "SystemVerilog",
+      "stars": 10052
+    },
+    {
+      "rank": 8,
+      "name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "stars": 10808
+    },
+    {
+      "rank": 9,
+      "name": "onlook-dev/onlook",
+      "url": "https://github.com/onlook-dev/onlook",
+      "description": "The Cursor for Designers \u2022 An Open-Source AI-First Design tool \u2022 Visually build, style, and edit your React App with AI",
+      "language": "TypeScript",
+      "stars": 24289
+    }
+  ]
+}

@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-14 01:03 UTC_
+_Last updated: 2026-01-14 12:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 20405 | Shell | Claude Code superpowers: core skills library |
+| [obra/superpowers](https://github.com/obra/superpowers) | 21467 | Shell | Claude Code superpowers: core skills library |
 
-| [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) | 10992 | Python | A command-line tool to download photos from iCloud |
+| [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) | 11164 | Python | A command-line tool to download photos from iCloud |
 
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 28957 | TypeScript | NVR with realtime local object detection for IP cameras |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 29144 | TypeScript | NVR with realtime local object detection for IP cameras |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 69534 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 69739 | Scala | Source code for the X Recommendation Algorithm |
 
-| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 8320 | HTML | 📘 Home Assistant User documentation |
+| [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) | 8424 | HTML | 📘 Home Assistant User documentation |
 
-| [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 16762 | Python | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
+| [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) | 16986 | Python | Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. |
 
-| [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) | 9820 | SystemVerilog | A minimal GPU design in Verilog to learn how GPUs work from the ground up |
+| [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) | 10052 | SystemVerilog | A minimal GPU design in Verilog to learn how GPUs work from the ground up |
 
-| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 10594 | Python | M3U Playlist for free TV channels |
+| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 10808 | Python | M3U Playlist for free TV channels |
 
-| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 24096 | TypeScript | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI |
+| [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 24289 | TypeScript | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI |
 <!-- TRENDING_END -->
 
 # TrendSpire
