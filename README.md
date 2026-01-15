@@ -1,24 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-15 00:59 UTC_
+_Last updated: 2026-01-15 12:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 22259 | Shell | Claude Code superpowers: core skills library |
+| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 5141 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 69873 | Scala | Source code for the X Recommendation Algorithm |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 29238 | TypeScript | NVR with realtime local object detection for IP cameras |
 
-| [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) | 5009 | Jinja | This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL |
+| [obra/superpowers](https://github.com/obra/superpowers) | 23499 | Shell | Claude Code superpowers: core skills library |
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 41561 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+| [cilium/cilium](https://github.com/cilium/cilium) | 23289 | Go | eBPF-based Networking, Security, and Observability |
 
-| [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | 5989 | JavaScript | TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically. |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 16306 | Go | An open-source, cross-platform terminal for seamless workflows |
 
-| [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) | 8425 | PowerShell | Force Remove Copilot, Recall and More in Windows 11 |
+| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 51267 | Python | Ultralytics YOLO 🚀 |
 
-| [rancher/rancher](https://github.com/rancher/rancher) | 25140 | Go | Complete container management platform |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 41781 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+
+| [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) | 33111 | C++ | Cross-platform, customizable ML solutions for live and streaming media. |
+
+| [puckeditor/puck](https://github.com/puckeditor/puck) | 10396 | TypeScript | The visual editor for React |
+
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 70093 | Scala | Source code for the X Recommendation Algorithm |
 <!-- TRENDING_END -->
 
 # TrendSpire
