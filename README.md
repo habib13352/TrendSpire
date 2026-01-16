@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-16 01:01 UTC_
+_Last updated: 2026-01-16 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 6010 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 25395 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 29361 | TypeScript | NVR with realtime local object detection for IP cameras |
+| [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) | 1082 | Shell | My personal configuration for LazyVim ! |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 24303 | Shell | An agentic skills framework & software development methodology that works. |
+| [google/langextract](https://github.com/google/langextract) | 20963 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [cilium/cilium](https://github.com/cilium/cilium) | 23351 | Go | eBPF-based Networking, Security, and Observability |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 11575 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 16439 | Go | An open-source, cross-platform terminal for seamless workflows |
+| [puckeditor/puck](https://github.com/puckeditor/puck) | 10862 | TypeScript | The visual editor for React |
 
-| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 51415 | Python | Ultralytics YOLO 🚀 |
+| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 51636 | Python | Ultralytics YOLO 🚀 |
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 41913 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 7231 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
 
-| [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) | 33196 | C++ | Cross-platform, customizable ML solutions for live and streaming media. |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 3975 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [puckeditor/puck](https://github.com/puckeditor/puck) | 10638 | TypeScript | The visual editor for React |
-
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 70226 | Scala | Source code for the X Recommendation Algorithm |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 15215 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
