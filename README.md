@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-15 12:33 UTC_
+_Last updated: 2026-01-16 01:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 5141 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
+| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 6010 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
 
-| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 29238 | TypeScript | NVR with realtime local object detection for IP cameras |
+| [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) | 29361 | TypeScript | NVR with realtime local object detection for IP cameras |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 23499 | Shell | Claude Code superpowers: core skills library |
+| [obra/superpowers](https://github.com/obra/superpowers) | 24303 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [cilium/cilium](https://github.com/cilium/cilium) | 23289 | Go | eBPF-based Networking, Security, and Observability |
+| [cilium/cilium](https://github.com/cilium/cilium) | 23351 | Go | eBPF-based Networking, Security, and Observability |
 
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 16306 | Go | An open-source, cross-platform terminal for seamless workflows |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 16439 | Go | An open-source, cross-platform terminal for seamless workflows |
 
-| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 51267 | Python | Ultralytics YOLO 🚀 |
+| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 51415 | Python | Ultralytics YOLO 🚀 |
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 41781 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | 41913 | Go | 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference |
 
-| [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) | 33111 | C++ | Cross-platform, customizable ML solutions for live and streaming media. |
+| [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) | 33196 | C++ | Cross-platform, customizable ML solutions for live and streaming media. |
 
-| [puckeditor/puck](https://github.com/puckeditor/puck) | 10396 | TypeScript | The visual editor for React |
+| [puckeditor/puck](https://github.com/puckeditor/puck) | 10638 | TypeScript | The visual editor for React |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 70093 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 70226 | Scala | Source code for the X Recommendation Algorithm |
 <!-- TRENDING_END -->
 
 # TrendSpire
