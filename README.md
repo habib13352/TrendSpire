@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-16 12:32 UTC_
+_Last updated: 2026-01-17 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 25395 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 26068 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) | 1082 | Shell | My personal configuration for LazyVim ! |
+| [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) | 1156 | Shell | My personal configuration for LazyVim ! |
 
-| [google/langextract](https://github.com/google/langextract) | 20963 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 21184 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 11575 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 11823 | TypeScript | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [puckeditor/puck](https://github.com/puckeditor/puck) | 10862 | TypeScript | The visual editor for React |
+| [puckeditor/puck](https://github.com/puckeditor/puck) | 11048 | TypeScript | The visual editor for React |
 
-| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 51636 | Python | Ultralytics YOLO 🚀 |
+| [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | 51766 | Python | Ultralytics YOLO 🚀 |
 
-| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 7231 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
+| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 7516 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 3975 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 4291 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 15215 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | 15365 | TypeScript | AGENTS.md — a simple, open format for guiding coding agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
