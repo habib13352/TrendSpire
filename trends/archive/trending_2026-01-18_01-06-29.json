@@ -1,0 +1,45 @@
+{
+  "timestamp": "2026-01-18 01:06 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "eigent-ai/eigent",
+      "url": "https://github.com/eigent-ai/eigent",
+      "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.",
+      "language": "TypeScript",
+      "stars": 8634
+    },
+    {
+      "rank": 2,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 27398
+    },
+    {
+      "rank": 3,
+      "name": "puckeditor/puck",
+      "url": "https://github.com/puckeditor/puck",
+      "description": "The visual editor for React with AI superpowers",
+      "language": "TypeScript",
+      "stars": 11390
+    },
+    {
+      "rank": 4,
+      "name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 21594
+    },
+    {
+      "rank": 5,
+      "name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 4907
+    }
+  ]
+}

@@ -1,22 +1,20 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-17 12:28 UTC_
+_Last updated: 2026-01-18 01:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 7943 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
+| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 8634 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 26792 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 27398 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) | 3338 | TypeScript | Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required. |
+| [puckeditor/puck](https://github.com/puckeditor/puck) | 11390 | TypeScript | The visual editor for React with AI superpowers |
 
-| [puckeditor/puck](https://github.com/puckeditor/puck) | 11192 | TypeScript | The visual editor for React with AI superpowers |
+| [google/langextract](https://github.com/google/langextract) | 21594 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [google/langextract](https://github.com/google/langextract) | 21393 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
-
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 4565 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 4907 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 <!-- TRENDING_END -->
 
 # TrendSpire
