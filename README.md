@@ -1,20 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-18 01:06 UTC_
+_Last updated: 2026-01-18 12:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [eigent-ai/eigent](https://github.com/eigent-ai/eigent) | 8634 | TypeScript | Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 5215 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 27398 | Shell | An agentic skills framework & software development methodology that works. |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 142264 | Python | A feature-rich command-line audio/video downloader |
 
-| [puckeditor/puck](https://github.com/puckeditor/puck) | 11390 | TypeScript | The visual editor for React with AI superpowers |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 17354 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [google/langextract](https://github.com/google/langextract) | 21594 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 21774 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 4907 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 3926 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 8797 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 21182 | Batchfile | No description provided. |
+
+| [tobi/try](https://github.com/tobi/try) | 2613 | Shell | fresh directories for every vibe |
+
+| [Mebus/cupp](https://github.com/Mebus/cupp) | 5485 | Python | Common User Passwords Profiler (CUPP) |
 <!-- TRENDING_END -->
 
 # TrendSpire
