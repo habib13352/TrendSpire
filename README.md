@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-18 12:28 UTC_
+_Last updated: 2026-01-19 01:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 5215 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 5612 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 142264 | Python | A feature-rich command-line audio/video downloader |
+| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 142479 | Python | A feature-rich command-line audio/video downloader |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 17354 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 17585 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [google/langextract](https://github.com/google/langextract) | 21774 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 22057 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 3926 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 4232 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 8797 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 8974 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 21182 | Batchfile | No description provided. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 21236 | Batchfile | No description provided. |
 
-| [tobi/try](https://github.com/tobi/try) | 2613 | Shell | fresh directories for every vibe |
+| [tobi/try](https://github.com/tobi/try) | 2698 | Shell | fresh directories for every vibe |
 
-| [Mebus/cupp](https://github.com/Mebus/cupp) | 5485 | Python | Common User Passwords Profiler (CUPP) |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | 5553 | Python | Common User Passwords Profiler (CUPP) |
 <!-- TRENDING_END -->
 
 # TrendSpire
