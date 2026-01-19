@@ -1,28 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-19 01:05 UTC_
+_Last updated: 2026-01-19 12:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 5612 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 4595 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
 
-| [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 142479 | Python | A feature-rich command-line audio/video downloader |
+| [google/langextract](https://github.com/google/langextract) | 22427 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 17585 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 6390 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [google/langextract](https://github.com/google/langextract) | 22057 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 11997 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 4232 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 17872 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 8974 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 15708 | Python | No description provided. |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 21236 | Batchfile | No description provided. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 9166 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [tobi/try](https://github.com/tobi/try) | 2698 | Shell | fresh directories for every vibe |
-
-| [Mebus/cupp](https://github.com/Mebus/cupp) | 5553 | Python | Common User Passwords Profiler (CUPP) |
+| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2320 | C | Power full Task Manager |
 <!-- TRENDING_END -->
 
 # TrendSpire
