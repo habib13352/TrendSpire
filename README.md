@@ -1,26 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-19 12:36 UTC_
+_Last updated: 2026-01-20 01:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 4595 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 4881 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
 
-| [google/langextract](https://github.com/google/langextract) | 22427 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 22687 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 6390 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 6817 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 11997 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 12169 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 17872 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 18050 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 15708 | Python | No description provided. |
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 15914 | Python | No description provided. |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 9166 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
+| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 9308 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
 
-| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2320 | C | Power full Task Manager |
+| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2451 | C | Power full Task Manager |
 <!-- TRENDING_END -->
 
 # TrendSpire
