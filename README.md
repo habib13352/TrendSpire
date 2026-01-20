@@ -1,26 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-20 01:00 UTC_
+_Last updated: 2026-01-20 12:37 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 4881 | Python | VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 10544 | Python | The absolute trainer to light up AI agents. |
 
-| [google/langextract](https://github.com/google/langextract) | 22687 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 7354 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 6817 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [google/langextract](https://github.com/google/langextract) | 22988 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 12169 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
+| [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 11319 | Go | Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 18050 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 42313 | Unknown | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
 
-| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 15914 | Python | No description provided. |
+| [tobi/try](https://github.com/tobi/try) | 2846 | Shell | fresh directories for every vibe |
 
-| [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) | 9308 | Python | RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device. |
-
-| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2451 | C | Power full Task Manager |
+| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2643 | C | Power full Task Manager |
 <!-- TRENDING_END -->
 
 # TrendSpire
