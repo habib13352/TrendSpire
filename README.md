@@ -1,24 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-21 01:02 UTC_
+_Last updated: 2026-01-21 12:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 10748 | Python | The absolute trainer to light up AI agents. |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 2983 | TypeScript | Generative UI SDK for React |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 7793 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 5426 | Python | Official Claude Code compound engineering plugin |
 
-| [google/langextract](https://github.com/google/langextract) | 23183 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71162 | Scala | Source code for the X Recommendation Algorithm |
 
-| [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 11523 | Go | Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. |
+| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 50803 | Python | Grok open release |
 
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 42563 | Unknown | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11057 | Python | The absolute trainer to light up AI agents. |
 
-| [tobi/try](https://github.com/tobi/try) | 2940 | Shell | fresh directories for every vibe |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 5904 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2751 | C | Power full Task Manager |
+| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 31952 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+
+| [tobi/try](https://github.com/tobi/try) | 3033 | Shell | fresh directories for every vibe |
 <!-- TRENDING_END -->
 
 # TrendSpire

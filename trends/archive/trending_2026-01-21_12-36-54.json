@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-01-21 12:36 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tambo-ai/tambo",
+      "url": "https://github.com/tambo-ai/tambo",
+      "description": "Generative UI SDK for React",
+      "language": "TypeScript",
+      "stars": 2983
+    },
+    {
+      "rank": 2,
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Claude Code compound engineering plugin",
+      "language": "Python",
+      "stars": 5426
+    },
+    {
+      "rank": 3,
+      "name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 71162
+    },
+    {
+      "rank": 4,
+      "name": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "description": "Grok open release",
+      "language": "Python",
+      "stars": 50803
+    },
+    {
+      "rank": 5,
+      "name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": 11057
+    },
+    {
+      "rank": 6,
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 5904
+    },
+    {
+      "rank": 7,
+      "name": "microsoft/Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "stars": 31952
+    },
+    {
+      "rank": 8,
+      "name": "tobi/try",
+      "url": "https://github.com/tobi/try",
+      "description": "fresh directories for every vibe",
+      "language": "Shell",
+      "stars": 3033
+    }
+  ]
+}
