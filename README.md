@@ -1,24 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-20 12:37 UTC_
+_Last updated: 2026-01-21 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 10544 | Python | The absolute trainer to light up AI agents. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 10748 | Python | The absolute trainer to light up AI agents. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 7354 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 7793 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [google/langextract](https://github.com/google/langextract) | 22988 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 23183 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 11319 | Go | Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. |
+| [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) | 11523 | Go | Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. |
 
-| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 42313 | Unknown | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
+| [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) | 42563 | Unknown | A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python |
 
-| [tobi/try](https://github.com/tobi/try) | 2846 | Shell | fresh directories for every vibe |
+| [tobi/try](https://github.com/tobi/try) | 2940 | Shell | fresh directories for every vibe |
 
-| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2643 | C | Power full Task Manager |
+| [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) | 2751 | C | Power full Task Manager |
 <!-- TRENDING_END -->
 
 # TrendSpire
