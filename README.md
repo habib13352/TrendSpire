@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-22 01:02 UTC_
+_Last updated: 2026-01-22 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 3286 | TypeScript | Generative UI SDK for React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 26235 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 5669 | TypeScript | Official Claude Code compound engineering plugin |
+| [block/goose](https://github.com/block/goose) | 26916 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71357 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71621 | Scala | Source code for the X Recommendation Algorithm |
 
-| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 50949 | Python | Grok open release |
+| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 51131 | Python | Grok open release |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11185 | Python | The absolute trainer to light up AI agents. |
+| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12067 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 6081 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11372 | Python | The absolute trainer to light up AI agents. |
 
-| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 32245 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 8939 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [tobi/try](https://github.com/tobi/try) | 3137 | Shell | fresh directories for every vibe |
+| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 20008 | TypeScript | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. |
+
+| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 32603 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+
+| [virattt/dexter](https://github.com/virattt/dexter) | 8144 | TypeScript | An autonomous agent for deep financial research |
 <!-- TRENDING_END -->
 
 # TrendSpire
