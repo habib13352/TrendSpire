@@ -1,26 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-21 12:36 UTC_
+_Last updated: 2026-01-22 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 2983 | TypeScript | Generative UI SDK for React |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 3286 | TypeScript | Generative UI SDK for React |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 5426 | Python | Official Claude Code compound engineering plugin |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 5669 | TypeScript | Official Claude Code compound engineering plugin |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71162 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71357 | Scala | Source code for the X Recommendation Algorithm |
 
-| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 50803 | Python | Grok open release |
+| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 50949 | Python | Grok open release |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11057 | Python | The absolute trainer to light up AI agents. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11185 | Python | The absolute trainer to light up AI agents. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 5904 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 6081 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 31952 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 32245 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
 
-| [tobi/try](https://github.com/tobi/try) | 3033 | Shell | fresh directories for every vibe |
+| [tobi/try](https://github.com/tobi/try) | 3137 | Shell | fresh directories for every vibe |
 <!-- TRENDING_END -->
 
 # TrendSpire
