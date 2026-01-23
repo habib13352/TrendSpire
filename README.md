@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-22 12:35 UTC_
+_Last updated: 2026-01-23 01:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 26235 | TypeScript | 🎥 Make videos programmatically with React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 26975 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [block/goose](https://github.com/block/goose) | 26916 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 27149 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71621 | Scala | Source code for the X Recommendation Algorithm |
+| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71761 | Scala | Source code for the X Recommendation Algorithm |
 
-| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 51131 | Python | Grok open release |
+| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 51225 | Python | Grok open release |
 
-| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12067 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
+| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12146 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11372 | Python | The absolute trainer to light up AI agents. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11465 | Python | The absolute trainer to light up AI agents. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 8939 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 9228 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
 
-| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 20008 | TypeScript | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. |
+| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 20158 | TypeScript | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. |
 
-| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 32603 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 32856 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 8144 | TypeScript | An autonomous agent for deep financial research |
+| [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | 4614 | TypeScript | Download videos from almost any website worldwide |
 <!-- TRENDING_END -->
 
 # TrendSpire

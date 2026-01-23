@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-23 01:02 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "\ud83c\udfa5 Make videos programmatically with React",
+      "language": "TypeScript",
+      "stars": 26975
+    },
+    {
+      "rank": 2,
+      "name": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 27149
+    },
+    {
+      "rank": 3,
+      "name": "twitter/the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "stars": 71761
+    },
+    {
+      "rank": 4,
+      "name": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
+      "description": "Grok open release",
+      "language": "Python",
+      "stars": 51225
+    },
+    {
+      "rank": 5,
+      "name": "deepseek-ai/FlashMLA",
+      "url": "https://github.com/deepseek-ai/FlashMLA",
+      "description": "FlashMLA: Efficient Multi-head Latent Attention Kernels",
+      "language": "C++",
+      "stars": 12146
+    },
+    {
+      "rank": 6,
+      "name": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": 11465
+    },
+    {
+      "rank": 7,
+      "name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 9228
+    },
+    {
+      "rank": 8,
+      "name": "mastra-ai/mastra",
+      "url": "https://github.com/mastra-ai/mastra",
+      "description": "From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.",
+      "language": "TypeScript",
+      "stars": 20158
+    },
+    {
+      "rank": 9,
+      "name": "microsoft/Data-Science-For-Beginners",
+      "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+      "description": "10 Weeks, 20 Lessons, Data Science for All!",
+      "language": "Jupyter Notebook",
+      "stars": 32856
+    },
+    {
+      "rank": 10,
+      "name": "nexmoe/VidBee",
+      "url": "https://github.com/nexmoe/VidBee",
+      "description": "Download videos from almost any website worldwide",
+      "language": "TypeScript",
+      "stars": 4614
+    }
+  ]
+}
