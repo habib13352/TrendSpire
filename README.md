@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-23 01:02 UTC_
+_Last updated: 2026-01-23 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 26975 | TypeScript | 🎥 Make videos programmatically with React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 27815 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [block/goose](https://github.com/block/goose) | 27149 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21014 | Python | Open-Source Frontier Voice AI |
 
-| [twitter/the-algorithm](https://github.com/twitter/the-algorithm) | 71761 | Scala | Source code for the X Recommendation Algorithm |
+| [block/goose](https://github.com/block/goose) | 27400 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [xai-org/grok-1](https://github.com/xai-org/grok-1) | 51225 | Python | Grok open release |
+| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 5841 | Rust | A Datacenter Scale Distributed Inference Serving Framework |
 
-| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12146 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 76189 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 11465 | Python | The absolute trainer to light up AI agents. |
+| [github/copilot-cli](https://github.com/github/copilot-cli) | 7010 | Shell | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 9228 | TypeScript | Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it! |
+| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 56189 | Python | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
 
-| [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | 20158 | TypeScript | From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 59689 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 32856 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12247 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
 
-| [nexmoe/VidBee](https://github.com/nexmoe/VidBee) | 4614 | TypeScript | Download videos from almost any website worldwide |
+| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 33138 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
 <!-- TRENDING_END -->
 
 # TrendSpire
