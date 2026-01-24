@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-23 12:34 UTC_
+_Last updated: 2026-01-24 00:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 27815 | TypeScript | 🎥 Make videos programmatically with React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 28441 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21014 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21262 | Python | Open-Source Frontier Voice AI |
 
-| [block/goose](https://github.com/block/goose) | 27400 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 27600 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 5841 | Rust | A Datacenter Scale Distributed Inference Serving Framework |
+| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 5910 | Rust | A Datacenter Scale Distributed Inference Serving Framework |
 
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 76189 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 76375 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 
-| [github/copilot-cli](https://github.com/github/copilot-cli) | 7010 | Shell | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. |
+| [github/copilot-cli](https://github.com/github/copilot-cli) | 7233 | Shell | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. |
 
-| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 56189 | Python | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
+| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 56337 | Python | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 59689 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 59951 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12247 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
+| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12316 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
 
-| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 33138 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 33362 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
 <!-- TRENDING_END -->
 
 # TrendSpire
