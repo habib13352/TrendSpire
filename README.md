@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-24 00:59 UTC_
+_Last updated: 2026-01-24 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 28441 | TypeScript | 🎥 Make videos programmatically with React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 28991 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21262 | Python | Open-Source Frontier Voice AI |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 7783 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [block/goose](https://github.com/block/goose) | 27600 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 3255 | Python | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
 
-| [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | 5910 | Rust | A Datacenter Scale Distributed Inference Serving Framework |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 76573 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 76375 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [block/goose](https://github.com/block/goose) | 27798 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [github/copilot-cli](https://github.com/github/copilot-cli) | 7233 | Shell | GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. |
+| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 3394 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
 
-| [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) | 56337 | Python | The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 26074 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 59951 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21459 | Python | Open-Source Frontier Voice AI |
 
-| [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) | 12316 | C++ | FlashMLA: Efficient Multi-head Latent Attention Kernels |
+| [putyy/res-downloader](https://github.com/putyy/res-downloader) | 14245 | Go | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
 
-| [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) | 33362 | Jupyter Notebook | 10 Weeks, 20 Lessons, Data Science for All! |
+| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 5042 | Jupyter Notebook | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 |
 <!-- TRENDING_END -->
 
 # TrendSpire
