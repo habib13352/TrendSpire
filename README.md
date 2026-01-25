@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-24 12:29 UTC_
+_Last updated: 2026-01-25 01:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 28991 | TypeScript | 🎥 Make videos programmatically with React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 29541 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 7783 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 8376 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 3255 | Python | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
+| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 3460 | Python | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
 
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 76573 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 76784 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 
-| [block/goose](https://github.com/block/goose) | 27798 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 28360 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 3394 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
+| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 3520 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 26074 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 26153 | TypeScript | Open-source platform to build and deploy AI agent workflows. |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21459 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21650 | Python | Open-Source Frontier Voice AI |
 
-| [putyy/res-downloader](https://github.com/putyy/res-downloader) | 14245 | Go | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
+| [putyy/res-downloader](https://github.com/putyy/res-downloader) | 14368 | Go | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
 
-| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 5042 | Jupyter Notebook | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 |
+| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 5225 | Jupyter Notebook | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 |
 <!-- TRENDING_END -->
 
 # TrendSpire
