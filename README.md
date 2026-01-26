@@ -1,26 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-25 12:30 UTC_
+_Last updated: 2026-01-26 01:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 3698 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
+| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 4239 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 8762 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 9050 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 30081 | TypeScript | 🎥 Make videos programmatically with React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 30626 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [qarmin/czkawka](https://github.com/qarmin/czkawka) | 28349 | Rust | Multi functional app to find duplicates, empty folders, similar images etc. |
+| [qarmin/czkawka](https://github.com/qarmin/czkawka) | 28559 | Rust | Multi functional app to find duplicates, empty folders, similar images etc. |
 
-| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 3700 | Python | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
+| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 4040 | Python | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 21817 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 22032 | Python | Open-Source Frontier Voice AI |
 
-| [openai/codex](https://github.com/openai/codex) | 57254 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 57433 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 14498 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 14691 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+
+| [Psiphon-Inc/conduit](https://github.com/Psiphon-Inc/conduit) | 86 | TypeScript | Conduit React Native app |
 <!-- TRENDING_END -->
 
 # TrendSpire
