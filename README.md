@@ -1,28 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-26 01:06 UTC_
+_Last updated: 2026-01-26 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 4239 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
+| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 4886 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 9050 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 9482 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 30626 | TypeScript | 🎥 Make videos programmatically with React |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 14922 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [qarmin/czkawka](https://github.com/qarmin/czkawka) | 28559 | Rust | Multi functional app to find duplicates, empty folders, similar images etc. |
+| [block/goose](https://github.com/block/goose) | 28975 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 4040 | Python | UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 31430 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 22032 | Python | Open-Source Frontier Voice AI |
+| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 5456 | Jupyter Notebook | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 |
 
-| [openai/codex](https://github.com/openai/codex) | 57433 | Rust | Lightweight coding agent that runs in your terminal |
+| [k4yt3x/video2x](https://github.com/k4yt3x/video2x) | 17880 | C++ | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 14691 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
-
-| [Psiphon-Inc/conduit](https://github.com/Psiphon-Inc/conduit) | 86 | TypeScript | Conduit React Native app |
+| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | 3895 | Python | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. |
 <!-- TRENDING_END -->
 
 # TrendSpire
