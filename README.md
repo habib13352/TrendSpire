@@ -1,26 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-26 12:35 UTC_
+_Last updated: 2026-01-27 01:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 4886 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
+| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 5094 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 9482 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 9767 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 14922 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 15093 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [block/goose](https://github.com/block/goose) | 28975 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 29148 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 31430 | TypeScript | 🎥 Make videos programmatically with React |
+| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 31963 | TypeScript | 🎥 Make videos programmatically with React |
 
-| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 5456 | Jupyter Notebook | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 |
+| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 5683 | Jupyter Notebook | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 |
 
-| [k4yt3x/video2x](https://github.com/k4yt3x/video2x) | 17880 | C++ | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. |
+| [k4yt3x/video2x](https://github.com/k4yt3x/video2x) | 18028 | C++ | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. |
 
-| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | 3895 | Python | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. |
+| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | 4168 | Python | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. |
 <!-- TRENDING_END -->
 
 # TrendSpire
