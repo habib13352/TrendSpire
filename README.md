@@ -1,26 +1,22 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-27 01:05 UTC_
+_Last updated: 2026-01-27 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 5094 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 2492 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 9767 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 15339 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 15093 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 5324 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
 
-| [block/goose](https://github.com/block/goose) | 29148 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 12269 | Python | M3U Playlist for free TV channels |
 
-| [remotion-dev/remotion](https://github.com/remotion-dev/remotion) | 31963 | TypeScript | 🎥 Make videos programmatically with React |
+| [hashicorp/vault](https://github.com/hashicorp/vault) | 33917 | Go | A tool for secrets management, encryption as a service, and privileged access management |
 
-| [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) | 5683 | Jupyter Notebook | FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 |
-
-| [k4yt3x/video2x](https://github.com/k4yt3x/video2x) | 18028 | C++ | A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018. |
-
-| [business-science/ai-data-science-team](https://github.com/business-science/ai-data-science-team) | 4168 | Python | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 89859 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 <!-- TRENDING_END -->
 
 # TrendSpire
