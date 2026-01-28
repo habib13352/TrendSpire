@@ -1,22 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-28 01:01 UTC_
+_Last updated: 2026-01-28 12:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 2715 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 2949 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 15563 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [hashicorp/vault](https://github.com/hashicorp/vault) | 34265 | Go | A tool for secrets management, encryption as a service, and privileged access management |
 
-| [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) | 5438 | Python | A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 25751 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [Free-TV/IPTV](https://github.com/Free-TV/IPTV) | 12555 | Python | M3U Playlist for free TV channels |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 5275 | Python | Memory for 24/7 proactive agents like moltbot (clawdbot). |
 
-| [hashicorp/vault](https://github.com/hashicorp/vault) | 34105 | Go | A tool for secrets management, encryption as a service, and privileged access management |
+| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 4325 | Python | Kimi Code CLI is your next CLI agent. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 90162 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) | 19312 | Go | Ingress NGINX Controller for Kubernetes |
+
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70403 | C++ | Protocol Buffers - Google's data interchange format |
+
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 70724 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
+
+| [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) | 1261 | C++ | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports |
+
+| [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) | 3749 | C++ | PC Software for BambuLab and other 3D printers |
 <!-- TRENDING_END -->
 
 # TrendSpire
