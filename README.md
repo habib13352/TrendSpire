@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-28 12:36 UTC_
+_Last updated: 2026-01-29 01:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 2949 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [moltbot/moltbot](https://github.com/moltbot/moltbot) | 88822 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [hashicorp/vault](https://github.com/hashicorp/vault) | 34265 | Go | A tool for secrets management, encryption as a service, and privileged access management |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 3138 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 25751 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [hashicorp/vault](https://github.com/hashicorp/vault) | 34377 | Go | A tool for secrets management, encryption as a service, and privileged access management |
 
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 5275 | Python | Memory for 24/7 proactive agents like moltbot (clawdbot). |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 26588 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 4325 | Python | Kimi Code CLI is your next CLI agent. |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 5530 | Python | Memory for 24/7 proactive agents like moltbot (clawdbot). |
 
-| [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) | 19312 | Go | Ingress NGINX Controller for Kubernetes |
+| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 662 | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70403 | C++ | Protocol Buffers - Google's data interchange format |
+| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 4555 | Python | Kimi Code CLI is your next CLI agent. |
 
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 70724 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
+| [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) | 19353 | Go | Ingress NGINX Controller for Kubernetes |
 
-| [ran-j/PS2Recomp](https://github.com/ran-j/PS2Recomp) | 1261 | C++ | Playstation 2 Static Recompiler & Runtime Tool to make native PC ports |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70449 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) | 3749 | C++ | PC Software for BambuLab and other 3D printers |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 70898 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
 <!-- TRENDING_END -->
 
 # TrendSpire
