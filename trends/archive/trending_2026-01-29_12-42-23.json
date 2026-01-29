@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-01-29 12:42 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "moltbot/moltbot",
+      "url": "https://github.com/moltbot/moltbot",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+      "language": "TypeScript",
+      "stars": 98318
+    },
+    {
+      "rank": 2,
+      "name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 3337
+    },
+    {
+      "rank": 3,
+      "name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "stars": 34509
+    },
+    {
+      "rank": 4,
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "language": "JavaScript",
+      "stars": 27132
+    },
+    {
+      "rank": 5,
+      "name": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+      "language": "Python",
+      "stars": 5855
+    },
+    {
+      "rank": 6,
+      "name": "modelcontextprotocol/ext-apps",
+      "url": "https://github.com/modelcontextprotocol/ext-apps",
+      "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+      "language": "TypeScript",
+      "stars": 753
+    },
+    {
+      "rank": 7,
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "description": "Kimi Code CLI is your next CLI agent.",
+      "language": "Python",
+      "stars": 4806
+    },
+    {
+      "rank": 8,
+      "name": "kubernetes/ingress-nginx",
+      "url": "https://github.com/kubernetes/ingress-nginx",
+      "description": "Ingress NGINX Controller for Kubernetes",
+      "language": "Go",
+      "stars": 19391
+    },
+    {
+      "rank": 9,
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "stars": 70488
+    },
+    {
+      "rank": 10,
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life \u2014 to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level \u2014 enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "language": "TypeScript",
+      "stars": 71054
+    }
+  ]
+}

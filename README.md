@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-29 01:11 UTC_
+_Last updated: 2026-01-29 12:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [moltbot/moltbot](https://github.com/moltbot/moltbot) | 88822 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [moltbot/moltbot](https://github.com/moltbot/moltbot) | 98318 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 3138 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 3337 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [hashicorp/vault](https://github.com/hashicorp/vault) | 34377 | Go | A tool for secrets management, encryption as a service, and privileged access management |
+| [hashicorp/vault](https://github.com/hashicorp/vault) | 34509 | Go | A tool for secrets management, encryption as a service, and privileged access management |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 26588 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 27132 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 5530 | Python | Memory for 24/7 proactive agents like moltbot (clawdbot). |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 5855 | Python | Memory for 24/7 proactive agents like moltbot (clawdbot). |
 
-| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 662 | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers |
+| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 753 | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers |
 
-| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 4555 | Python | Kimi Code CLI is your next CLI agent. |
+| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 4806 | Python | Kimi Code CLI is your next CLI agent. |
 
-| [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) | 19353 | Go | Ingress NGINX Controller for Kubernetes |
+| [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) | 19391 | Go | Ingress NGINX Controller for Kubernetes |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70449 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70488 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 70898 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 71054 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
 <!-- TRENDING_END -->
 
 # TrendSpire
