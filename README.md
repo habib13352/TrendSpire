@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-30 01:10 UTC_
+_Last updated: 2026-01-30 12:39 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [moltbot/moltbot](https://github.com/moltbot/moltbot) | 103777 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 112177 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 27633 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 28203 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
 
-| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 4951 | Python | Kimi Code CLI is your next CLI agent. |
+| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 5169 | Python | Kimi Code CLI is your next CLI agent. |
 
-| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 839 | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers |
+| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 937 | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers |
 
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 6042 | Python | Memory for 24/7 proactive agents like moltbot (clawdbot). |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 6309 | Python | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
 
-| [hashicorp/vault](https://github.com/hashicorp/vault) | 34622 | Go | A tool for secrets management, encryption as a service, and privileged access management |
+| [hashicorp/vault](https://github.com/hashicorp/vault) | 34731 | Go | A tool for secrets management, encryption as a service, and privileged access management |
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 3466 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 3609 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) | 249 | JavaScript | No description provided. |
+| [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) | 310 | JavaScript | No description provided. |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70513 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70546 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 20712 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 20786 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 <!-- TRENDING_END -->
 
 # TrendSpire
