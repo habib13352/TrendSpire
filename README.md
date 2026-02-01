@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-01 01:22 UTC_
+_Last updated: 2026-02-01 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 2272 | Lua | Neovim AI agent done right |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 137423 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 27272 | Python | Official inference framework for 1-bit LLMs |
+| [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 2596 | Lua | Neovim AI agent done right |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 12627 | Python | The absolute trainer to light up AI agents. |
+| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 811 | TypeScript | Agent Orchestration Command Center |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 69596 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | 23552 | Python | The official source code repository for the calibre ebook manager |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 5860 | Shell | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 4465 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 128748 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 15840 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [termux/termux-app](https://github.com/termux/termux-app) | 49521 | Java | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 12789 | Python | The absolute trainer to light up AI agents. |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 132714 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) | 3368 | TypeScript | Turn any browser into your terminal & command your agents on the go. |
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 20997 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 3649 | Swift | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
 
-| [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) | 843 | Go | Render Mermaid graphs inside your terminal |
+| [j178/prek](https://github.com/j178/prek) | 4101 | Rust | ⚡ Better `pre-commit`, re-engineered in Rust |
 <!-- TRENDING_END -->
 
 # TrendSpire
