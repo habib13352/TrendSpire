@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-01-31 12:34 UTC_
+_Last updated: 2026-02-01 01:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 126742 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 2272 | Lua | Neovim AI agent done right |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 28871 | JavaScript | Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 27272 | Python | Official inference framework for 1-bit LLMs |
 
-| [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | 5440 | Python | Kimi Code CLI is your next CLI agent. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 12627 | Python | The absolute trainer to light up AI agents. |
 
-| [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) | 1104 | TypeScript | Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 69596 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 6627 | Python | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 5860 | Shell | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [hashicorp/vault](https://github.com/hashicorp/vault) | 34888 | Go | A tool for secrets management, encryption as a service, and privileged access management |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 128748 | C# | Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks |
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 3864 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [termux/termux-app](https://github.com/termux/termux-app) | 49521 | Java | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
 
-| [anomalyco/opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) | 390 | JavaScript | No description provided. |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 132714 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70600 | C++ | Protocol Buffers - Google's data interchange format |
+| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 20997 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
 
-| [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) | 20918 | JavaScript | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app |
+| [AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii) | 843 | Go | Render Mermaid graphs inside your terminal |
 <!-- TRENDING_END -->
 
 # TrendSpire
