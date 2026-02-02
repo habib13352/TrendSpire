@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-02 01:15 UTC_
+_Last updated: 2026-02-02 12:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 141938 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 17270 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 2744 | Lua | Neovim AI agent done right |
+| [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 2893 | Lua | Neovim AI agent done right |
 
-| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 960 | TypeScript | Agent Orchestration Command Center |
+| [termux/termux-app](https://github.com/termux/termux-app) | 49663 | Java | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
 
-| [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | 23626 | Python | The official source code repository for the calibre ebook manager |
+| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 1144 | TypeScript | Agent Orchestration Command Center |
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 4929 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 21821 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 16385 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 29200 | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 12959 | Python | The absolute trainer to light up AI agents. |
+| [autobrr/qui](https://github.com/autobrr/qui) | 2609 | Go | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. |
 
-| [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) | 3527 | TypeScript | Turn any browser into your terminal & command your agents on the go. |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 5343 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 3908 | Swift | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 12241 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [j178/prek](https://github.com/j178/prek) | 4248 | Rust | ⚡ Better `pre-commit`, re-engineered in Rust |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 41429 | Python | The best ChatGPT that $100 can buy. |
 <!-- TRENDING_END -->
 
 # TrendSpire
