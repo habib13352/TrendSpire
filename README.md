@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-03 01:15 UTC_
+_Last updated: 2026-02-03 12:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 18114 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 18971 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [ThePrimeagen/99](https://github.com/ThePrimeagen/99) | 3042 | Lua | Neovim AI agent done right |
+| [masoncl/review-prompts](https://github.com/masoncl/review-prompts) | 213 | Python | AI review prompts |
 
-| [termux/termux-app](https://github.com/termux/termux-app) | 49930 | Java | Termux - a terminal emulator application for Android OS extendible by variety of packages. |
+| [openai/skills](https://github.com/openai/skills) | 2683 | Python | Skills Catalog for Codex |
 
-| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 1280 | TypeScript | Agent Orchestration Command Center |
+| [automazeio/ccpm](https://github.com/automazeio/ccpm) | 6506 | Shell | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. |
 
-| [netbirdio/netbird](https://github.com/netbirdio/netbird) | 21976 | Go | Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 43120 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 29399 | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+| [virattt/dexter](https://github.com/virattt/dexter) | 9928 | TypeScript | An autonomous agent for deep financial research |
 
-| [autobrr/qui](https://github.com/autobrr/qui) | 2838 | Go | A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 41872 | Python | The best ChatGPT that $100 can buy. |
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 5582 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | 23870 | Python | The official source code repository for the calibre ebook manager |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 12502 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 29669 | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
 
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 41642 | Python | The best ChatGPT that $100 can buy. |
+| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 1408 | TypeScript | Agent Orchestration Command Center |
 <!-- TRENDING_END -->
 
 # TrendSpire
