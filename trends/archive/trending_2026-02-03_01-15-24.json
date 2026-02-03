@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-02-03 01:15 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 18114
+    },
+    {
+      "rank": 2,
+      "name": "ThePrimeagen/99",
+      "url": "https://github.com/ThePrimeagen/99",
+      "description": "Neovim AI agent done right",
+      "language": "Lua",
+      "stars": 3042
+    },
+    {
+      "rank": 3,
+      "name": "termux/termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "stars": 49930
+    },
+    {
+      "rank": 4,
+      "name": "pedramamini/Maestro",
+      "url": "https://github.com/pedramamini/Maestro",
+      "description": "Agent Orchestration Command Center",
+      "language": "TypeScript",
+      "stars": 1280
+    },
+    {
+      "rank": 5,
+      "name": "netbirdio/netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard\u00ae-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "stars": 21976
+    },
+    {
+      "rank": 6,
+      "name": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "stars": 29399
+    },
+    {
+      "rank": 7,
+      "name": "autobrr/qui",
+      "url": "https://github.com/autobrr/qui",
+      "description": "A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.",
+      "language": "Go",
+      "stars": 2838
+    },
+    {
+      "rank": 8,
+      "name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars": 5582
+    },
+    {
+      "rank": 9,
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 12502
+    },
+    {
+      "rank": 10,
+      "name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "stars": 41642
+    }
+  ]
+}
