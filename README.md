@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-03 12:44 UTC_
+_Last updated: 2026-02-04 01:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 18971 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 20297 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [masoncl/review-prompts](https://github.com/masoncl/review-prompts) | 213 | Python | AI review prompts |
+| [masoncl/review-prompts](https://github.com/masoncl/review-prompts) | 347 | Python | AI review prompts |
 
-| [openai/skills](https://github.com/openai/skills) | 2683 | Python | Skills Catalog for Codex |
+| [openai/skills](https://github.com/openai/skills) | 3019 | Python | Skills Catalog for Codex |
 
-| [automazeio/ccpm](https://github.com/automazeio/ccpm) | 6506 | Shell | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. |
+| [automazeio/ccpm](https://github.com/automazeio/ccpm) | 6709 | Shell | Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 43120 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 43519 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 9928 | TypeScript | An autonomous agent for deep financial research |
+| [virattt/dexter](https://github.com/virattt/dexter) | 10082 | TypeScript | An autonomous agent for deep financial research |
 
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 41872 | Python | The best ChatGPT that $100 can buy. |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 42018 | Python | The best ChatGPT that $100 can buy. |
 
-| [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | 23870 | Python | The official source code repository for the calibre ebook manager |
+| [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) | 23929 | Python | The official source code repository for the calibre ebook manager |
 
-| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 29669 | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 29781 | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
 
-| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 1408 | TypeScript | Agent Orchestration Command Center |
+| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 1500 | TypeScript | Agent Orchestration Command Center |
 <!-- TRENDING_END -->
 
 # TrendSpire
