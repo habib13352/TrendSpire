@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-05 01:11 UTC_
+_Last updated: 2026-02-05 12:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 22517 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 26460 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [openai/skills](https://github.com/openai/skills) | 3681 | Python | Skills Catalog for Codex |
+| [openai/skills](https://github.com/openai/skills) | 4028 | Python | Skills Catalog for Codex |
 
-| [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | 2363 | Python | Master Claude Code Hooks |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 23345 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) | 29968 | Python | ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration |
+| [j178/prek](https://github.com/j178/prek) | 5347 | Rust | ⚡ Better `pre-commit`, re-engineered in Rust |
 
-| [ankitects/anki](https://github.com/ankitects/anki) | 26160 | Rust | Anki is a smart spaced repetition flashcard program |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 11723 | Python | Memory for AI Agents in 6 lines of code |
 
-| [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) | 4347 | Go | Contrib repository for the OpenTelemetry Collector |
+| [obra/superpowers](https://github.com/obra/superpowers) | 44975 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [Canner/WrenAI](https://github.com/Canner/WrenAI) | 13916 | TypeScript | ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31285 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [pedramamini/Maestro](https://github.com/pedramamini/Maestro) | 1657 | TypeScript | Agent Orchestration Command Center |
+| [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | 32284 | Rust | The user-friendly command line shell. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 91250 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 91317 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [microsoft/qlib](https://github.com/microsoft/qlib) | 36532 | Python | Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process. |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 19240 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
 <!-- TRENDING_END -->
 
 # TrendSpire
