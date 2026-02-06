@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-05 12:47 UTC_
+_Last updated: 2026-02-06 01:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 26460 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 26704 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [openai/skills](https://github.com/openai/skills) | 4028 | Python | Skills Catalog for Codex |
+| [openai/skills](https://github.com/openai/skills) | 4277 | Python | Skills Catalog for Codex |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 23345 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 23714 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [j178/prek](https://github.com/j178/prek) | 5347 | Rust | ⚡ Better `pre-commit`, re-engineered in Rust |
+| [j178/prek](https://github.com/j178/prek) | 5514 | Rust | ⚡ Better `pre-commit`, re-engineered in Rust |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 11723 | Python | Memory for AI Agents in 6 lines of code |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 11837 | Python | Memory for AI Agents in 6 lines of code |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 44975 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 45361 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31285 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31367 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | 32284 | Rust | The user-friendly command line shell. |
+| [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | 32385 | Rust | The user-friendly command line shell. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 91317 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 91373 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 19240 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 19350 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
 <!-- TRENDING_END -->
 
 # TrendSpire
