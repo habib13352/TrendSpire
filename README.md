@@ -1,30 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-06 12:43 UTC_
+_Last updated: 2026-02-07 01:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 26972 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [openai/skills](https://github.com/openai/skills) | 4868 | Python | Skills Catalog for Codex |
 
-| [openai/skills](https://github.com/openai/skills) | 4594 | Python | Skills Catalog for Codex |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 27113 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 24076 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 91501 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
 
-| [j178/prek](https://github.com/j178/prek) | 5652 | Rust | ⚡ Better `pre-commit`, re-engineered in Rust |
+| [likec4/likec4](https://github.com/likec4/likec4) | 1812 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 11967 | Python | Memory for AI Agents in 6 lines of code |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31541 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 45902 | Shell | An agentic skills framework & software development methodology that works. |
+| [ZeroTworu/anet](https://github.com/ZeroTworu/anet) | 533 | Rust | Simple Rust VPN Client / Server |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31439 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 21969 | Batchfile | No description provided. |
 
-| [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | 32472 | Rust | The user-friendly command line shell. |
-
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 91441 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
-
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | 19563 | TypeScript | 一款提示词优化器，助力于编写高质量的提示词 |
+| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 39869 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
 <!-- TRENDING_END -->
 
 # TrendSpire
