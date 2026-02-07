@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-07 01:09 UTC_
+_Last updated: 2026-02-07 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openai/skills](https://github.com/openai/skills) | 4868 | Python | Skills Catalog for Codex |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 7997 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 27113 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [openai/skills](https://github.com/openai/skills) | 5225 | Python | Skills Catalog for Codex |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 91501 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [microsoft/litebox](https://github.com/microsoft/litebox) | 932 | Rust | A security-focused library OS supporting kernel- and user-mode execution |
 
-| [likec4/likec4](https://github.com/likec4/likec4) | 1812 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 4543 | Python | Fully automatic censorship removal for language models |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31541 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [obra/superpowers](https://github.com/obra/superpowers) | 46582 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [ZeroTworu/anet](https://github.com/ZeroTworu/anet) | 533 | Rust | Simple Rust VPN Client / Server |
+| [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) | 23074 | Python | A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 21969 | Batchfile | No description provided. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31605 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) | 39869 | Jupyter Notebook | This is a repo with links to everything you'd ever want to learn about data engineering |
+| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 17073 | Go | An open-source, cross-platform terminal for seamless workflows |
+
+| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 7701 | JavaScript | 📱 Display and control your Android device graphically with scrcpy. |
+
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 31567 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 <!-- TRENDING_END -->
 
 # TrendSpire
