@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-09 01:16 UTC_
+_Last updated: 2026-02-09 12:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 13266 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 15561 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
 
-| [pydantic/monty](https://github.com/pydantic/monty) | 2768 | Rust | A minimal, secure Python interpreter written in Rust for use by AI |
+| [virattt/dexter](https://github.com/virattt/dexter) | 13187 | TypeScript | An autonomous agent for deep financial research |
 
-| [openai/skills](https://github.com/openai/skills) | 6983 | Python | Skills Catalog for Codex |
+| [pydantic/monty](https://github.com/pydantic/monty) | 3485 | Rust | A minimal, secure Python interpreter written in Rust for use by AI |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 12657 | TypeScript | An autonomous agent for deep financial research |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 16079 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 
-| [microsoft/litebox](https://github.com/microsoft/litebox) | 1411 | Rust | A security-focused library OS supporting kernel- and user-mode execution |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 13561 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
 
-| [google/langextract](https://github.com/google/langextract) | 24767 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 396794 | Python | A collective list of free APIs |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 47728 | Shell | An agentic skills framework & software development methodology that works. |
+| [github/gh-aw](https://github.com/github/gh-aw) | 653 | Go | GitHub Agentic Workflows |
 
-| [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) | 23402 | Python | A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 92976 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [likec4/likec4](https://github.com/likec4/likec4) | 2362 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
+| [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 18536 | Rust | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 13182 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
+| [microsoft/litebox](https://github.com/microsoft/litebox) | 1624 | Rust | A security-focused library OS supporting kernel- and user-mode execution |
 <!-- TRENDING_END -->
 
 # TrendSpire
