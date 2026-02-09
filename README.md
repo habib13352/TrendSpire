@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-08 12:35 UTC_
+_Last updated: 2026-02-09 01:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 11388 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 13266 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
 
-| [openai/skills](https://github.com/openai/skills) | 6619 | Python | Skills Catalog for Codex |
+| [pydantic/monty](https://github.com/pydantic/monty) | 2768 | Rust | A minimal, secure Python interpreter written in Rust for use by AI |
 
-| [microsoft/litebox](https://github.com/microsoft/litebox) | 1264 | Rust | A security-focused library OS supporting kernel- and user-mode execution |
+| [openai/skills](https://github.com/openai/skills) | 6983 | Python | Skills Catalog for Codex |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 4852 | Python | Fully automatic censorship removal for language models |
+| [virattt/dexter](https://github.com/virattt/dexter) | 12657 | TypeScript | An autonomous agent for deep financial research |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 47363 | Shell | An agentic skills framework & software development methodology that works. |
+| [microsoft/litebox](https://github.com/microsoft/litebox) | 1411 | Rust | A security-focused library OS supporting kernel- and user-mode execution |
 
-| [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) | 23289 | Python | A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone |
+| [google/langextract](https://github.com/google/langextract) | 24767 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 31755 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [obra/superpowers](https://github.com/obra/superpowers) | 47728 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) | 17213 | Go | An open-source, cross-platform terminal for seamless workflows |
+| [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) | 23402 | Python | A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone |
 
-| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 7957 | JavaScript | 📱 Display and control your Android device graphically with scrcpy. |
+| [likec4/likec4](https://github.com/likec4/likec4) | 2362 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 32402 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 13182 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
 <!-- TRENDING_END -->
 
 # TrendSpire

@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-02-09 01:16 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
+      "description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+      "language": "TypeScript",
+      "stars": 13266
+    },
+    {
+      "rank": 2,
+      "name": "pydantic/monty",
+      "url": "https://github.com/pydantic/monty",
+      "description": "A minimal, secure Python interpreter written in Rust for use by AI",
+      "language": "Rust",
+      "stars": 2768
+    },
+    {
+      "rank": 3,
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 6983
+    },
+    {
+      "rank": 4,
+      "name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 12657
+    },
+    {
+      "rank": 5,
+      "name": "microsoft/litebox",
+      "url": "https://github.com/microsoft/litebox",
+      "description": "A security-focused library OS supporting kernel- and user-mode execution",
+      "language": "Rust",
+      "stars": 1411
+    },
+    {
+      "rank": 6,
+      "name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "language": "Python",
+      "stars": 24767
+    },
+    {
+      "rank": 7,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 47728
+    },
+    {
+      "rank": 8,
+      "name": "OpenBMB/MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+      "language": "Python",
+      "stars": 23402
+    },
+    {
+      "rank": 9,
+      "name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "language": "TypeScript",
+      "stars": 2362
+    },
+    {
+      "rank": 10,
+      "name": "iOfficeAI/AionUi",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "description": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | \ud83c\udf1f Star if you like it!",
+      "language": "TypeScript",
+      "stars": 13182
+    }
+  ]
+}
