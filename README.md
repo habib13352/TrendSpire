@@ -1,30 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-11 01:23 UTC_
+_Last updated: 2026-02-11 12:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google/langextract](https://github.com/google/langextract) | 28469 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 29855 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 14446 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
+| [github/gh-aw](https://github.com/github/gh-aw) | 1522 | Go | GitHub Agentic Workflows |
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 19760 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129253 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 1345 | Go | GitHub Agentic Workflows |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 23792 | TypeScript | Chrome DevTools for coding agents |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 8174 | TypeScript | Official Claude Code compound engineering plugin |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 8309 | TypeScript | Official Claude Code compound engineering plugin |
 
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 16674 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 28330 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 19033 | Rust | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
-
-| [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) | 816 | MDX | Interactive course teaching Product Managers how to use Claude Code effectively |
-
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 93629 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
-
-| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 36321 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 8929 | Python | A list of free LLM inference resources accessible via API. |
 <!-- TRENDING_END -->
 
 # TrendSpire
