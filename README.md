@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-10 12:58 UTC_
+_Last updated: 2026-02-11 01:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google/langextract](https://github.com/google/langextract) | 26758 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 28469 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 14177 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 14446 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 19082 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 19760 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 1148 | Go | GitHub Agentic Workflows |
+| [github/gh-aw](https://github.com/github/gh-aw) | 1345 | Go | GitHub Agentic Workflows |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 8043 | TypeScript | Official Claude Code compound engineering plugin |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 8174 | TypeScript | Official Claude Code compound engineering plugin |
 
-| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 16572 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | 16674 | Python | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
 
-| [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 18785 | Rust | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
+| [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) | 19033 | Rust | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte |
 
-| [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) | 669 | MDX | Interactive course teaching Product Managers how to use Claude Code effectively |
+| [carlvellotti/claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) | 816 | MDX | Interactive course teaching Product Managers how to use Claude Code effectively |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 93407 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 93629 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 36063 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
+| [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) | 36321 | JavaScript | Free, simple, and intuitive online database diagram editor and SQL generator. |
 <!-- TRENDING_END -->
 
 # TrendSpire
