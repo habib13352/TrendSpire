@@ -1,24 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-12 01:16 UTC_
+_Last updated: 2026-02-12 12:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google/langextract](https://github.com/google/langextract) | 30478 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 8751 | TypeScript | Generative UI SDK for React |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 1726 | Go | GitHub Agentic Workflows |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 7229 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129404 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [google/langextract](https://github.com/google/langextract) | 30956 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 23983 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24222 | TypeScript | Chrome DevTools for coding agents |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 8477 | TypeScript | Official Claude Code compound engineering plugin |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129552 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 28622 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 15153 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
 
-| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 9512 | Python | A list of free LLM inference resources accessible via API. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 94156 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 4932 | TypeScript | Open-source AI coworker, with memory |
+
+| [github/gh-aw](https://github.com/github/gh-aw) | 1923 | Go | GitHub Agentic Workflows |
+
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 51947 | Python | Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. |
 <!-- TRENDING_END -->
 
 # TrendSpire
