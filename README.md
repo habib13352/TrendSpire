@@ -1,24 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-11 12:55 UTC_
+_Last updated: 2026-02-12 01:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google/langextract](https://github.com/google/langextract) | 29855 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 30478 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 1522 | Go | GitHub Agentic Workflows |
+| [github/gh-aw](https://github.com/github/gh-aw) | 1726 | Go | GitHub Agentic Workflows |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129253 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129404 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 23792 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 23983 | TypeScript | Chrome DevTools for coding agents |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 8309 | TypeScript | Official Claude Code compound engineering plugin |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 8477 | TypeScript | Official Claude Code compound engineering plugin |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 28330 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 28622 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 8929 | Python | A list of free LLM inference resources accessible via API. |
+| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 9512 | Python | A list of free LLM inference resources accessible via API. |
 <!-- TRENDING_END -->
 
 # TrendSpire
