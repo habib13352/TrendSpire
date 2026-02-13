@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-12 12:53 UTC_
+_Last updated: 2026-02-13 01:19 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 8751 | TypeScript | Generative UI SDK for React |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 9023 | TypeScript | Generative UI SDK for React |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 7229 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 7514 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [google/langextract](https://github.com/google/langextract) | 30956 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [google/langextract](https://github.com/google/langextract) | 31402 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24222 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24398 | TypeScript | Chrome DevTools for coding agents |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129552 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129653 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 15153 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
+| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 15381 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 94156 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 94356 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 4932 | TypeScript | Open-source AI coworker, with memory |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 5181 | TypeScript | Open-source AI coworker, with memory |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 1923 | Go | GitHub Agentic Workflows |
+| [github/gh-aw](https://github.com/github/gh-aw) | 2018 | Go | GitHub Agentic Workflows |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 51947 | Python | Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 52044 | Python | Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. |
 <!-- TRENDING_END -->
 
 # TrendSpire
