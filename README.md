@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-13 01:19 UTC_
+_Last updated: 2026-02-13 12:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 9023 | TypeScript | Generative UI SDK for React |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 299 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 7514 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24557 | TypeScript | Chrome DevTools for coding agents |
 
-| [google/langextract](https://github.com/google/langextract) | 31402 | Python | A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 7803 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24398 | TypeScript | Chrome DevTools for coding agents |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 29011 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 129653 | C# | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) | 5806 | C | No description provided. |
 
-| [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 15381 | TypeScript | Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! |
+| [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman) | 274 | TeX | No description provided. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 94356 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 10341 | Python | A list of free LLM inference resources accessible via API. |
 
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 5181 | TypeScript | Open-source AI coworker, with memory |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 21059 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 2018 | Go | GitHub Agentic Workflows |
+| [THUDM/slime](https://github.com/THUDM/slime) | 3995 | Python | slime is an LLM post-training framework for RL Scaling. |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 52044 | Python | Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM. |
+| [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) | 1279 | Swift | A toolkit to make debugging iOS applications easier 🚀 |
 <!-- TRENDING_END -->
 
 # TrendSpire
