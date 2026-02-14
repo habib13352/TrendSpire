@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-14 01:12 UTC_
+_Last updated: 2026-02-14 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 426 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 9421 | TypeScript | Generative UI SDK for React |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24725 | TypeScript | Chrome DevTools for coding agents |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 510 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 8047 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 5595 | TypeScript | Open-source AI coworker, with memory |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 29304 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [minio/minio](https://github.com/minio/minio) | 60226 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 
-| [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) | 5883 | C | No description provided. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24882 | TypeScript | Chrome DevTools for coding agents |
 
-| [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman) | 375 | TeX | No description provided. |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 978 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 10645 | Python | A list of free LLM inference resources accessible via API. |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 5962 | Python | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
 
-| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 21155 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
+| [Zipstack/unstract](https://github.com/Zipstack/unstract) | 6164 | Python | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents |
 
-| [THUDM/slime](https://github.com/THUDM/slime) | 4083 | Python | slime is an LLM post-training framework for RL Scaling. |
+| [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | 1089 | TypeScript | The memory-first coding agent |
 
-| [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) | 1430 | Swift | A toolkit to make debugging iOS applications easier 🚀 |
+| [ruby/ruby](https://github.com/ruby/ruby) | 23318 | Ruby | The Ruby Programming Language |
 <!-- TRENDING_END -->
 
 # TrendSpire
