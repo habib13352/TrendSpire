@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-13 12:43 UTC_
+_Last updated: 2026-02-14 01:12 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 299 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 426 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24557 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24725 | TypeScript | Chrome DevTools for coding agents |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 7803 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 8047 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 29011 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | 29304 | Jupyter Notebook | In-depth tutorials on LLMs, RAGs and real-world AI agent applications. |
 
-| [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) | 5806 | C | No description provided. |
+| [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) | 5883 | C | No description provided. |
 
-| [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman) | 274 | TeX | No description provided. |
+| [google-deepmind/superhuman](https://github.com/google-deepmind/superhuman) | 375 | TeX | No description provided. |
 
-| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 10341 | Python | A list of free LLM inference resources accessible via API. |
+| [cheahjs/free-llm-api-resources](https://github.com/cheahjs/free-llm-api-resources) | 10645 | Python | A list of free LLM inference resources accessible via API. |
 
-| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 21059 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 21155 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 
-| [THUDM/slime](https://github.com/THUDM/slime) | 3995 | Python | slime is an LLM post-training framework for RL Scaling. |
+| [THUDM/slime](https://github.com/THUDM/slime) | 4083 | Python | slime is an LLM post-training framework for RL Scaling. |
 
-| [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) | 1279 | Swift | A toolkit to make debugging iOS applications easier 🚀 |
+| [DebugSwift/DebugSwift](https://github.com/DebugSwift/DebugSwift) | 1430 | Swift | A toolkit to make debugging iOS applications easier 🚀 |
 <!-- TRENDING_END -->
 
 # TrendSpire
