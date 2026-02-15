@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-14 12:34 UTC_
+_Last updated: 2026-02-15 01:19 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 9421 | TypeScript | Generative UI SDK for React |
+| [tambo-ai/tambo](https://github.com/tambo-ai/tambo) | 9622 | TypeScript | Generative UI SDK for React |
 
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 510 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 609 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 5595 | TypeScript | Open-source AI coworker, with memory |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 6067 | TypeScript | Open-source AI coworker, with memory |
 
-| [minio/minio](https://github.com/minio/minio) | 60226 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
+| [minio/minio](https://github.com/minio/minio) | 60280 | Go | MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 24882 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 25096 | TypeScript | Chrome DevTools for coding agents |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 978 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 1263 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 5962 | Python | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 6164 | Python | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
 
-| [Zipstack/unstract](https://github.com/Zipstack/unstract) | 6164 | Python | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents |
+| [Zipstack/unstract](https://github.com/Zipstack/unstract) | 6318 | Python | No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents |
 
-| [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | 1089 | TypeScript | The memory-first coding agent |
+| [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | 1215 | TypeScript | The memory-first coding agent |
 
-| [ruby/ruby](https://github.com/ruby/ruby) | 23318 | Ruby | The Ruby Programming Language |
+| [ruby/ruby](https://github.com/ruby/ruby) | 23370 | Ruby | The Ruby Programming Language |
 <!-- TRENDING_END -->
 
 # TrendSpire
