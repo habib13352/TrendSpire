@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-15 12:36 UTC_
+_Last updated: 2026-02-16 01:15 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 19045 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 19310 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [steipete/gogcli](https://github.com/steipete/gogcli) | 2615 | Go | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| [steipete/gogcli](https://github.com/steipete/gogcli) | 2980 | Go | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
 
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 6403 | TypeScript | Open-source AI coworker, with memory |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 6817 | TypeScript | Open-source AI coworker, with memory |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 2495 | Go | GitHub Agentic Workflows |
+| [github/gh-aw](https://github.com/github/gh-aw) | 2709 | Go | GitHub Agentic Workflows |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 25237 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 25424 | TypeScript | Chrome DevTools for coding agents |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 1681 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 2333 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 195616 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 197312 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 3572 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 3823 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
 
-| [brave/brave-browser](https://github.com/brave/brave-browser) | 21433 | Unknown | Brave browser for Android, iOS, Linux, macOS, Windows. |
+| [brave/brave-browser](https://github.com/brave/brave-browser) | 21548 | Unknown | Brave browser for Android, iOS, Linux, macOS, Windows. |
 
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 676 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 794 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 <!-- TRENDING_END -->
 
 # TrendSpire
