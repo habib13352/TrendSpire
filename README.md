@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-16 01:15 UTC_
+_Last updated: 2026-02-16 12:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 19310 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 2823 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [steipete/gogcli](https://github.com/steipete/gogcli) | 2980 | Go | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 19584 | Rust | A high-performance algorithmic trading platform and event-driven backtester |
 
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 6817 | TypeScript | Open-source AI coworker, with memory |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 7086 | TypeScript | Open-source AI coworker, with memory |
 
-| [github/gh-aw](https://github.com/github/gh-aw) | 2709 | Go | GitHub Agentic Workflows |
+| [steipete/gogcli](https://github.com/steipete/gogcli) | 3261 | Go | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 25424 | TypeScript | Chrome DevTools for coding agents |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 199520 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 2333 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 875 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 197312 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [letta-ai/letta-code](https://github.com/letta-ai/letta-code) | 1333 | TypeScript | The memory-first coding agent |
 
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 3823 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 6652 | Python | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
 
-| [brave/brave-browser](https://github.com/brave/brave-browser) | 21548 | Unknown | Brave browser for Android, iOS, Linux, macOS, Windows. |
+| [seerr-team/seerr](https://github.com/seerr-team/seerr) | 8904 | TypeScript | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
 
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 794 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 16239 | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
 <!-- TRENDING_END -->
 
 # TrendSpire
