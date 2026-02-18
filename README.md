@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-17 12:50 UTC_
+_Last updated: 2026-02-18 01:17 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 6720 | Python | Fully automatic censorship removal for language models |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 7218 | Python | Fully automatic censorship removal for language models |
 
-| [seerr-team/seerr](https://github.com/seerr-team/seerr) | 9175 | TypeScript | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [seerr-team/seerr](https://github.com/seerr-team/seerr) | 9330 | TypeScript | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 53147 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 53610 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [steipete/gogcli](https://github.com/steipete/gogcli) | 3708 | Go | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| [steipete/gogcli](https://github.com/steipete/gogcli) | 3871 | Go | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 4223 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 4492 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 203496 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 205425 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 1067 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 1200 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
 
-| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 32584 | Java | Learn System Design concepts and prepare for interviews using free resources. |
+| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 32817 | Java | Learn System Design concepts and prepare for interviews using free resources. |
 
-| [steipete/summarize](https://github.com/steipete/summarize) | 3241 | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| [steipete/summarize](https://github.com/steipete/summarize) | 3445 | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
 
-| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 16793 | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
+| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 17045 | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
 <!-- TRENDING_END -->
 
 # TrendSpire
