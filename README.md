@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-18 01:17 UTC_
+_Last updated: 2026-02-18 12:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 7218 | Python | Fully automatic censorship removal for language models |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 4710 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [seerr-team/seerr](https://github.com/seerr-team/seerr) | 9330 | TypeScript | Open-source media request and discovery manager for Jellyfin, Plex, and Emby. |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 7651 | Python | Fully automatic censorship removal for language models |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 53610 | Shell | An agentic skills framework & software development methodology that works. |
+| [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) | 8546 | TypeScript | Open Cyber Threat Intelligence Platform |
 
-| [steipete/gogcli](https://github.com/steipete/gogcli) | 3871 | Go | Google Suite CLI: Gmail, GCal, GDrive, GContacts. |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 18646 | TypeScript | An open-source AI agent that lives in your terminal. |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 4492 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 25030 | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses. |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 205425 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 19305 | JavaScript | Introduction to Machine Learning Systems |
 
-| [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) | 1200 | JavaScript | Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 54010 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) | 32817 | Java | Learn System Design concepts and prepare for interviews using free resources. |
+| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 936 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 
-| [steipete/summarize](https://github.com/steipete/summarize) | 3445 | TypeScript | Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension. |
+| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 26635 | TypeScript | Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling |
 
-| [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) | 17045 | Python | Open source software that helps you create and deploy high-frequency crypto trading bots |
+| [p2r3/convert](https://github.com/p2r3/convert) | 1151 | TypeScript | Truly universal online file converter |
 <!-- TRENDING_END -->
 
 # TrendSpire
