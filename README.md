@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-18 12:51 UTC_
+_Last updated: 2026-02-19 01:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 4710 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 4913 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 7651 | Python | Fully automatic censorship removal for language models |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 8039 | Python | Fully automatic censorship removal for language models |
 
-| [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) | 8546 | TypeScript | Open Cyber Threat Intelligence Platform |
+| [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) | 8696 | TypeScript | Open Cyber Threat Intelligence Platform |
 
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 18646 | TypeScript | An open-source AI agent that lives in your terminal. |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 18844 | TypeScript | An open-source AI agent that lives in your terminal. |
 
-| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 25030 | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses. |
+| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 25257 | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses. |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 19305 | JavaScript | Introduction to Machine Learning Systems |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 19680 | JavaScript | Introduction to Machine Learning Systems |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 54010 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 54473 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 936 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
+| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1288 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 
-| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 26635 | TypeScript | Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling |
+| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 26768 | TypeScript | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. |
 
-| [p2r3/convert](https://github.com/p2r3/convert) | 1151 | TypeScript | Truly universal online file converter |
+| [p2r3/convert](https://github.com/p2r3/convert) | 1451 | TypeScript | Truly universal online file converter |
 <!-- TRENDING_END -->
 
 # TrendSpire
