@@ -1,30 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-19 01:16 UTC_
+_Last updated: 2026-02-19 12:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 4913 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [obra/superpowers](https://github.com/obra/superpowers) | 54890 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 8039 | Python | Fully automatic censorship removal for language models |
+| [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | 538 | TypeScript | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! |
 
-| [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) | 8696 | TypeScript | Open Cyber Threat Intelligence Platform |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 19937 | JavaScript | Introduction to Machine Learning Systems |
 
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 18844 | TypeScript | An open-source AI agent that lives in your terminal. |
+| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1522 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 
-| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 25257 | Jupyter Notebook | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses. |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 210383 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 19680 | JavaScript | Introduction to Machine Learning Systems |
+| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 4950 | Python | Free Motion Capture for Everyone 💀✨ |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 54473 | Shell | An agentic skills framework & software development methodology that works. |
-
-| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1288 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
-
-| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | 26768 | TypeScript | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. |
-
-| [p2r3/convert](https://github.com/p2r3/convert) | 1451 | TypeScript | Truly universal online file converter |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 8282 | Python | Fully automatic censorship removal for language models |
 <!-- TRENDING_END -->
 
 # TrendSpire
