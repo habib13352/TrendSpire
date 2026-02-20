@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-20 01:12 UTC_
+_Last updated: 2026-02-20 12:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 55395 | Shell | An agentic skills framework & software development methodology that works. |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 2670 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | 962 | Python | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence. |
+| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 5690 | C++ | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
 
-| [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | 722 | TypeScript | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! |
+| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1936 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 20203 | JavaScript | Introduction to Machine Learning Systems |
+| [obra/superpowers](https://github.com/obra/superpowers) | 55824 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1753 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32038 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 211903 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 31364 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
 
-| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 5205 | Python | Free Motion Capture for Everyone 💀✨ |
+| [eslint/eslint](https://github.com/eslint/eslint) | 27013 | JavaScript | Find and fix problems in your JavaScript code. |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 8494 | Python | Fully automatic censorship removal for language models |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 7715 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+
+| [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | 336 | TypeScript | Core libraries and experimental work for Effect v4 |
+
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 8690 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 <!-- TRENDING_END -->
 
 # TrendSpire
