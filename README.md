@@ -1,24 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-19 12:51 UTC_
+_Last updated: 2026-02-20 01:12 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 54890 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 55395 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | 538 | TypeScript | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! |
+| [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) | 962 | Python | A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence. |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 19937 | JavaScript | Introduction to Machine Learning Systems |
+| [open-mercato/open-mercato](https://github.com/open-mercato/open-mercato) | 722 | TypeScript | AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade! |
 
-| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1522 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 20203 | JavaScript | Introduction to Machine Learning Systems |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 210383 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1753 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 
-| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 4950 | Python | Free Motion Capture for Everyone 💀✨ |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 211903 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 8282 | Python | Fully automatic censorship removal for language models |
+| [freemocap/freemocap](https://github.com/freemocap/freemocap) | 5205 | Python | Free Motion Capture for Everyone 💀✨ |
+
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 8494 | Python | Fully automatic censorship removal for language models |
 <!-- TRENDING_END -->
 
 # TrendSpire

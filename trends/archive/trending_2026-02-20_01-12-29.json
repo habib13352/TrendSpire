@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-02-20 01:12 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 55395
+    },
+    {
+      "rank": 2,
+      "name": "RichardAtCT/claude-code-telegram",
+      "url": "https://github.com/RichardAtCT/claude-code-telegram",
+      "description": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+      "language": "Python",
+      "stars": 962
+    },
+    {
+      "rank": 3,
+      "name": "open-mercato/open-mercato",
+      "url": "https://github.com/open-mercato/open-mercato",
+      "description": "AI\u2011supportive CRM / ERP foundation framework \u2014 built to power R&D, new processes, operations, and growth. It\u2019s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+      "language": "TypeScript",
+      "stars": 722
+    },
+    {
+      "rank": 4,
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "description": "Introduction to Machine Learning Systems",
+      "language": "JavaScript",
+      "stars": 20203
+    },
+    {
+      "rank": 5,
+      "name": "HailToDodongo/pyrite64",
+      "url": "https://github.com/HailToDodongo/pyrite64",
+      "description": "N64 Game-Engine and Editor using libdragon & tiny3d",
+      "language": "C++",
+      "stars": 1753
+    },
+    {
+      "rank": 6,
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+      "language": "TypeScript",
+      "stars": 211903
+    },
+    {
+      "rank": 7,
+      "name": "freemocap/freemocap",
+      "url": "https://github.com/freemocap/freemocap",
+      "description": "Free Motion Capture for Everyone \ud83d\udc80\u2728",
+      "language": "Python",
+      "stars": 5205
+    },
+    {
+      "rank": 8,
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 8494
+    }
+  ]
+}
