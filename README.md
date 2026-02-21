@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-21 01:10 UTC_
+_Last updated: 2026-02-21 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 3912 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 4710 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 6035 | C++ | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 835 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 2127 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
+| [obra/superpowers](https://github.com/obra/superpowers) | 56578 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 56245 | Shell | An agentic skills framework & software development methodology that works. |
+| [huggingface/skills](https://github.com/huggingface/skills) | 1542 | Python | No description provided. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32105 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 51468 | C# | PowerShell for every system! |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 31557 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 68159 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [eslint/eslint](https://github.com/eslint/eslint) | 27059 | JavaScript | Find and fix problems in your JavaScript code. |
+| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 17603 | TypeScript | Make beautiful isometric infrastructure diagrams |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 7876 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [ggml-org/ggml](https://github.com/ggml-org/ggml) | 14013 | C++ | Tensor library for machine learning |
 
-| [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | 373 | TypeScript | Core libraries and experimental work for Effect v4 |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 9314 | JavaScript | Stremio - Freedom to Stream |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 8846 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 22360 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 <!-- TRENDING_END -->
 
 # TrendSpire
