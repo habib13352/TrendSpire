@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-20 12:43 UTC_
+_Last updated: 2026-02-21 01:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 2670 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 3912 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 5690 | C++ | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
+| [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) | 6035 | C++ | Build ultra fast, tiny, and cross-platform desktop apps with Typescript. |
 
-| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 1936 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
+| [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64) | 2127 | C++ | N64 Game-Engine and Editor using libdragon & tiny3d |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 55824 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 56245 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32038 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32105 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 31364 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 31557 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
 
-| [eslint/eslint](https://github.com/eslint/eslint) | 27013 | JavaScript | Find and fix problems in your JavaScript code. |
+| [eslint/eslint](https://github.com/eslint/eslint) | 27059 | JavaScript | Find and fix problems in your JavaScript code. |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 7715 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 7876 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | 336 | TypeScript | Core libraries and experimental work for Effect v4 |
+| [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) | 373 | TypeScript | Core libraries and experimental work for Effect v4 |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 8690 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 8846 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 <!-- TRENDING_END -->
 
 # TrendSpire
