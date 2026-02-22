@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-21 12:34 UTC_
+_Last updated: 2026-02-22 01:15 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 4710 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 5573 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 835 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 1043 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 56578 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 57009 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [huggingface/skills](https://github.com/huggingface/skills) | 1542 | Python | No description provided. |
+| [huggingface/skills](https://github.com/huggingface/skills) | 1683 | Python | No description provided. |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 51468 | C# | PowerShell for every system! |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 51546 | C# | PowerShell for every system! |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 68159 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 68418 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 17603 | TypeScript | Make beautiful isometric infrastructure diagrams |
+| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 17784 | TypeScript | Make beautiful isometric infrastructure diagrams |
 
-| [ggml-org/ggml](https://github.com/ggml-org/ggml) | 14013 | C++ | Tensor library for machine learning |
+| [ggml-org/ggml](https://github.com/ggml-org/ggml) | 14063 | C++ | Tensor library for machine learning |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 9314 | JavaScript | Stremio - Freedom to Stream |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 9456 | JavaScript | Stremio - Freedom to Stream |
 
-| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 22360 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
+| [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 22562 | Jupyter Notebook | Official code repo for the O'Reilly Book - "Hands-On Large Language Models" |
 <!-- TRENDING_END -->
 
 # TrendSpire
