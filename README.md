@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-23 01:15 UTC_
+_Last updated: 2026-02-23 12:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [huggingface/skills](https://github.com/huggingface/skills) | 2633 | Python | No description provided. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 118891 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 7021 | Go | ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [huggingface/skills](https://github.com/huggingface/skills) | 3372 | Python | No description provided. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 68968 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 61215 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 117816 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 8643 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 9709 | JavaScript | Stremio - Freedom to Stream |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 146787 | HTML | a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 60996 | Python | Financial data platform for analysts, quants and AI agents. |
+| [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | 72437 | Jupyter Notebook | A latent text-to-image diffusion model |
 
-| [cloudflare/agents](https://github.com/cloudflare/agents) | 3746 | TypeScript | Build and deploy AI Agents on Cloudflare |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 1723 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 1519 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 9832 | JavaScript | Stremio - Freedom to Stream |
 
-| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 18176 | TypeScript | Make beautiful isometric infrastructure diagrams |
+| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 18369 | TypeScript | Make beautiful isometric infrastructure diagrams |
+
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 16404 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 <!-- TRENDING_END -->
 
 # TrendSpire
