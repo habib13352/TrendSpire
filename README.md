@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-24 01:13 UTC_
+_Last updated: 2026-02-24 12:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 120704 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [huggingface/skills](https://github.com/huggingface/skills) | 4623 | Python | No description provided. |
 
-| [huggingface/skills](https://github.com/huggingface/skills) | 3909 | Python | No description provided. |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 9410 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 61445 | Python | Financial data platform for analysts, quants and AI agents. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 61720 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 8935 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 58919 | C++ | Truly independent web browser |
 
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 147051 | HTML | a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 122451 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) | 72490 | Jupyter Notebook | A latent text-to-image diffusion model |
+| [obra/superpowers](https://github.com/obra/superpowers) | 59953 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 1930 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 541 | Rust | RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval. |
 
-| [Stremio/stremio-web](https://github.com/Stremio/stremio-web) | 9944 | JavaScript | Stremio - Freedom to Stream |
+| [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | 1807 | Python | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming |
 
-| [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) | 18556 | TypeScript | Make beautiful isometric infrastructure diagrams |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 7265 | Python | Useful tool to track location or mobile number |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 16781 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 17084 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 <!-- TRENDING_END -->
 
 # TrendSpire
