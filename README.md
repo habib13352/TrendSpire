@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-25 01:19 UTC_
+_Last updated: 2026-02-25 12:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [huggingface/skills](https://github.com/huggingface/skills) | 5321 | Python | No description provided. |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 13633 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 9900 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
+| [huggingface/skills](https://github.com/huggingface/skills) | 6086 | Python | No description provided. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 61884 | Python | Financial data platform for analysts, quants and AI agents. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 3245 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 59098 | C++ | Truly independent web browser |
+| [obra/superpowers](https://github.com/obra/superpowers) | 61169 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 123079 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 10397 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 60474 | Shell | An agentic skills framework & software development methodology that works. |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 21791 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 731 | Rust | RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 20268 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 12630 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 17437 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [GVCLab/PersonaLive](https://github.com/GVCLab/PersonaLive) | 1977 | Python | [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 10592 | Python | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 7455 | Python | Useful tool to track location or mobile number |
+| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 967 | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
 <!-- TRENDING_END -->
 
 # TrendSpire
