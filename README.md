@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-25 12:51 UTC_
+_Last updated: 2026-02-26 01:12 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 13633 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 15052 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [huggingface/skills](https://github.com/huggingface/skills) | 6086 | Python | No description provided. |
+| [huggingface/skills](https://github.com/huggingface/skills) | 6392 | Python | No description provided. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 3245 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 3712 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 61169 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 61838 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 10397 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 10722 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 21791 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 21951 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 20268 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 20450 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 17437 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 17711 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 10592 | Python | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | 10798 | Python | Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). |
 
-| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 967 | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
+| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 1182 | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
 <!-- TRENDING_END -->
 
 # TrendSpire
