@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-27 01:10 UTC_
+_Last updated: 2026-02-27 12:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 20874 | Rust | Development at the speed of light |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 7771 | Python | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 63368 | Shell | An agentic skills framework & software development methodology that works. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 21546 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 11730 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
+| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 5601 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 21109 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 12153 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
 
-| [huggingface/skills](https://github.com/huggingface/skills) | 6982 | Python | No description provided. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 64218 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 20666 | Rust | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. |
+| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 15241 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 16851 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 22859 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 14967 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 5915 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 1594 | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 17901 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 5261 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 70901 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 <!-- TRENDING_END -->
 
 # TrendSpire
