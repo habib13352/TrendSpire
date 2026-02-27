@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-26 12:52 UTC_
+_Last updated: 2026-02-27 01:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 20575 | Rust | Development at the speed of light |
+| [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) | 20874 | Rust | Development at the speed of light |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 62715 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 63368 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 11360 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 11730 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 20868 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 21109 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [huggingface/skills](https://github.com/huggingface/skills) | 6775 | Python | No description provided. |
+| [huggingface/skills](https://github.com/huggingface/skills) | 6982 | Python | No description provided. |
 
-| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 20445 | TypeScript | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. |
+| [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 20666 | Rust | A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI. |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 16376 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 16851 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 14723 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) | 14967 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 1391 | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
+| [ruvnet/ruvector](https://github.com/ruvnet/ruvector) | 1594 | Rust | RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust. |
 
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 5019 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 5261 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
 <!-- TRENDING_END -->
 
 # TrendSpire
