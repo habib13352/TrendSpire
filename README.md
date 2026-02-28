@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-28 01:05 UTC_
+_Last updated: 2026-02-28 12:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 9230 | Python | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 18949 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 21847 | TypeScript | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 71579 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 5833 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| [tukaani-project/xz](https://github.com/tukaani-project/xz) | 1188 | C | XZ Utils |
 
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | 12391 | Python | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98004 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 64740 | Shell | An agentic skills framework & software development methodology that works. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 16157 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 15645 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 22427 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 23016 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 8642 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 6200 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 993 | Python | No description provided. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 18307 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | 2242 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 71166 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 6093 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
 <!-- TRENDING_END -->
 
 # TrendSpire
