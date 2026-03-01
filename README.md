@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-01 01:21 UTC_
+_Last updated: 2026-03-01 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 11184 | Rust | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 19677 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 19355 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 14929 | Rust | WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 71850 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 16910 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [tukaani-project/xz](https://github.com/tukaani-project/xz) | 1232 | C | XZ Utils |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 88691 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98263 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 22771 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 16565 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 2866 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 22606 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98463 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 8687 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 9899 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 1132 | Python | No description provided. |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 20643 | Shell | Beautiful, Modern & Opinionated Linux |
 
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 2451 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
+| [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | 7615 | Python | Mobile-Agent: The Powerful GUI Agent Family |
 <!-- TRENDING_END -->
 
 # TrendSpire
