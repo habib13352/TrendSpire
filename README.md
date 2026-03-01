@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-02-28 12:32 UTC_
+_Last updated: 2026-03-01 01:21 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 18949 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 11184 | Rust | Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 71579 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 19355 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [tukaani-project/xz](https://github.com/tukaani-project/xz) | 1188 | C | XZ Utils |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 71850 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98004 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
+| [tukaani-project/xz](https://github.com/tukaani-project/xz) | 1232 | C | XZ Utils |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 16157 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 98263 | Python | Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 22427 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 16565 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 8642 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 22606 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 993 | Python | No description provided. |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | 8687 | JavaScript | CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 2242 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 1132 | Python | No description provided. |
 
-| [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) | 6093 | C | Fast and accurate automatic speech recognition (ASR) for edge devices |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | 2451 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
 <!-- TRENDING_END -->
 
 # TrendSpire
