@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-02 12:42 UTC_
+_Last updated: 2026-03-03 01:15 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 19976 | Rust | WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) | 22000 | Rust | WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 21082 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 21409 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 31178 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
+| [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 31601 | Jupyter Notebook | Anthropic's Interactive Prompt Engineering Tutorial |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 17720 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 18067 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 3840 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
+| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 4326 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 89323 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 89614 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 10734 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11085 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 3223 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | 3520 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
 
-| [servo/servo](https://github.com/servo/servo) | 35658 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
+| [servo/servo](https://github.com/servo/servo) | 35755 | Rust | Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. |
 <!-- TRENDING_END -->
 
 # TrendSpire
