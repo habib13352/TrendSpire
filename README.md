@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-03 12:41 UTC_
+_Last updated: 2026-03-04 01:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 24317 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 25318 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11518 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11926 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 21899 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 22168 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3117 | TypeScript | Generate code from the terminal! |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3276 | TypeScript | Generate code from the terminal! |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 16853 | Python | Build and run agents you can see, understand and trust. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17028 | Python | Build and run agents you can see, understand and trust. |
 
-| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1149 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
+| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1285 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 7288 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 7395 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 3842 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | 4173 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 342 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 543 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 4965 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
+| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5391 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
 <!-- TRENDING_END -->
 
 # TrendSpire
