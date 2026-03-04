@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-04 01:11 UTC_
+_Last updated: 2026-03-04 12:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 25318 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 28670 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
 
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 11926 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 4698 | Unknown | A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 22168 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 711 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3276 | TypeScript | Generate code from the terminal! |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 12447 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17028 | Python | Build and run agents you can see, understand and trust. |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3454 | TypeScript | Generate code from the terminal! |
 
-| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1285 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
+| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1488 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 7395 | Python | Supercharge Your LLM with the Fastest KV Cache Layer |
+| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5717 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
 
-| [superset-sh/superset](https://github.com/superset-sh/superset) | 4173 | TypeScript | IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 13982 | Python | Automate the process of making money online. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 543 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 30464 | TypeScript | Perplexica is an AI-powered answering engine. |
 
-| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5391 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17262 | Python | Build and run agents you can see, understand and trust. |
 <!-- TRENDING_END -->
 
 # TrendSpire
