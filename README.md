@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-05 01:14 UTC_
+_Last updated: 2026-03-05 12:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 30389 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 6143 | Unknown | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 5471 | Unknown | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 1298 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 857 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 31437 | TypeScript | Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark. |
 
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 12728 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32785 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3572 | TypeScript | Generate code from the terminal! |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 26411 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1625 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
+| [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 3949 | Python | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. |
 
-| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5981 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
+| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 14707 | Jupyter Notebook | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. |
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14198 | Python | Automate the process of making money online. |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3729 | TypeScript | Generate code from the terminal! |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 30864 | TypeScript | Perplexica is an AI-powered answering engine. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14493 | Python | Automate the process of making money online. |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17384 | Python | Build and run agents you can see, understand and trust. |
+| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 176 | PowerShell | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots |
 <!-- TRENDING_END -->
 
 # TrendSpire
