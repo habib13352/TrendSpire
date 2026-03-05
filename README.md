@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-04 12:41 UTC_
+_Last updated: 2026-03-05 01:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 28670 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 30389 | TypeScript | Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 4698 | Unknown | A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 5471 | Unknown | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 711 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 857 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 12447 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 12728 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3454 | TypeScript | Generate code from the terminal! |
+| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3572 | TypeScript | Generate code from the terminal! |
 
-| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1488 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
+| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1625 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
 
-| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5717 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
+| [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | 5981 | Python | OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. |
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 13982 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14198 | Python | Automate the process of making money online. |
 
-| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 30464 | TypeScript | Perplexica is an AI-powered answering engine. |
+| [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 30864 | TypeScript | Perplexica is an AI-powered answering engine. |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17262 | Python | Build and run agents you can see, understand and trust. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 17384 | Python | Build and run agents you can see, understand and trust. |
 <!-- TRENDING_END -->
 
 # TrendSpire
