@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-03-06 12:40 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 28866
+    },
+    {
+      "rank": 2,
+      "name": "QwenLM/Qwen-Agent",
+      "url": "https://github.com/QwenLM/Qwen-Agent",
+      "description": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+      "language": "Python",
+      "stars": 14307
+    },
+    {
+      "rank": 3,
+      "name": "microsoft/hve-core",
+      "url": "https://github.com/microsoft/hve-core",
+      "description": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+      "language": "PowerShell",
+      "stars": 444
+    },
+    {
+      "rank": 4,
+      "name": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+      "language": "Go",
+      "stars": 1406
+    },
+    {
+      "rank": 5,
+      "name": "inclusionAI/AReaL",
+      "url": "https://github.com/inclusionAI/AReaL",
+      "description": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+      "language": "Python",
+      "stars": 4276
+    },
+    {
+      "rank": 6,
+      "name": "lingfengQAQ/webnovel-writer",
+      "url": "https://github.com/lingfengQAQ/webnovel-writer",
+      "description": "\u57fa\u4e8e Claude Code \u7684\u957f\u7bc7\u7f51\u6587\u8f85\u52a9\u521b\u4f5c\u7cfb\u7edf\uff0c\u89e3\u51b3 AI \u5199\u4f5c\u4e2d\u7684\u300c\u9057\u5fd8\u300d\u548c\u300c\u5e7b\u89c9\u300d\u95ee\u9898\uff0c\u652f\u6301 200 \u4e07\u5b57\u91cf\u7ea7 \u8fde\u8f7d\u521b\u4f5c\u3002",
+      "language": "Python",
+      "stars": 661
+    },
+    {
+      "rank": 7,
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 11466
+    },
+    {
+      "rank": 8,
+      "name": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars": 1959
+    },
+    {
+      "rank": 9,
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 46216
+    },
+    {
+      "rank": 10,
+      "name": "aidenybai/react-grab",
+      "url": "https://github.com/aidenybai/react-grab",
+      "description": "Select context for coding agents directly from your website",
+      "language": "TypeScript",
+      "stars": 5767
+    }
+  ]
+}

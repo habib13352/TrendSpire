@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-06 01:17 UTC_
+_Last updated: 2026-03-06 12:40 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 7530 | Unknown | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 28866 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 1642 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14307 | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 31817 | TypeScript | Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark. |
+| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 444 | PowerShell | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 32887 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 1406 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 27396 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4276 | Python | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. |
 
-| [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4090 | Python | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. |
+| [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 661 | Python | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 |
 
-| [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) | 14912 | Jupyter Notebook | This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration. |
+| [openai/skills](https://github.com/openai/skills) | 11466 | Python | Skills Catalog for Codex |
 
-| [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | 3870 | TypeScript | Generate code from the terminal! |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 1959 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 14699 | Python | Automate the process of making money online. |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46216 | Python | An AI Hedge Fund Team |
 
-| [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 1821 | Python | ReMe: Memory Management Kit for Agents - Remember Me, Refine Me. |
+| [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | 5767 | TypeScript | Select context for coding agents directly from your website |
 <!-- TRENDING_END -->
 
 # TrendSpire
