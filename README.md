@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-06 12:40 UTC_
+_Last updated: 2026-03-07 01:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 28866 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 29531 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14307 | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14640 | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
 
-| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 444 | PowerShell | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots |
+| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 554 | PowerShell | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots |
 
-| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 1406 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. |
+| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 1617 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. |
 
-| [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4276 | Python | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. |
+| [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4397 | Python | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. |
 
-| [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 661 | Python | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 |
+| [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 778 | Python | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 |
 
-| [openai/skills](https://github.com/openai/skills) | 11466 | Python | Skills Catalog for Codex |
+| [openai/skills](https://github.com/openai/skills) | 11997 | Python | Skills Catalog for Codex |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 1959 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 2152 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46216 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46332 | Python | An AI Hedge Fund Team |
 
-| [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | 5767 | TypeScript | Select context for coding agents directly from your website |
+| [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | 6007 | TypeScript | Select context for coding agents directly from your website |
 <!-- TRENDING_END -->
 
 # TrendSpire
