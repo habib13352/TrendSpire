@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-07 01:09 UTC_
+_Last updated: 2026-03-07 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 29531 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 5208 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14640 | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
+| [openai/skills](https://github.com/openai/skills) | 12395 | Python | Skills Catalog for Codex |
 
-| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 554 | PowerShell | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 10400 | Unknown | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 1617 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 13239 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
 
-| [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) | 4397 | Python | Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible. |
+| [agentjido/jido](https://github.com/agentjido/jido) | 1326 | Elixir | 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows. |
 
-| [lingfengQAQ/webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) | 778 | Python | 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 |
+| [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 14859 | Python | Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
 
-| [openai/skills](https://github.com/openai/skills) | 11997 | Python | Skills Catalog for Codex |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46444 | Python | An AI Hedge Fund Team |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 2152 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [microsoft/hve-core](https://github.com/microsoft/hve-core) | 651 | PowerShell | A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46332 | Python | An AI Hedge Fund Team |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 64390 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 
-| [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | 6007 | TypeScript | Select context for coding agents directly from your website |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 107926 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 <!-- TRENDING_END -->
 
 # TrendSpire
