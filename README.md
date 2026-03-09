@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-08 12:35 UTC_
+_Last updated: 2026-03-09 01:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 13780 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 14408 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 6353 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 7042 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 108403 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
+| [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | 108697 | TypeScript | A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 278441 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 280745 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 64904 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
+| [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | 65233 | TypeScript | There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. |
 
-| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 2054 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. |
+| [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | 2264 | Go | CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities. |
 
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 23538 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 23894 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
 
-| [openai/skills](https://github.com/openai/skills) | 12988 | Python | Skills Catalog for Codex |
+| [openai/skills](https://github.com/openai/skills) | 13237 | Python | Skills Catalog for Codex |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46709 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 46823 | Python | An AI Hedge Fund Team |
 
-| [is-a-dev/register](https://github.com/is-a-dev/register) | 9657 | JavaScript | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| [is-a-dev/register](https://github.com/is-a-dev/register) | 9796 | JavaScript | Grab your own sweet-looking '.is-a.dev' subdomain. |
 <!-- TRENDING_END -->
 
 # TrendSpire
