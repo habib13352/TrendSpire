@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-10 01:08 UTC_
+_Last updated: 2026-03-10 12:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 15280 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 22043 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 290151 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 13162 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 10897 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 3341 | Python | The agent that grows with you |
 
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 45512 | Python | The best ChatGPT that $100 can buy. |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 11596 | TypeScript | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 37340 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 15541 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 2972 | Python | The agent that grows with you |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 47286 | Python | An AI Hedge Fund Team |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 2973 | JavaScript | The design language that makes your AI harness better at design. |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 45922 | Python | The best ChatGPT that $100 can buy. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 19300 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 75972 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 2570 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 3093 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 3345 | Python | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace. |
+| [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | 2016 | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. |
 <!-- TRENDING_END -->
 
 # TrendSpire
