@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-09 12:48 UTC_
+_Last updated: 2026-03-10 01:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 15027 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
+| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 15280 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 287567 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 290151 | TypeScript | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 8947 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 10897 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 45215 | Python | The best ChatGPT that $100 can buy. |
+| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 45512 | Python | The best ChatGPT that $100 can buy. |
 
-| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 37106 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
+| [666ghj/BettaFish](https://github.com/666ghj/BettaFish) | 37340 | Python | 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 2582 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 2972 | Python | The agent that grows with you |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 2542 | JavaScript | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 2973 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 15734 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 19300 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 2191 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 2570 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 2979 | Python | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace. |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 3345 | Python | 169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace. |
 <!-- TRENDING_END -->
 
 # TrendSpire
