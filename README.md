@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-11 01:09 UTC_
+_Last updated: 2026-03-11 12:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 25416 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 28081 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 14194 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 16019 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 3786 | Python | The agent that grows with you |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 12297 | TypeScript | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
 
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 11962 | TypeScript | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 77428 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | 15754 | Jupyter Notebook | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 25517 | Python | SOTA Open Source TTS |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 47595 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 47912 | Python | An AI Hedge Fund Team |
 
-| [karpathy/nanochat](https://github.com/karpathy/nanochat) | 46243 | Python | The best ChatGPT that $100 can buy. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 4288 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 76583 | Shell | An agentic skills framework & software development methodology that works. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 4602 | Python | The agent that grows with you |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 3637 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-
-| [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) | 2212 | Java | IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners. |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 20784 | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 <!-- TRENDING_END -->
 
 # TrendSpire
