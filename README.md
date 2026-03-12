@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-11 12:44 UTC_
+_Last updated: 2026-03-12 01:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 28081 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 30104 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 16019 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 16801 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 12297 | TypeScript | Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 12561 | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 77428 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 78072 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 25517 | Python | SOTA Open Source TTS |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 25796 | Python | SOTA Open Source TTS |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 47912 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 48160 | Python | An AI Hedge Fund Team |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 4288 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 4759 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 4602 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 5257 | Python | The agent that grows with you |
 
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 20784 | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 21068 | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 <!-- TRENDING_END -->
 
 # TrendSpire
