@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-12 01:06 UTC_
+_Last updated: 2026-03-12 12:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 30104 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 31174 | Python | Official inference framework for 1-bit LLMs |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 16801 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26135 | Python | SOTA Open Source TTS |
 
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 12561 | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 1071 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 78072 | Shell | An agentic skills framework & software development methodology that works. |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 2657 | TypeScript | Give agents everything they need to ship fullstack apps. The backend built for agentic development. |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 25796 | Python | SOTA Open Source TTS |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 2791 | Python | Hindsight: Agent Memory That Learns |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 48160 | Python | An AI Hedge Fund Team |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 5462 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 4759 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 79110 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 5257 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 5802 | Python | The agent that grows with you |
 
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 21068 | Python | Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 17787 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+
+| [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | 1572 | C++ | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization |
 <!-- TRENDING_END -->
 
 # TrendSpire
