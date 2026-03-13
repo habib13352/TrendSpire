@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-12 12:43 UTC_
+_Last updated: 2026-03-13 01:12 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 31174 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 32361 | Python | Official inference framework for 1-bit LLMs |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26135 | Python | SOTA Open Source TTS |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26370 | Python | SOTA Open Source TTS |
 
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 1071 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 1557 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
 
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 2657 | TypeScript | Give agents everything they need to ship fullstack apps. The backend built for agentic development. |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 3109 | TypeScript | Give agents everything they need to ship fullstack apps. The backend built for agentic development. |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 2791 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 3082 | Python | Hindsight: Agent Memory That Learns |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 5462 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 5991 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 79110 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 79953 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 5802 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 6172 | Python | The agent that grows with you |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 17787 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 19205 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | 1572 | C++ | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization |
+| [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) | 1670 | C++ | LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization |
 <!-- TRENDING_END -->
 
 # TrendSpire
