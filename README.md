@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-13 12:43 UTC_
+_Last updated: 2026-03-14 01:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 33279 | Python | Official inference framework for 1-bit LLMs |
+| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 33969 | Python | Official inference framework for 1-bit LLMs |
 
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 1947 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2258 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 14384 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 15459 | Zig | Lightpanda: the headless browser designed for AI and automation |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 81169 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 81921 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 408889 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 409477 | Python | A collective list of free APIs |
 
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 14592 | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 15277 | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 37952 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 40122 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [dolthub/dolt](https://github.com/dolthub/dolt) | 20862 | Go | Dolt – Git for Data |
+| [dolthub/dolt](https://github.com/dolthub/dolt) | 21077 | Go | Dolt – Git for Data |
 
-| [google/A2UI](https://github.com/google/A2UI) | 12906 | TypeScript | No description provided. |
+| [google/A2UI](https://github.com/google/A2UI) | 13053 | TypeScript | No description provided. |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26665 | Python | SOTA Open Source TTS |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26868 | Python | SOTA Open Source TTS |
 <!-- TRENDING_END -->
 
 # TrendSpire

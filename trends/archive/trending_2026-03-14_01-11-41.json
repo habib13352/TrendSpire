@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-03-14 01:11 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": 33969
+    },
+    {
+      "rank": 2,
+      "name": "langflow-ai/openrag",
+      "url": "https://github.com/langflow-ai/openrag",
+      "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+      "language": "Python",
+      "stars": 2258
+    },
+    {
+      "rank": 3,
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars": 15459
+    },
+    {
+      "rank": 4,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 81921
+    },
+    {
+      "rank": 5,
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 409477
+    },
+    {
+      "rank": 6,
+      "name": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "language": "TypeScript",
+      "stars": 15277
+    },
+    {
+      "rank": 7,
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 40122
+    },
+    {
+      "rank": 8,
+      "name": "dolthub/dolt",
+      "url": "https://github.com/dolthub/dolt",
+      "description": "Dolt \u2013 Git for Data",
+      "language": "Go",
+      "stars": 21077
+    },
+    {
+      "rank": 9,
+      "name": "google/A2UI",
+      "url": "https://github.com/google/A2UI",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 13053
+    },
+    {
+      "rank": 10,
+      "name": "fishaudio/fish-speech",
+      "url": "https://github.com/fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars": 26868
+    }
+  ]
+}
