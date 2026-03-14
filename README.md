@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-14 01:11 UTC_
+_Last updated: 2026-03-14 12:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | 33969 | Python | Official inference framework for 1-bit LLMs |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 9600 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
 
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2258 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 11002 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 15459 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 712 | Python | The Dimensional Framework |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 81921 | Shell | An agentic skills framework & software development methodology that works. |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 13204 | Python | Fully automatic censorship removal for language models |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 409477 | Python | A collective list of free APIs |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2502 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
 
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | 15277 | TypeScript | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 16381 | Zig | Lightpanda: the headless browser designed for AI and automation |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 40122 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 42051 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [dolthub/dolt](https://github.com/dolthub/dolt) | 21077 | Go | Dolt – Git for Data |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 27040 | Python | SOTA Open Source TTS |
 
-| [google/A2UI](https://github.com/google/A2UI) | 13053 | TypeScript | No description provided. |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 3889 | TypeScript | Give agents everything they need to ship fullstack apps. The backend built for agentic development. |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 26868 | Python | SOTA Open Source TTS |
+| [obra/superpowers](https://github.com/obra/superpowers) | 82535 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
