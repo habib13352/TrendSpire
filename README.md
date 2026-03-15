@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-14 12:36 UTC_
+_Last updated: 2026-03-15 01:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 9600 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 10617 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 11002 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 11319 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 712 | Python | The Dimensional Framework |
+| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 862 | Python | The Dimensional Framework |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 13204 | Python | Fully automatic censorship removal for language models |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 13773 | Python | Fully automatic censorship removal for language models |
 
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2502 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2724 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 16381 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 17111 | Zig | Lightpanda: the headless browser designed for AI and automation |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 42051 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 43814 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 27040 | Python | SOTA Open Source TTS |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 27222 | Python | SOTA Open Source TTS |
 
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 3889 | TypeScript | Give agents everything they need to ship fullstack apps. The backend built for agentic development. |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 4182 | TypeScript | Give agents everything they need to ship fullstack apps. The backend built for agentic development. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 82535 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 83504 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
