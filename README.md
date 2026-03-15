@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-15 01:23 UTC_
+_Last updated: 2026-03-15 12:38 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 10617 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 17653 | Zig | Lightpanda: the headless browser designed for AI and automation |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 11319 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 712 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | 862 | Python | The Dimensional Framework |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 11466 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 13773 | Python | Fully automatic censorship removal for language models |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 27460 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
 
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2724 | Python | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 16454 | HTML | practice made claude perfect |
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 17111 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [obra/superpowers](https://github.com/obra/superpowers) | 84498 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 43814 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 14258 | Python | Fully automatic censorship removal for language models |
 
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 27222 | Python | SOTA Open Source TTS |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 25620 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 4182 | TypeScript | Give agents everything they need to ship fullstack apps. The backend built for agentic development. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 13227 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 83504 | Shell | An agentic skills framework & software development methodology that works. |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 13656 | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
 <!-- TRENDING_END -->
 
 # TrendSpire
