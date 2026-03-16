@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-15 12:38 UTC_
+_Last updated: 2026-03-16 01:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 17653 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 18629 | Zig | Lightpanda: the headless browser designed for AI and automation |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 712 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 1119 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 11466 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 12430 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
 
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 27460 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 27933 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 16454 | HTML | practice made claude perfect |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 17012 | HTML | practice made claude perfect |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 84498 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 85929 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 14258 | Python | Fully automatic censorship removal for language models |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 14708 | Python | Fully automatic censorship removal for language models |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 25620 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 27266 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 13227 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 14332 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 13656 | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 13916 | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
 <!-- TRENDING_END -->
 
 # TrendSpire
