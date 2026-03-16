@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-16 01:23 UTC_
+_Last updated: 2026-03-16 12:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 18629 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 28871 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 1119 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 36131 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 12430 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 1476 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 27933 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 87557 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 17012 | HTML | practice made claude perfect |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 15105 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 85929 | Shell | An agentic skills framework & software development methodology that works. |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 19756 | Zig | Lightpanda: the headless browser designed for AI and automation |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 14708 | Python | Fully automatic censorship removal for language models |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 13491 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 27266 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 28977 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 14332 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 15033 | Python | Fully automatic censorship removal for language models |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 13916 | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 12193 | Python | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. |
 <!-- TRENDING_END -->
 
 # TrendSpire
