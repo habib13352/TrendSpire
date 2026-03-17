@@ -1,30 +1,22 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-17 01:14 UTC_
+_Last updated: 2026-03-17 12:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 30016 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 90648 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 36820 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 478940 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 1835 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16214 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 88649 | Shell | An agentic skills framework & software development methodology that works. |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 13568 | Python | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 15609 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5179 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 20231 | Zig | Lightpanda: the headless browser designed for AI and automation |
-
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 14169 | Python | OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. |
-
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 29304 | TypeScript | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
-
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 15294 | Python | Fully automatic censorship removal for language models |
-
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 12925 | Python | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. |
+| [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7658 | C++ | The JavaScript / Wasm runtime that powers Cloudflare Workers |
 <!-- TRENDING_END -->
 
 # TrendSpire
