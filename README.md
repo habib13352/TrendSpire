@@ -1,22 +1,22 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-18 01:18 UTC_
+_Last updated: 2026-03-18 12:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 92431 | Shell | An agentic skills framework & software development methodology that works. |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 6218 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 479839 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 94641 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 16739 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55170 | Python | Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally. |
 
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 14158 | Python | Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 2752 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 5636 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 29568 | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
 
-| [cloudflare/workerd](https://github.com/cloudflare/workerd) | 7833 | C++ | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 5854 | Python | An Open-Source Asynchronous Coding Agent |
 <!-- TRENDING_END -->
 
 # TrendSpire
