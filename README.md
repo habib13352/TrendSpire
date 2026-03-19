@@ -1,22 +1,22 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-18 12:56 UTC_
+_Last updated: 2026-03-19 01:18 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 6218 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 7038 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 94641 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 96241 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55170 | Python | Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55833 | Python | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. |
 
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 2752 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 2919 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
 
-| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 29568 | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
+| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 29870 | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
 
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 5854 | Python | An Open-Source Asynchronous Coding Agent |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6364 | Python | An Open-Source Asynchronous Coding Agent |
 <!-- TRENDING_END -->
 
 # TrendSpire
