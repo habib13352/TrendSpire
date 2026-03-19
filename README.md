@@ -1,22 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-19 01:18 UTC_
+_Last updated: 2026-03-19 12:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 7038 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 4833 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 96241 | Shell | An agentic skills framework & software development methodology that works. |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6766 | Python | An Open-Source Asynchronous Coding Agent |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 55833 | Python | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 98045 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 2919 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 8057 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | 29870 | C++ | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 56364 | Python | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. |
 
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6364 | Python | An Open-Source Asynchronous Coding Agent |
+| [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | 12186 | Kotlin | Painless E2E Automation for Mobile and Web |
+
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 3091 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+
+| [louis-e/arnis](https://github.com/louis-e/arnis) | 10227 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
+
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 15716 | Python | Automate the process of making money online. |
+
+| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 35402 | JavaScript | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. |
 <!-- TRENDING_END -->
 
 # TrendSpire
