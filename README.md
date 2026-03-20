@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-19 12:51 UTC_
+_Last updated: 2026-03-20 01:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 4833 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 5663 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 6766 | Python | An Open-Source Asynchronous Coding Agent |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7039 | Python | An Open-Source Asynchronous Coding Agent |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 98045 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 99234 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 8057 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 8519 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 56364 | Python | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 56710 | Python | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. |
 
-| [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | 12186 | Kotlin | Painless E2E Automation for Mobile and Web |
+| [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | 12445 | Kotlin | Painless E2E Automation for Mobile and Web |
 
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 3091 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 3230 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
 
-| [louis-e/arnis](https://github.com/louis-e/arnis) | 10227 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | 10773 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 15716 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 16074 | Python | Automate the process of making money online. |
 
-| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 35402 | JavaScript | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. |
+| [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | 36120 | JavaScript | A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. |
 <!-- TRENDING_END -->
 
 # TrendSpire
