@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-20 12:43 UTC_
+_Last updated: 2026-03-21 01:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 9108 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 9537 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7394 | Python | An Open-Source Asynchronous Coding Agent |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7644 | Python | An Open-Source Asynchronous Coding Agent |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 100726 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 101549 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 6574 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7056 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [louis-e/arnis](https://github.com/louis-e/arnis) | 11235 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | 11590 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
 
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 3355 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 3472 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
 
-| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 1652 | TypeScript | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories |
+| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 1935 | TypeScript | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 33538 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 34111 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [openrocket/openrocket](https://github.com/openrocket/openrocket) | 2068 | Java | Model-rocketry aerodynamics and trajectory simulation software |
+| [openrocket/openrocket](https://github.com/openrocket/openrocket) | 2212 | Java | Model-rocketry aerodynamics and trajectory simulation software |
 <!-- TRENDING_END -->
 
 # TrendSpire
