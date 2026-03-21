@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-21 01:09 UTC_
+_Last updated: 2026-03-21 12:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 9537 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 16816 | Python | Automate the process of making money online. |
 
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | 7644 | Python | An Open-Source Asynchronous Coding Agent |
+| [systemd/systemd](https://github.com/systemd/systemd) | 15558 | C | The systemd System and Service Manager |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 101549 | Shell | An agentic skills framework & software development methodology that works. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33260 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7056 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 5484 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [louis-e/arnis](https://github.com/louis-e/arnis) | 11590 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7513 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 3472 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10043 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | 1935 | TypeScript | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70884 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 34111 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 3385 | Python | A framework for efficient model inference with omni-modality models |
 
-| [openrocket/openrocket](https://github.com/openrocket/openrocket) | 2212 | Java | Model-rocketry aerodynamics and trajectory simulation software |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | 11899 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
 <!-- TRENDING_END -->
 
 # TrendSpire
