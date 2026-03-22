@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-21 12:35 UTC_
+_Last updated: 2026-03-22 01:18 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 16816 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 17772 | Python | Automate the process of making money online. |
 
-| [systemd/systemd](https://github.com/systemd/systemd) | 15558 | C | The systemd System and Service Manager |
+| [systemd/systemd](https://github.com/systemd/systemd) | 15727 | C | The systemd System and Service Manager |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33260 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33379 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 5484 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 6762 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7513 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7892 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10043 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10443 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70884 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70947 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 3385 | Python | A framework for efficient model inference with omni-modality models |
+| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 3511 | Python | A framework for efficient model inference with omni-modality models |
 
-| [louis-e/arnis](https://github.com/louis-e/arnis) | 11899 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | 12224 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
 <!-- TRENDING_END -->
 
 # TrendSpire
