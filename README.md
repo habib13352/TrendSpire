@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-22 01:18 UTC_
+_Last updated: 2026-03-22 12:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 17772 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 18588 | Python | Automate the process of making money online. |
 
-| [systemd/systemd](https://github.com/systemd/systemd) | 15727 | C | The systemd System and Service Manager |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 36033 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 33379 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 11356 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 6762 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4552 | Python | No description provided. |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 7892 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 96071 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10443 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10858 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 70947 | C++ | Protocol Buffers - Google's data interchange format |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 7789 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 3511 | Python | A framework for efficient model inference with omni-modality models |
+| [systemd/systemd](https://github.com/systemd/systemd) | 15863 | C | The systemd System and Service Manager |
 
-| [louis-e/arnis](https://github.com/louis-e/arnis) | 12224 | Rust | Generate any location from the real world in Minecraft with a high level of detail. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82089 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 29900 | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 <!-- TRENDING_END -->
 
 # TrendSpire
