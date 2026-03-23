@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-23 01:18 UTC_
+_Last updated: 2026-03-23 12:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 19800 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 21540 | Python | Automate the process of making money online. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 37244 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 37492 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours. |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 12038 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 12009 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4752 | Python | No description provided. |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 12629 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 98121 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 83220 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 11196 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 38520 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 10129 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | 31791 | Python | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
 
-| [systemd/systemd](https://github.com/systemd/systemd) | 15995 | C | The systemd System and Service Manager |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 100461 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82582 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 10898 | Python | The agent that grows with you |
 
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 30045 | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 42394 | Python | 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h! |
 <!-- TRENDING_END -->
 
 # TrendSpire
