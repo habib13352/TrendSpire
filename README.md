@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-22 12:36 UTC_
+_Last updated: 2026-03-23 01:18 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 18588 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 19800 | Python | Automate the process of making money online. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 36033 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 37244 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 11356 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 12038 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4552 | Python | No description provided. |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 4752 | Python | No description provided. |
 
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 96071 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 98121 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 10858 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | 11196 | JavaScript | A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 7789 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 10129 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [systemd/systemd](https://github.com/systemd/systemd) | 15863 | C | The systemd System and Service Manager |
+| [systemd/systemd](https://github.com/systemd/systemd) | 15995 | C | The systemd System and Service Manager |
 
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82089 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 82582 | Python | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
 
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 29900 | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 30045 | Python | [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation" |
 <!-- TRENDING_END -->
 
 # TrendSpire
