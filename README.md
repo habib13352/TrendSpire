@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-25 01:17 UTC_
+_Last updated: 2026-03-25 12:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 5247 | TypeScript | No description provided. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 6362 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 43316 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 45329 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 18557 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 40449 | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 24819 | Python | Automate the process of making money online. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 6480 | TypeScript | Create and share 3D architectural projects. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 52625 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 25634 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 15351 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 16011 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 40868 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 41818 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 5582 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 18986 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 25113 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 25296 | Python | Automate the process of making money online. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 12551 | Python | The agent that grows with you |
+| [usestrix/strix](https://github.com/usestrix/strix) | 21435 | Python | Open-source AI hackers to find and fix your app’s vulnerabilities. |
 <!-- TRENDING_END -->
 
 # TrendSpire
