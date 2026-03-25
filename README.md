@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-24 12:57 UTC_
+_Last updated: 2026-03-25 01:17 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 4240 | TypeScript | No description provided. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 5247 | TypeScript | No description provided. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 41701 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 43316 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 18212 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 18557 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 24279 | Python | Automate the process of making money online. |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 24819 | Python | Automate the process of making money online. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 52354 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 52625 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 14342 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 15351 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 40227 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 40868 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 4941 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 5582 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 24487 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 25113 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 12090 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 12551 | Python | The agent that grows with you |
 <!-- TRENDING_END -->
 
 # TrendSpire
