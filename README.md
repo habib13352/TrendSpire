@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-26 01:22 UTC_
+_Last updated: 2026-03-26 12:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 7700 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 9037 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 46270 | Python | An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 12017 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 40658 | Python | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] |
+| [virattt/dexter](https://github.com/virattt/dexter) | 18706 | TypeScript | An autonomous agent for deep financial research |
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 6843 | TypeScript | Create and share 3D architectural projects. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 42783 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | 1456 | TypeScript | Give Claude Code a subconscious |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 47640 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 26230 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 10642 | Jupyter Notebook | No description provided. |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 16645 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20092 | Python | Build and run agents you can see, understand and trust. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 42318 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41007 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 19224 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
-
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | 25598 | Python | Automate the process of making money online. |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 5752 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
 <!-- TRENDING_END -->
 
 # TrendSpire
