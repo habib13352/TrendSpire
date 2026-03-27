@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-26 12:59 UTC_
+_Last updated: 2026-03-27 01:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 9037 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 10310 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 12017 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 12662 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 18706 | TypeScript | An autonomous agent for deep financial research |
+| [virattt/dexter](https://github.com/virattt/dexter) | 18997 | TypeScript | An autonomous agent for deep financial research |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 42783 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 43185 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 47640 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 48413 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 
-| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 10642 | Jupyter Notebook | No description provided. |
+| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 11233 | Jupyter Notebook | No description provided. |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20092 | Python | Build and run agents you can see, understand and trust. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20433 | Python | Build and run agents you can see, understand and trust. |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41007 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41277 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 5752 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6168 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
 <!-- TRENDING_END -->
 
 # TrendSpire
