@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-27 01:22 UTC_
+_Last updated: 2026-03-27 12:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 10310 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 11774 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 12662 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 82072 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 18997 | TypeScript | An autonomous agent for deep financial research |
+| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 2650 | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 43185 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 24412 | Python | Open-Source Frontier Voice AI |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 48413 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41677 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | 11233 | Jupyter Notebook | No description provided. |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6657 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 20433 | Python | Build and run agents you can see, understand and trust. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 117506 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41277 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [virattt/dexter](https://github.com/virattt/dexter) | 19381 | TypeScript | An autonomous agent for deep financial research |
 
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6168 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 13410 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+
+| [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 29428 | C++ | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. |
 <!-- TRENDING_END -->
 
 # TrendSpire
