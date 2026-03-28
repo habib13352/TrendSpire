@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-27 12:52 UTC_
+_Last updated: 2026-03-28 01:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 11774 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 12668 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 82072 | Python | real time face swap and one-click video deepfake with only a single image |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 83070 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 2650 | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
+| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 2865 | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 24412 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 24689 | Python | Open-Source Frontier Voice AI |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 41677 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 42018 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 6657 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 7023 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 117506 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 118555 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 19381 | TypeScript | An autonomous agent for deep financial research |
+| [virattt/dexter](https://github.com/virattt/dexter) | 19694 | TypeScript | An autonomous agent for deep financial research |
 
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 13410 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 13967 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 
-| [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 29428 | C++ | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. |
+| [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | 29663 | C++ | Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. |
 <!-- TRENDING_END -->
 
 # TrendSpire
