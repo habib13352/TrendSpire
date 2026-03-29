@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-29 01:26 UTC_
+_Last updated: 2026-03-29 12:40 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 84345 | Python | real time face swap and one-click video deepfake with only a single image |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 4864 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 120807 | Shell | An agentic skills framework & software development methodology that works. |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 15263 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 3472 | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 26059 | Python | Open-Source Frontier Voice AI |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 20207 | TypeScript | An autonomous agent for deep financial research |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 15840 | Python | The agent that grows with you |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 42438 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 63815 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 19756 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [obra/superpowers](https://github.com/obra/superpowers) | 121870 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 7598 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 42153 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 21622 | Python | Build and run agents you can see, understand and trust. |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 84823 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [apache/superset](https://github.com/apache/superset) | 71471 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 14711 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 42271 | TypeScript | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 |
 <!-- TRENDING_END -->
 
 # TrendSpire
