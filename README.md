@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-28 12:40 UTC_
+_Last updated: 2026-03-29 01:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 83743 | Python | real time face swap and one-click video deepfake with only a single image |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 84345 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 119711 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 120807 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 3144 | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
+| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | 3472 | Python | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 19925 | TypeScript | An autonomous agent for deep financial research |
+| [virattt/dexter](https://github.com/virattt/dexter) | 20207 | TypeScript | An autonomous agent for deep financial research |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 42200 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 42438 | TypeScript | Building a modern alternative to Salesforce, powered by the community. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 19456 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 19756 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 7285 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | 7598 | Python | OCR model that handles complex tables, forms, handwriting with full layout. |
 
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 21361 | Python | Build and run agents you can see, understand and trust. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 21622 | Python | Build and run agents you can see, understand and trust. |
 
-| [apache/superset](https://github.com/apache/superset) | 71222 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [apache/superset](https://github.com/apache/superset) | 71471 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
 <!-- TRENDING_END -->
 
 # TrendSpire
