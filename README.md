@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-30 01:26 UTC_
+_Last updated: 2026-03-30 13:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 6750 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 28662 | Python | Open-Source Frontier Voice AI |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 27344 | Python | Open-Source Frontier Voice AI |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 9052 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 16788 | Python | The agent that grows with you |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 17027 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64028 | Python | Financial data platform for analysts, quants and AI agents. |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 25085 | HTML | practice made claude perfect |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 122974 | Shell | An agentic skills framework & software development methodology that works. |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 85935 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 42609 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64290 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 85306 | Python | real time face swap and one-click video deepfake with only a single image |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 439391 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 15369 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 74320 | Python | Hunt down social media accounts by username across social networks |
 
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 42696 | TypeScript | Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1 |
+| [apache/superset](https://github.com/apache/superset) | 71700 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
 
-| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21155 | C | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
+| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21295 | C | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
 <!-- TRENDING_END -->
 
 # TrendSpire
