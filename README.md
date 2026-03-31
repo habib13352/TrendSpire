@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-31 01:23 UTC_
+_Last updated: 2026-03-31 13:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 30448 | Python | Open-Source Frontier Voice AI |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 11575 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
 
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 9936 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 32348 | Python | Open-Source Frontier Voice AI |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 26194 | HTML | practice made claude perfect |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 18131 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 86366 | Python | real time face swap and one-click video deepfake with only a single image |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 27516 | HTML | practice made claude perfect |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64541 | Python | Financial data platform for analysts, quants and AI agents. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 19575 | Python | The agent that grows with you |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 439730 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 127270 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 74742 | Python | Hunt down social media accounts by username across social networks |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16091 | Python | The absolute trainer to light up AI agents. |
 
-| [apache/superset](https://github.com/apache/superset) | 71936 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 73866 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21419 | C | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
+| [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2686 | Shell | My Codex Skills |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 18638 | Python | The agent that grows with you |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75168 | Python | Hunt down social media accounts by username across social networks |
 <!-- TRENDING_END -->
 
 # TrendSpire
