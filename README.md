@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-30 13:04 UTC_
+_Last updated: 2026-03-31 01:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 28662 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 30448 | Python | Open-Source Frontier Voice AI |
 
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 9052 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 9936 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
 
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 17027 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 26194 | HTML | practice made claude perfect |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 25085 | HTML | practice made claude perfect |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 86366 | Python | real time face swap and one-click video deepfake with only a single image |
 
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 85935 | Python | real time face swap and one-click video deepfake with only a single image |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64541 | Python | Financial data platform for analysts, quants and AI agents. |
 
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 64290 | Python | Financial data platform for analysts, quants and AI agents. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 439730 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 439391 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 74742 | Python | Hunt down social media accounts by username across social networks |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 74320 | Python | Hunt down social media accounts by username across social networks |
+| [apache/superset](https://github.com/apache/superset) | 71936 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
 
-| [apache/superset](https://github.com/apache/superset) | 71700 | TypeScript | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21419 | C | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
 
-| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | 21295 | C | A maintained, feature-rich and performance oriented, neofetch like system information tool. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 18638 | Python | The agent that grows with you |
 <!-- TRENDING_END -->
 
 # TrendSpire
