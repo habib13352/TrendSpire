@@ -1,30 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-01 01:44 UTC_
+_Last updated: 2026-04-01 13:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 13173 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 96907 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 33191 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 33941 | Python | Open-Source Frontier Voice AI |
 
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 19139 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 29905 | HTML | practice made claude perfect |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 28758 | HTML | practice made claude perfect |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 11649 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 20420 | Python | The agent that grows with you |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 14782 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 128236 | Shell | An agentic skills framework & software development methodology that works. |
+| [axios/axios](https://github.com/axios/axios) | 108775 | JavaScript | Promise based HTTP client for the browser and node.js |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16238 | Python | The absolute trainer to light up AI agents. |
+| [openai/codex](https://github.com/openai/codex) | 71081 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 74218 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
-
-| [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2876 | Shell | My Codex Skills |
-
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75565 | Python | Hunt down social media accounts by username across social networks |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 155607 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 <!-- TRENDING_END -->
 
 # TrendSpire
