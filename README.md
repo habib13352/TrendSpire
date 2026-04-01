@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-03-31 13:02 UTC_
+_Last updated: 2026-04-01 01:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 11575 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 13173 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 32348 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 33191 | Python | Open-Source Frontier Voice AI |
 
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 18131 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 19139 | TypeScript | Teams-first Multi-agent orchestration for Claude Code |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 27516 | HTML | practice made claude perfect |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 28758 | HTML | practice made claude perfect |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 19575 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 20420 | Python | The agent that grows with you |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 127270 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 128236 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16091 | Python | The absolute trainer to light up AI agents. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | 16238 | Python | The absolute trainer to light up AI agents. |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 73866 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 74218 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2686 | Shell | My Codex Skills |
+| [Dimillian/Skills](https://github.com/Dimillian/Skills) | 2876 | Shell | My Codex Skills |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75168 | Python | Hunt down social media accounts by username across social networks |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 75565 | Python | Hunt down social media accounts by username across social networks |
 <!-- TRENDING_END -->
 
 # TrendSpire
