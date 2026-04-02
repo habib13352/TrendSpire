@@ -1,26 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-01 13:05 UTC_
+_Last updated: 2026-04-02 01:20 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 96907 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 100997 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 33941 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 34459 | Python | Open-Source Frontier Voice AI |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 29905 | HTML | practice made claude perfect |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 12139 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 11649 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 15625 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
 
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 14782 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
+| [axios/axios](https://github.com/axios/axios) | 108870 | JavaScript | Promise based HTTP client for the browser and node.js |
 
-| [axios/axios](https://github.com/axios/axios) | 108775 | JavaScript | Promise based HTTP client for the browser and node.js |
+| [openai/codex](https://github.com/openai/codex) | 71747 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [openai/codex](https://github.com/openai/codex) | 71081 | Rust | Lightweight coding agent that runs in your terminal |
-
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 155607 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 156034 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
 <!-- TRENDING_END -->
 
 # TrendSpire
