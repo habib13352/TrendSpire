@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-04-03 12:51 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "stars": 13189
+    },
+    {
+      "rank": 2,
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": 22600
+    },
+    {
+      "rank": 3,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 13736
+    },
+    {
+      "rank": 4,
+      "name": "siddharthvaddem/openscreen",
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
+      "language": "TypeScript",
+      "stars": 17376
+    },
+    {
+      "rank": 5,
+      "name": "dmtrKovalenko/fff.nvim",
+      "url": "https://github.com/dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "stars": 2990
+    },
+    {
+      "rank": 6,
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+      "language": "HTML",
+      "stars": 156901
+    },
+    {
+      "rank": 7,
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 77974
+    }
+  ]
+}

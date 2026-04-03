@@ -1,18 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-03 01:22 UTC_
+_Last updated: 2026-04-03 12:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 15924 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 13189 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
 
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 11758 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 22600 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 36380 | Unknown | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 13736 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 77292 | Python | Hunt down social media accounts by username across social networks |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 17376 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 2990 | Rust | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
+
+| [f/prompts.chat](https://github.com/f/prompts.chat) | 156901 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 77974 | Python | Hunt down social media accounts by username across social networks |
 <!-- TRENDING_END -->
 
 # TrendSpire
