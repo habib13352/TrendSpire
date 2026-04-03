@@ -1,24 +1,18 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-02 12:58 UTC_
+_Last updated: 2026-04-03 01:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 105218 | Shell | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 15924 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 34954 | Python | Open-Source Frontier Voice AI |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 11758 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 12898 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 36380 | Unknown | Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly. |
 
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | 16613 | Python | A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. |
-
-| [axios/axios](https://github.com/axios/axios) | 108966 | JavaScript | Promise based HTTP client for the browser and node.js |
-
-| [openai/codex](https://github.com/openai/codex) | 72410 | Rust | Lightweight coding agent that runs in your terminal |
-
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 156576 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 77292 | Python | Hunt down social media accounts by username across social networks |
 <!-- TRENDING_END -->
 
 # TrendSpire
