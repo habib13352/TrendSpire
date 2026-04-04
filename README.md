@@ -1,24 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-04 01:17 UTC_
+_Last updated: 2026-04-04 12:40 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 14139 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3369 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 23284 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 23716 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 14125 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 14887 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
 
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 18208 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 18882 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
 
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3262 | Rust | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30680 | C++ | Telegram Desktop messaging app |
 
-| [f/prompts.chat](https://github.com/f/prompts.chat) | 157188 | HTML | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. |
+| [block/goose](https://github.com/block/goose) | 35304 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 78520 | Python | Hunt down social media accounts by username across social networks |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8518 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
+
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 78914 | Python | Hunt down social media accounts by username across social networks |
 <!-- TRENDING_END -->
 
 # TrendSpire
