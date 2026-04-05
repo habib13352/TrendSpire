@@ -1,26 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-04 12:40 UTC_
+_Last updated: 2026-04-05 01:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3369 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3605 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 23716 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24255 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 14887 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 15659 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
 
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 18882 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 19928 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
 
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30680 | C++ | Telegram Desktop messaging app |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30838 | C++ | Telegram Desktop messaging app |
 
-| [block/goose](https://github.com/block/goose) | 35304 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 35706 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8518 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8710 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 78914 | Python | Hunt down social media accounts by username across social networks |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 79376 | Python | Hunt down social media accounts by username across social networks |
 <!-- TRENDING_END -->
 
 # TrendSpire
