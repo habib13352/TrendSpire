@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-05 01:26 UTC_
+_Last updated: 2026-04-05 12:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3605 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 16417 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24255 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3773 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
 
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | 15659 | TypeScript | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 21575 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
 
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 19928 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+| [block/goose](https://github.com/block/goose) | 36193 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30838 | C++ | Telegram Desktop messaging app |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24665 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [block/goose](https://github.com/block/goose) | 35706 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 31665 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | 8710 | Python | A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3510 | Rust | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 79376 | Python | Hunt down social media accounts by username across social networks |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1317 | C++ | No description provided. |
+
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30941 | C++ | Telegram Desktop messaging app |
+
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 441152 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 <!-- TRENDING_END -->
 
 # TrendSpire
