@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-06 01:26 UTC_
+_Last updated: 2026-04-06 12:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 16971 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 22947 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3937 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 17513 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 22569 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+| [block/goose](https://github.com/block/goose) | 37645 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [block/goose](https://github.com/block/goose) | 37063 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1811 | C++ | No description provided. |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 25041 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [immich-app/immich](https://github.com/immich-app/immich) | 96574 | TypeScript | High performance self-hosted photo and video management solution. |
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 31926 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 36050 | TypeScript | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. |
 
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3702 | Rust | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 27202 | Python | The agent that grows with you |
 
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1574 | C++ | No description provided. |
+| [tobi/qmd](https://github.com/tobi/qmd) | 18371 | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
 
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 31075 | C++ | Telegram Desktop messaging app |
+| [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 8237 | Swift | Telegram-iOS |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 441518 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 20129 | Unknown | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. |
 <!-- TRENDING_END -->
 
 # TrendSpire
