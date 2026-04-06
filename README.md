@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-05 12:42 UTC_
+_Last updated: 2026-04-06 01:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 16417 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 16971 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3773 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | 3937 | Python | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX. |
 
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 21575 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | 22569 | TypeScript | Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. |
 
-| [block/goose](https://github.com/block/goose) | 36193 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [block/goose](https://github.com/block/goose) | 37063 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 24665 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | 25041 | Python | Open Source AI Platform - AI Chat with advanced features that works with every LLM |
 
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 31665 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | 31926 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3510 | Rust | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | 3702 | Rust | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS |
 
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1317 | C++ | No description provided. |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 1574 | C++ | No description provided. |
 
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 30941 | C++ | Telegram Desktop messaging app |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | 31075 | C++ | Telegram Desktop messaging app |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 441152 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 441518 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 <!-- TRENDING_END -->
 
 # TrendSpire
