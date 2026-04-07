@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-07 01:24 UTC_
+_Last updated: 2026-04-07 13:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 23474 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 18400 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 17884 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2329 | C++ | No description provided. |
 
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2021 | C++ | No description provided. |
+| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 7683 | Python | PersonaPlex code. |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 96871 | TypeScript | High performance self-hosted photo and video management solution. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 24093 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 36546 | TypeScript | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. |
+| [tobi/qmd](https://github.com/tobi/qmd) | 19223 | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 28147 | Python | The agent that grows with you |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 7759 | Unknown | No description provided. |
 
-| [tobi/qmd](https://github.com/tobi/qmd) | 18761 | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 9759 | Python | Create Reddit Videos with just✨ one command ✨ |
 
-| [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | 8315 | Swift | Telegram-iOS |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 11710 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
-| [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | 20566 | Unknown | Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. |
-
-| [ollama/ollama](https://github.com/ollama/ollama) | 167701 | Go | Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 3605 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 <!-- TRENDING_END -->
 
 # TrendSpire
