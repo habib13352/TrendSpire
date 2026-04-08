@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-07 13:06 UTC_
+_Last updated: 2026-04-08 01:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 18400 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 18787 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2329 | C++ | No description provided. |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2548 | C++ | No description provided. |
 
-| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 7683 | Python | PersonaPlex code. |
+| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 7955 | Python | PersonaPlex code. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 24093 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 24522 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [tobi/qmd](https://github.com/tobi/qmd) | 19223 | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
+| [tobi/qmd](https://github.com/tobi/qmd) | 19559 | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 7759 | Unknown | No description provided. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 8071 | Unknown | No description provided. |
 
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 9759 | Python | Create Reddit Videos with just✨ one command ✨ |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10046 | Python | Create Reddit Videos with just✨ one command ✨ |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 11710 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 12218 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 3605 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 3901 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 <!-- TRENDING_END -->
 
 # TrendSpire
