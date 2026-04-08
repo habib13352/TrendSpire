@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-08 01:25 UTC_
+_Last updated: 2026-04-08 13:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 18787 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 8480 | Unknown | No description provided. |
 
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2548 | C++ | No description provided. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4249 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 
-| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 7955 | Python | PersonaPlex code. |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 19234 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 24522 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 8248 | Python | PersonaPlex code. |
 
-| [tobi/qmd](https://github.com/tobi/qmd) | 19559 | TypeScript | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2814 | C++ | No description provided. |
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 8071 | Unknown | No description provided. |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10300 | Python | Create Reddit Videos with just✨ one command ✨ |
 
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10046 | Python | Create Reddit Videos with just✨ one command ✨ |
+| [obra/superpowers](https://github.com/obra/superpowers) | 140701 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 12218 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 3928 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 3901 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 25046 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 50483 | Python | An AI Hedge Fund Team |
 <!-- TRENDING_END -->
 
 # TrendSpire
