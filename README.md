@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-08 13:08 UTC_
+_Last updated: 2026-04-09 01:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 8480 | Unknown | No description provided. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 9013 | Unknown | No description provided. |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4249 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4591 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 19234 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 19513 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
 
-| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 8248 | Python | PersonaPlex code. |
+| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 8419 | Python | PersonaPlex code. |
 
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2814 | C++ | No description provided. |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2992 | C++ | No description provided. |
 
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10300 | Python | Create Reddit Videos with just✨ one command ✨ |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10493 | Python | Create Reddit Videos with just✨ one command ✨ |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 140701 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 141549 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 3928 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | 4100 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 25046 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 25308 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 50483 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 50689 | Python | An AI Hedge Fund Team |
 <!-- TRENDING_END -->
 
 # TrendSpire
