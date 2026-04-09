@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-09 01:16 UTC_
+_Last updated: 2026-04-09 13:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 9013 | Unknown | No description provided. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 42021 | Python | The agent that grows with you |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4591 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 9843 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | 19513 | Kotlin | A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally. |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 14210 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
-| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | 8419 | Python | PersonaPlex code. |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 7359 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | 2992 | C++ | No description provided. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 13195 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | 10493 | Python | Create Reddit Videos with just✨ one command ✨ |
+| [obra/superpowers](https://github.com/obra/superpowers) | 142942 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 141549 | Shell | An agentic skills framework & software development methodology that works. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4954 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 
-| [newton-physics/newton](https://github.com/newton-physics/newton) | 4100 | Python | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 14100 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 25308 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 11897 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 50689 | Python | An AI Hedge Fund Team |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 6549 | TypeScript | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |
 <!-- TRENDING_END -->
 
 # TrendSpire
