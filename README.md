@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-10 01:26 UTC_
+_Last updated: 2026-04-10 12:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 44623 | Python | The agent that grows with you |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 98076 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 10489 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 14871 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 14901 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 49436 | Python | The agent that grows with you |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 7676 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 11426 | TypeScript | Open-source AI coworker, with memory |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 13813 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 5195 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 143776 | Shell | An agentic skills framework & software development methodology that works. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 11265 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 5213 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12490 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 14429 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 15581 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12191 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 14443 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 6842 | TypeScript | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |
+| [obra/superpowers](https://github.com/obra/superpowers) | 145003 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
