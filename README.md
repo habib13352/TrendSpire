@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-09 13:11 UTC_
+_Last updated: 2026-04-10 01:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 42021 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 44623 | Python | The agent that grows with you |
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 9843 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 10489 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 14210 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 14901 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 7359 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 7676 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 13195 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 13813 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 142942 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 143776 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 4954 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | 5213 | Python | A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 14100 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 14429 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 11897 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12191 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 6549 | TypeScript | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | 6842 | TypeScript | An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault |
 <!-- TRENDING_END -->
 
 # TrendSpire
