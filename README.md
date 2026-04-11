@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-10 12:57 UTC_
+_Last updated: 2026-04-11 01:20 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 98076 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 99736 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 14871 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 15641 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 49436 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 52085 | Python | The agent that grows with you |
 
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 11426 | TypeScript | Open-source AI coworker, with memory |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 11741 | TypeScript | Open-source AI coworker, with memory |
 
-| [multica-ai/multica](https://github.com/multica-ai/multica) | 5195 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 6110 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 11265 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 11753 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12490 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 12719 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 15581 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 15990 | Python | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 14443 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 14802 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 145003 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 145768 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
