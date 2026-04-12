@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-11 12:42 UTC_
+_Last updated: 2026-04-12 01:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 55722 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 59164 | Python | The agent that grows with you |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 101015 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 102290 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 16140 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 16483 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 12308 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 13665 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [multica-ai/multica](https://github.com/multica-ai/multica) | 7109 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 7967 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 36500 | HTML | practice made claude perfect |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 37104 | HTML | practice made claude perfect |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 67611 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 67795 | Roff | 所有小初高、大学PDF教材。 |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 9337 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 9931 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 13107 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 14300 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 15205 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 15631 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 <!-- TRENDING_END -->
 
 # TrendSpire
