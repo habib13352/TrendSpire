@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-12 01:43 UTC_
+_Last updated: 2026-04-12 12:49 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 59164 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 63138 | Python | The agent that grows with you |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 102290 | Python | Python tool for converting files and office documents to Markdown. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 15082 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 16483 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 14698 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 13665 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 103504 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [multica-ai/multica](https://github.com/multica-ai/multica) | 7967 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 8727 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 37104 | HTML | practice made claude perfect |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | 16746 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 67795 | Roff | 所有小初高、大学PDF教材。 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 38041 | HTML | practice made claude perfect |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 9931 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 10620 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 14300 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 48569 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 15631 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) | 19002 | Python | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
