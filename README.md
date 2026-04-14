@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-14 01:43 UTC_
+_Last updated: 2026-04-14 13:13 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 25471 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 29859 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 77518 | Python | The agent that grows with you |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 54687 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17042 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 16843 | TypeScript | The open-source voice synthesis studio |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 53393 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 10875 | TypeScript | Create and share 3D architectural projects. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 107030 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 107910 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [multica-ai/multica](https://github.com/multica-ai/multica) | 11179 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 151544 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [coleam00/Archon](https://github.com/coleam00/Archon) | 17636 | TypeScript | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66033 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 
-| [snarktank/ralph](https://github.com/snarktank/ralph) | 16536 | TypeScript | Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 53671 | Python | An AI Hedge Fund Team |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 52984 | Python | An AI Hedge Fund Team |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17558 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 39546 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 82525 | Python | The agent that grows with you |
 <!-- TRENDING_END -->
 
 # TrendSpire
