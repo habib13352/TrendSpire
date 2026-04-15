@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-14 13:13 UTC_
+_Last updated: 2026-04-15 01:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 29859 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 34021 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 54687 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 55853 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 16843 | TypeScript | The open-source voice synthesis studio |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 17368 | TypeScript | The open-source voice synthesis studio |
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 10875 | TypeScript | Create and share 3D architectural projects. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 11663 | TypeScript | Create and share 3D architectural projects. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 107910 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 108495 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 151544 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 152335 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66033 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66373 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 53671 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 54167 | Python | An AI Hedge Fund Team |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17558 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 17815 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 82525 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 84503 | Python | The agent that grows with you |
 <!-- TRENDING_END -->
 
 # TrendSpire
