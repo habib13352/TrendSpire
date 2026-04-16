@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-15 13:11 UTC_
+_Last updated: 2026-04-16 01:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 39378 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 43290 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 12233 | TypeScript | Create and share 3D architectural projects. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 12684 | TypeScript | Create and share 3D architectural projects. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 56937 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 57896 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 29020 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 29522 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 54708 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 55096 | Python | An AI Hedge Fund Team |
 
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66619 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 66816 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 153524 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 154362 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 17889 | TypeScript | The open-source voice synthesis studio |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 18322 | TypeScript | The open-source voice synthesis studio |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 422606 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 423388 | Python | A collective list of free APIs |
 
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 2264 | TypeScript | An open source template for building cloud agents. |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 2661 | TypeScript | An open source template for building cloud agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
