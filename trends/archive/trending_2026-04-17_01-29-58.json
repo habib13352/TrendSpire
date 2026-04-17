@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-04-17 01:29 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 50022
+    },
+    {
+      "rank": 2,
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 59812
+    },
+    {
+      "rank": 3,
+      "name": "lsdefine/GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars": 2795
+    },
+    {
+      "rank": 4,
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": 19079
+    },
+    {
+      "rank": 5,
+      "name": "vercel-labs/open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "stars": 3216
+    },
+    {
+      "rank": 6,
+      "name": "google/magika",
+      "url": "https://github.com/google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
+      "language": "Python",
+      "stars": 14782
+    },
+    {
+      "rank": 7,
+      "name": "steipete/wacli",
+      "url": "https://github.com/steipete/wacli",
+      "description": "WhatsApp CLI",
+      "language": "Go",
+      "stars": 1688
+    },
+    {
+      "rank": 8,
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "language": "Python",
+      "stars": 15817
+    },
+    {
+      "rank": 9,
+      "name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "language": "Python",
+      "stars": 1614
+    },
+    {
+      "rank": 10,
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "description": "\u300a\u52a8\u624b\u5b66\u5927\u6a21\u578bDive into LLMs\u300b\u7cfb\u5217\u7f16\u7a0b\u5b9e\u8df5\u6559\u7a0b",
+      "language": "Jupyter Notebook",
+      "stars": 30719
+    }
+  ]
+}

@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-16 13:17 UTC_
+_Last updated: 2026-04-17 01:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 47232 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 50022 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 58820 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 59812 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
 
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 2479 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 2795 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 18771 | TypeScript | The open-source voice synthesis studio |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19079 | TypeScript | The open-source voice synthesis studio |
 
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 2987 | TypeScript | An open source template for building cloud agents. |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 3216 | TypeScript | An open source template for building cloud agents. |
 
-| [google/magika](https://github.com/google/magika) | 14292 | Python | Fast and accurate AI powered file content types detection |
+| [google/magika](https://github.com/google/magika) | 14782 | Python | Fast and accurate AI powered file content types detection |
 
-| [steipete/wacli](https://github.com/steipete/wacli) | 1540 | Go | WhatsApp CLI |
+| [steipete/wacli](https://github.com/steipete/wacli) | 1688 | Go | WhatsApp CLI |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 15617 | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 15817 | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
 
-| [z-lab/dflash](https://github.com/z-lab/dflash) | 1466 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | 1614 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 30395 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 30719 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 <!-- TRENDING_END -->
 
 # TrendSpire
