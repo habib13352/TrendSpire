@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-17 01:29 UTC_
+_Last updated: 2026-04-17 13:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | 50022 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 3665 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 59812 | TypeScript | A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 3284 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 2795 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 2562 | Shell | Claude Code skill to support Android app's reverse engineering |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19079 | TypeScript | The open-source voice synthesis studio |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 9518 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
 
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 3216 | TypeScript | An open source template for building cloud agents. |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 31307 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
-| [google/magika](https://github.com/google/magika) | 14782 | Python | Fast and accurate AI powered file content types detection |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 11480 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
 
-| [steipete/wacli](https://github.com/steipete/wacli) | 1688 | Go | WhatsApp CLI |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19541 | TypeScript | The open-source voice synthesis studio |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 15817 | Python | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 4205 | TypeScript | No description provided. |
 
-| [z-lab/dflash](https://github.com/z-lab/dflash) | 1614 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 1165 | Python | Build your own AI SRE agents. The open source toolkit for the AI era ✨ |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 30719 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 157179 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
