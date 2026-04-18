@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-17 13:05 UTC_
+_Last updated: 2026-04-18 01:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 3665 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 4262 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
 
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 3284 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 3643 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 2562 | Shell | Claude Code skill to support Android app's reverse engineering |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 2753 | Shell | Claude Code skill to support Android app's reverse engineering |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 9518 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 9851 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 31307 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 31533 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 11480 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 11801 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19541 | TypeScript | The open-source voice synthesis studio |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19869 | TypeScript | The open-source voice synthesis studio |
 
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 4205 | TypeScript | No description provided. |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 4302 | TypeScript | No description provided. |
 
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 1165 | Python | Build your own AI SRE agents. The open source toolkit for the AI era ✨ |
+| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 1464 | Python | Build your own AI SRE agents. The open source toolkit for the AI era ✨ |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 157179 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 157783 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
