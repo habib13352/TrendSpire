@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-18 01:23 UTC_
+_Last updated: 2026-04-18 12:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 4262 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 1225 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
 
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 3643 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 10117 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
 
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 2753 | Shell | Claude Code skill to support Android app's reverse engineering |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 22054 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 9851 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 4749 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 31533 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6414 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
 
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 11801 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 31839 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 19869 | TypeScript | The open-source voice synthesis studio |
+| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | 3376 | Shell | Claude Desktop for Debian-based Linux distributions |
 
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 4302 | TypeScript | No description provided. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 111836 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 
-| [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre) | 1464 | Python | Build your own AI SRE agents. The open source toolkit for the AI era ✨ |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 2955 | Shell | Claude Code skill to support Android app's reverse engineering |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 157783 | Shell | An agentic skills framework & software development methodology that works. |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 595 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
 <!-- TRENDING_END -->
 
 # TrendSpire
