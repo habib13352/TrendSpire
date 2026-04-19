@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-18 12:50 UTC_
+_Last updated: 2026-04-19 01:46 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 1225 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 1589 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 10117 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 10481 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 22054 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 22362 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 4749 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5028 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
 
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6414 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6544 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 31839 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 32037 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
-| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | 3376 | Shell | Claude Desktop for Debian-based Linux distributions |
+| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | 3478 | Shell | Claude Desktop for Debian-based Linux distributions |
 
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 111836 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 112108 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
 
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 2955 | Shell | Claude Code skill to support Android app's reverse engineering |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 3148 | Shell | Claude Code skill to support Android app's reverse engineering |
 
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 595 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 747 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
 <!-- TRENDING_END -->
 
 # TrendSpire
