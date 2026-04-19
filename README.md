@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-19 01:46 UTC_
+_Last updated: 2026-04-19 12:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 1589 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 5267 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 10481 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 1905 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 22362 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 854 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
 
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5028 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 22797 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6544 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 9695 | TypeScript | No description provided. |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 32037 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 38587 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | 3478 | Shell | Claude Desktop for Debian-based Linux distributions |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47179 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 112108 | Rust | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5260 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
 
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | 3148 | Shell | Claude Code skill to support Android app's reverse engineering |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 10787 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
 
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 747 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 12948 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
 <!-- TRENDING_END -->
 
 # TrendSpire
