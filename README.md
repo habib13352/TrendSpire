@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-20 01:48 UTC_
+_Last updated: 2026-04-20 13:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 6713 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 8450 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2257 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47890 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1020 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2582 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23221 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 39204 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 9904 | TypeScript | No description provided. |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1197 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 38901 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 49531 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47531 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23704 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5560 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6743 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 11200 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
+| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 56836 | Shell | A black hole for Internet advertisements |
 
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 13519 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 37319 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
 <!-- TRENDING_END -->
 
 # TrendSpire
