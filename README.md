@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-19 12:47 UTC_
+_Last updated: 2026-04-20 01:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 5267 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 6713 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 1905 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2257 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
 
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 854 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1020 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 22797 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23221 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 9695 | TypeScript | No description provided. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 9904 | TypeScript | No description provided. |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 38587 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 38901 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47179 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47531 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5260 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | 5560 | JavaScript | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai |
 
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 10787 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | 11200 | Dart | AI that sees your screen, listens to your conversations and tells you what to do |
 
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 12948 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 13519 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
 <!-- TRENDING_END -->
 
 # TrendSpire
