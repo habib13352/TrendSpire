@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-20 13:16 UTC_
+_Last updated: 2026-04-21 01:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 8450 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 9629 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 47890 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48235 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2582 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2837 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 39204 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 39441 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1197 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1352 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 49531 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 50155 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23704 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23962 | Python | A lightweight, powerful framework for multi-agent workflows |
 
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6743 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6835 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
 
-| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 56836 | Shell | A black hole for Internet advertisements |
+| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 57194 | Shell | A black hole for Internet advertisements |
 
-| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 37319 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
+| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 37467 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
 <!-- TRENDING_END -->
 
 # TrendSpire
