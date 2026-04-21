@@ -1,30 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-21 01:44 UTC_
+_Last updated: 2026-04-21 13:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 9629 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 10907 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48235 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 3172 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
 
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 2837 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 6255 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 39441 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48661 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | 1352 | HTML | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 57271 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 50155 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | 4719 | Logos | A flexible enhancer for YouTube on iOS |
 
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | 23962 | Python | A lightweight, powerful framework for multi-agent workflows |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 16546 | Python | "RAG-Anything: All-in-One RAG Framework" |
 
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 6835 | Cuda | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
-
-| [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) | 57194 | Shell | A black hole for Internet advertisements |
-
-| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 37467 | Go | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 53304 | Python | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
