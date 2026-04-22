@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-22 01:28 UTC_
+_Last updated: 2026-04-22 13:13 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 11648 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 7127 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | 3481 | TypeScript | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 12616 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 6629 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 51133 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 48904 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 25398 | TypeScript | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 57709 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | 39269 | TypeScript | Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. |
 
-| [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | 4838 | Logos | A flexible enhancer for YouTube on iOS |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 11911 | TypeScript | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. |
 
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 16905 | Python | "RAG-Anything: All-in-One RAG Framework" |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 49201 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 53671 | Python | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 17305 | Python | "RAG-Anything: All-in-One RAG Framework" |
+
+| [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | 54201 | Python | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 |
+
+| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 5220 | Python | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 <!-- TRENDING_END -->
 
 # TrendSpire
