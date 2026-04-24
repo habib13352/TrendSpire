@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-23 13:12 UTC_
+_Last updated: 2026-04-24 01:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 1856 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 3418 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
 
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 8101 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 8458 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 17897 | Python | "RAG-Anything: All-in-One RAG Framework" |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 18206 | Python | "RAG-Anything: All-in-One RAG Framework" |
 
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 60436 | Python | ALL IN ONE Hacking Tool For Hackers |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 61120 | Python | ALL IN ONE Hacking Tool For Hackers |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 49604 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 49851 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 4224 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 6993 | JavaScript | Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 12673 | TypeScript | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 5663 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 58519 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 12955 | TypeScript | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 52663 | C# | PowerShell for every system! |
+| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 58829 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
 
-| [cline/cline](https://github.com/cline/cline) | 60681 | TypeScript | Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 52799 | C# | PowerShell for every system! |
 <!-- TRENDING_END -->
 
 # TrendSpire
