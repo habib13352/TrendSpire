@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-24 01:51 UTC_
+_Last updated: 2026-04-24 13:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 3418 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 6849 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
 
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 8458 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 4700 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
 
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | 18206 | Python | "RAG-Anything: All-in-One RAG Framework" |
+| [google/osv-scanner](https://github.com/google/osv-scanner) | 9265 | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
 
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 61120 | Python | ALL IN ONE Hacking Tool For Hackers |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 61791 | Python | ALL IN ONE Hacking Tool For Hackers |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 49851 | Rust | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 8784 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
 
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 6993 | JavaScript | Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 13180 | TypeScript | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 5663 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 32881 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
 
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 12955 | TypeScript | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 59047 | Rust | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 
-| [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | 58829 | Jupyter Notebook | 12 Lessons to Get Started Building AI Agents |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 494120 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 52799 | C# | PowerShell for every system! |
+| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 9240 | Cuda | DeepEP: an efficient expert-parallel communication library |
 <!-- TRENDING_END -->
 
 # TrendSpire
