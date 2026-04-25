@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-25 01:26 UTC_
+_Last updated: 2026-04-25 12:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 9008 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 10644 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
 
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 5362 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 18870 | Shell | My personal directory of skills, straight from my .claude directory. |
 
-| [google/osv-scanner](https://github.com/google/osv-scanner) | 9515 | Go | Vulnerability scanner written in Go which uses the data provided by https://osv.dev |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 62973 | Python | ALL IN ONE Hacking Tool For Hackers |
 
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 62390 | Python | ALL IN ONE Hacking Tool For Hackers |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 33326 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
 
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | 9017 | TypeScript | Code search MCP for Claude Code. Make entire codebase the context for any coding agent. |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25184 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | 13357 | TypeScript | OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. |
+| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 9418 | Cuda | DeepEP: an efficient expert-parallel communication library |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 33118 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 52940 | C# | PowerShell for every system! |
 
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 59176 | Rust | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 23397 | TypeScript | Roo Code gives you a whole dev team of AI agents in your code editor. |
 
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 7699 | JavaScript | Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 5897 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 494799 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 495457 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 <!-- TRENDING_END -->
 
 # TrendSpire
