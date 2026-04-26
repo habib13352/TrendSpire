@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-25 12:51 UTC_
+_Last updated: 2026-04-26 01:49 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 10644 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 11531 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 18870 | Shell | My personal directory of skills, straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 20128 | Shell | My personal directory of skills, straight from my .claude directory. |
 
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 62973 | Python | ALL IN ONE Hacking Tool For Hackers |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 63919 | Python | ALL IN ONE Hacking Tool For Hackers |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 33326 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 33507 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25184 | Python | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25364 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 9418 | Cuda | DeepEP: an efficient expert-parallel communication library |
+| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 9498 | Cuda | DeepEP: an efficient expert-parallel communication library |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 52940 | C# | PowerShell for every system! |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 53078 | C# | PowerShell for every system! |
 
-| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 23397 | TypeScript | Roo Code gives you a whole dev team of AI agents in your code editor. |
+| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 23514 | TypeScript | Roo Code gives you a whole dev team of AI agents in your code editor. |
 
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 5897 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 6258 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 495457 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 496012 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 <!-- TRENDING_END -->
 
 # TrendSpire
