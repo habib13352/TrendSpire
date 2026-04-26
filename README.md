@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-26 01:49 UTC_
+_Last updated: 2026-04-26 12:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 11531 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 21462 | Shell | My personal directory of skills, straight from my .claude directory. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 20128 | Shell | My personal directory of skills, straight from my .claude directory. |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 12356 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
 
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 63919 | Python | ALL IN ONE Hacking Tool For Hackers |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 64678 | Python | ALL IN ONE Hacking Tool For Hackers |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 33507 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 29721 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25364 | Python | CLI tool for configuring and monitoring Claude Code |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 33655 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
 
-| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | 9498 | Cuda | DeepEP: an efficient expert-parallel communication library |
+| [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | 25109 | Go | Staging repo for development of native port of TypeScript |
 
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | 53078 | C# | PowerShell for every system! |
+| [trycua/cua](https://github.com/trycua/cua) | 14226 | HTML | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
 
-| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | 23514 | TypeScript | Roo Code gives you a whole dev team of AI agents in your code editor. |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | 21471 | Go | Beads - A memory upgrade for your coding agent |
 
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | 6258 | Python | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models |
+| [curl/curl](https://github.com/curl/curl) | 41421 | C | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 496012 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [home-assistant/core](https://github.com/home-assistant/core) | 86292 | Python | 🏡 Open source home automation that puts local control and privacy first. |
 <!-- TRENDING_END -->
 
 # TrendSpire
