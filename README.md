@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-27 01:52 UTC_
+_Last updated: 2026-04-27 13:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 23978 | Shell | Agent Skills for real engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 27206 | Shell | Agent Skills for real engineers. Straight from my .claude directory. |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 13738 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 30846 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 65570 | Python | ALL IN ONE Hacking Tool For Hackers |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 2397 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 30223 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 15317 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 33856 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | 21975 | Go | Beads - A memory upgrade for your coding agent |
 
-| [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | 25168 | Go | Staging repo for development of native port of TypeScript |
+| [penpot/penpot](https://github.com/penpot/penpot) | 46338 | Clojure | Penpot: The open-source design tool for design and code collaboration |
 
-| [trycua/cua](https://github.com/trycua/cua) | 14418 | HTML | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25651 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [gastownhall/beads](https://github.com/gastownhall/beads) | 21706 | Go | Beads - A memory upgrade for your coding agent |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 42374 | Python | Open-Source Frontier Voice AI |
 
-| [curl/curl](https://github.com/curl/curl) | 41549 | C | A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 66507 | Python | ALL IN ONE Hacking Tool For Hackers |
 
-| [home-assistant/core](https://github.com/home-assistant/core) | 86543 | Python | 🏡 Open source home automation that puts local control and privacy first. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 53363 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
