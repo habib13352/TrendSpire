@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-27 13:25 UTC_
+_Last updated: 2026-04-28 02:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 27206 | Shell | Agent Skills for real engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 30631 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 30846 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 31604 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 2397 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 2861 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 15317 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 16198 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
 
-| [gastownhall/beads](https://github.com/gastownhall/beads) | 21975 | Go | Beads - A memory upgrade for your coding agent |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | 22223 | Go | Beads - A memory upgrade for your coding agent |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 46338 | Clojure | Penpot: The open-source design tool for design and code collaboration |
+| [penpot/penpot](https://github.com/penpot/penpot) | 46654 | Clojure | Penpot: The open-source design tool for design and code collaboration |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25651 | Python | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 25803 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 42374 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 43172 | Python | Open-Source Frontier Voice AI |
 
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 66507 | Python | ALL IN ONE Hacking Tool For Hackers |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | 67157 | Python | ALL IN ONE Hacking Tool For Hackers |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 53363 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 53839 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
