@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-29 02:02 UTC_
+_Last updated: 2026-04-29 13:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 37779 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 39974 | Rust | Warp is an agentic development environment, born out of the terminal. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 32683 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 41706 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4052 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11194 | Python | Useful tool to track location or mobile number |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 44883 | Python | Open-Source Frontier Voice AI |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4538 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 26177 | Python | CLI tool for configuring and monitoring Claude Code |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1073 | Rust | Coding Agent Harness |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 10672 | Python | Useful tool to track location or mobile number |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 33087 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | 1727 | JavaScript | 🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno! |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 45438 | Python | Open-Source Frontier Voice AI |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 428226 | Python | A collective list of free APIs |
+| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2592 | Go | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. |
 
-| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2360 | Go | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 172561 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 17567 | Python | Use claude-code for free in the terminal, VSCode extension or via discord like openclaw |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 32467 | Python | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
 <!-- TRENDING_END -->
 
 # TrendSpire
