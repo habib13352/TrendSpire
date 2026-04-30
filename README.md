@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-30 02:01 UTC_
+_Last updated: 2026-04-30 13:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 44372 | Rust | Warp is an agentic development environment, born out of the terminal. |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 47621 | Rust | Warp is an agentic development environment, born out of the terminal. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 44977 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 56677 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11610 | Python | Useful tool to track location or mobile number |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 47715 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4834 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 174100 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1400 | Rust | Coding Agent Harness |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 5482 | TypeScript | No description provided. |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 33369 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 429108 | Python | A collective list of free APIs |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 45720 | Python | Open-Source Frontier Voice AI |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1722 | Rust | Coding Agent Harness |
 
-| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2738 | Go | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 20594 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 173201 | Shell | An agentic skills framework & software development methodology that works. |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11965 | Python | Useful tool to track location or mobile number |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 32823 | Python | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 12768 | Kotlin | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases. |
 <!-- TRENDING_END -->
 
 # TrendSpire
