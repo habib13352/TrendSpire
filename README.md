@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-29 13:43 UTC_
+_Last updated: 2026-04-30 02:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 39974 | Rust | Warp is an agentic development environment, born out of the terminal. |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 44372 | Rust | Warp is an agentic development environment, born out of the terminal. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 41706 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 44977 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11194 | Python | Useful tool to track location or mobile number |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11610 | Python | Useful tool to track location or mobile number |
 
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4538 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | 4834 | Python | A curated list of practical Codex skills for automating workflows across the Codex CLI and API. |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1073 | Rust | Coding Agent Harness |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1400 | Rust | Coding Agent Harness |
 
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 33087 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | 33369 | TypeScript | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration |
 
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 45438 | Python | Open-Source Frontier Voice AI |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 45720 | Python | Open-Source Frontier Voice AI |
 
-| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2592 | Go | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. |
+| [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | 2738 | Go | Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 172561 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 173201 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 32467 | Python | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 32823 | Python | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets. |
 <!-- TRENDING_END -->
 
 # TrendSpire
