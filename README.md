@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-01 02:05 UTC_
+_Last updated: 2026-05-01 13:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 49328 | Rust | Warp is an agentic development environment, born out of the terminal. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 58741 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 57827 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 21123 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 49615 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 50711 | Rust | Warp is an agentic development environment, born out of the terminal. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 174633 | Shell | An agentic skills framework & software development methodology that works. |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2112 | Rust | Coding Agent Harness |
 
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 5585 | TypeScript | No description provided. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 51223 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 429560 | Python | A collective list of free APIs |
+| [browserbase/skills](https://github.com/browserbase/skills) | 1017 | JavaScript | Claude Agent SDK with a web browsing tool |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1905 | Rust | Coding Agent Harness |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 28014 | TypeScript | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 20862 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [obra/superpowers](https://github.com/obra/superpowers) | 175146 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 12189 | Python | Useful tool to track location or mobile number |
-
-| [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 13093 | Kotlin | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 26874 | Batchfile | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
