@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-04-30 13:27 UTC_
+_Last updated: 2026-05-01 02:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 47621 | Rust | Warp is an agentic development environment, born out of the terminal. |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 49328 | Rust | Warp is an agentic development environment, born out of the terminal. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 56677 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 57827 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 47715 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 49615 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 174100 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 174633 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 5482 | TypeScript | No description provided. |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | 5585 | TypeScript | No description provided. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 429108 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 429560 | Python | A collective list of free APIs |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1722 | Rust | Coding Agent Harness |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 1905 | Rust | Coding Agent Harness |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 20594 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 20862 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 11965 | Python | Useful tool to track location or mobile number |
+| [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | 12189 | Python | Useful tool to track location or mobile number |
 
-| [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 12768 | Kotlin | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases. |
+| [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | 13093 | Kotlin | 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases. |
 <!-- TRENDING_END -->
 
 # TrendSpire
