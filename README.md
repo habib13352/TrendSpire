@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-02 01:52 UTC_
+_Last updated: 2026-05-02 12:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 59951 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 60985 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 21700 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 35836 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 51519 | Rust | Warp is an agentic development environment, born out of the terminal. |
+| [browserbase/skills](https://github.com/browserbase/skills) | 1351 | JavaScript | Claude Agent SDK with a web browsing tool |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2378 | Rust | Coding Agent Harness |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 40845 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 52624 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 22183 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [browserbase/skills](https://github.com/browserbase/skills) | 1198 | JavaScript | Claude Agent SDK with a web browsing tool |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 27039 | Batchfile | No description provided. |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 28165 | TypeScript | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2580 | Rust | Coding Agent Harness |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 175657 | Shell | An agentic skills framework & software development methodology that works. |
+| [ShareX/ShareX](https://github.com/ShareX/ShareX) | 36556 | C# | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 26976 | Batchfile | No description provided. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 344205 | Unknown | A complete computer science study plan to become a software engineer. |
 <!-- TRENDING_END -->
 
 # TrendSpire
