@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-01 13:06 UTC_
+_Last updated: 2026-05-02 01:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 58741 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 59951 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 21123 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 21700 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 50711 | Rust | Warp is an agentic development environment, born out of the terminal. |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | 51519 | Rust | Warp is an agentic development environment, born out of the terminal. |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2112 | Rust | Coding Agent Harness |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2378 | Rust | Coding Agent Harness |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 51223 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 52624 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [browserbase/skills](https://github.com/browserbase/skills) | 1017 | JavaScript | Claude Agent SDK with a web browsing tool |
+| [browserbase/skills](https://github.com/browserbase/skills) | 1198 | JavaScript | Claude Agent SDK with a web browsing tool |
 
-| [simstudioai/sim](https://github.com/simstudioai/sim) | 28014 | TypeScript | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | 28165 | TypeScript | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 175146 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 175657 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 26874 | Batchfile | No description provided. |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 26976 | Batchfile | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
