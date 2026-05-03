@@ -1,26 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-03 01:55 UTC_
+_Last updated: 2026-05-03 12:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 62802 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 37668 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 36867 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 64176 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [browserbase/skills](https://github.com/browserbase/skills) | 1528 | JavaScript | Claude Agent SDK with a web browsing tool |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 23284 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 22753 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 1831 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 27121 | Batchfile | No description provided. |
+| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 9463 | Python | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 2862 | Rust | Coding Agent Harness |
+| [browserbase/skills](https://github.com/browserbase/skills) | 1664 | JavaScript | Claude Agent SDK with a web browsing tool |
 
-| [ShareX/ShareX](https://github.com/ShareX/ShareX) | 36832 | C# | ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations. |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19259 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 344598 | Unknown | A complete computer science study plan to become a software engineer. |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3162 | Rust | Coding Agent Harness |
+
+| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 26505 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 <!-- TRENDING_END -->
 
 # TrendSpire
