@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-03 12:56 UTC_
+_Last updated: 2026-05-04 01:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 37668 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 39089 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 64176 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 65378 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 23284 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 23856 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 1831 | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 2206 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 9463 | Python | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
+| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | 10025 | Python | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
 
-| [browserbase/skills](https://github.com/browserbase/skills) | 1664 | JavaScript | Claude Agent SDK with a web browsing tool |
+| [browserbase/skills](https://github.com/browserbase/skills) | 1840 | JavaScript | Claude Agent SDK with a web browsing tool |
 
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19259 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19540 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3162 | Rust | Coding Agent Harness |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3451 | Rust | Coding Agent Harness |
 
-| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 26505 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
+| [openwrt/openwrt](https://github.com/openwrt/openwrt) | 26626 | C | This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. |
 <!-- TRENDING_END -->
 
 # TrendSpire
