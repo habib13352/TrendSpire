@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-04 13:29 UTC_
+_Last updated: 2026-05-05 01:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 40294 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 41509 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 66413 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 67592 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [browserbase/skills](https://github.com/browserbase/skills) | 1987 | JavaScript | Claude Agent SDK with a web browsing tool |
+| [browserbase/skills](https://github.com/browserbase/skills) | 2130 | JavaScript | Claude Agent SDK with a web browsing tool |
 
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 3212 | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 4055 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 24412 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 24881 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | 36926 | C++ | qBittorrent BitTorrent client |
+| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | 37060 | C++ | qBittorrent BitTorrent client |
 
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19768 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19930 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3703 | Rust | Coding Agent Harness |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3931 | Rust | Coding Agent Harness |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 92069 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 92706 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 22866 | TypeScript | An autonomous agent for deep financial research |
+| [virattt/dexter](https://github.com/virattt/dexter) | 23225 | TypeScript | An autonomous agent for deep financial research |
 <!-- TRENDING_END -->
 
 # TrendSpire
