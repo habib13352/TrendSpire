@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-06 01:55 UTC_
+_Last updated: 2026-05-06 13:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 7858 | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 12150 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 43757 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 29385 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 23815 | TypeScript | An autonomous agent for deep financial research |
+| [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | 6490 | Python | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
 
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 14042 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 14488 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 
-| [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | 7891 | PowerShell | VSCode theme based off the easemate IDE and Jetbrains islands theme |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 5464 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 13077 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 62849 | C++ | Truly independent web browser |
 
-| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 8408 | Python | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 8265 | TypeScript | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 93676 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [virattt/dexter](https://github.com/virattt/dexter) | 24167 | TypeScript | An autonomous agent for deep financial research |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 345839 | Unknown | A complete computer science study plan to become a software engineer. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 8630 | Python | No description provided. |
 
-| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 11350 | Python | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 44772 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 <!-- TRENDING_END -->
 
 # TrendSpire
