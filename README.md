@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-05 01:57 UTC_
+_Last updated: 2026-05-06 01:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 41509 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 7858 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 67592 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 43757 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
 
-| [browserbase/skills](https://github.com/browserbase/skills) | 2130 | JavaScript | Claude Agent SDK with a web browsing tool |
+| [virattt/dexter](https://github.com/virattt/dexter) | 23815 | TypeScript | An autonomous agent for deep financial research |
 
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 4055 | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 14042 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 24881 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | 7891 | PowerShell | VSCode theme based off the easemate IDE and Jetbrains islands theme |
 
-| [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | 37060 | C++ | qBittorrent BitTorrent client |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 13077 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms |
 
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 19930 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | 8408 | Python | Incremental engine for long horizon agents 🌟 Star if you like it! |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 3931 | Rust | Coding Agent Harness |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 93676 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 92706 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 345839 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 23225 | TypeScript | An autonomous agent for deep financial research |
+| [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | 11350 | Python | A collection of projects showcasing RAG, agents, workflows, and other AI use cases |
 <!-- TRENDING_END -->
 
 # TrendSpire
