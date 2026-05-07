@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-07 01:59 UTC_
+_Last updated: 2026-05-07 13:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 14308 | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 10171 | Python | No description provided. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 30667 | Shell | Production-grade engineering skills for AI coding agents. |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 17636 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | 6592 | Python | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | 3294 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
 
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 14924 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 8704 | TypeScript | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. |
 
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 5684 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6024 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 62994 | C++ | Truly independent web browser |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 32310 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 8479 | TypeScript | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 29260 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
 
-| [virattt/dexter](https://github.com/virattt/dexter) | 24381 | TypeScript | An autonomous agent for deep financial research |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 4914 | TypeScript | An open source template for building cloud agents. |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 9200 | Python | No description provided. |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 15336 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 45308 | TypeScript | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration |
+| [decolua/9router](https://github.com/decolua/9router) | 4181 | JavaScript | 🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
 <!-- TRENDING_END -->
 
 # TrendSpire
