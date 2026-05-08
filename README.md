@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-08 02:05 UTC_
+_Last updated: 2026-05-08 13:18 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 11909 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 13685 | Python | No description provided. |
 
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 19105 | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 34145 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [z-lab/dflash](https://github.com/z-lab/dflash) | 3520 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 21192 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | 8887 | TypeScript | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents. |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | 3665 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
 
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6294 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
+| [decolua/9router](https://github.com/decolua/9router) | 5196 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 33092 | Shell | Production-grade engineering skills for AI coding agents. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 2505 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 29603 | Python | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 1626 | Python | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
 
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | 5064 | TypeScript | An open source template for building cloud agents. |
+| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 14353 | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
 
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 15658 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6565 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
 
-| [decolua/9router](https://github.com/decolua/9router) | 4618 | JavaScript | 🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 76274 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
 <!-- TRENDING_END -->
 
 # TrendSpire
