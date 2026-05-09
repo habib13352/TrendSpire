@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-08 13:18 UTC_
+_Last updated: 2026-05-09 01:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 13685 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 15302 | Python | No description provided. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 34145 | Shell | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 35524 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 21192 | Rust | Coding agent for DeepSeek models that runs in your terminal |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | 21898 | Rust | Coding agent for DeepSeek models that runs in your terminal |
 
-| [z-lab/dflash](https://github.com/z-lab/dflash) | 3665 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | 3861 | Python | DFlash: Block Diffusion for Flash Speculative Decoding |
 
-| [decolua/9router](https://github.com/decolua/9router) | 5196 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
+| [decolua/9router](https://github.com/decolua/9router) | 5637 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 2505 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 3085 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 1626 | Python | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
+| [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | 1774 | Python | AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents |
 
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 14353 | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 14673 | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
 
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6565 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 6754 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted. |
 
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 76274 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 76519 | TypeScript | The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. |
 <!-- TRENDING_END -->
 
 # TrendSpire
