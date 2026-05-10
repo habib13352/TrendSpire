@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-09 13:02 UTC_
+_Last updated: 2026-05-10 01:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 16692 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 17451 | Python | No description provided. |
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 31110 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 31438 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 3088 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 3461 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 45402 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 45714 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 8223 | JavaScript | 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step. |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 8550 | JavaScript | 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step. |
 
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 13564 | TypeScript | Open-source AI coworker, with memory |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | 13799 | TypeScript | Open-source AI coworker, with memory |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 38634 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 38839 | TypeScript | Chrome DevTools for coding agents |
 
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 2142 | Go | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 2553 | Go | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
 
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6003 | TypeScript | 3D Gaussian Splat Editor |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6330 | TypeScript | 3D Gaussian Splat Editor |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 36396 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 36489 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 <!-- TRENDING_END -->
 
 # TrendSpire
