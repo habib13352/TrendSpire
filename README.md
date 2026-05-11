@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-11 02:08 UTC_
+_Last updated: 2026-05-11 14:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 32199 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 32777 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 18945 | Python | No description provided. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 5657 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 38516 | Shell | Production-grade engineering skills for AI coding agents. |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 10397 | TypeScript | Let's use AI to Earn! |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 4816 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 7136 | TypeScript | 3D Gaussian Splat Editor |
 
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 15620 | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9696 | JavaScript | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step. |
 
-| [jundot/omlx](https://github.com/jundot/omlx) | 13329 | Python | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
+| [decolua/9router](https://github.com/decolua/9router) | 7950 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
 
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9222 | JavaScript | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 1063 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6851 | TypeScript | 3D Gaussian Splat Editor |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 7741 | TypeScript | Your agent writes bad React. This catches it |
 
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 10550 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 37197 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
-| [decolua/9router](https://github.com/decolua/9router) | 7344 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
+| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 162848 | Python | Stable Diffusion web UI |
 <!-- TRENDING_END -->
 
 # TrendSpire
