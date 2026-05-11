@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-10 13:03 UTC_
+_Last updated: 2026-05-11 02:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 31777 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 32199 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 18123 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 18945 | Python | No description provided. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 37932 | Shell | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 38516 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 4213 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 4816 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 15208 | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | 15620 | Python | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
 
-| [jundot/omlx](https://github.com/jundot/omlx) | 13098 | Python | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
+| [jundot/omlx](https://github.com/jundot/omlx) | 13329 | Python | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
 
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 8850 | JavaScript | 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step. |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9222 | JavaScript | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step. |
 
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6565 | TypeScript | 3D Gaussian Splat Editor |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 6851 | TypeScript | 3D Gaussian Splat Editor |
 
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 2812 | Go | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 10550 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
 
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | 10388 | Python | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption |
+| [decolua/9router](https://github.com/decolua/9router) | 7344 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
 <!-- TRENDING_END -->
 
 # TrendSpire
