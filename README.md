@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-12 02:04 UTC_
+_Last updated: 2026-05-12 14:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | 33046 | TypeScript | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 2129 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 6258 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 5394 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 10855 | TypeScript | Let's use AI to Earn! |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 7175 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | 7375 | TypeScript | 3D Gaussian Splat Editor |
+| [apernet/hysteria](https://github.com/apernet/hysteria) | 20033 | Go | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
 
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | 9970 | JavaScript | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 74876 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [decolua/9router](https://github.com/decolua/9router) | 8397 | JavaScript | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
+| [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2082 | Java | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 1528 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8503 | TypeScript | Your agent writes bad React. This catches it |
 
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8100 | TypeScript | Your agent writes bad React. This catches it |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 93443 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | 37336 | Jupyter Notebook | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 48002 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 162909 | Python | Stable Diffusion web UI |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 11559 | TypeScript | Let's use AI to Earn! |
 <!-- TRENDING_END -->
 
 # TrendSpire
