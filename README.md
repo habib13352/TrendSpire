@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-12 14:06 UTC_
+_Last updated: 2026-05-13 02:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 2129 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 2828 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 5394 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 5961 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 7175 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 7967 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [apernet/hysteria](https://github.com/apernet/hysteria) | 20033 | Go | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
+| [apernet/hysteria](https://github.com/apernet/hysteria) | 20259 | Go | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 74876 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 76272 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2082 | Java | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
+| [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2236 | Java | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
 
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8503 | TypeScript | Your agent writes bad React. This catches it |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8797 | TypeScript | Your agent writes bad React. This catches it |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 93443 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 93845 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 48002 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 48311 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 11559 | TypeScript | Let's use AI to Earn! |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 11945 | TypeScript | Let's use AI to Earn! |
 <!-- TRENDING_END -->
 
 # TrendSpire
