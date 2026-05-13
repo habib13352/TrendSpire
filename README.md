@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-13 02:10 UTC_
+_Last updated: 2026-05-13 14:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 2828 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 4127 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 5961 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 6893 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 7967 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 189025 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [apernet/hysteria](https://github.com/apernet/hysteria) | 20259 | Go | Hysteria is a powerful, lightning fast and censorship resistant proxy. |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 12596 | TypeScript | Let's use AI to Earn! |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 76272 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 16911 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
 
-| [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | 2236 | Java | Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 9085 | TypeScript | Your agent writes bad React. This catches it |
 
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 8797 | TypeScript | Your agent writes bad React. This catches it |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 20904 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 93845 | Jupyter Notebook | Implement a ChatGPT-like LLM in PyTorch from scratch, step by step |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 13127 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | 48311 | Python | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 3926 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 11945 | TypeScript | Let's use AI to Earn! |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 9037 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 <!-- TRENDING_END -->
 
 # TrendSpire
