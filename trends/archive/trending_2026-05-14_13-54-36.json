@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-05-14 13:54 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 55202
+    },
+    {
+      "rank": 2,
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 7250
+    },
+    {
+      "rank": 3,
+      "name": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 8663
+    },
+    {
+      "rank": 4,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 190693
+    },
+    {
+      "rank": 5,
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 21545
+    },
+    {
+      "rank": 6,
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 24629
+    },
+    {
+      "rank": 7,
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. \ud83d\udc9c",
+      "language": "Python",
+      "stars": 38740
+    },
+    {
+      "rank": 8,
+      "name": "influxdata/telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "stars": 17123
+    },
+    {
+      "rank": 9,
+      "name": "supertone-inc/supertonic",
+      "url": "https://github.com/supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS \u2014 running natively via ONNX.",
+      "language": "Swift",
+      "stars": 5017
+    },
+    {
+      "rank": 10,
+      "name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars": 141066
+    }
+  ]
+}

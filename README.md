@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-14 02:12 UTC_
+_Last updated: 2026-05-14 13:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 5686 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 55202 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 7755 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 7250 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 189632 | Shell | An agentic skills framework & software development methodology that works. |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 8663 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 12993 | TypeScript | Let's use AI to Earn! |
+| [obra/superpowers](https://github.com/obra/superpowers) | 190693 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17023 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21545 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) | 9310 | TypeScript | Your agent writes bad React. This catches it |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 24629 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21170 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 38740 | Python | We write your reusable computer vision tools. 💜 |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 13403 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17123 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
 
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 4408 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 5017 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 9583 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 141066 | C | Display and control your Android device |
 <!-- TRENDING_END -->
 
 # TrendSpire
