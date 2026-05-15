@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-14 13:54 UTC_
+_Last updated: 2026-05-15 02:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 55202 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 56120 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 7250 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 7836 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 8663 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 9028 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 190693 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 191310 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21545 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21838 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 24629 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 24856 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 38740 | Python | We write your reusable computer vision tools. 💜 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 38905 | Python | We write your reusable computer vision tools. 💜 |
 
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17123 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17228 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
 
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 5017 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 5384 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 141066 | C | Display and control your Android device |
+| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 141389 | C | Display and control your Android device |
 <!-- TRENDING_END -->
 
 # TrendSpire
