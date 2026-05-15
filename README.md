@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-15 02:10 UTC_
+_Last updated: 2026-05-15 13:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 56120 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 8496 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 7836 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 192291 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 9028 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 22178 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 191310 | Shell | An agentic skills framework & software development methodology that works. |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 5712 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 21838 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 57008 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 24856 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17324 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 38905 | Python | We write your reusable computer vision tools. 💜 |
+| [anthropics/skills](https://github.com/anthropics/skills) | 134736 | Python | Public repository for Agent Skills |
 
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17228 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 20767 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
 
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 5384 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 1024 | Python | Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications. |
 
-| [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) | 141389 | C | Display and control your Android device |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 90482 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 <!-- TRENDING_END -->
 
 # TrendSpire
