@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-16 02:02 UTC_
+_Last updated: 2026-05-16 13:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 9103 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 90818 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 192869 | Shell | An agentic skills framework & software development methodology that works. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 22819 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 22479 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 193479 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 6070 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 14098 | JavaScript | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 57536 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 6425 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
-| [influxdata/telegraf](https://github.com/influxdata/telegraf) | 17420 | Go | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 10024 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 135180 | Python | Public repository for Agent Skills |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 57922 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | 20904 | TypeScript | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you |
+| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 16576 | Go | Why is this running? |
 
-| [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 1162 | Python | Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications. |
-
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 90627 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 2145 | TypeScript | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local |
 <!-- TRENDING_END -->
 
 # TrendSpire
