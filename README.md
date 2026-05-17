@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-17 02:06 UTC_
+_Last updated: 2026-05-17 13:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 91268 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 11754 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 23185 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 35275 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 194068 | Shell | An agentic skills framework & software development methodology that works. |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | 43020 | TypeScript | Scheduling infrastructure for absolutely everyone. |
 
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 14475 | JavaScript | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 91600 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 6933 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 14786 | JavaScript | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 10797 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 6735 | Python | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 58383 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 2595 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 2572 | TypeScript | Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local |
+| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 19741 | Jupyter Notebook | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. |
+
+| [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 1438 | Python | Open Source Voice Agent Platform |
+
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 23560 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 <!-- TRENDING_END -->
 
 # TrendSpire
