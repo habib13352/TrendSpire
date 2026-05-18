@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-18 02:27 UTC_
+_Last updated: 2026-05-18 15:15 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 13576 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 16110 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 35735 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 10856 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
 
-| [calcom/cal.diy](https://github.com/calcom/cal.diy) | 43311 | TypeScript | Scheduling infrastructure for absolutely everyone. |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 36387 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 91742 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 24223 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | 15190 | JavaScript | Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 8107 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
-| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7152 | Python | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 110827 | C++ | LLM inference in C/C++ |
 
-| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 3585 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 59629 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | 19963 | Jupyter Notebook | End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 14746 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | 1728 | Python | Open Source Voice Agent Platform |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 3877 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 23870 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7555 | Python | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. |
 <!-- TRENDING_END -->
 
 # TrendSpire
