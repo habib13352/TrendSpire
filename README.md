@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-18 15:15 UTC_
+_Last updated: 2026-05-19 02:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 16110 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 17571 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 10856 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 12001 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 36387 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 36727 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 24223 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 24444 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 8107 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 8387 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
 
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 110827 | C++ | LLM inference in C/C++ |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 111083 | C++ | LLM inference in C/C++ |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 59629 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 59952 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 14746 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 15330 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 3877 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 4084 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
 
-| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7555 | Python | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. |
+| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7775 | Python | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. |
 <!-- TRENDING_END -->
 
 # TrendSpire
