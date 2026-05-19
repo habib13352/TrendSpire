@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-19 02:26 UTC_
+_Last updated: 2026-05-19 14:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 17571 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 19971 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 12001 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 37432 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 36727 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 13719 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 24444 | Python | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 197921 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | 8387 | Swift | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 19920 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 111083 | C++ | LLM inference in C/C++ |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | 13760 | TypeScript | #1 Persistent memory for AI coding agents based on real-world benchmarks |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 59952 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 16144 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
 
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | 15330 | Python | Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed. |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | 50503 | Rust | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies |
 
-| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 4084 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 100940 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | 7775 | Python | Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 5960 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
 <!-- TRENDING_END -->
 
 # TrendSpire
