@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-21 02:27 UTC_
+_Last updated: 2026-05-21 14:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 9931 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 21553 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 16372 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 12348 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 23771 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 142508 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 141065 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [dotnet/skills](https://github.com/dotnet/skills) | 2055 | C# | Repository for skills to assist AI coding agents with .NET and C# |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 9672 | Python | Learn it. Build it. Ship it for others. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 201130 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 38586 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 38929 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 5455 | TypeScript | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 5227 | TypeScript | Free, Open Source, Self-Hosted WhatsApp API Gateway |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 200162 | Shell | An agentic skills framework & software development methodology that works. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40320 | TypeScript | Chrome DevTools for coding agents |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 20837 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 10412 | Python | Learn it. Build it. Ship it for others. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 102911 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 14241 | Python | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. |
 <!-- TRENDING_END -->
 
 # TrendSpire
