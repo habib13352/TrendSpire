@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-20 14:49 UTC_
+_Last updated: 2026-05-21 02:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 8184 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 9931 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
 
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 15418 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 16372 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 23189 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 23771 | Rust | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 139993 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 141065 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 9108 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 9672 | Python | Learn it. Build it. Ship it for others. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 38298 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 38586 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 5249 | TypeScript | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
+| [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | 5455 | TypeScript | ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 199605 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 200162 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 20570 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 20837 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 102484 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 102911 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 <!-- TRENDING_END -->
 
 # TrendSpire
