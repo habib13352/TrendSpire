@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-05-22 14:25 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": 23973
+    },
+    {
+      "rank": 2,
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode \u2014 fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 15769
+    },
+    {
+      "rank": 3,
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 63611
+    },
+    {
+      "rank": 4,
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 11371
+    },
+    {
+      "rank": 5,
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 40803
+    },
+    {
+      "rank": 6,
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars": 2419
+    },
+    {
+      "rank": 7,
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 17637
+    },
+    {
+      "rank": 8,
+      "name": "odoo/odoo",
+      "url": "https://github.com/odoo/odoo",
+      "description": "Odoo. Open Source Apps To Grow Your Business.",
+      "language": "Python",
+      "stars": 50959
+    },
+    {
+      "rank": 9,
+      "name": "byJoey/cfnew",
+      "url": "https://github.com/byJoey/cfnew",
+      "description": "",
+      "language": "Unknown",
+      "stars": 13233
+    },
+    {
+      "rank": 10,
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "language": "Unknown",
+      "stars": 222960
+    }
+  ]
+}

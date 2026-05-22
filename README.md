@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-22 02:28 UTC_
+_Last updated: 2026-05-22 14:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 22624 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 23973 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 13819 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 15769 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 143386 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 63611 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [dotnet/skills](https://github.com/dotnet/skills) | 2222 | C# | Repository for skills to assist AI coding agents with .NET and C# |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 11371 | Python | Learn it. Build it. Ship it for others. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 201631 | Shell | An agentic skills framework & software development methodology that works. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40803 | TypeScript | Chrome DevTools for coding agents |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 39176 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [dotnet/skills](https://github.com/dotnet/skills) | 2419 | C# | Repository for skills to assist AI coding agents with .NET and C# |
 
-| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | 5451 | TypeScript | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 17637 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40533 | TypeScript | Chrome DevTools for coding agents |
+| [odoo/odoo](https://github.com/odoo/odoo) | 50959 | Python | Odoo. Open Source Apps To Grow Your Business. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 10811 | Python | Learn it. Build it. Ship it for others. |
+| [byJoey/cfnew](https://github.com/byJoey/cfnew) | 13233 | Unknown | No description provided. |
 
-| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | 14410 | Python | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 222960 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
