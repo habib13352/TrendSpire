@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-22 14:25 UTC_
+_Last updated: 2026-05-23 02:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 23973 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 25029 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 15769 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 16661 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 63611 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 64067 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 11371 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 11989 | Python | Learn it. Build it. Ship it for others. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40803 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40991 | TypeScript | Chrome DevTools for coding agents |
 
-| [dotnet/skills](https://github.com/dotnet/skills) | 2419 | C# | Repository for skills to assist AI coding agents with .NET and C# |
+| [dotnet/skills](https://github.com/dotnet/skills) | 2544 | C# | Repository for skills to assist AI coding agents with .NET and C# |
 
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 17637 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 18759 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 
-| [odoo/odoo](https://github.com/odoo/odoo) | 50959 | Python | Odoo. Open Source Apps To Grow Your Business. |
+| [odoo/odoo](https://github.com/odoo/odoo) | 51149 | Python | Odoo. Open Source Apps To Grow Your Business. |
 
-| [byJoey/cfnew](https://github.com/byJoey/cfnew) | 13233 | Unknown | No description provided. |
+| [byJoey/cfnew](https://github.com/byJoey/cfnew) | 13320 | Unknown | No description provided. |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 222960 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 223231 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
 <!-- TRENDING_END -->
 
 # TrendSpire
