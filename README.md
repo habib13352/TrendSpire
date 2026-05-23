@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-23 02:05 UTC_
+_Last updated: 2026-05-23 13:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 25029 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 19847 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 16661 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 25918 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 64067 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 18075 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 11989 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 12870 | Python | Learn it. Build it. Ship it for others. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 40991 | TypeScript | Chrome DevTools for coding agents |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 22898 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [dotnet/skills](https://github.com/dotnet/skills) | 2544 | C# | Repository for skills to assist AI coding agents with .NET and C# |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 148487 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 18759 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [dotnet/skills](https://github.com/dotnet/skills) | 2663 | C# | Repository for skills to assist AI coding agents with .NET and C# |
 
-| [odoo/odoo](https://github.com/odoo/odoo) | 51149 | Python | Odoo. Open Source Apps To Grow Your Business. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 41201 | TypeScript | Chrome DevTools for coding agents |
 
-| [byJoey/cfnew](https://github.com/byJoey/cfnew) | 13320 | Unknown | No description provided. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 6952 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
 
-| [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 223231 | Unknown | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. |
+| [presenton/presenton](https://github.com/presenton/presenton) | 6073 | TypeScript | Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative) |
 <!-- TRENDING_END -->
 
 # TrendSpire
