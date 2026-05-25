@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-24 13:10 UTC_
+_Last updated: 2026-05-25 02:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 23863 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 26467 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 14727 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 16301 | Python | Learn it. Build it. Ship it for others. |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 27031 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 27301 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 13252 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 14136 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 150974 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 152364 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 53649 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 54005 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 28862 | Python | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 29206 | Python | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 21016 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 22381 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
 
-| [multica-ai/multica](https://github.com/multica-ai/multica) | 32225 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | 32562 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 25690 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 25817 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 <!-- TRENDING_END -->
 
 # TrendSpire
