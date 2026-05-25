@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-25 02:32 UTC_
+_Last updated: 2026-05-25 14:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 26467 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 29728 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 16301 | Python | Learn it. Build it. Ship it for others. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 14809 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 27301 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 17952 | Python | Learn it. Build it. Ship it for others. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 14136 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 191885 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 152364 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 8915 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
 
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 54005 | TypeScript | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 24304 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 29206 | Python | Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 19348 | Swift | Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents |
 
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 22381 | TypeScript | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 153992 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [multica-ai/multica](https://github.com/multica-ai/multica) | 32562 | TypeScript | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | 23709 | Python | FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 25817 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 41175 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 <!-- TRENDING_END -->
 
 # TrendSpire
