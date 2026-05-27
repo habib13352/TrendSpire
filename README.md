@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-27 02:32 UTC_
+_Last updated: 2026-05-27 15:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 36227 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 60908 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 194542 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 38831 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 20893 | Python | Learn it. Build it. Ship it for others. |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 5453 | Unknown | A skill file for removing AI tells from prose |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 16731 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 195643 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 10179 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 17064 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 5077 | Unknown | A skill file for removing AI tells from prose |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 23600 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 22024 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 21879 | Python | Fully automatic censorship removal for language models |
 
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 167539 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 26755 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 52405 | C# | The Free Software Media System - Server Backend & API |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 10685 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
 
-| [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | 5334 | JavaScript | Curated list of the best free apps for PC and mobile |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47154 | TypeScript | The open alternative to Salesforce, designed for AI. |
 <!-- TRENDING_END -->
 
 # TrendSpire
