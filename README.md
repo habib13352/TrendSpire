@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-26 14:53 UTC_
+_Last updated: 2026-05-27 02:32 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 34419 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 36227 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 193709 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 194542 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 20152 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 20893 | Python | Learn it. Build it. Ship it for others. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 16403 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 16731 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 9793 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 10179 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
 
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 4779 | Unknown | A skill file for removing AI tells from prose |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 5077 | Unknown | A skill file for removing AI tells from prose |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 20756 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 22024 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 166561 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 167539 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
 
-| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 52275 | C# | The Free Software Media System - Server Backend & API |
+| [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | 52405 | C# | The Free Software Media System - Server Backend & API |
 
-| [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | 5023 | JavaScript | Curated list of the best free apps for PC and mobile |
+| [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | 5334 | JavaScript | Curated list of the best free apps for PC and mobile |
 <!-- TRENDING_END -->
 
 # TrendSpire
