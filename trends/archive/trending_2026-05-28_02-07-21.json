@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-05-28 02:07 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 62374
+    },
+    {
+      "rank": 2,
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 40081
+    },
+    {
+      "rank": 3,
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "Unknown",
+      "stars": 5759
+    },
+    {
+      "rank": 4,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 196112
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 17322
+    },
+    {
+      "rank": 6,
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 24418
+    },
+    {
+      "rank": 7,
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 22046
+    },
+    {
+      "rank": 8,
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 26900
+    },
+    {
+      "rank": 9,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents \u00b7 Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 26 security domains \u00b7 Apache 2.0",
+      "language": "Python",
+      "stars": 11010
+    },
+    {
+      "rank": 10,
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "language": "TypeScript",
+      "stars": 47364
+    }
+  ]
+}
