@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-28 02:07 UTC_
+_Last updated: 2026-05-28 15:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 62374 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 65538 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | 40081 | TypeScript | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 196931 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 5759 | Unknown | A skill file for removing AI tells from prose |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 25804 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 196112 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 6202 | Unknown | A skill file for removing AI tells from prose |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 17322 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47671 | TypeScript | The open alternative to Salesforce, designed for AI. |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 24418 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 170319 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 22046 | Python | Fully automatic censorship removal for language models |
+| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 48090 | Unknown | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 26900 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 127127 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 11010 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 210752 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47364 | TypeScript | The open alternative to Salesforce, designed for AI. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 3763 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
