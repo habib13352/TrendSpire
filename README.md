@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-28 15:35 UTC_
+_Last updated: 2026-05-29 02:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 65538 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 66572 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 196931 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 197361 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 25804 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 26562 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 6202 | Unknown | A skill file for removing AI tells from prose |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 6461 | Unknown | A skill file for removing AI tells from prose |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47671 | TypeScript | The open alternative to Salesforce, designed for AI. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47893 | TypeScript | The open alternative to Salesforce, designed for AI. |
 
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 170319 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 170784 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
 
-| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 48090 | Unknown | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
+| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 48611 | Unknown | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 127127 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 127826 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 210752 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 211163 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 3763 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 3918 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
