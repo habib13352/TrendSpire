@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-29 02:11 UTC_
+_Last updated: 2026-05-29 14:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 66572 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 68826 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 197361 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 128973 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 26562 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 17999 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | 6461 | Unknown | A skill file for removing AI tells from prose |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 48201 | TypeScript | The open alternative to Salesforce, designed for AI. |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 47893 | TypeScript | The open alternative to Salesforce, designed for AI. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 127679 | Python | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | 170784 | HTML | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 27644 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 48611 | Unknown | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
+| [cursor/plugins](https://github.com/cursor/plugins) | 1197 | TypeScript | Cursor plugin specification and official plugins |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 127826 | Python | Python tool for converting files and office documents to Markdown. |
+| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 6861 | Rust | A fast, helpful, and open-source document parser |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 211163 | Shell | An agentic skills framework & software development methodology that works. |
+| [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1104 | Python | A platform for reproducible world model research and evaluation |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 3918 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 49437 | Unknown | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
 <!-- TRENDING_END -->
 
 # TrendSpire
