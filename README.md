@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-30 02:07 UTC_
+_Last updated: 2026-05-30 13:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 69767 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 131144 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 130039 | Python | Python tool for converting files and office documents to Markdown. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 71242 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18154 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 128175 | Python | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 48427 | TypeScript | The open alternative to Salesforce, designed for AI. |
+| [cursor/plugins](https://github.com/cursor/plugins) | 1373 | TypeScript | Cursor plugin specification and official plugins |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 127903 | Python | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 4126 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 28187 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18307 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 1309 | TypeScript | Cursor plugin specification and official plugins |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 198944 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [run-llama/liteparse](https://github.com/run-llama/liteparse) | 7355 | Rust | A fast, helpful, and open-source document parser |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 22513 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1262 | Python | A platform for reproducible world model research and evaluation |
+| [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1371 | Python | A platform for reproducible world model research and evaluation |
 
-| [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | 49662 | Unknown | An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语 |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 27159 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 <!-- TRENDING_END -->
 
 # TrendSpire
