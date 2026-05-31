@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-30 13:14 UTC_
+_Last updated: 2026-05-31 02:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 131144 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 132528 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 71242 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 72076 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 128175 | Python | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 128426 | Python | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 1373 | TypeScript | Cursor plugin specification and official plugins |
+| [cursor/plugins](https://github.com/cursor/plugins) | 1471 | TypeScript | Cursor plugin specification and official plugins |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 4126 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 4281 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18307 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18438 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 198944 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 199366 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 22513 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 22792 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1371 | Python | A platform for reproducible world model research and evaluation |
+| [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1470 | Python | A platform for reproducible world model research and evaluation |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 27159 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 27375 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 <!-- TRENDING_END -->
 
 # TrendSpire
