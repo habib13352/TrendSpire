@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-31 02:33 UTC_
+_Last updated: 2026-05-31 13:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 132528 | Python | Python tool for converting files and office documents to Markdown. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 73148 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 72076 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 133911 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 128426 | Python | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 56120 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 1471 | TypeScript | Cursor plugin specification and official plugins |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 9609 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 4281 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18555 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18438 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [github/docs](https://github.com/github/docs) | 19603 | TypeScript | The open-source repo for docs.github.com |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 199366 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 23139 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 22792 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [revfactory/harness](https://github.com/revfactory/harness) | 4447 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 
-| [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | 1470 | Python | A platform for reproducible world model research and evaluation |
+| [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 2597 | Jupyter Notebook | A straightforward method for training your LLM, from downloading data to generating text. |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 27375 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23073 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 <!-- TRENDING_END -->
 
 # TrendSpire
