@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-01 02:42 UTC_
+_Last updated: 2026-06-01 17:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 74594 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 137621 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 135248 | Python | Python tool for converting files and office documents to Markdown. |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 10875 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 56760 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23823 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 10073 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 76626 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18751 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 57774 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [github/docs](https://github.com/github/docs) | 19750 | TypeScript | The open-source repo for docs.github.com |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 32476 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 23625 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 22959 | Python | Fully automatic censorship removal for language models |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 4654 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 19030 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 
-| [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 3029 | Jupyter Notebook | A straightforward method for training your LLM, from downloading data to generating text. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 81602 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23414 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 5048 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
