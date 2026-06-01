@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-05-31 13:23 UTC_
+_Last updated: 2026-06-01 02:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 73148 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 74594 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 133911 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 135248 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 56120 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 56760 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 9609 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 10073 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18555 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 18751 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 
-| [github/docs](https://github.com/github/docs) | 19603 | TypeScript | The open-source repo for docs.github.com |
+| [github/docs](https://github.com/github/docs) | 19750 | TypeScript | The open-source repo for docs.github.com |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 23139 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 23625 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 4447 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 4654 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 
-| [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 2597 | Jupyter Notebook | A straightforward method for training your LLM, from downloading data to generating text. |
+| [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | 3029 | Jupyter Notebook | A straightforward method for training your LLM, from downloading data to generating text. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23073 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23414 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 <!-- TRENDING_END -->
 
 # TrendSpire
