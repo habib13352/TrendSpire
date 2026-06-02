@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-02 02:40 UTC_
+_Last updated: 2026-06-02 16:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 138727 | Python | Python tool for converting files and office documents to Markdown. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 5438 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 11438 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 140697 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24051 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 203252 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 76971 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 58891 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 58153 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 12359 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 32812 | JavaScript | The design language that makes your AI harness better at design. |
+| [reconurge/flowsint](https://github.com/reconurge/flowsint) | 4350 | TypeScript | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 23061 | Python | Fully automatic censorship removal for language models |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 24918 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 19138 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 18254 | Jupyter Notebook | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 81833 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 6283 | Python | No description provided. |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 5199 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24461 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 <!-- TRENDING_END -->
 
 # TrendSpire
