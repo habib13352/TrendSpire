@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-01 17:24 UTC_
+_Last updated: 2026-06-02 02:40 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 137621 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 138727 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 10875 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 11438 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 23823 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24051 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 76626 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 76971 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 57774 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 58153 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 32476 | JavaScript | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 32812 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 22959 | Python | Fully automatic censorship removal for language models |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 23061 | Python | Fully automatic censorship removal for language models |
 
-| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 19030 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
+| [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 19138 | TypeScript | Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 81602 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 81833 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 5048 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 5199 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
