@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-02 16:09 UTC_
+_Last updated: 2026-06-03 02:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 5438 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 6757 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 140697 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 141338 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 203252 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 204132 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 58891 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 59272 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 12359 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 12615 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
 
-| [reconurge/flowsint](https://github.com/reconurge/flowsint) | 4350 | TypeScript | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. |
+| [reconurge/flowsint](https://github.com/reconurge/flowsint) | 4560 | TypeScript | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 24918 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 25201 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 
-| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 18254 | Jupyter Notebook | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
+| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 18543 | Jupyter Notebook | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
 
-| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 6283 | Python | No description provided. |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 6421 | Python | No description provided. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24461 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 24704 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
 <!-- TRENDING_END -->
 
 # TrendSpire
