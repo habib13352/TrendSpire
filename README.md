@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-04 02:44 UTC_
+_Last updated: 2026-06-04 14:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 10042 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 11678 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 205874 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 180372 | Python | The agent that grows with you |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 35437 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 206743 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 179298 | Python | The agent that grows with you |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 79636 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 142994 | Python | Python tool for converting files and office documents to Markdown. |
+| [github/spec-kit](https://github.com/github/spec-kit) | 108337 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
 
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 13137 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 8838 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 60353 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 24554 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 23350 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9349 | Python | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms |
 
-| [odoo/odoo](https://github.com/odoo/odoo) | 51978 | Python | Odoo. Open Source Apps To Grow Your Business. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 349505 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9016 | Python | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 8853 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 <!-- TRENDING_END -->
 
 # TrendSpire
