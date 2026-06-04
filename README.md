@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-03 16:24 UTC_
+_Last updated: 2026-06-04 02:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 8910 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 10042 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 142532 | Python | Python tool for converting files and office documents to Markdown. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 205874 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 205259 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 35437 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 59920 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 179298 | Python | The agent that grows with you |
 
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 12984 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 142994 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [reconurge/flowsint](https://github.com/reconurge/flowsint) | 4852 | TypeScript | A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators. |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | 13137 | Python | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 25530 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 60353 | Python | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! |
 
-| [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | 18966 | Jupyter Notebook | Code for Machine Learning for Algorithmic Trading, 2nd edition. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | 23350 | Java | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
-| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | 6651 | Python | No description provided. |
+| [odoo/odoo](https://github.com/odoo/odoo) | 51978 | Python | Odoo. Open Source Apps To Grow Your Business. |
 
-| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 25039 | TypeScript | Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. |
+| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9016 | Python | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms |
 <!-- TRENDING_END -->
 
 # TrendSpire
