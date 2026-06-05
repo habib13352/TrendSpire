@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-05 02:30 UTC_
+_Last updated: 2026-06-05 14:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 12700 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 182236 | Python | The agent that grows with you |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 181131 | Python | The agent that grows with you |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 14039 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 207335 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32419 | TypeScript | The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 79934 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 25650 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [github/spec-kit](https://github.com/github/spec-kit) | 108623 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208002 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9054 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21338 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 25128 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9293 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
 
-| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9652 | Python | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 64515 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 349773 | Unknown | A complete computer science study plan to become a software engineer. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28042 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 8998 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80356 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 <!-- TRENDING_END -->
 
 # TrendSpire
