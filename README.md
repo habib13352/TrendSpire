@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-04 14:43 UTC_
+_Last updated: 2026-06-05 02:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 11678 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 12700 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 180372 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 181131 | Python | The agent that grows with you |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 206743 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 207335 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 79636 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 79934 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 
-| [github/spec-kit](https://github.com/github/spec-kit) | 108337 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [github/spec-kit](https://github.com/github/spec-kit) | 108623 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
 
-| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 8838 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
+| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9054 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 24554 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 25128 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9349 | Python | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms |
+| [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | 9652 | Python | Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 349505 | Unknown | A complete computer science study plan to become a software engineer. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 349773 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 8853 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 8998 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 <!-- TRENDING_END -->
 
 # TrendSpire
