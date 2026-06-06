@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-06 02:09 UTC_
+_Last updated: 2026-06-06 13:18 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 183207 | Python | The agent that grows with you |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28457 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 14563 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32964 | TypeScript | The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32715 | TypeScript | The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol |
+| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 54080 | Python | The best-benchmarked open-source AI memory system. And it's free. |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 26039 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 14801 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208392 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [openai/plugins](https://github.com/openai/plugins) | 1645 | JavaScript | OpenAI Plugins |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21597 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21979 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9429 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
+| [sveltejs/svelte](https://github.com/sveltejs/svelte) | 86866 | JavaScript | web development for the rest of us |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 64724 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [nginx/nginx](https://github.com/nginx/nginx) | 30604 | C | The official NGINX Open Source repository. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28233 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 35923 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80563 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [golang/go](https://github.com/golang/go) | 134436 | Go | The Go programming language |
 <!-- TRENDING_END -->
 
 # TrendSpire
