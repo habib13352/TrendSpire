@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-05 14:34 UTC_
+_Last updated: 2026-06-06 02:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 182236 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 183207 | Python | The agent that grows with you |
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 14039 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 14563 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32419 | TypeScript | The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32715 | TypeScript | The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 25650 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 26039 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208002 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 208392 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21338 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21597 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9293 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
+| [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | 9429 | Jupyter Notebook | NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more. |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 64515 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 64724 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28042 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28233 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80356 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | 80563 | Python | Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages. |
 <!-- TRENDING_END -->
 
 # TrendSpire
