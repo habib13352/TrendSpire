@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-07 02:36 UTC_
+_Last updated: 2026-06-07 13:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28893 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 29667 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 33246 | TypeScript | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol |
+| [opencv/opencv](https://github.com/opencv/opencv) | 87907 | C++ | Open Source Computer Vision Library |
 
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 54312 | Python | The best-benchmarked open-source AI memory system. And it's free. |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 35885 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 14986 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 185361 | Python | The agent that grows with you |
 
-| [openai/plugins](https://github.com/openai/plugins) | 1793 | JavaScript | OpenAI Plugins |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 26910 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 22388 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 18508 | TypeScript | Let's use AI to Earn! |
 
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | 87006 | JavaScript | web development for the rest of us |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 47186 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [nginx/nginx](https://github.com/nginx/nginx) | 30700 | C | The official NGINX Open Source repository. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 29464 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 36014 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 115105 | C++ | LLM inference in C/C++ |
 
-| [golang/go](https://github.com/golang/go) | 134518 | Go | The Go programming language |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 6331 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
 <!-- TRENDING_END -->
 
 # TrendSpire
