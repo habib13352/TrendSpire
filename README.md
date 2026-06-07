@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-06 13:18 UTC_
+_Last updated: 2026-06-07 02:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28457 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 28893 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 32964 | TypeScript | The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | 33246 | TypeScript | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol |
 
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 54080 | Python | The best-benchmarked open-source AI memory system. And it's free. |
+| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | 54312 | Python | The best-benchmarked open-source AI memory system. And it's free. |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 14801 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 14986 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [openai/plugins](https://github.com/openai/plugins) | 1645 | JavaScript | OpenAI Plugins |
+| [openai/plugins](https://github.com/openai/plugins) | 1793 | JavaScript | OpenAI Plugins |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 21979 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 22388 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | 86866 | JavaScript | web development for the rest of us |
+| [sveltejs/svelte](https://github.com/sveltejs/svelte) | 87006 | JavaScript | web development for the rest of us |
 
-| [nginx/nginx](https://github.com/nginx/nginx) | 30604 | C | The official NGINX Open Source repository. |
+| [nginx/nginx](https://github.com/nginx/nginx) | 30700 | C | The official NGINX Open Source repository. |
 
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 35923 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 36014 | Go | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more |
 
-| [golang/go](https://github.com/golang/go) | 134436 | Go | The Go programming language |
+| [golang/go](https://github.com/golang/go) | 134518 | Go | The Go programming language |
 <!-- TRENDING_END -->
 
 # TrendSpire
