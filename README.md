@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-07 13:28 UTC_
+_Last updated: 2026-06-08 02:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 29667 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 31379 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [opencv/opencv](https://github.com/opencv/opencv) | 87907 | C++ | Open Source Computer Vision Library |
+| [opencv/opencv](https://github.com/opencv/opencv) | 88136 | C++ | Open Source Computer Vision Library |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 35885 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 36909 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 185361 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 186084 | Python | The agent that grows with you |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 26910 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 27352 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 18508 | TypeScript | Let's use AI to Earn! |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 18857 | TypeScript | Let's use AI to Earn! |
 
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 47186 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 47558 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 29464 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 29771 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 115105 | C++ | LLM inference in C/C++ |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 115370 | C++ | LLM inference in C/C++ |
 
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 6331 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 7306 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
 <!-- TRENDING_END -->
 
 # TrendSpire
