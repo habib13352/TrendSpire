@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-08 02:41 UTC_
+_Last updated: 2026-06-08 15:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 31379 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 33586 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [opencv/opencv](https://github.com/opencv/opencv) | 88136 | C++ | Open Source Computer Vision Library |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 8277 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 36909 | Shell | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [google/skills](https://github.com/google/skills) | 12198 | Python | Agent Skills for Google products and technologies |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 186084 | Python | The agent that grows with you |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 13369 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | 27352 | TypeScript | An Open Source implementation of Notebook LM with more flexibility and features |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 23801 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 18857 | TypeScript | Let's use AI to Earn! |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 15284 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 47558 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 50174 | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 29771 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 12473 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 115370 | C++ | LLM inference in C/C++ |
+| [openai/plugins](https://github.com/openai/plugins) | 2229 | JavaScript | OpenAI Plugins |
 
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 7306 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 3281 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
 <!-- TRENDING_END -->
 
 # TrendSpire
