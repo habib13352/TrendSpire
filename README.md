@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-08 15:36 UTC_
+_Last updated: 2026-06-09 02:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 33586 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 34705 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 8277 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 8964 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
 
-| [google/skills](https://github.com/google/skills) | 12198 | Python | Agent Skills for Google products and technologies |
+| [google/skills](https://github.com/google/skills) | 12464 | Python | Agent Skills for Google products and technologies |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 13369 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 13621 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 23801 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 24284 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 15284 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 15463 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 50174 | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 50578 | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 12473 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 12743 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 
-| [openai/plugins](https://github.com/openai/plugins) | 2229 | JavaScript | OpenAI Plugins |
+| [openai/plugins](https://github.com/openai/plugins) | 2337 | JavaScript | OpenAI Plugins |
 
-| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 3281 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
+| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 3512 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
 <!-- TRENDING_END -->
 
 # TrendSpire
