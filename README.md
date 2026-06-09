@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-09 02:07 UTC_
+_Last updated: 2026-06-09 14:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 34705 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 36438 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 8964 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 9848 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
 
-| [google/skills](https://github.com/google/skills) | 12464 | Python | Agent Skills for Google products and technologies |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 42752 | Python | We write your reusable computer vision tools. 💜 |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 13621 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [opencv/opencv](https://github.com/opencv/opencv) | 88464 | C++ | Open Source Computer Vision Library |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 24284 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14104 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | 15463 | TypeScript | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48355 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 50578 | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
+| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 3879 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 12743 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 73390 | Roff | 所有小初高、大学PDF教材。 |
 
-| [openai/plugins](https://github.com/openai/plugins) | 2337 | JavaScript | OpenAI Plugins |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139039 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 3512 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 19737 | TypeScript | Let's use AI to Earn! |
 <!-- TRENDING_END -->
 
 # TrendSpire
