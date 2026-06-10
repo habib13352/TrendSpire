@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-10 02:31 UTC_
+_Last updated: 2026-06-10 15:19 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 37524 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 50800 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 10256 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 14268 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 43058 | Python | We write your reusable computer vision tools. 💜 |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14737 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [opencv/opencv](https://github.com/opencv/opencv) | 88679 | C++ | Open Source Computer Vision Library |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 38803 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14388 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 31800 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48525 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139423 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 4142 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 223283 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 73543 | Roff | 所有小初高、大学PDF教材。 |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 5031 | Go | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139207 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 84621 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 19995 | TypeScript | Let's use AI to Earn! |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2162 | Python | open-source healthcare ai |
 <!-- TRENDING_END -->
 
 # TrendSpire
