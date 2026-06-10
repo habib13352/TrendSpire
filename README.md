@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-09 14:34 UTC_
+_Last updated: 2026-06-10 02:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 36438 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 37524 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 9848 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | 10256 | Python | A vector index built on TurboQuant, written in Rust with Python bindings |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 42752 | Python | We write your reusable computer vision tools. 💜 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 43058 | Python | We write your reusable computer vision tools. 💜 |
 
-| [opencv/opencv](https://github.com/opencv/opencv) | 88464 | C++ | Open Source Computer Vision Library |
+| [opencv/opencv](https://github.com/opencv/opencv) | 88679 | C++ | Open Source Computer Vision Library |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14104 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14388 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48355 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | 48525 | Rust | an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM |
 
-| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 3879 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
+| [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 4142 | Python | Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 73390 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 73543 | Roff | 所有小初高、大学PDF教材。 |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139039 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139207 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 19737 | TypeScript | Let's use AI to Earn! |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | 19995 | TypeScript | Let's use AI to Earn! |
 <!-- TRENDING_END -->
 
 # TrendSpire
