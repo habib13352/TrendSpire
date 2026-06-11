@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-11 02:41 UTC_
+_Last updated: 2026-06-11 15:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 52045 | Shell | Production-grade engineering skills for AI coding agents. |
+| [apple/container](https://github.com/apple/container) | 31395 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 15053 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 53952 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14973 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2610 | Python | open-source healthcare ai |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 39168 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16006 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 32085 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 2410 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139557 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 32446 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 223698 | Shell | An agentic skills framework & software development methodology that works. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139774 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 5259 | Go | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15279 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 85150 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 224540 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2336 | Python | open-source healthcare ai |
+| [restic/restic](https://github.com/restic/restic) | 34062 | Go | Fast, secure, efficient backup program |
 <!-- TRENDING_END -->
 
 # TrendSpire
