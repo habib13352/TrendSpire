@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-10 15:19 UTC_
+_Last updated: 2026-06-11 02:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 50800 | Shell | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 52045 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 14268 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 15053 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14737 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 14973 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 38803 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 39168 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 31800 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 32085 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139423 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139557 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 223283 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 223698 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 5031 | Go | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | 5259 | Go | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 84621 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 85150 | Python | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. |
 
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2162 | Python | open-source healthcare ai |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2336 | Python | open-source healthcare ai |
 <!-- TRENDING_END -->
 
 # TrendSpire
