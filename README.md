@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-11 15:42 UTC_
+_Last updated: 2026-06-12 02:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [apple/container](https://github.com/apple/container) | 31395 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [apple/container](https://github.com/apple/container) | 32757 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 53952 | Shell | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 54973 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2610 | Python | open-source healthcare ai |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2805 | Python | open-source healthcare ai |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16006 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16294 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 2410 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 2746 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 32446 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 32657 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139774 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139904 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15279 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15439 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 224540 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 224945 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [restic/restic](https://github.com/restic/restic) | 34062 | Go | Fast, secure, efficient backup program |
+| [restic/restic](https://github.com/restic/restic) | 34197 | Go | Fast, secure, efficient backup program |
 <!-- TRENDING_END -->
 
 # TrendSpire
