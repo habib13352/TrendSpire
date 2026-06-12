@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-12 02:36 UTC_
+_Last updated: 2026-06-12 14:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [apple/container](https://github.com/apple/container) | 32757 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 56346 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 54973 | Shell | Production-grade engineering skills for AI coding agents. |
+| [music-assistant/server](https://github.com/music-assistant/server) | 1659 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
 
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 2805 | Python | open-source healthcare ai |
+| [mattermost/mattermost](https://github.com/mattermost/mattermost) | 37523 | TypeScript | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16294 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [apple/container](https://github.com/apple/container) | 34546 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 2746 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 117821 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 32657 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [obra/superpowers](https://github.com/obra/superpowers) | 225702 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | 139904 | Unknown | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15615 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15439 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 3079 | Python | open-source healthcare ai |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 224945 | Shell | An agentic skills framework & software development methodology that works. |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8536 | Python | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [restic/restic](https://github.com/restic/restic) | 34197 | Go | Fast, secure, efficient backup program |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16757 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 <!-- TRENDING_END -->
 
 # TrendSpire
