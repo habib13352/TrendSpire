@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-12 14:44 UTC_
+_Last updated: 2026-06-13 02:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 56346 | Shell | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 56886 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [music-assistant/server](https://github.com/music-assistant/server) | 1659 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
+| [music-assistant/server](https://github.com/music-assistant/server) | 1800 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
 
-| [mattermost/mattermost](https://github.com/mattermost/mattermost) | 37523 | TypeScript | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. |
+| [mattermost/mattermost](https://github.com/mattermost/mattermost) | 37645 | TypeScript | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. |
 
-| [apple/container](https://github.com/apple/container) | 34546 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [apple/container](https://github.com/apple/container) | 35187 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 117821 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 118064 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 225702 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 226060 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15615 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15808 | TypeScript | Desktop app to manage markdown knowledge bases |
 
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 3079 | Python | open-source healthcare ai |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 3206 | Python | open-source healthcare ai |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8536 | Python | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8650 | Python | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 16757 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 17020 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
 <!-- TRENDING_END -->
 
 # TrendSpire
