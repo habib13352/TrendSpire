@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-13 02:29 UTC_
+_Last updated: 2026-06-13 13:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 56886 | Shell | Production-grade engineering skills for AI coding agents. |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 118421 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [music-assistant/server](https://github.com/music-assistant/server) | 1800 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 57724 | Shell | Production-grade engineering skills for AI coding agents. |
 
-| [mattermost/mattermost](https://github.com/mattermost/mattermost) | 37645 | TypeScript | Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 30683 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 
-| [apple/container](https://github.com/apple/container) | 35187 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 226557 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 118064 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [apple/container](https://github.com/apple/container) | 35847 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 226060 | Shell | An agentic skills framework & software development methodology that works. |
+| [music-assistant/server](https://github.com/music-assistant/server) | 1919 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
 
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | 15808 | TypeScript | Desktop app to manage markdown knowledge bases |
+| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 2175 | Go | Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! |
 
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | 3206 | Python | open-source healthcare ai |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8770 | Python | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8650 | Python | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 134513 | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
 
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | 17020 | Unknown | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. |
+| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 13998 | Python | Simple, unified interface to multiple Generative AI providers |
 <!-- TRENDING_END -->
 
 # TrendSpire
