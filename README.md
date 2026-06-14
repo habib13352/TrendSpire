@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-14 02:41 UTC_
+_Last updated: 2026-06-14 13:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 119215 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 119976 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 58475 | Shell | Production-grade engineering skills for AI coding agents. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 446937 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 30886 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 13952 | Python | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 226993 | Shell | An agentic skills framework & software development methodology that works. |
+| [swc-project/swc](https://github.com/swc-project/swc) | 33721 | Rust | Rust-based platform for the Web |
 
-| [apple/container](https://github.com/apple/container) | 36359 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31065 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 
-| [music-assistant/server](https://github.com/music-assistant/server) | 2015 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 4910 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
 
-| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | 2381 | Go | Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! |
+| [meshery/meshery](https://github.com/meshery/meshery) | 10306 | TypeScript | Meshery, the cloud native manager |
 
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | 8907 | Python | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 49796 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 134692 | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 35142 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 
-| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 14136 | Python | Simple, unified interface to multiple Generative AI providers |
+| [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | 2493 | TeX | Introduction to Autonomous Robots |
 <!-- TRENDING_END -->
 
 # TrendSpire
