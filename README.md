@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-15 02:46 UTC_
+_Last updated: 2026-06-15 17:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 121226 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 122633 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447273 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8185 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
 
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 14061 | Python | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 29801 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [swc-project/swc](https://github.com/swc-project/swc) | 33796 | Rust | Rust-based platform for the Web |
+| [meshery/meshery](https://github.com/meshery/meshery) | 10577 | TypeScript | Meshery, the cloud native manager |
 
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31279 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31563 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 5413 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 126827 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 10423 | TypeScript | Meshery, the cloud native manager |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447745 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 49973 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
+| [trycua/cua](https://github.com/trycua/cua) | 18076 | HTML | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
 
-| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 35525 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 352171 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | 2767 | TeX | Introduction to Autonomous Robots |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 32904 | Python | Learn it. Build it. Ship it for others. |
 <!-- TRENDING_END -->
 
 # TrendSpire
