@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-14 13:48 UTC_
+_Last updated: 2026-06-15 02:46 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 119976 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 121226 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 446937 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447273 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 13952 | Python | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing |
+| [pytest-dev/pytest](https://github.com/pytest-dev/pytest) | 14061 | Python | The pytest framework makes it easy to write small tests, yet scales to support complex functional testing |
 
-| [swc-project/swc](https://github.com/swc-project/swc) | 33721 | Rust | Rust-based platform for the Web |
+| [swc-project/swc](https://github.com/swc-project/swc) | 33796 | Rust | Rust-based platform for the Web |
 
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31065 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31279 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 4910 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 5413 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 10306 | TypeScript | Meshery, the cloud native manager |
+| [meshery/meshery](https://github.com/meshery/meshery) | 10423 | TypeScript | Meshery, the cloud native manager |
 
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 49796 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 49973 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
 
-| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 35142 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
+| [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) | 35525 | Unknown | 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. |
 
-| [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | 2493 | TeX | Introduction to Autonomous Robots |
+| [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) | 2767 | TeX | Introduction to Autonomous Robots |
 <!-- TRENDING_END -->
 
 # TrendSpire
