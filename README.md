@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-15 17:05 UTC_
+_Last updated: 2026-06-16 02:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 122633 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 123009 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8185 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
+| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8266 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 29801 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 30436 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 10577 | TypeScript | Meshery, the cloud native manager |
+| [meshery/meshery](https://github.com/meshery/meshery) | 10653 | TypeScript | Meshery, the cloud native manager |
 
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31563 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31728 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 126827 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 126985 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447745 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447959 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [trycua/cua](https://github.com/trycua/cua) | 18076 | HTML | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| [trycua/cua](https://github.com/trycua/cua) | 18190 | HTML | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 352171 | Unknown | A complete computer science study plan to become a software engineer. |
+| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 352357 | Unknown | A complete computer science study plan to become a software engineer. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 32904 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 33162 | Python | Learn it. Build it. Ship it for others. |
 <!-- TRENDING_END -->
 
 # TrendSpire
