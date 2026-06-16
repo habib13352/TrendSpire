@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-16 02:47 UTC_
+_Last updated: 2026-06-16 16:40 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 123009 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 448381 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8266 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
+| [swc-project/swc](https://github.com/swc-project/swc) | 33925 | Rust | Rust-based platform for the Web |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 30436 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8375 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 10653 | TypeScript | Meshery, the cloud native manager |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 123802 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 31728 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 94826 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 126985 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| [meshery/meshery](https://github.com/meshery/meshery) | 10787 | TypeScript | Meshery, the cloud native manager |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 447959 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 50128 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
 
-| [trycua/cua](https://github.com/trycua/cua) | 18190 | HTML | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). |
+| [music-assistant/server](https://github.com/music-assistant/server) | 2512 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
 
-| [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | 352357 | Unknown | A complete computer science study plan to become a software engineer. |
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 7168 | Rust | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 33162 | Python | Learn it. Build it. Ship it for others. |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 30032 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 <!-- TRENDING_END -->
 
 # TrendSpire
