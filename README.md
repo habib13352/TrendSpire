@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-17 02:44 UTC_
+_Last updated: 2026-06-17 14:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 448628 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 4513 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [swc-project/swc](https://github.com/swc-project/swc) | 33983 | Rust | Rust-based platform for the Web |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9521 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
 
-| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8424 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 32809 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 124209 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [meshery/meshery](https://github.com/meshery/meshery) | 10957 | TypeScript | Meshery, the cloud native manager |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 94914 | TypeScript | JavaScript API for Chrome and Firefox |
+| [obra/superpowers](https://github.com/obra/superpowers) | 230685 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 10867 | TypeScript | Meshery, the cloud native manager |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 21601 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 50235 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
+| [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 45516 | TypeScript | The Secure CommsOS™ for mission-critical operations |
 
-| [music-assistant/server](https://github.com/music-assistant/server) | 2580 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
+| [continuedev/continue](https://github.com/continuedev/continue) | 33802 | TypeScript | open-source coding agent |
 
-| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 7350 | Rust | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
+| [penpot/penpot](https://github.com/penpot/penpot) | 49943 | Clojure | Penpot: The open-source design tool for design and code collaboration |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 30174 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 127375 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
 <!-- TRENDING_END -->
 
 # TrendSpire
