@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-16 16:40 UTC_
+_Last updated: 2026-06-17 02:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 448381 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 448628 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [swc-project/swc](https://github.com/swc-project/swc) | 33925 | Rust | Rust-based platform for the Web |
+| [swc-project/swc](https://github.com/swc-project/swc) | 33983 | Rust | Rust-based platform for the Web |
 
-| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8375 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
+| [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | 8424 | Elixir | A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld] |
 
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 123802 | TypeScript | Collection of publicly available IPTV channels from all over the world |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | 124209 | TypeScript | Collection of publicly available IPTV channels from all over the world |
 
-| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 94826 | TypeScript | JavaScript API for Chrome and Firefox |
+| [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | 94914 | TypeScript | JavaScript API for Chrome and Firefox |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 10787 | TypeScript | Meshery, the cloud native manager |
+| [meshery/meshery](https://github.com/meshery/meshery) | 10867 | TypeScript | Meshery, the cloud native manager |
 
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 50128 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 50235 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
 
-| [music-assistant/server](https://github.com/music-assistant/server) | 2512 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
+| [music-assistant/server](https://github.com/music-assistant/server) | 2580 | Python | Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike. |
 
-| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 7168 | Rust | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 7350 | Rust | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
 
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 30032 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 30174 | Python | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
 <!-- TRENDING_END -->
 
 # TrendSpire
