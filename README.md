@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-18 02:41 UTC_
+_Last updated: 2026-06-18 14:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 5483 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 22577 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9688 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9882 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 33322 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 449396 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 11039 | TypeScript | Meshery, the cloud native manager |
+| [obra/superpowers](https://github.com/obra/superpowers) | 232061 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 231193 | Shell | An agentic skills framework & software development methodology that works. |
+| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 3937 | Unknown | GLM-5: From Vibe Coding to Agentic Engineering |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 21957 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 6638 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 45605 | TypeScript | The Secure CommsOS™ for mission-critical operations |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 11077 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [continuedev/continue](https://github.com/continuedev/continue) | 33929 | TypeScript | open-source coding agent |
+| [withastro/flue](https://github.com/withastro/flue) | 5368 | TypeScript | The sandbox agent framework. |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 50128 | Clojure | Penpot: The open-source design tool for design and code collaboration |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 21631 | TypeScript | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. |
 
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 127496 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| [makeplane/plane](https://github.com/makeplane/plane) | 51653 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 <!-- TRENDING_END -->
 
 # TrendSpire
