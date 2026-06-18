@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-06-18 02:41 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "stars": 5483
+    },
+    {
+      "rank": 2,
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "language": "Rust",
+      "stars": 9688
+    },
+    {
+      "rank": 3,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 33322
+    },
+    {
+      "rank": 4,
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "language": "TypeScript",
+      "stars": 11039
+    },
+    {
+      "rank": 5,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 231193
+    },
+    {
+      "rank": 6,
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 21957
+    },
+    {
+      "rank": 7,
+      "name": "RocketChat/Rocket.Chat",
+      "url": "https://github.com/RocketChat/Rocket.Chat",
+      "description": "The Secure CommsOS\u2122 for mission-critical operations",
+      "language": "TypeScript",
+      "stars": 45605
+    },
+    {
+      "rank": 8,
+      "name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "language": "TypeScript",
+      "stars": 33929
+    },
+    {
+      "rank": 9,
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars": 50128
+    },
+    {
+      "rank": 10,
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\u3002\u652f\u6301\u7b80\u4e2d\u3001\u7e41\u4e2d\u3001English\u3001\u65e5\u672c\u8a9e\uff0c\u63d0\u4f9b Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart \u7b49\u4ee3\u7801\u5b9e\u73b0",
+      "language": "Java",
+      "stars": 127496
+    }
+  ]
+}

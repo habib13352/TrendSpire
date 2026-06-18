@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-17 14:59 UTC_
+_Last updated: 2026-06-18 02:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 4513 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 5483 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9521 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9688 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 32809 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 33322 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [meshery/meshery](https://github.com/meshery/meshery) | 10957 | TypeScript | Meshery, the cloud native manager |
+| [meshery/meshery](https://github.com/meshery/meshery) | 11039 | TypeScript | Meshery, the cloud native manager |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 230685 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 231193 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 21601 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 21957 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 45516 | TypeScript | The Secure CommsOS™ for mission-critical operations |
+| [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | 45605 | TypeScript | The Secure CommsOS™ for mission-critical operations |
 
-| [continuedev/continue](https://github.com/continuedev/continue) | 33802 | TypeScript | open-source coding agent |
+| [continuedev/continue](https://github.com/continuedev/continue) | 33929 | TypeScript | open-source coding agent |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 49943 | Clojure | Penpot: The open-source design tool for design and code collaboration |
+| [penpot/penpot](https://github.com/penpot/penpot) | 50128 | Clojure | Penpot: The open-source design tool for design and code collaboration |
 
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 127375 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 127496 | Java | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
 <!-- TRENDING_END -->
 
 # TrendSpire
