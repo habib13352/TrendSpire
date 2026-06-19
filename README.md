@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-19 02:57 UTC_
+_Last updated: 2026-06-19 14:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 23272 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 7716 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 10026 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 23910 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 449569 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 1518 | Swift | macOS video editor built for AI |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 232492 | Shell | An agentic skills framework & software development methodology that works. |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 56950 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4165 | Unknown | GLM-5: From Vibe Coding to Agentic Engineering |
+| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 27478 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 7140 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 869 | TypeScript | A framework for building agent-native applications. |
 
-| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 1817 | Python | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 37161 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 11256 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 5990 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [withastro/flue](https://github.com/withastro/flue) | 5533 | TypeScript | The sandbox agent framework. |
+| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4393 | Unknown | GLM-5: From Vibe Coding to Agentic Engineering |
 
-| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 22211 | TypeScript | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. |
+| [withastro/flue](https://github.com/withastro/flue) | 5697 | TypeScript | The sandbox agent framework. |
 <!-- TRENDING_END -->
 
 # TrendSpire
