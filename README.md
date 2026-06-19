@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-18 14:54 UTC_
+_Last updated: 2026-06-19 02:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 22577 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 23272 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 9882 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | 10026 | Rust | IP addresses break, dial keys instead. Modular networking stack in Rust. |
 
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 449396 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 449569 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 232061 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 232492 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 3937 | Unknown | GLM-5: From Vibe Coding to Agentic Engineering |
+| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4165 | Unknown | GLM-5: From Vibe Coding to Agentic Engineering |
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 6638 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 7140 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 11077 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 1817 | Python | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. |
 
-| [withastro/flue](https://github.com/withastro/flue) | 5368 | TypeScript | The sandbox agent framework. |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 11256 | C++ | A lightweight, lightning-fast, in-process vector database |
 
-| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 21631 | TypeScript | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. |
+| [withastro/flue](https://github.com/withastro/flue) | 5533 | TypeScript | The sandbox agent framework. |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 51653 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | 22211 | TypeScript | Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. |
 <!-- TRENDING_END -->
 
 # TrendSpire
