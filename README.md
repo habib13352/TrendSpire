@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-19 14:50 UTC_
+_Last updated: 2026-06-20 02:30 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 7716 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 8306 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 23910 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 24108 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 1518 | Swift | macOS video editor built for AI |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 1973 | Swift | macOS video editor built for AI |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 56950 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 57300 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 27478 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
+| [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | 27649 | HTML | A one stop repository for generative AI research updates, interview resources, notebooks and much more! |
 
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 869 | TypeScript | A framework for building agent-native applications. |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 1065 | TypeScript | A framework for building agent-native applications. |
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 37161 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 38867 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 5990 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 6329 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4393 | Unknown | GLM-5: From Vibe Coding to Agentic Engineering |
+| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | 4601 | Unknown | GLM-5: From Vibe Coding to Agentic Engineering |
 
-| [withastro/flue](https://github.com/withastro/flue) | 5697 | TypeScript | The sandbox agent framework. |
+| [withastro/flue](https://github.com/withastro/flue) | 5855 | TypeScript | The sandbox agent framework. |
 <!-- TRENDING_END -->
 
 # TrendSpire
