@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-20 13:47 UTC_
+_Last updated: 2026-06-21 02:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 2484 | Swift | macOS video editor built for AI |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 3485 | Swift | macOS video editor built for AI |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 50877 | Clojure | Penpot: The open-source design tool for design and code collaboration |
+| [penpot/penpot](https://github.com/penpot/penpot) | 51498 | Clojure | Penpot: The open-source design tool for design and code collaboration |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 6645 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 7119 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 20062 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 20363 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 8883 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 9427 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 24300 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 24575 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 50701 | TypeScript | The open alternative to Salesforce, designed for AI. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | 50879 | TypeScript | The open alternative to Salesforce, designed for AI. |
 
-| [Kong/insomnia](https://github.com/Kong/insomnia) | 39147 | TypeScript | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. |
+| [Kong/insomnia](https://github.com/Kong/insomnia) | 39344 | TypeScript | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. |
 
-| [tw93/Pake](https://github.com/tw93/Pake) | 53424 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
+| [tw93/Pake](https://github.com/tw93/Pake) | 54906 | Rust | 🤱🏻 Turn any webpage into a desktop app with one command. |
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 40629 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 42016 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
 <!-- TRENDING_END -->
 
 # TrendSpire
