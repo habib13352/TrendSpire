@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-22 02:47 UTC_
+_Last updated: 2026-06-22 16:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 5389 | Swift | macOS video editor built for AI |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 11169 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 9032 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 6926 | Swift | macOS video editor built for AI |
 
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | 44706 | Python | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 31995 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 20861 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 18387 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 52317 | Clojure | Penpot: The open-source design tool for design and code collaboration |
+| [penpot/penpot](https://github.com/penpot/penpot) | 52713 | Clojure | Penpot: The open-source design tool for design and code collaboration |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 44663 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 82635 | TypeScript | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 58163 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 112883 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 72654 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 29801 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 10433 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 21194 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 17784 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73076 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 <!-- TRENDING_END -->
 
 # TrendSpire
