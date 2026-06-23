@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-22 16:43 UTC_
+_Last updated: 2026-06-23 02:13 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 11169 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 12311 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 6926 | Swift | macOS video editor built for AI |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 7473 | Swift | macOS video editor built for AI |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 31995 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 32325 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 18387 | Python | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0 |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 18769 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 52713 | Clojure | Penpot: The open-source design tool for design and code collaboration |
+| [penpot/penpot](https://github.com/penpot/penpot) | 52903 | Clojure | Penpot: The open-source design tool for design and code collaboration |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 82635 | TypeScript | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 82999 | TypeScript | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
 
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 112883 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 113209 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 29801 | TypeScript | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 30063 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 21194 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 21520 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73076 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73311 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 <!-- TRENDING_END -->
 
 # TrendSpire
