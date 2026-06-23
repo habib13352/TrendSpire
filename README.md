@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-23 02:13 UTC_
+_Last updated: 2026-06-23 14:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 12311 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 14481 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 7473 | Swift | macOS video editor built for AI |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 46669 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 32325 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 19316 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 18769 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 113774 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 52903 | Clojure | Penpot: The open-source design tool for design and code collaboration |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73736 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 82999 | TypeScript | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 58843 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 113209 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 8228 | Swift | macOS video editor built for AI |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 30063 | TypeScript | Write HTML. Render video. Built for agents. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 30717 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [tursodatabase/turso](https://github.com/tursodatabase/turso) | 21520 | Rust | Turso is an in-process SQL database, compatible with SQLite. |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 59142 | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73311 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 7331 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
