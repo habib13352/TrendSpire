@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-24 02:14 UTC_
+_Last updated: 2026-06-24 14:13 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 15900 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 18079 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 47158 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 48095 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 19761 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
+| [apple/container](https://github.com/apple/container) | 41574 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 114148 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 1906 | Python | AI agent to evaluate and score resumes. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73968 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 19008 | TypeScript | Clone any website with one command using AI coding agents |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 59132 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [revfactory/harness](https://github.com/revfactory/harness) | 7609 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 8465 | Swift | macOS video editor built for AI |
+| [flutter/flutter](https://github.com/flutter/flutter) | 177154 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 30864 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | 1366 | Kotlin | Headunit App for displaying Android Auto |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 59521 | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
+| [stablyai/orca](https://github.com/stablyai/orca) | 6533 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 7456 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 16845 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
 <!-- TRENDING_END -->
 
 # TrendSpire
