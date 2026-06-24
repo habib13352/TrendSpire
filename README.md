@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-23 14:34 UTC_
+_Last updated: 2026-06-24 02:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 14481 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 15900 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 46669 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 47158 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 19316 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 19761 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
 
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 113774 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 114148 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73736 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 73968 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 58843 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 59132 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 8228 | Swift | macOS video editor built for AI |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | 8465 | Swift | macOS video editor built for AI |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 30717 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 30864 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 59142 | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | 59521 | HTML | from vibe coding to agentic engineering - practice makes claude perfect |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 7331 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 7456 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 <!-- TRENDING_END -->
 
 # TrendSpire
