@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-25 02:26 UTC_
+_Last updated: 2026-06-25 14:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 19662 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 18324 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 48625 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 21456 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [apple/container](https://github.com/apple/container) | 42314 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 1615 | Python | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. |
 
-| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 2252 | Python | AI agent to evaluate and score resumes. |
+| [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 6263 | TypeScript | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. |
 
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 19399 | TypeScript | Clone any website with one command using AI coding agents |
+| [apple/container](https://github.com/apple/container) | 42901 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 7771 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 20019 | TypeScript | Clone any website with one command using AI coding agents |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 177369 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 115439 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
 
-| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | 1435 | Kotlin | Headunit App for displaying Android Auto |
+| [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | 1035 | Python | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS |
 
-| [stablyai/orca](https://github.com/stablyai/orca) | 6853 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 20911 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
 
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 17421 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 19639 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 <!-- TRENDING_END -->
 
 # TrendSpire
