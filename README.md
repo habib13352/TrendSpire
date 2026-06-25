@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-24 14:13 UTC_
+_Last updated: 2026-06-25 02:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 18079 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 19662 | Python | World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio. |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 48095 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 48625 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
 
-| [apple/container](https://github.com/apple/container) | 41574 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [apple/container](https://github.com/apple/container) | 42314 | Swift | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
 
-| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 1906 | Python | AI agent to evaluate and score resumes. |
+| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | 2252 | Python | AI agent to evaluate and score resumes. |
 
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 19008 | TypeScript | Clone any website with one command using AI coding agents |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 19399 | TypeScript | Clone any website with one command using AI coding agents |
 
-| [revfactory/harness](https://github.com/revfactory/harness) | 7609 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
+| [revfactory/harness](https://github.com/revfactory/harness) | 7771 | HTML | A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 177154 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [flutter/flutter](https://github.com/flutter/flutter) | 177369 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
 
-| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | 1366 | Kotlin | Headunit App for displaying Android Auto |
+| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | 1435 | Kotlin | Headunit App for displaying Android Auto |
 
-| [stablyai/orca](https://github.com/stablyai/orca) | 6533 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
+| [stablyai/orca](https://github.com/stablyai/orca) | 6853 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile. |
 
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 16845 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 17421 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
 <!-- TRENDING_END -->
 
 # TrendSpire
