@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-06-26 14:10 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps \ud83d\udcf1!",
+      "language": "Haskell",
+      "stars": 11956
+    },
+    {
+      "rank": 2,
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars": 20599
+    },
+    {
+      "rank": 3,
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "language": "Python",
+      "stars": 61655
+    },
+    {
+      "rank": 4,
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars": 3201
+    },
+    {
+      "rank": 5,
+      "name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "language": "TypeScript",
+      "stars": 74753
+    },
+    {
+      "rank": 6,
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "language": "HTML",
+      "stars": 123547
+    },
+    {
+      "rank": 7,
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "language": "Python",
+      "stars": 70132
+    },
+    {
+      "rank": 8,
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "description": "\u5f20\u96ea\u5cf0.skill \u2014 \u5f20\u96ea\u5cf0\u7684\u8ba4\u77e5\u64cd\u4f5c\u7cfb\u7edf\u3002\u9ad8\u8003\u5fd7\u613f/\u8003\u7814/\u804c\u4e1a\u89c4\u5212\u7684\u5b9e\u6218\u601d\u7ef4\u6846\u67b6\u3002\u7531\u5973\u5a32.skill\u751f\u6210\u3002",
+      "language": "Unknown",
+      "stars": 9185
+    },
+    {
+      "rank": 9,
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "language": "TypeScript",
+      "stars": 7321
+    },
+    {
+      "rank": 10,
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "language": "Python",
+      "stars": 2873
+    }
+  ]
+}
