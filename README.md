@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-26 14:10 UTC_
+_Last updated: 2026-06-27 02:12 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 11956 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
+| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 12643 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
 
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 20599 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 21322 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 61655 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 61805 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 3201 | Go | git push no-mistakes |
+| [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes) | 3452 | Go | git push no-mistakes |
 
-| [grafana/grafana](https://github.com/grafana/grafana) | 74753 | TypeScript | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |
+| [grafana/grafana](https://github.com/grafana/grafana) | 74923 | TypeScript | The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 123547 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 123755 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 70132 | Python | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 70459 | Python | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. |
 
-| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 9185 | Unknown | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 |
+| [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 9267 | Unknown | 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。 |
 
-| [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 7321 | TypeScript | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. |
+| [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | 7687 | TypeScript | A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more. |
 
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 2873 | Python | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 3156 | Python | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. |
 <!-- TRENDING_END -->
 
 # TrendSpire
