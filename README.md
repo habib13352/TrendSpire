@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-28 02:34 UTC_
+_Last updated: 2026-06-28 13:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 13905 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
+| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 14440 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
 
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 4218 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 124521 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 62085 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 62217 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | 35812 | Go | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 4976 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 124199 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 8003 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
 
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | 22382 | TypeScript | A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 18692 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 135721 | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [cupy/cupy](https://github.com/cupy/cupy) | 11359 | Python | NumPy & SciPy for GPU |
 
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 33132 | Python | AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 3309 | Swift | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) |
 
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | 22166 | TypeScript | Clone any website with one command using AI coding agents |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 71251 | Python | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. |
 
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 117285 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 14001 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 <!-- TRENDING_END -->
 
 # TrendSpire
