@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-29 02:34 UTC_
+_Last updated: 2026-06-29 15:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 15167 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
+| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 16174 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 125395 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 118536 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 62438 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [cupy/cupy](https://github.com/cupy/cupy) | 11744 | Python | NumPy & SciPy for GPU |
 
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 5481 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4199 | Swift | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) |
 
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 8270 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 34189 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | 19872 | C | High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 62684 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [cupy/cupy](https://github.com/cupy/cupy) | 11551 | Python | NumPy & SciPy for GPU |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 126507 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 3799 | Swift | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) |
+| [logto-io/logto](https://github.com/logto-io/logto) | 12445 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
 
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | 71685 | Python | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 6441 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 14405 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 11691 | Python | Edit videos with coding agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
