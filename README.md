@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-29 15:35 UTC_
+_Last updated: 2026-06-30 02:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 16174 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
+| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 16683 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 118536 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 119023 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [cupy/cupy](https://github.com/cupy/cupy) | 11744 | Python | NumPy & SciPy for GPU |
+| [cupy/cupy](https://github.com/cupy/cupy) | 11856 | Python | NumPy & SciPy for GPU |
 
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4199 | Swift | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4428 | Swift | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 34189 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | 34423 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 62684 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | 62790 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 126507 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 126775 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [logto-io/logto](https://github.com/logto-io/logto) | 12445 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
+| [logto-io/logto](https://github.com/logto-io/logto) | 12710 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
 
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 6441 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 6715 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 11691 | Python | Edit videos with coding agents |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 11987 | Python | Edit videos with coding agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
