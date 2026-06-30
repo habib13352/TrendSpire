@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-06-30 02:28 UTC_
+_Last updated: 2026-06-30 14:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | 16683 | Haskell | SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱! |
+| [usestrix/strix](https://github.com/usestrix/strix) | 27688 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 119023 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 120167 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [cupy/cupy](https://github.com/cupy/cupy) | 11856 | Python | NumPy & SciPy for GPU |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4730 | Swift | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) |
 
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4428 | Swift | FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 8178 | TypeScript | Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
 
-| [soxoj/maigret](https://github.com/soxoj/maigret) | 34423 | Python | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 12356 | Python | Edit videos with coding agents |
 
-| [commaai/openpilot](https://github.com/commaai/openpilot) | 62790 | Python | openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars. |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 7323 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 126775 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | 6027 | Python | Common User Passwords Profiler (CUPP) |
 
-| [logto-io/logto](https://github.com/logto-io/logto) | 12710 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 127162 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
 
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 6715 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
+| [google/agents-cli](https://github.com/google/agents-cli) | 3875 | Python | The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 11987 | Python | Edit videos with coding agents |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 45755 | Python | We write your reusable computer vision tools. 💜 |
 <!-- TRENDING_END -->
 
 # TrendSpire
