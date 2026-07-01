@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-01 02:35 UTC_
+_Last updated: 2026-07-01 14:20 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 6840 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 122324 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 28196 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 28944 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 121056 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 16265 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 4953 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon. |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 8042 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 8614 | TypeScript | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
+| [facebook/astryx](https://github.com/facebook/astryx) | 2197 | TypeScript | An open source design system that's fully customizable and agent ready |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 12654 | Python | Edit videos with coding agents |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 9197 | TypeScript | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
 
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | 7570 | Python | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis. |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | 18114 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
 
-| [Mebus/cupp](https://github.com/Mebus/cupp) | 6115 | Python | Common User Passwords Profiler (CUPP) |
+| [logto-io/logto](https://github.com/logto-io/logto) | 13106 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
 
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 127352 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| [togatoga/karukan](https://github.com/togatoga/karukan) | 538 | Rust | Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine |
 
-| [google/agents-cli](https://github.com/google/agents-cli) | 4242 | Python | The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud. |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | 6207 | Python | Common User Passwords Profiler (CUPP) |
 <!-- TRENDING_END -->
 
 # TrendSpire
