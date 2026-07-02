@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-02 02:14 UTC_
+_Last updated: 2026-07-02 13:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 123587 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 31029 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 29812 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 79763 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 16596 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 125056 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 8474 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 8959 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
 
-| [facebook/astryx](https://github.com/facebook/astryx) | 2702 | TypeScript | An open source design system that's fully customizable and agent ready |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 57406 | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 9581 | TypeScript | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 244055 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 18297 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 44951 | TypeScript | Chrome DevTools for coding agents |
 
-| [logto-io/logto](https://github.com/logto-io/logto) | 13289 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 13568 | Python | Edit videos with coding agents |
 
-| [togatoga/karukan](https://github.com/togatoga/karukan) | 589 | Rust | Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine |
+| [actions/checkout](https://github.com/actions/checkout) | 8101 | TypeScript | Action for checking out a repo |
 
-| [Mebus/cupp](https://github.com/Mebus/cupp) | 6251 | Python | Common User Passwords Profiler (CUPP) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 224920 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 <!-- TRENDING_END -->
 
 # TrendSpire
