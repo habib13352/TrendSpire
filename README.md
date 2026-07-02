@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-01 14:20 UTC_
+_Last updated: 2026-07-02 02:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 122324 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 123587 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 28944 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 29812 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 16265 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 16596 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 8042 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 8474 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
 
-| [facebook/astryx](https://github.com/facebook/astryx) | 2197 | TypeScript | An open source design system that's fully customizable and agent ready |
+| [facebook/astryx](https://github.com/facebook/astryx) | 2702 | TypeScript | An open source design system that's fully customizable and agent ready |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 9197 | TypeScript | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 9581 | TypeScript | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA. |
 
-| [allenai/olmocr](https://github.com/allenai/olmocr) | 18114 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
+| [allenai/olmocr](https://github.com/allenai/olmocr) | 18297 | Python | Toolkit for linearizing PDFs for LLM datasets/training |
 
-| [logto-io/logto](https://github.com/logto-io/logto) | 13106 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
+| [logto-io/logto](https://github.com/logto-io/logto) | 13289 | TypeScript | 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. |
 
-| [togatoga/karukan](https://github.com/togatoga/karukan) | 538 | Rust | Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine |
+| [togatoga/karukan](https://github.com/togatoga/karukan) | 589 | Rust | Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine |
 
-| [Mebus/cupp](https://github.com/Mebus/cupp) | 6207 | Python | Common User Passwords Profiler (CUPP) |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | 6251 | Python | Common User Passwords Profiler (CUPP) |
 <!-- TRENDING_END -->
 
 # TrendSpire
