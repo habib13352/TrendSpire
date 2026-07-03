@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-02 13:44 UTC_
+_Last updated: 2026-07-03 01:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 31029 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 32334 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 79763 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 81053 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 125056 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 125562 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 8959 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 9295 | HTML | A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video. |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 57406 | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 57874 | JavaScript | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 244055 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 244487 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 44951 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45106 | TypeScript | Chrome DevTools for coding agents |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 13568 | Python | Edit videos with coding agents |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 13828 | Python | Edit videos with coding agents |
 
-| [actions/checkout](https://github.com/actions/checkout) | 8101 | TypeScript | Action for checking out a repo |
+| [actions/checkout](https://github.com/actions/checkout) | 8168 | TypeScript | Action for checking out a repo |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 224920 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 225218 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 <!-- TRENDING_END -->
 
 # TrendSpire
