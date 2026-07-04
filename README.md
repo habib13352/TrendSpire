@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-04 01:57 UTC_
+_Last updated: 2026-07-04 13:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 34705 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 23673 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
 
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 23245 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83479 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 82970 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 22744 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 77346 | Java | Free and Open Source, Distributed, RESTful Search Engine |
+| [usestrix/strix](https://github.com/usestrix/strix) | 35519 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [actions/checkout](https://github.com/actions/checkout) | 8267 | TypeScript | Action for checking out a repo |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45636 | TypeScript | Chrome DevTools for coding agents |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45503 | TypeScript | Chrome DevTools for coding agents |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 14526 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
 
-| [ansible/ansible](https://github.com/ansible/ansible) | 69213 | Python | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 48453 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
 
-| [facebook/astryx](https://github.com/facebook/astryx) | 4686 | TypeScript | An open source design system that's fully customizable and agent ready |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26400 | Python | Machine Learning Systems |
 
-| [rommapp/romm](https://github.com/rommapp/romm) | 9821 | Python | A beautiful, powerful, self-hosted rom manager and player. |
+| [rommapp/romm](https://github.com/rommapp/romm) | 9977 | Python | A beautiful, powerful, self-hosted rom manager and player. |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26184 | Python | Machine Learning Systems |
+| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 11115 | Rust | agent multiplexer that lives in your terminal. |
 <!-- TRENDING_END -->
 
 # TrendSpire
