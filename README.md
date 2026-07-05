@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-05 02:05 UTC_
+_Last updated: 2026-07-05 13:17 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 24503 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 15957 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 84016 | JavaScript | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 25138 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 23143 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 49435 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 36107 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 56949 | JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 45790 | TypeScript | Chrome DevTools for coding agents |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 20338 | Python | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
 
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 15327 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
+| [rommapp/romm](https://github.com/rommapp/romm) | 10369 | Python | A beautiful, powerful, self-hosted rom manager and player. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 48964 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 11769 | Rust | agent multiplexer that lives in your terminal. |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26584 | Python | Machine Learning Systems |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 23527 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [rommapp/romm](https://github.com/rommapp/romm) | 10219 | Python | A beautiful, powerful, self-hosted rom manager and player. |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26725 | Python | Machine Learning Systems |
 
-| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 11480 | Rust | agent multiplexer that lives in your terminal. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 36631 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 <!-- TRENDING_END -->
 
 # TrendSpire
