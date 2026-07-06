@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-05 13:17 UTC_
+_Last updated: 2026-07-06 02:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 15957 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 17173 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
 
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 25138 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 25530 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 49435 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 50053 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 56949 | JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 57597 | JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 20338 | Python | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 20613 | Python | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
 
-| [rommapp/romm](https://github.com/rommapp/romm) | 10369 | Python | A beautiful, powerful, self-hosted rom manager and player. |
+| [rommapp/romm](https://github.com/rommapp/romm) | 10564 | Python | A beautiful, powerful, self-hosted rom manager and player. |
 
-| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 11769 | Rust | agent multiplexer that lives in your terminal. |
+| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 12115 | Rust | agent multiplexer that lives in your terminal. |
 
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 23527 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | 23954 | TypeScript | JavaScript in-page GUI agent. Control web interfaces with natural language. |
 
-| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26725 | Python | Machine Learning Systems |
+| [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | 26865 | Python | Machine Learning Systems |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 36631 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 37186 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 <!-- TRENDING_END -->
 
 # TrendSpire
