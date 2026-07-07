@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-06 15:18 UTC_
+_Last updated: 2026-07-07 02:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 50957 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 51627 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 70442 | Shell | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 70894 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 18693 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 19468 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 77138 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 77561 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 58504 | JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 59018 | JavaScript | Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop |
 
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 20991 | Python | 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 21185 | Python | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. |
 
-| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 26107 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
+| [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | 26304 | JavaScript | Use Codex from Claude Code to review code or delegate tasks. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 49564 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 49799 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 12628 | Rust | agent multiplexer that lives in your terminal. |
+| [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | 12911 | Rust | agent multiplexer that lives in your terminal. |
 
-| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 3938 | Python | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 4285 | Python | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
 <!-- TRENDING_END -->
 
 # TrendSpire
