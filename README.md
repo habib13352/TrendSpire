@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-07 14:14 UTC_
+_Last updated: 2026-07-08 01:46 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 8915 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 11075 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
 
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 20205 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 20785 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 71691 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 72194 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 78174 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 78528 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 52522 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 53045 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
 
-| [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 8242 | Rust | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 8483 | Rust | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
 
-| [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | 3695 | HTML | 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js |
+| [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | 4035 | HTML | 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js |
 
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 16938 | Swift | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
+| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 17047 | Swift | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
 
-| [dotnet/skills](https://github.com/dotnet/skills) | 4228 | C# | Repository for skills to assist AI coding agents with .NET and C# |
+| [dotnet/skills](https://github.com/dotnet/skills) | 4315 | C# | Repository for skills to assist AI coding agents with .NET and C# |
 
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 9436 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 10045 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
 <!-- TRENDING_END -->
 
 # TrendSpire
