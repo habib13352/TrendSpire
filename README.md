@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-08 01:46 UTC_
+_Last updated: 2026-07-08 13:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 11075 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 13772 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
 
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 20785 | Rust | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 73031 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 72194 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 78878 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 78528 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 7382 | TypeScript | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 53045 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [prisma/prisma](https://github.com/prisma/prisma) | 46404 | TypeScript | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
 
-| [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 8483 | Rust | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 50520 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | 4035 | HTML | 💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js |
+| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 23367 | Go | Declarative Continuous Deployment for Kubernetes |
 
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 17047 | Swift | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 11097 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
 
-| [dotnet/skills](https://github.com/dotnet/skills) | 4315 | C# | Repository for skills to assist AI coding agents with .NET and C# |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 53692 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
 
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 10045 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 249456 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
