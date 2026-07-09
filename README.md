@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-08 13:48 UTC_
+_Last updated: 2026-07-09 01:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 13772 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 74210 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 73031 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 79164 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 78878 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 7684 | TypeScript | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 7382 | TypeScript | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
+| [prisma/prisma](https://github.com/prisma/prisma) | 46580 | TypeScript | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
 
-| [prisma/prisma](https://github.com/prisma/prisma) | 46404 | TypeScript | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 50780 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 50520 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 23440 | Go | Declarative Continuous Deployment for Kubernetes |
 
-| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 23367 | Go | Declarative Continuous Deployment for Kubernetes |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 11951 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
 
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 11097 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 54246 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 53692 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 249867 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 249456 | Shell | An agentic skills framework & software development methodology that works. |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | 14432 | C++ | A lightweight, lightning-fast, in-process vector database |
 <!-- TRENDING_END -->
 
 # TrendSpire
