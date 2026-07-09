@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-09 01:59 UTC_
+_Last updated: 2026-07-09 14:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 74210 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 17584 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 79164 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | 1825 | C# | Source code for Unturned, a free open-world zombie survival sandbox game. |
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 7684 | TypeScript | TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 75530 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [prisma/prisma](https://github.com/prisma/prisma) | 46580 | TypeScript | Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 99197 | Unknown | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 50780 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 13025 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
 
-| [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | 23440 | Go | Declarative Continuous Deployment for Kubernetes |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6489 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 11951 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 46943 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 54246 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly. |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 19152 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 249867 | Shell | An agentic skills framework & software development methodology that works. |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 71676 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
-| [alibaba/zvec](https://github.com/alibaba/zvec) | 14432 | C++ | A lightweight, lightning-fast, in-process vector database |
+| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 28899 | Unknown | An evolving how-to guide for securing a Linux server. |
 <!-- TRENDING_END -->
 
 # TrendSpire
