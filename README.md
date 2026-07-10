@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-10 01:57 UTC_
+_Last updated: 2026-07-10 14:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 19149 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6896 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | 2059 | C# | Source code for Unturned, a free open-world zombie survival sandbox game. |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 93957 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 75929 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17479 | C++ | Abseil Common Libraries (C++) |
 
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 99770 | Unknown | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 76518 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 13511 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6053 | C++ | A YAML parser and emitter in C++ |
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6586 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 164096 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 47184 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 251511 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 19435 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109698 | TypeScript | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 71858 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20573 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
 
-| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 29105 | Unknown | An evolving how-to guide for securing a Linux server. |
+| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6040 | C++ | Asio C++ Library |
 <!-- TRENDING_END -->
 
 # TrendSpire
