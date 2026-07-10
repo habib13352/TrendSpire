@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-09 14:42 UTC_
+_Last updated: 2026-07-10 01:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 17584 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 19149 | TypeScript | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. |
 
-| [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | 1825 | C# | Source code for Unturned, a free open-world zombie survival sandbox game. |
+| [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | 2059 | C# | Source code for Unturned, a free open-world zombie survival sandbox game. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 75530 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 75929 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 99197 | Unknown | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | 99770 | Unknown | A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI. |
 
-| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 13025 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | 13511 | C# | OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. |
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6489 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6586 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 46943 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 47184 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 19152 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 19435 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 71676 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 71858 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
-| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 28899 | Unknown | An evolving how-to guide for securing a Linux server. |
+| [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | 29105 | Unknown | An evolving how-to guide for securing a Linux server. |
 <!-- TRENDING_END -->
 
 # TrendSpire
