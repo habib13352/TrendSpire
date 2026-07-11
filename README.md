@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-10 14:07 UTC_
+_Last updated: 2026-07-11 01:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 6896 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7316 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 93957 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 94249 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 
-| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17479 | C++ | Abseil Common Libraries (C++) |
+| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17523 | C++ | Abseil Common Libraries (C++) |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 76518 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 76837 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6053 | C++ | A YAML parser and emitter in C++ |
+| [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6082 | C++ | A YAML parser and emitter in C++ |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 164096 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 164675 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 251511 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 251800 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109698 | TypeScript | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109781 | TypeScript | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 
-| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20573 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
+| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20616 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
 
-| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6040 | C++ | Asio C++ Library |
+| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6073 | C++ | Asio C++ Library |
 <!-- TRENDING_END -->
 
 # TrendSpire
