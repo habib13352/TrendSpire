@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-11 01:45 UTC_
+_Last updated: 2026-07-11 13:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7316 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20714 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 94249 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17599 | C++ | Abseil Common Libraries (C++) |
 
-| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17523 | C++ | Abseil Common Libraries (C++) |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 28884 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 76837 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 6911 | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
 
-| [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | 6082 | C++ | A YAML parser and emitter in C++ |
+| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 49269 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 164675 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | 8081 | C++ | Mesh optimization library that makes meshes smaller and faster to render |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 251800 | Shell | An agentic skills framework & software development methodology that works. |
+| [openai/plugins](https://github.com/openai/plugins) | 4314 | JavaScript | OpenAI Plugins |
 
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 109781 | TypeScript | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7671 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20616 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
+| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6106 | C++ | Asio C++ Library |
 
-| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6073 | C++ | Asio C++ Library |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 94487 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 <!-- TRENDING_END -->
 
 # TrendSpire
