@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-11 13:03 UTC_
+_Last updated: 2026-07-12 01:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 20714 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
+| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 21055 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
 
-| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17599 | C++ | Abseil Common Libraries (C++) |
+| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17808 | C++ | Abseil Common Libraries (C++) |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 28884 | Python | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 29025 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 6911 | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 7073 | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
 
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 49269 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 49375 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
 
-| [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | 8081 | C++ | Mesh optimization library that makes meshes smaller and faster to render |
+| [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | 8142 | C++ | Mesh optimization library that makes meshes smaller and faster to render |
 
-| [openai/plugins](https://github.com/openai/plugins) | 4314 | JavaScript | OpenAI Plugins |
+| [openai/plugins](https://github.com/openai/plugins) | 4421 | JavaScript | OpenAI Plugins |
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7671 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7781 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6106 | C++ | Asio C++ Library |
+| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6139 | C++ | Asio C++ Library |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 94487 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | 94572 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 <!-- TRENDING_END -->
 
 # TrendSpire
