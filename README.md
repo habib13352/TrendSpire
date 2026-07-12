@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-12 01:48 UTC_
+_Last updated: 2026-07-12 13:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [catchorg/Catch2](https://github.com/catchorg/Catch2) | 21055 | C++ | A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 2370 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
 
-| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | 17808 | C++ | Abseil Common Libraries (C++) |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7873 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 29025 | Python | CLI tool for configuring and monitoring Claude Code |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 20089 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 7073 | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
+| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | 23015 | Python | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. |
 
-| [hashicorp/terraform](https://github.com/hashicorp/terraform) | 49375 | Go | Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 118238 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
-| [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | 8142 | C++ | Mesh optimization library that makes meshes smaller and faster to render |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 48153 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [openai/plugins](https://github.com/openai/plugins) | 4421 | JavaScript | OpenAI Plugins |
+| [home-assistant/core](https://github.com/home-assistant/core) | 88857 | Python | 🏡 Open source home automation that puts local control and privacy first. |
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7781 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 33611 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | 6139 | C++ | Asio C++ Library |
+| [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) | 2156 | TypeScript | An open-source background agents coding system |
 
-| [oven-sh/bun](https://github.com/oven-sh/bun) | 94572 | Rust | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
+| [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 6576 | C# | Advanced UX and interoperability extension for Wand (WeMod) app |
 <!-- TRENDING_END -->
 
 # TrendSpire
