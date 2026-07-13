@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-07-13 01:50 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars": 2956
+    },
+    {
+      "rank": 2,
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 8003
+    },
+    {
+      "rank": 3,
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 20605
+    },
+    {
+      "rank": 4,
+      "name": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars": 23161
+    },
+    {
+      "rank": 5,
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+      "language": "Python",
+      "stars": 118603
+    },
+    {
+      "rank": 6,
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars": 48442
+    },
+    {
+      "rank": 7,
+      "name": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 89085
+    },
+    {
+      "rank": 8,
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered\u2014anytime, anywhere.",
+      "language": "TypeScript",
+      "stars": 33818
+    },
+    {
+      "rank": 9,
+      "name": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
+      "language": "TypeScript",
+      "stars": 2267
+    },
+    {
+      "rank": 10,
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars": 6974
+    }
+  ]
+}

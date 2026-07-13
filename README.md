@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-12 13:04 UTC_
+_Last updated: 2026-07-13 01:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 2370 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 2956 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 7873 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 8003 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 20089 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 20605 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | 23015 | Python | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. |
+| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | 23161 | Python | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 118238 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 118603 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 48153 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 48442 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [home-assistant/core](https://github.com/home-assistant/core) | 88857 | Python | 🏡 Open source home automation that puts local control and privacy first. |
+| [home-assistant/core](https://github.com/home-assistant/core) | 89085 | Python | 🏡 Open source home automation that puts local control and privacy first. |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 33611 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 33818 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
 
-| [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) | 2156 | TypeScript | An open-source background agents coding system |
+| [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) | 2267 | TypeScript | An open-source background agents coding system |
 
-| [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 6576 | C# | Advanced UX and interoperability extension for Wand (WeMod) app |
+| [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 6974 | C# | Advanced UX and interoperability extension for Wand (WeMod) app |
 <!-- TRENDING_END -->
 
 # TrendSpire
