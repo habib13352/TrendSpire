@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-13 01:50 UTC_
+_Last updated: 2026-07-13 14:17 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 2956 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 64771 | TypeScript | The open-source CapCut alternative |
 
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | 8003 | TypeScript | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 3677 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 20605 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 21318 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | 23161 | Python | Prefect is a workflow orchestration framework for building resilient data pipelines in Python. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 41705 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 118603 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 119281 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 48442 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 4793 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [home-assistant/core](https://github.com/home-assistant/core) | 89085 | Python | 🏡 Open source home automation that puts local control and privacy first. |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 50577 | PowerShell | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
 
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 33818 | TypeScript | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 83978 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
 
-| [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) | 2267 | TypeScript | An open-source background agents coding system |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 12323 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
 
-| [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | 6974 | C# | Advanced UX and interoperability extension for Wand (WeMod) app |
+| [github/spec-kit](https://github.com/github/spec-kit) | 120334 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
 <!-- TRENDING_END -->
 
 # TrendSpire
