@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-13 14:17 UTC_
+_Last updated: 2026-07-14 01:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 64771 | TypeScript | The open-source CapCut alternative |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 66433 | TypeScript | The open-source CapCut alternative |
 
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 3677 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 21776 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 21318 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 41891 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 41705 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 119644 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 119281 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 5168 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 4793 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 50886 | PowerShell | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
 
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 50577 | PowerShell | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 84756 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
 
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 83978 | Python | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 12633 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 12323 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
+| [github/spec-kit](https://github.com/github/spec-kit) | 120612 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
 
-| [github/spec-kit](https://github.com/github/spec-kit) | 120334 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 38586 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 <!-- TRENDING_END -->
 
 # TrendSpire
