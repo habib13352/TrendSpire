@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-14 13:18 UTC_
+_Last updated: 2026-07-15 01:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 120335 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 120817 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 169487 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 170274 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4112 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4416 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 68641 | TypeScript | The open-source CapCut alternative |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 69225 | TypeScript | The open-source CapCut alternative |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 61699 | Python | An AI Hedge Fund Team |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 61884 | Python | An AI Hedge Fund Team |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 5778 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 6160 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 22477 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 22873 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 51309 | PowerShell | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 51707 | PowerShell | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 13104 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 13536 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 55941 | Clojure | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| [penpot/penpot](https://github.com/penpot/penpot) | 56165 | Clojure | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
 <!-- TRENDING_END -->
 
 # TrendSpire
