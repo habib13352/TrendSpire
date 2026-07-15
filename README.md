@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-15 01:24 UTC_
+_Last updated: 2026-07-15 13:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 120817 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 70227 | TypeScript | The open-source CapCut alternative |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 170274 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 6981 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4416 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 171581 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 69225 | TypeScript | The open-source CapCut alternative |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 42335 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | 61884 | Python | An AI Hedge Fund Team |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4590 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 6160 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 23376 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 22873 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65180 | Rust | A coding agent for low-cost models |
 
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | 51707 | PowerShell | A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 26051 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 13536 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 5662 | TypeScript | Become a cracked AI/ML Research Engineer |
 
-| [penpot/penpot](https://github.com/penpot/penpot) | 56165 | Clojure | Penpot: The open-source design platform for Product teams that need scalable collaboration. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 121560 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 <!-- TRENDING_END -->
 
 # TrendSpire
