@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-15 13:22 UTC_
+_Last updated: 2026-07-16 01:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 70227 | TypeScript | The open-source CapCut alternative |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 71856 | TypeScript | The open-source CapCut alternative |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 6981 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 8609 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 171581 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 172336 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 42335 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 42519 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4590 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4782 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 23376 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 23729 | Python | "Vibe-Trading: Your Personal Trading Agent" |
 
-| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65180 | Rust | A coding agent for low-cost models |
+| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65505 | Rust | A coding agent for low-cost models |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 26051 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 26292 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
-| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 5662 | TypeScript | Become a cracked AI/ML Research Engineer |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 5925 | TypeScript | Become a cracked AI/ML Research Engineer |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 121560 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 121941 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 <!-- TRENDING_END -->
 
 # TrendSpire
