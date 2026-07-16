@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-16 01:44 UTC_
+_Last updated: 2026-07-16 13:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 71856 | TypeScript | The open-source CapCut alternative |
+| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 56492 | Python | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 8609 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [apache/ossie](https://github.com/apache/ossie) | 754 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 172336 | Shell | Skills for Real Engineers. Straight from my .claude directory. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 10205 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 42519 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 73550 | TypeScript | The open-source CapCut alternative |
 
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | 4782 | Rust | The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 35633 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
 
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | 23729 | Python | "Vibe-Trading: Your Personal Trading Agent" |
+| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65802 | Rust | A coding agent for low-cost models |
 
-| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65505 | Rust | A coding agent for low-cost models |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1391 | Shell | Bonsai Demo |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 26292 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 14740 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
 
-| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 5925 | TypeScript | Become a cracked AI/ML Research Engineer |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122460 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 121941 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 79956 | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
 <!-- TRENDING_END -->
 
 # TrendSpire
