@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-17 01:47 UTC_
+_Last updated: 2026-07-17 13:13 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [apache/ossie](https://github.com/apache/ossie) | 914 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 526871 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 10953 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 36051 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 74047 | TypeScript | The open-source CapCut alternative |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6410 | TypeScript | Become a cracked AI/ML Research Engineer |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 35855 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 11644 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65990 | Rust | A coding agent for open models like Kimi K3 |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9748 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1523 | Shell | Bonsai Demo |
+| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | 1502 | TypeScript | No description provided. |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 15052 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1657 | Shell | Bonsai Demo |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122917 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 71510 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 80174 | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19614 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 1506 | C++ | Experimental menu for GTA 5: Enhanced |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 17720 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 <!-- TRENDING_END -->
 
 # TrendSpire
