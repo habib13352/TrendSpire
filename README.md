@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-16 13:28 UTC_
+_Last updated: 2026-07-17 01:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 56492 | Python | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 |
+| [apache/ossie](https://github.com/apache/ossie) | 914 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
 
-| [apache/ossie](https://github.com/apache/ossie) | 754 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 10953 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 10205 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 74047 | TypeScript | The open-source CapCut alternative |
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 73550 | TypeScript | The open-source CapCut alternative |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 35855 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 35633 | Python | 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. |
+| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65990 | Rust | A coding agent for open models like Kimi K3 |
 
-| [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | 65802 | Rust | A coding agent for low-cost models |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1523 | Shell | Bonsai Demo |
 
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1391 | Shell | Bonsai Demo |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 15052 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
 
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | 14740 | HTML | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122917 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 122460 | Python | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 80174 | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
 
-| [lobehub/lobehub](https://github.com/lobehub/lobehub) | 79956 | TypeScript | 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. |
+| [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | 1506 | C++ | Experimental menu for GTA 5: Enhanced |
 <!-- TRENDING_END -->
 
 # TrendSpire
