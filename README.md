@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-17 13:13 UTC_
+_Last updated: 2026-07-18 01:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 526871 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 527384 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 36051 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 36197 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6410 | TypeScript | Become a cracked AI/ML Research Engineer |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6630 | TypeScript | Become a cracked AI/ML Research Engineer |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 11644 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 12045 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9748 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9798 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
-| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | 1502 | TypeScript | No description provided. |
+| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | 1589 | TypeScript | No description provided. |
 
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1657 | Shell | Bonsai Demo |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1714 | Shell | Bonsai Demo |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 71510 | C++ | Protocol Buffers - Google's data interchange format |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 71540 | C++ | Protocol Buffers - Google's data interchange format |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19614 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19761 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 17720 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 17850 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
 <!-- TRENDING_END -->
 
 # TrendSpire
