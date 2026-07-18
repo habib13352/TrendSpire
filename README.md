@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-18 01:28 UTC_
+_Last updated: 2026-07-18 12:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 527384 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 12478 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 36197 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [apache/ossie](https://github.com/apache/ossie) | 1176 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
 
-| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | 6630 | TypeScript | Become a cracked AI/ML Research Engineer |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 36385 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 12045 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 4712 | TypeScript | Skills for Design Engineers |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9798 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 38888 | Python | Learn it. Build it. Ship it for others. |
 
-| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | 1589 | TypeScript | No description provided. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19961 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | 1714 | Shell | Bonsai Demo |
+| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | 9367 | TypeScript | LIBERATED AI CHAT |
 
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | 71540 | C++ | Protocol Buffers - Google's data interchange format |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 23152 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19761 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 963 | TypeScript | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. |
 
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | 17850 | Ruby | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 527934 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 <!-- TRENDING_END -->
 
 # TrendSpire
