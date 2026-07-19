@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-18 12:59 UTC_
+_Last updated: 2026-07-19 01:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 12478 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 12971 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
 
-| [apache/ossie](https://github.com/apache/ossie) | 1176 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
+| [apache/ossie](https://github.com/apache/ossie) | 1281 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 36385 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 36603 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 4712 | TypeScript | Skills for Design Engineers |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 5040 | TypeScript | Skills for Design Engineers |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 38888 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39115 | Python | Learn it. Build it. Ship it for others. |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 19961 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 20185 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | 9367 | TypeScript | LIBERATED AI CHAT |
+| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | 9515 | TypeScript | LIBERATED AI CHAT |
 
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 23152 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 23338 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
 
-| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 963 | TypeScript | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. |
+| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 1252 | TypeScript | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 527934 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 528293 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 <!-- TRENDING_END -->
 
 # TrendSpire
