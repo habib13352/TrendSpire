@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-19 01:45 UTC_
+_Last updated: 2026-07-19 13:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 12971 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 20560 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [apache/ossie](https://github.com/apache/ossie) | 1281 | Python | Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data |
+| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18166 | Python | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 36603 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39381 | Python | Learn it. Build it. Ship it for others. |
 
-| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | 5040 | TypeScript | Skills for Design Engineers |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 43031 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39115 | Python | Learn it. Build it. Ship it for others. |
+| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 1556 | TypeScript | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 20185 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | 1208 | Rust | An unofficial desktop client for Jellyfin |
 
-| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | 9515 | TypeScript | LIBERATED AI CHAT |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9887 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 23338 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 36783 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 1252 | TypeScript | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. |
+| [microsoft/terminal](https://github.com/microsoft/terminal) | 104032 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
 
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 528293 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 36595 | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 <!-- TRENDING_END -->
 
 # TrendSpire
