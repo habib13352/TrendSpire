@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-20 02:01 UTC_
+_Last updated: 2026-07-20 13:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 21314 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 22479 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18394 | Python | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 9303 | Rust | The most intelligent agent harness for code |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 39711 | Python | Learn it. Build it. Ship it for others. |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 20878 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 43398 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 40236 | Python | Learn it. Build it. Ship it for others. |
 
-| [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | 1874 | TypeScript | The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 134434 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | 1297 | Rust | An unofficial desktop client for Jellyfin |
+| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18634 | Python | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 9968 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 43879 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 36949 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28610 | Python | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. |
 
-| [microsoft/terminal](https://github.com/microsoft/terminal) | 104190 | C++ | The new Windows Terminal and the original Windows console host, all in the same place! |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 13966 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
 
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 36714 | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | 5478 | TypeScript | Open source alternative to Semrush and Ahrefs |
 <!-- TRENDING_END -->
 
 # TrendSpire
