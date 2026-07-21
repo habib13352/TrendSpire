@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-21 01:45 UTC_
+_Last updated: 2026-07-21 13:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 23271 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 63625 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 9663 | Rust | The most intelligent agent harness for code |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 13483 | Python | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 21916 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 24241 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 40574 | Python | Learn it. Build it. Ship it for others. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 6066 | Unknown | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 134746 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 8819 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
 
-| [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 18750 | Python | A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 10070 | Rust | The most intelligent agent harness for code |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 44204 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [oblien/openship](https://github.com/oblien/openship) | 5562 | TypeScript | Self-hosted deployment platform |
 
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | 28807 | Python | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 37327 | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 14262 | Python | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | 6293 | TypeScript | Open source alternative to Semrush and Ahrefs |
 
-| [every-app/open-seo](https://github.com/every-app/open-seo) | 5883 | TypeScript | Open source alternative to Semrush and Ahrefs |
+| [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 4636 | JavaScript | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation |
 <!-- TRENDING_END -->
 
 # TrendSpire
