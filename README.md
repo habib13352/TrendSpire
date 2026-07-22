@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-22 01:45 UTC_
+_Last updated: 2026-07-22 13:28 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 65576 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 67659 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 14698 | Python | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 83080 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 24585 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 7715 | Python | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 6907 | Unknown | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
+| [schollz/croc](https://github.com/schollz/croc) | 37215 | Go | Easily and securely send things from one computer to another 🐊 📦 |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 9156 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
+| [likec4/likec4](https://github.com/likec4/likec4) | 4104 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 10340 | Rust | The most intelligent agent harness for code |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 70342 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 
-| [oblien/openship](https://github.com/oblien/openship) | 6257 | TypeScript | Self-hosted deployment platform |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 45438 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 37480 | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 24442 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
 
-| [every-app/open-seo](https://github.com/every-app/open-seo) | 6618 | TypeScript | Open source alternative to Semrush and Ahrefs |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32451 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 4850 | JavaScript | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 68531 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 <!-- TRENDING_END -->
 
 # TrendSpire
