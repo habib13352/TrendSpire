@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-21 13:23 UTC_
+_Last updated: 2026-07-22 01:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 63625 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 65576 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 13483 | Python | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 14698 | Python | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 24241 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 24585 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 6066 | Unknown | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 6907 | Unknown | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 8819 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 9156 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
 
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 10070 | Rust | The most intelligent agent harness for code |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 10340 | Rust | The most intelligent agent harness for code |
 
-| [oblien/openship](https://github.com/oblien/openship) | 5562 | TypeScript | Self-hosted deployment platform |
+| [oblien/openship](https://github.com/oblien/openship) | 6257 | TypeScript | Self-hosted deployment platform |
 
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 37327 | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | 37480 | Python | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ |
 
-| [every-app/open-seo](https://github.com/every-app/open-seo) | 6293 | TypeScript | Open source alternative to Semrush and Ahrefs |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | 6618 | TypeScript | Open source alternative to Semrush and Ahrefs |
 
-| [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 4636 | JavaScript | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation |
+| [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | 4850 | JavaScript | AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation |
 <!-- TRENDING_END -->
 
 # TrendSpire
