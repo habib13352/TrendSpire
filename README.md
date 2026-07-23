@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-22 13:28 UTC_
+_Last updated: 2026-07-23 01:52 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 67659 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 69082 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 83080 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 83867 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 7715 | Python | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 8331 | Python | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
 
-| [schollz/croc](https://github.com/schollz/croc) | 37215 | Go | Easily and securely send things from one computer to another 🐊 📦 |
+| [schollz/croc](https://github.com/schollz/croc) | 37635 | Go | Easily and securely send things from one computer to another 🐊 📦 |
 
-| [likec4/likec4](https://github.com/likec4/likec4) | 4104 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
+| [likec4/likec4](https://github.com/likec4/likec4) | 4296 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
 
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 70342 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 70629 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 45438 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 45799 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 24442 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 25376 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32451 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32620 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 68531 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 68805 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 <!-- TRENDING_END -->
 
 # TrendSpire
