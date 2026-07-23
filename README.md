@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-23 01:52 UTC_
+_Last updated: 2026-07-23 13:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 69082 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [block/buzz](https://github.com/block/buzz) | 5463 | Rust | A hive mind communication platform |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 83867 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 70720 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 8331 | Python | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32863 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [schollz/croc](https://github.com/schollz/croc) | 37635 | Go | Easily and securely send things from one computer to another 🐊 📦 |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 9013 | Python | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
 
-| [likec4/likec4](https://github.com/likec4/likec4) | 4296 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 8708 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
 
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 70629 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 1303 | JavaScript | The best browser for both you and your AI agents work in parallel. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 45799 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 70891 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 25376 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 26388 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32620 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 69170 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 68805 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 9766 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
 <!-- TRENDING_END -->
 
 # TrendSpire
