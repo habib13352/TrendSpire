@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-07-24 01:48 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "stars": 7019
+    },
+    {
+      "rank": 2,
+      "name": "koala73/worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "stars": 71692
+    },
+    {
+      "rank": 3,
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 33083
+    },
+    {
+      "rank": 4,
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars": 8944
+    },
+    {
+      "rank": 5,
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "description": "The best browser for both you and your AI agents work in parallel.",
+      "language": "JavaScript",
+      "stars": 1696
+    },
+    {
+      "rank": 6,
+      "name": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 71122
+    },
+    {
+      "rank": 7,
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "language": "TypeScript",
+      "stars": 27267
+    },
+    {
+      "rank": 8,
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "language": "Python",
+      "stars": 69457
+    },
+    {
+      "rank": 9,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "language": "JavaScript",
+      "stars": 10016
+    },
+    {
+      "rank": 10,
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "description": "Web UI for the pi coding agent",
+      "language": "TypeScript",
+      "stars": 2379
+    }
+  ]
+}

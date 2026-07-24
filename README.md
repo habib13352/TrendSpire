@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-23 13:41 UTC_
+_Last updated: 2026-07-24 01:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [block/buzz](https://github.com/block/buzz) | 5463 | Rust | A hive mind communication platform |
+| [block/buzz](https://github.com/block/buzz) | 7019 | Rust | A hive mind communication platform |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 70720 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 71692 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 32863 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33083 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 9013 | Python | A skill for your coding agent to stop it from burying the answer. ADHD-friendly output. |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 8944 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
 
-| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 8708 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 1696 | JavaScript | The best browser for both you and your AI agents work in parallel. |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 1303 | JavaScript | The best browser for both you and your AI agents work in parallel. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 71122 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
 
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 70891 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 27267 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 26388 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 69457 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 69170 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 10016 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 9766 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
+| [agegr/pi-web](https://github.com/agegr/pi-web) | 2379 | TypeScript | Web UI for the pi coding agent |
 <!-- TRENDING_END -->
 
 # TrendSpire
