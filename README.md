@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-24 01:48 UTC_
+_Last updated: 2026-07-24 13:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [block/buzz](https://github.com/block/buzz) | 7019 | Rust | A hive mind communication platform |
+| [block/buzz](https://github.com/block/buzz) | 8615 | Rust | A hive mind communication platform |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 71692 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 72782 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33083 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 69798 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 8944 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9170 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 1696 | JavaScript | The best browser for both you and your AI agents work in parallel. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33353 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 71122 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
+| [Automattic/harper](https://github.com/Automattic/harper) | 12746 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
 
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 27267 | TypeScript | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors |
+| [likec4/likec4](https://github.com/likec4/likec4) | 4888 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 69457 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 2166 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 10016 | JavaScript | A collection of agent skills for CAD, robotics and hardware design |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 19179 | Go | Pretty fancy and modern terminal file manager |
 
-| [agegr/pi-web](https://github.com/agegr/pi-web) | 2379 | TypeScript | Web UI for the pi coding agent |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 85648 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 <!-- TRENDING_END -->
 
 # TrendSpire
