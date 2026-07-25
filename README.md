@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-25 01:48 UTC_
+_Last updated: 2026-07-25 13:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [block/buzz](https://github.com/block/buzz) | 10047 | Rust | A hive mind communication platform |
+| [block/buzz](https://github.com/block/buzz) | 11001 | Rust | A hive mind communication platform |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 73312 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 12623 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70079 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 3144 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 
-| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9349 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70356 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33500 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 49704 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [Automattic/harper](https://github.com/Automattic/harper) | 13055 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| [Automattic/harper](https://github.com/Automattic/harper) | 13232 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
 
-| [likec4/likec4](https://github.com/likec4/likec4) | 5033 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33660 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 2606 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 260823 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 19600 | Go | Pretty fancy and modern terminal file manager |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9517 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 85960 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 28123 | Swift | bluetooth mesh chat, IRC vibes |
 <!-- TRENDING_END -->
 
 # TrendSpire
