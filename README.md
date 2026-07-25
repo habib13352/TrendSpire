@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-24 13:23 UTC_
+_Last updated: 2026-07-25 01:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [block/buzz](https://github.com/block/buzz) | 8615 | Rust | A hive mind communication platform |
+| [block/buzz](https://github.com/block/buzz) | 10047 | Rust | A hive mind communication platform |
 
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 72782 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 73312 | TypeScript | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 69798 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70079 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9170 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9349 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33353 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33500 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [Automattic/harper](https://github.com/Automattic/harper) | 12746 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| [Automattic/harper](https://github.com/Automattic/harper) | 13055 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
 
-| [likec4/likec4](https://github.com/likec4/likec4) | 4888 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
+| [likec4/likec4](https://github.com/likec4/likec4) | 5033 | TypeScript | Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 2166 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 2606 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 19179 | Go | Pretty fancy and modern terminal file manager |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 19600 | Go | Pretty fancy and modern terminal file manager |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 85648 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 85960 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 <!-- TRENDING_END -->
 
 # TrendSpire
