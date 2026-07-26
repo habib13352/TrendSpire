@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-25 13:10 UTC_
+_Last updated: 2026-07-26 01:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [block/buzz](https://github.com/block/buzz) | 11001 | Rust | A hive mind communication platform |
+| [block/buzz](https://github.com/block/buzz) | 11977 | Rust | A hive mind communication platform |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 12623 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 12992 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 3144 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 3617 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70356 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70599 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 49704 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 49902 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
 
-| [Automattic/harper](https://github.com/Automattic/harper) | 13232 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| [Automattic/harper](https://github.com/Automattic/harper) | 13431 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33660 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33807 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 260823 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 261115 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9517 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
+| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9720 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
 
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 28123 | Swift | bluetooth mesh chat, IRC vibes |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 28742 | Swift | bluetooth mesh chat, IRC vibes |
 <!-- TRENDING_END -->
 
 # TrendSpire
