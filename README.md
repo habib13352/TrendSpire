@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-26 01:51 UTC_
+_Last updated: 2026-07-26 13:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [block/buzz](https://github.com/block/buzz) | 11977 | Rust | A hive mind communication platform |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 29337 | Swift | bluetooth mesh chat, IRC vibes |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 12992 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 4050 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 3617 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [block/buzz](https://github.com/block/buzz) | 12660 | Rust | A hive mind communication platform |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 70599 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 14930 | TypeScript | No description provided. |
 
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 49902 | Jupyter Notebook | A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 5379 | TypeScript | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. |
 
-| [Automattic/harper](https://github.com/Automattic/harper) | 13431 | Rust | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 19965 | Go | Pretty fancy and modern terminal file manager |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33807 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [nodejs/node](https://github.com/nodejs/node) | 118403 | JavaScript | Node.js JavaScript runtime ✨🐢🚀✨ |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 261115 | Shell | An agentic skills framework & software development methodology that works. |
+| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 26907 | Java | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
 
-| [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) | 9720 | Rust | Empowering everyone to host fast and efficient Minecraft servers. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 50304 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 28742 | Swift | bluetooth mesh chat, IRC vibes |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33981 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 <!-- TRENDING_END -->
 
 # TrendSpire
