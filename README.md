@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-27 01:58 UTC_
+_Last updated: 2026-07-27 14:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 30438 | Swift | bluetooth mesh chat, IRC vibes |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 31692 | Swift | bluetooth mesh chat, IRC vibes |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 4612 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | 13614 | C++ | Amnezia VPN Client (Desktop+Mobile) |
 
-| [block/buzz](https://github.com/block/buzz) | 13352 | Rust | A hive mind communication platform |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 43777 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 15069 | TypeScript | No description provided. |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 20624 | Go | Pretty fancy and modern terminal file manager |
 
-| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 5700 | TypeScript | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 57997 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 20266 | Go | Pretty fancy and modern terminal file manager |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 51210 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [nodejs/node](https://github.com/nodejs/node) | 118479 | JavaScript | Node.js JavaScript runtime ✨🐢🚀✨ |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34423 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 27148 | Java | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 14463 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 50714 | JavaScript | The design language that makes your AI harness better at design. |
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25818 | Java | Jenkins automation server |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34187 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 10751 | Python | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
 <!-- TRENDING_END -->
 
 # TrendSpire
