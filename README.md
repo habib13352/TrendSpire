@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-26 13:05 UTC_
+_Last updated: 2026-07-27 01:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 29337 | Swift | bluetooth mesh chat, IRC vibes |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 30438 | Swift | bluetooth mesh chat, IRC vibes |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 4050 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 4612 | JavaScript | The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 
-| [block/buzz](https://github.com/block/buzz) | 12660 | Rust | A hive mind communication platform |
+| [block/buzz](https://github.com/block/buzz) | 13352 | Rust | A hive mind communication platform |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 14930 | TypeScript | No description provided. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 15069 | TypeScript | No description provided. |
 
-| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 5379 | TypeScript | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | 5700 | TypeScript | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. |
 
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 19965 | Go | Pretty fancy and modern terminal file manager |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 20266 | Go | Pretty fancy and modern terminal file manager |
 
-| [nodejs/node](https://github.com/nodejs/node) | 118403 | JavaScript | Node.js JavaScript runtime ✨🐢🚀✨ |
+| [nodejs/node](https://github.com/nodejs/node) | 118479 | JavaScript | Node.js JavaScript runtime ✨🐢🚀✨ |
 
-| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 26907 | Java | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
+| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | 27148 | Java | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 50304 | JavaScript | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 50714 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 33981 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34187 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 <!-- TRENDING_END -->
 
 # TrendSpire
