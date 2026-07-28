@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-28 01:42 UTC_
+_Last updated: 2026-07-28 13:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 32311 | Swift | bluetooth mesh chat, IRC vibes |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 18337 | TypeScript | Create and share 3D architectural projects. |
 
-| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | 13842 | C++ | Amnezia VPN Client (Desktop+Mobile) |
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25990 | Java | Jenkins automation server |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44060 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44532 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 2712 | TypeScript | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
+| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 15584 | Python | Simple, unified interface to multiple Generative AI providers |
 
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 20911 | Go | Pretty fancy and modern terminal file manager |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 234503 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 58226 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 6859 | Python | Build local voice agents with open-source models |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 51578 | JavaScript | The design language that makes your AI harness better at design. |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 10837 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34576 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 3102 | TypeScript | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 14851 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 9234 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 
-| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25896 | Java | Jenkins automation server |
+| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 5011 | Python | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. |
 <!-- TRENDING_END -->
 
 # TrendSpire

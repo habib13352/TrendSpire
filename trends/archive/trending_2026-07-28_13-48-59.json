@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-07-28 13:48 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 18337
+    },
+    {
+      "rank": 2,
+      "name": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars": 25990
+    },
+    {
+      "rank": 3,
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "\ud83d\udc96\ud83e\uddf8 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars": 44532
+    },
+    {
+      "rank": 4,
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars": 15584
+    },
+    {
+      "rank": 5,
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 234503
+    },
+    {
+      "rank": 6,
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "language": "Python",
+      "stars": 6859
+    },
+    {
+      "rank": 7,
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill \u2014 ready to study, reference, and use while you work.",
+      "language": "Python",
+      "stars": 10837
+    },
+    {
+      "rank": 8,
+      "name": "opengeos/GeoLibre",
+      "url": "https://github.com/opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "language": "TypeScript",
+      "stars": 3102
+    },
+    {
+      "rank": 9,
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "language": "Python",
+      "stars": 9234
+    },
+    {
+      "rank": 10,
+      "name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit \u2014 Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "stars": 5011
+    }
+  ]
+}
