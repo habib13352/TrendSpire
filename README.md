@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-27 14:16 UTC_
+_Last updated: 2026-07-28 01:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 31692 | Swift | bluetooth mesh chat, IRC vibes |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | 32311 | Swift | bluetooth mesh chat, IRC vibes |
 
-| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | 13614 | C++ | Amnezia VPN Client (Desktop+Mobile) |
+| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | 13842 | C++ | Amnezia VPN Client (Desktop+Mobile) |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 43777 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44060 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [yorukot/superfile](https://github.com/yorukot/superfile) | 20624 | Go | Pretty fancy and modern terminal file manager |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 2712 | TypeScript | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 57997 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | 20911 | Go | Pretty fancy and modern terminal file manager |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 51210 | JavaScript | The design language that makes your AI harness better at design. |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 58226 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34423 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 51578 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 14463 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 34576 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25818 | Java | Jenkins automation server |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 14851 | Go | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | 10751 | Python | Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. |
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25896 | Java | Jenkins automation server |
 <!-- TRENDING_END -->
 
 # TrendSpire
