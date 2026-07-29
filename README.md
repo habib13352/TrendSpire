@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-28 13:48 UTC_
+_Last updated: 2026-07-29 01:43 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 18337 | TypeScript | Create and share 3D architectural projects. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 18746 | TypeScript | Create and share 3D architectural projects. |
 
-| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 25990 | Java | Jenkins automation server |
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26078 | Java | Jenkins automation server |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44532 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44787 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 15584 | Python | Simple, unified interface to multiple Generative AI providers |
+| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 15693 | Python | Simple, unified interface to multiple Generative AI providers |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 234503 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 234840 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 6859 | Python | Build local voice agents with open-source models |
+| [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb) | 1306 | HTML | 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 |
 
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 10837 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 7275 | Python | Build local voice agents with open-source models |
 
-| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 3102 | TypeScript | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 11449 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
 
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 9234 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 3418 | TypeScript | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
 
-| [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) | 5011 | Python | AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 9639 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 <!-- TRENDING_END -->
 
 # TrendSpire
