@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-29 01:43 UTC_
+_Last updated: 2026-07-29 13:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 18746 | TypeScript | Create and share 3D architectural projects. |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 3763 | TypeScript | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
 
-| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | 26078 | Java | Jenkins automation server |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 45191 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
 
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 44787 | TypeScript | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 235277 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | 15693 | Python | Simple, unified interface to multiple Generative AI providers |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 7644 | Python | Build local voice agents with open-source models |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 234840 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | 13148 | Rust | The most RAM effiecent harness |
 
-| [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb) | 1306 | HTML | 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。 |
+| [grokability/snipe-it](https://github.com/grokability/snipe-it) | 14298 | PHP | A free open source IT asset/license management system |
 
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 7275 | Python | Build local voice agents with open-source models |
+| [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | 56035 | Python | Deepfakes Software For All |
 
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 11449 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work. |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | 51099 | Python | Open-Source Frontier Voice AI |
 
-| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | 3418 | TypeScript | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks. |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | 17477 | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
 
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 9639 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 262996 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
