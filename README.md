@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-31 01:52 UTC_
+_Last updated: 2026-07-31 13:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 8927 | Python | Build local voice agents with open-source models |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 10169 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 54040 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | 19184 | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
 
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11086 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 55911 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [different-ai/openwork](https://github.com/different-ai/openwork) | 18771 | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11524 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 
-| [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) | 10443 | JavaScript | Socket-based TS/JavaScript API for WhatsApp Web |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 54971 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 20139 | TypeScript | Create and share 3D architectural projects. |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10076 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 55578 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 34990 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 
-| [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | 38298 | C# | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. |
+| [agavra/tuicr](https://github.com/agavra/tuicr) | 2037 | Rust | a code review TUI with vim keybindings |
 
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | 137142 | C | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 4708 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
 
-| [ansible/ansible](https://github.com/ansible/ansible) | 69894 | Python | Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. |
+| [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | 4737 | C++ | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol |
 <!-- TRENDING_END -->
 
 # TrendSpire
