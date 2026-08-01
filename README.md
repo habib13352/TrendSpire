@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-01 01:53 UTC_
+_Last updated: 2026-08-01 13:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 10773 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 55918 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [different-ai/openwork](https://github.com/different-ai/openwork) | 19533 | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 12014 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 56245 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5426 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
 
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11775 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 11403 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 55354 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 113915 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10141 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10212 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 35136 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [github/gh-stack](https://github.com/github/gh-stack) | 697 | Go | GitHub Stacked PRs |
 
-| [agavra/tuicr](https://github.com/agavra/tuicr) | 2162 | Rust | a code review TUI with vim keybindings |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 10008 | Python | Build local voice agents with open-source models |
 
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5113 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
+| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 11557 | Python | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. |
 
-| [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | 5027 | C++ | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | 21463 | Crystal | Invidious is an alternative front-end to YouTube |
 <!-- TRENDING_END -->
 
 # TrendSpire
