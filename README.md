@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-07-31 13:48 UTC_
+_Last updated: 2026-08-01 01:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 10169 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 10773 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
-| [different-ai/openwork](https://github.com/different-ai/openwork) | 19184 | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | 19533 | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 55911 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 56245 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11524 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 11775 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 54971 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 55354 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10076 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10141 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 34990 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | 35136 | Ruby | Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬 |
 
-| [agavra/tuicr](https://github.com/agavra/tuicr) | 2037 | Rust | a code review TUI with vim keybindings |
+| [agavra/tuicr](https://github.com/agavra/tuicr) | 2162 | Rust | a code review TUI with vim keybindings |
 
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 4708 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5113 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
 
-| [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | 4737 | C++ | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol |
+| [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | 5027 | C++ | A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol |
 <!-- TRENDING_END -->
 
 # TrendSpire
