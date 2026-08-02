@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-02 01:50 UTC_
+_Last updated: 2026-08-02 13:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 57287 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 58471 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 12256 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5909 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
 
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5703 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 25239 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
 
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 11940 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | 21795 | Crystal | Invidious is an alternative front-end to YouTube |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 114225 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 534462 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10282 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 12559 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
-| [github/gh-stack](https://github.com/github/gh-stack) | 823 | Go | GitHub Stacked PRs |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | 20094 | TypeScript | The open-source alternative to Claude Cowork (powered by opencode) |
 
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 10223 | Python | Build local voice agents with open-source models |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 114501 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
 
-| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 11764 | Python | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 64329 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [iv-org/invidious](https://github.com/iv-org/invidious) | 21627 | Crystal | Invidious is an alternative front-end to YouTube |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 10614 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
 <!-- TRENDING_END -->
 
 # TrendSpire
