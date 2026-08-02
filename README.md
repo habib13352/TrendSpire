@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-01 13:04 UTC_
+_Last updated: 2026-08-02 01:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 55918 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 57287 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 12014 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | 12256 | Python | A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading. |
 
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5426 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | 5703 | TypeScript | 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you. |
 
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 11403 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 11940 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 113915 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 114225 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
 
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10212 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | 10282 | Java | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 
-| [github/gh-stack](https://github.com/github/gh-stack) | 697 | Go | GitHub Stacked PRs |
+| [github/gh-stack](https://github.com/github/gh-stack) | 823 | Go | GitHub Stacked PRs |
 
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 10008 | Python | Build local voice agents with open-source models |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | 10223 | Python | Build local voice agents with open-source models |
 
-| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 11557 | Python | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. |
+| [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | 11764 | Python | Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation. |
 
-| [iv-org/invidious](https://github.com/iv-org/invidious) | 21463 | Crystal | Invidious is an alternative front-end to YouTube |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | 21627 | Crystal | Invidious is an alternative front-end to YouTube |
 <!-- TRENDING_END -->
 
 # TrendSpire
