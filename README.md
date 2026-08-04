@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-03 14:24 UTC_
+_Last updated: 2026-08-04 01:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 26461 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 27154 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
 
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 15087 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 15833 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 7032 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 8302 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 29659 | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 29953 | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 11744 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 12123 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
 
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 60389 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 60773 | Jupyter Notebook | 12 Weeks, 24 Lessons, AI for All! |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 115308 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 115572 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 360321 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 360544 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [antirez/ds4](https://github.com/antirez/ds4) | 20239 | C | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
+| [antirez/ds4](https://github.com/antirez/ds4) | 20368 | C | DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 35741 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 35828 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 <!-- TRENDING_END -->
 
 # TrendSpire
