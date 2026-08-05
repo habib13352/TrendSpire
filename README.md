@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-05 01:41 UTC_
+_Last updated: 2026-08-05 13:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 13680 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 1772 | TypeScript | Give your agent a computer 👾 |
 
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 17947 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 1822 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
 
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 10075 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 14731 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
 
-| [uber/ADR](https://github.com/uber/ADR) | 694 | Python | ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 361214 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 266505 | Shell | An agentic skills framework & software development methodology that works. |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 10937 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | 116285 | Jupyter Notebook | 21 Lessons, Get Started Building with Generative AI |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 31297 | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | 50799 | TypeScript | Fast, easy and reliable testing for anything that runs in a browser. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 81807 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 28408 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
+| [obra/superpowers](https://github.com/obra/superpowers) | 267008 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [webpack/webpack](https://github.com/webpack/webpack) | 65940 | JavaScript | A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 48785 | Python | We write your reusable computer vision tools. 💜 |
 
-| [gabime/spdlog](https://github.com/gabime/spdlog) | 29380 | C++ | Fast C++ logging library. |
+| [vercel/next.js](https://github.com/vercel/next.js) | 141413 | JavaScript | The React Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
