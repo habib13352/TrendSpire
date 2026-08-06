@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-06 01:41 UTC_
+_Last updated: 2026-08-06 13:49 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cloudflare/computer](https://github.com/cloudflare/computer) | 3044 | TypeScript | Give your agent a computer 👾 |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 15832 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
 
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2161 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82388 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 15100 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 4421 | TypeScript | Give your agent a computer 👾 |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 361561 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 206159 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 11496 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 22864 | Python | The authentication glue you need. |
 
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 31652 | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2640 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82003 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [google/guava](https://github.com/google/guava) | 51563 | Java | Google core libraries for Java |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 267325 | Shell | An agentic skills framework & software development methodology that works. |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 76958 | Roff | 所有小初高、大学PDF教材。 |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 48934 | Python | We write your reusable computer vision tools. 💜 |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 185875 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
 
-| [vercel/next.js](https://github.com/vercel/next.js) | 141561 | JavaScript | The React Framework |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 28848 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 <!-- TRENDING_END -->
 
 # TrendSpire
