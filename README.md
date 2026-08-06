@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-05 13:51 UTC_
+_Last updated: 2026-08-06 01:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cloudflare/computer](https://github.com/cloudflare/computer) | 1772 | TypeScript | Give your agent a computer 👾 |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 3044 | TypeScript | Give your agent a computer 👾 |
 
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 1822 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2161 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 14731 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 15100 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
 
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 361214 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 361561 | Python | Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. |
 
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 10937 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 11496 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 31297 | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 31652 | Go | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 81807 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82003 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 267008 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 267325 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [roboflow/supervision](https://github.com/roboflow/supervision) | 48785 | Python | We write your reusable computer vision tools. 💜 |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 48934 | Python | We write your reusable computer vision tools. 💜 |
 
-| [vercel/next.js](https://github.com/vercel/next.js) | 141413 | JavaScript | The React Framework |
+| [vercel/next.js](https://github.com/vercel/next.js) | 141561 | JavaScript | The React Framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
