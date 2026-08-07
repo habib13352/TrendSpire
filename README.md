@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-06 13:49 UTC_
+_Last updated: 2026-08-07 02:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 15832 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 16472 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82388 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82984 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [cloudflare/computer](https://github.com/cloudflare/computer) | 4421 | TypeScript | Give your agent a computer 👾 |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 4851 | TypeScript | Give your agent a computer 👾 |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 206159 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 207169 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 22864 | Python | The authentication glue you need. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23143 | Python | The authentication glue you need. |
 
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2640 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2903 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
 
-| [google/guava](https://github.com/google/guava) | 51563 | Java | Google core libraries for Java |
+| [google/guava](https://github.com/google/guava) | 51645 | Java | Google core libraries for Java |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 76958 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77150 | Roff | 所有小初高、大学PDF教材。 |
 
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 185875 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 186033 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 28848 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 29051 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
 <!-- TRENDING_END -->
 
 # TrendSpire
