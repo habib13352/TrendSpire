@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-07 02:07 UTC_
+_Last updated: 2026-08-07 12:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | 16472 | TypeScript | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks. |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 5196 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 82984 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 83457 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [cloudflare/computer](https://github.com/cloudflare/computer) | 4851 | TypeScript | Give your agent a computer 👾 |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 5238 | TypeScript | Give your agent a computer 👾 |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 207169 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 208144 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23143 | Python | The authentication glue you need. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 268499 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | 2903 | Python | Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23362 | Python | The authentication glue you need. |
 
-| [google/guava](https://github.com/google/guava) | 51645 | Java | Google core libraries for Java |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 2178 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77150 | Roff | 所有小初高、大学PDF教材。 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 70277 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 186033 | Python | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. |
+| [chenyme/grok2api](https://github.com/chenyme/grok2api) | 7082 | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
 
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | 29051 | Python | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. |
+| [jdx/mise](https://github.com/jdx/mise) | 31967 | Rust | dev tools, env vars, task runner |
 <!-- TRENDING_END -->
 
 # TrendSpire
