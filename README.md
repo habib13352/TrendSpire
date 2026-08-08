@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-07 12:47 UTC_
+_Last updated: 2026-08-08 00:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 5196 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 6528 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 83457 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 83901 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [cloudflare/computer](https://github.com/cloudflare/computer) | 5238 | TypeScript | Give your agent a computer 👾 |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | 5715 | TypeScript | Give your agent a computer 👾 |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 208144 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 208816 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 268499 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 268746 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23362 | Python | The authentication glue you need. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23596 | Python | The authentication glue you need. |
 
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 2178 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 2347 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 70277 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 70508 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [chenyme/grok2api](https://github.com/chenyme/grok2api) | 7082 | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
+| [chenyme/grok2api](https://github.com/chenyme/grok2api) | 7141 | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
 
-| [jdx/mise](https://github.com/jdx/mise) | 31967 | Rust | dev tools, env vars, task runner |
+| [jdx/mise](https://github.com/jdx/mise) | 32069 | Rust | dev tools, env vars, task runner |
 <!-- TRENDING_END -->
 
 # TrendSpire
