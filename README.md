@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-08 00:53 UTC_
+_Last updated: 2026-08-08 12:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 6528 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 7628 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 83901 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 84209 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [cloudflare/computer](https://github.com/cloudflare/computer) | 5715 | TypeScript | Give your agent a computer 👾 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77693 | Roff | 所有小初高、大学PDF教材。 |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 208816 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [google/skills](https://github.com/google/skills) | 16470 | Python | Agent Skills for Google products and technologies |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 268746 | Shell | An agentic skills framework & software development methodology that works. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 209463 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23596 | Python | The authentication glue you need. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23823 | Python | The authentication glue you need. |
 
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 2347 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 96150 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 70508 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [google/guava](https://github.com/google/guava) | 51799 | Java | Google core libraries for Java |
 
-| [chenyme/grok2api](https://github.com/chenyme/grok2api) | 7141 | Go | Multi-account API gateway for Grok Build, Grok Web, and Grok Console |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 64861 | C++ | Truly independent web browser |
 
-| [jdx/mise](https://github.com/jdx/mise) | 32069 | Rust | dev tools, env vars, task runner |
+| [denoland/celld](https://github.com/denoland/celld) | 2386 | Rust | self-hosted, distributed Durable Objects |
 <!-- TRENDING_END -->
 
 # TrendSpire
