@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-08 12:33 UTC_
+_Last updated: 2026-08-09 00:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 7628 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 8951 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 84209 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 84568 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77693 | Roff | 所有小初高、大学PDF教材。 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | 77934 | Roff | 所有小初高、大学PDF教材。 |
 
-| [google/skills](https://github.com/google/skills) | 16470 | Python | Agent Skills for Google products and technologies |
+| [google/skills](https://github.com/google/skills) | 16736 | Python | Agent Skills for Google products and technologies |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 209463 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 210019 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23823 | Python | The authentication glue you need. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 23976 | Python | The authentication glue you need. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 96150 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 96476 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [google/guava](https://github.com/google/guava) | 51799 | Java | Google core libraries for Java |
+| [google/guava](https://github.com/google/guava) | 51851 | Java | Google core libraries for Java |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 64861 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 64988 | C++ | Truly independent web browser |
 
-| [denoland/celld](https://github.com/denoland/celld) | 2386 | Rust | self-hosted, distributed Durable Objects |
+| [denoland/celld](https://github.com/denoland/celld) | 2569 | Rust | self-hosted, distributed Durable Objects |
 <!-- TRENDING_END -->
 
 # TrendSpire

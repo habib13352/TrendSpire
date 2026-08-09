@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-08-09 00:56 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 8951
+    },
+    {
+      "rank": 2,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 84568
+    },
+    {
+      "rank": 3,
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "description": "\u6240\u6709\u5c0f\u521d\u9ad8\u3001\u5927\u5b66PDF\u6559\u6750\u3002",
+      "language": "Roff",
+      "stars": 77934
+    },
+    {
+      "rank": 4,
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars": 16736
+    },
+    {
+      "rank": 5,
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 210019
+    },
+    {
+      "rank": 6,
+      "name": "goauthentik/authentik",
+      "url": "https://github.com/goauthentik/authentik",
+      "description": "The authentication glue you need.",
+      "language": "Python",
+      "stars": 23976
+    },
+    {
+      "rank": 7,
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 96476
+    },
+    {
+      "rank": 8,
+      "name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "description": "Google core libraries for Java",
+      "language": "Java",
+      "stars": 51851
+    },
+    {
+      "rank": 9,
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars": 64988
+    },
+    {
+      "rank": 10,
+      "name": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
+      "language": "Rust",
+      "stars": 2569
+    }
+  ]
+}
