@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-09 12:36 UTC_
+_Last updated: 2026-08-10 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 9951 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 11094 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 
-| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 2684 | Python | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
+| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 2984 | Python | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 140090 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 140678 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 20253 | Go | Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. |
+| [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | 20661 | Go | Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI. |
 
-| [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | 6922 | Python | No description provided. |
+| [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | 7088 | Python | No description provided. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 84868 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85140 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 60913 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 61191 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
 
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 24124 | Python | The authentication glue you need. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | 24274 | Python | The authentication glue you need. |
 
-| [google/skills](https://github.com/google/skills) | 16991 | Python | Agent Skills for Google products and technologies |
+| [google/skills](https://github.com/google/skills) | 17224 | Python | Agent Skills for Google products and technologies |
 
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 125121 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | 125520 | Python | The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. |
 <!-- TRENDING_END -->
 
 # TrendSpire
