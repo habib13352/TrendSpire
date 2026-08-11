@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-10 12:53 UTC_
+_Last updated: 2026-08-11 00:58 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 3712 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 4099 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 141411 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 141828 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 60754 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 61012 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85502 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 85741 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 76189 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 76484 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 12557 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | 13068 | TypeScript | A self-improving RLM agent for coding workflows and long-running autonomous tasks. |
 
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 65152 | C++ | Truly independent web browser |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 65255 | C++ | Truly independent web browser |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 89180 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 89368 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 17663 | TypeScript | ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work. |
+| [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | 17909 | TypeScript | ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work. |
 
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 164624 | TypeScript | The context API to search, scrape, and interact with the web at scale. 🔥 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 165074 | TypeScript | The context API to search, scrape, and interact with the web at scale. 🔥 |
 <!-- TRENDING_END -->
 
 # TrendSpire
