@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-12 01:04 UTC_
+_Last updated: 2026-08-12 12:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 143232 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 8382 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
 
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 4892 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | 1207 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 94489 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 5414 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 86223 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [stablyai/orca](https://github.com/stablyai/orca) | 43404 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 62131 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 144243 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 
-| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 3818 | Python | The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 36829 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 168132 | Python | Public repository for Agent Skills |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 61840 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
 
-| [3b1b/manim](https://github.com/3b1b/manim) | 90176 | Python | Animation engine for explanatory math videos |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 45179 | Python | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 34720 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 87377 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
 
-| [stablyai/orca](https://github.com/stablyai/orca) | 42784 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 77476 | TypeScript | The open-source app everyone uses to manage agents at work |
 <!-- TRENDING_END -->
 
 # TrendSpire
