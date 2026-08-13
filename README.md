@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-13 01:06 UTC_
+_Last updated: 2026-08-13 12:54 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 10443 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 12853 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
 
-| [macro-inc/macro](https://github.com/macro-inc/macro) | 1814 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 6111 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
 
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 5719 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [anthropics/skills](https://github.com/anthropics/skills) | 168751 | Python | Public repository for Agent Skills |
 
-| [stablyai/orca](https://github.com/stablyai/orca) | 43893 | TypeScript | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS. |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 4658 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 144570 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 9679 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 36943 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 70811 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
 
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 61973 | Python | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫 |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | 2407 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
 
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 45584 | Python | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
+| [megadose/holehe](https://github.com/megadose/holehe) | 12196 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
 
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 87550 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20504 | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 77738 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 1022 | Rust | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
