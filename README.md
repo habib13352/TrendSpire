@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-13 12:54 UTC_
+_Last updated: 2026-08-14 01:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 12853 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 14557 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
 
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 6111 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | 6674 | Python | Graph-Native Infrastructure for Context and Accountable AI Systems |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 168751 | Python | Public repository for Agent Skills |
+| [anthropics/skills](https://github.com/anthropics/skills) | 169025 | Python | Public repository for Agent Skills |
 
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 4658 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 4958 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 9679 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 9855 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 70811 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 71063 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
 
-| [macro-inc/macro](https://github.com/macro-inc/macro) | 2407 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | 2605 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
 
-| [megadose/holehe](https://github.com/megadose/holehe) | 12196 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
+| [megadose/holehe](https://github.com/megadose/holehe) | 12425 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
 
-| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20504 | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20675 | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
 
-| [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 1022 | Rust | No description provided. |
+| [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) | 1217 | Rust | Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. |
 <!-- TRENDING_END -->
 
 # TrendSpire
