@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-15 00:38 UTC_
+_Last updated: 2026-08-15 12:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 17235 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 3709 | TypeScript | Meta-Framework of Spatiotemporal Composability |
 
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 5602 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 17973 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
 
-| [megadose/holehe](https://github.com/megadose/holehe) | 12845 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
+| [cursor/plugins](https://github.com/cursor/plugins) | 2867 | TypeScript | Cursor plugin specification and official plugins |
 
-| [macro-inc/macro](https://github.com/macro-inc/macro) | 3031 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 5839 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 
-| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20946 | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 71701 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 10359 | JavaScript | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 459314 | Python | A collective list of free APIs |
 
-| [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 7285 | TypeScript | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. |
+| [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1434 | Python | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 
-| [github/spec-kit](https://github.com/github/spec-kit) | 128512 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [github/spec-kit](https://github.com/github/spec-kit) | 128845 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
 
-| [lightningpixel/modly](https://github.com/lightningpixel/modly) | 5934 | TypeScript | Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU |
+| [megadose/holehe](https://github.com/megadose/holehe) | 12991 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
 
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 88381 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 10160 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. |
 <!-- TRENDING_END -->
 
 # TrendSpire
