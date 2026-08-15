@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-14 12:50 UTC_
+_Last updated: 2026-08-15 00:38 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 16419 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 17235 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
 
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 5309 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 5602 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 
-| [megadose/holehe](https://github.com/megadose/holehe) | 12622 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
+| [megadose/holehe](https://github.com/megadose/holehe) | 12845 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
 
-| [macro-inc/macro](https://github.com/macro-inc/macro) | 2843 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | 3031 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
 
-| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20797 | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
+| [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | 20946 | Python | SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. |
 
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 10102 | JavaScript | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | 10359 | JavaScript | The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config. |
 
-| [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 6944 | TypeScript | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. |
+| [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | 7285 | TypeScript | Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK. |
 
-| [github/spec-kit](https://github.com/github/spec-kit) | 128004 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [github/spec-kit](https://github.com/github/spec-kit) | 128512 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
 
-| [lightningpixel/modly](https://github.com/lightningpixel/modly) | 5741 | TypeScript | Desktop app to generate 3D models from images using local AI — runs entirely on your GPU |
+| [lightningpixel/modly](https://github.com/lightningpixel/modly) | 5934 | TypeScript | Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU |
 
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 88287 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 88381 | Go | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs |
 <!-- TRENDING_END -->
 
 # TrendSpire
