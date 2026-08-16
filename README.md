@@ -1,30 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-16 00:41 UTC_
+_Last updated: 2026-08-16 12:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4066 | TypeScript | Meta-Framework of Spatiotemporal Composability |
+| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4424 | TypeScript | Meta-Framework of Spatiotemporal Composability |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 18611 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 25084 | Shell | Beautiful, Modern & Opinionated Linux |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 2950 | TypeScript | Cursor plugin specification and official plugins |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72261 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
 
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6063 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 83526 | TypeScript | The open-source CapCut alternative |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72047 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 1540 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 460168 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 460844 | Python | A collective list of free APIs |
 
-| [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1659 | Python | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 39740 | JavaScript | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 |
 
-| [github/spec-kit](https://github.com/github/spec-kit) | 129196 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
-
-| [megadose/holehe](https://github.com/megadose/holehe) | 13115 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
-
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 10326 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6280 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 <!-- TRENDING_END -->
 
 # TrendSpire
