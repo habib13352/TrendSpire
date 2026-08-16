@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-15 12:23 UTC_
+_Last updated: 2026-08-16 00:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 3709 | TypeScript | Meta-Framework of Spatiotemporal Composability |
+| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4066 | TypeScript | Meta-Framework of Spatiotemporal Composability |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 17973 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 18611 | HTML | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 2867 | TypeScript | Cursor plugin specification and official plugins |
+| [cursor/plugins](https://github.com/cursor/plugins) | 2950 | TypeScript | Cursor plugin specification and official plugins |
 
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 5839 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6063 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 71701 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72047 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 459314 | Python | A collective list of free APIs |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 460168 | Python | A collective list of free APIs |
 
-| [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1434 | Python | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
+| [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | 1659 | Python | Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU. |
 
-| [github/spec-kit](https://github.com/github/spec-kit) | 128845 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
+| [github/spec-kit](https://github.com/github/spec-kit) | 129196 | Python | 💫 Toolkit to help you get started with Spec-Driven Development |
 
-| [megadose/holehe](https://github.com/megadose/holehe) | 12991 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
+| [megadose/holehe](https://github.com/megadose/holehe) | 13115 | Python | holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function. |
 
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 10160 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon. |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 10326 | Swift | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp |
 <!-- TRENDING_END -->
 
 # TrendSpire
