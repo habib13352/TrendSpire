@@ -1,24 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-17 00:39 UTC_
+_Last updated: 2026-08-17 12:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4715 | TypeScript | Meta-Framework of Spatiotemporal Composability |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 105291 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 25374 | Shell | Beautiful, Modern & Opinionated Linux |
+| [usestrix/strix](https://github.com/usestrix/strix) | 53637 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72571 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 25679 | Rust | Production-grade Rust-native trading engine with deterministic event-driven architecture |
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 83885 | TypeScript | The open-source CapCut alternative |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 28105 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 461741 | Python | A collective list of free APIs |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 32016 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
 
-| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 40023 | JavaScript | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 64218 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
 
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6563 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| [jundot/omlx](https://github.com/jundot/omlx) | 18845 | Python | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
+
+| [immich-app/immich](https://github.com/immich-app/immich) | 110853 | TypeScript | High performance self-hosted photo and video management solution. |
+
+| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 5375 | TypeScript | Meta-Framework of Spatiotemporal Composability |
+
+| [agalwood/Motrix](https://github.com/agalwood/Motrix) | 52835 | TypeScript | A full-featured download manager. |
 <!-- TRENDING_END -->
 
 # TrendSpire
