@@ -1,26 +1,24 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-16 12:25 UTC_
+_Last updated: 2026-08-17 00:39 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4424 | TypeScript | Meta-Framework of Spatiotemporal Composability |
+| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 4715 | TypeScript | Meta-Framework of Spatiotemporal Composability |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 25084 | Shell | Beautiful, Modern & Opinionated Linux |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 25374 | Shell | Beautiful, Modern & Opinionated Linux |
 
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72261 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | 72571 | Python | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more. |
 
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 83526 | TypeScript | The open-source CapCut alternative |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | 83885 | TypeScript | The open-source CapCut alternative |
 
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 1540 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 461741 | Python | A collective list of free APIs |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 460844 | Python | A collective list of free APIs |
+| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 40023 | JavaScript | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 |
 
-| [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | 39740 | JavaScript | ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 |
-
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6280 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | 6563 | Python | 14MB foundation model for tiny devices; phones, wearables, smart home, and robots. |
 <!-- TRENDING_END -->
 
 # TrendSpire
