@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-17 12:29 UTC_
+_Last updated: 2026-08-18 00:38 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 105291 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 106004 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [usestrix/strix](https://github.com/usestrix/strix) | 53637 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
+| [usestrix/strix](https://github.com/usestrix/strix) | 54160 | Python | Open-source AI penetration testing tool to find and fix your app’s vulnerabilities. |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 25679 | Rust | Production-grade Rust-native trading engine with deterministic event-driven architecture |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 25911 | Rust | Production-grade Rust-native trading engine with deterministic event-driven architecture |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 28105 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 2048 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
 
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 32016 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 28420 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 64218 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 32263 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
 
-| [jundot/omlx](https://github.com/jundot/omlx) | 18845 | Python | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 64636 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 110853 | TypeScript | High performance self-hosted photo and video management solution. |
+| [jundot/omlx](https://github.com/jundot/omlx) | 18986 | Python | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
 
-| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 5375 | TypeScript | Meta-Framework of Spatiotemporal Composability |
+| [immich-app/immich](https://github.com/immich-app/immich) | 111152 | TypeScript | High performance self-hosted photo and video management solution. |
 
-| [agalwood/Motrix](https://github.com/agalwood/Motrix) | 52835 | TypeScript | A full-featured download manager. |
+| [cordiverse/cordis](https://github.com/cordiverse/cordis) | 5578 | TypeScript | Meta-Framework of Spatiotemporal Composability |
 <!-- TRENDING_END -->
 
 # TrendSpire
