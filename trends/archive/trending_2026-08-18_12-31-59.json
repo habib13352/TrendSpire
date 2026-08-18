@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-08-18 12:31 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 107522
+    },
+    {
+      "rank": 2,
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 1659
+    },
+    {
+      "rank": 3,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 2451
+    },
+    {
+      "rank": 4,
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 29044
+    },
+    {
+      "rank": 5,
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
+      "language": "Python",
+      "stars": 28802
+    },
+    {
+      "rank": 6,
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 463726
+    },
+    {
+      "rank": 7,
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 26183
+    },
+    {
+      "rank": 8,
+      "name": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 53418
+    },
+    {
+      "rank": 9,
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 24160
+    },
+    {
+      "rank": 10,
+      "name": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon \u2014 managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19194
+    }
+  ]
+}
