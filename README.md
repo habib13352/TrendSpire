@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-20 00:39 UTC_
+_Last updated: 2026-08-20 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 110629 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [modular/modular](https://github.com/modular/modular) | 27518 | Mojo | The Modular Platform (includes MAX & Mojo) |
 
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 30176 | Python | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 224914 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 2685 | TypeScript | local multi-agent harness |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 11104 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | 29836 | Python | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 274653 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | 26441 | Rust | Production-grade Rust-native trading engine with deterministic event-driven architecture |
+| [cursor/plugins](https://github.com/cursor/plugins) | 3871 | TypeScript | Cursor plugin specification and official plugins |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 223792 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 66230 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 274262 | Shell | An agentic skills framework & software development methodology that works. |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 3383 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
 
-| [jundot/omlx](https://github.com/jundot/omlx) | 19834 | Python | LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 112368 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 65783 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 1285 | Go | Agent Substrate: the core system |
 
-| [immich-app/immich](https://github.com/immich-app/immich) | 111869 | TypeScript | High performance self-hosted photo and video management solution. |
+| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 2954 | TypeScript | local multi-agent harness |
 <!-- TRENDING_END -->
 
 # TrendSpire
