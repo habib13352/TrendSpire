@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-20 12:34 UTC_
+_Last updated: 2026-08-21 00:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [modular/modular](https://github.com/modular/modular) | 27518 | Mojo | The Modular Platform (includes MAX & Mojo) |
+| [modular/modular](https://github.com/modular/modular) | 27934 | Mojo | The Modular Platform (includes MAX & Mojo) |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 224914 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 226462 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 11104 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 11861 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 274653 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 274943 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 3871 | TypeScript | Cursor plugin specification and official plugins |
+| [cursor/plugins](https://github.com/cursor/plugins) | 4082 | TypeScript | Cursor plugin specification and official plugins |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 66230 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 66676 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
 
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 3383 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 3598 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 112368 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 112931 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 1285 | Go | Agent Substrate: the core system |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 1393 | Go | Agent Substrate: the core system |
 
-| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 2954 | TypeScript | local multi-agent harness |
+| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 3127 | TypeScript | local multi-agent harness |
 <!-- TRENDING_END -->
 
 # TrendSpire
