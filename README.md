@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-21 12:32 UTC_
+_Last updated: 2026-08-22 00:39 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [modular/modular](https://github.com/modular/modular) | 28398 | Mojo | The Modular Platform (includes MAX & Mojo) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 229483 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 228195 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | 2218 | Kotlin | Visualize your year in travel using your Google Location History (Timeline) data |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 12462 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 113905 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 275355 | Shell | An agentic skills framework & software development methodology that works. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 12929 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 4257 | TypeScript | Cursor plugin specification and official plugins |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 38289 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 67134 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 110374 | Go | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 3840 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| [obra/superpowers](https://github.com/obra/superpowers) | 275656 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 113505 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 67442 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
 
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 1529 | Go | Agent Substrate: the core system |
+| [cursor/plugins](https://github.com/cursor/plugins) | 4396 | TypeScript | Cursor plugin specification and official plugins |
 
-| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | 3291 | TypeScript | local multi-agent harness |
+| [modular/modular](https://github.com/modular/modular) | 28684 | Mojo | The Modular Platform (includes MAX & Mojo) |
 <!-- TRENDING_END -->
 
 # TrendSpire
