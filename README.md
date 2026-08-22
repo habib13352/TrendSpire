@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-22 00:39 UTC_
+_Last updated: 2026-08-22 12:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 229483 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 230788 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | 2218 | Kotlin | Visualize your year in travel using your Google Location History (Timeline) data |
+| [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | 2440 | Kotlin | Visualize your year in travel using your Google Location History (Timeline) data |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 113905 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 114386 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 12929 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 13406 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 38289 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 38432 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 110374 | Go | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 110449 | Go | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 275656 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 275894 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 67442 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | 67712 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 4396 | TypeScript | Cursor plugin specification and official plugins |
+| [cursor/plugins](https://github.com/cursor/plugins) | 4535 | TypeScript | Cursor plugin specification and official plugins |
 
-| [modular/modular](https://github.com/modular/modular) | 28684 | Mojo | The Modular Platform (includes MAX & Mojo) |
+| [modular/modular](https://github.com/modular/modular) | 28770 | Mojo | The Modular Platform (includes MAX & Mojo) |
 <!-- TRENDING_END -->
 
 # TrendSpire
