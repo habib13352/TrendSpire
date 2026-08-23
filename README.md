@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-22 12:24 UTC_
+_Last updated: 2026-08-23 00:42 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 230788 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [openai/codex](https://github.com/openai/codex) | 113363 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | 2440 | Kotlin | Visualize your year in travel using your Google Location History (Timeline) data |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 232040 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 114386 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242170 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 13406 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 276188 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 38432 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 38783 | Go | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
 
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 110449 | Go | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [makeplane/plane](https://github.com/makeplane/plane) | 57222 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 275894 | Shell | An agentic skills framework & software development methodology that works. |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | 201812 | TypeScript | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. |
 
-| [santifer/career-ops](https://github.com/santifer/career-ops) | 67712 | JavaScript | Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…) |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 142536 | Python | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 4535 | TypeScript | Cursor plugin specification and official plugins |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 13938 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [modular/modular](https://github.com/modular/modular) | 28770 | Mojo | The Modular Platform (includes MAX & Mojo) |
+| [modular/modular](https://github.com/modular/modular) | 28842 | Mojo | The Modular Platform (includes MAX & Mojo) |
 <!-- TRENDING_END -->
 
 # TrendSpire
