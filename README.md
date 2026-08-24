@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-23 12:25 UTC_
+_Last updated: 2026-08-24 00:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openai/codex](https://github.com/openai/codex) | 114708 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 115153 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 12405 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 12700 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 233188 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 233841 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 28633 | Shell | Beautiful, Modern & Opinionated Linux |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 29125 | Shell | Beautiful, Modern & Opinionated Linux |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 14412 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 14934 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [block/buzz](https://github.com/block/buzz) | 29891 | Rust | A hive mind communication platform |
+| [block/buzz](https://github.com/block/buzz) | 30100 | Rust | A hive mind communication platform |
 
-| [apache/maka](https://github.com/apache/maka) | 2194 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
+| [apache/maka](https://github.com/apache/maka) | 2349 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 47582 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 47960 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 36520 | Rust | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 36740 | Rust | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242365 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242553 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 <!-- TRENDING_END -->
 
 # TrendSpire
