@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-24 00:41 UTC_
+_Last updated: 2026-08-24 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [openai/codex](https://github.com/openai/codex) | 115153 | Rust | Lightweight coding agent that runs in your terminal |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 48448 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 12700 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [openai/codex](https://github.com/openai/codex) | 116675 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 233841 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 33461 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 29125 | Shell | Beautiful, Modern & Opinionated Linux |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 206142 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 14934 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [makeplane/plane](https://github.com/makeplane/plane) | 57669 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 
-| [block/buzz](https://github.com/block/buzz) | 30100 | Rust | A hive mind communication platform |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 235449 | Python | The agent that grows with you |
 
-| [apache/maka](https://github.com/apache/maka) | 2349 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
+| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1201 | Python | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 47960 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 15493 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 36740 | Rust | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
+| [apache/maka](https://github.com/apache/maka) | 2608 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 242553 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 38830 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 <!-- TRENDING_END -->
 
 # TrendSpire
