@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-24 12:34 UTC_
+_Last updated: 2026-08-25 00:40 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 48448 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 48965 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
 
-| [openai/codex](https://github.com/openai/codex) | 116675 | Rust | Lightweight coding agent that runs in your terminal |
+| [openai/codex](https://github.com/openai/codex) | 117032 | Rust | Lightweight coding agent that runs in your terminal |
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 33461 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 34064 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 206142 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 206504 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 57669 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
+| [makeplane/plane](https://github.com/makeplane/plane) | 57924 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 235449 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 235793 | Python | The agent that grows with you |
 
-| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1201 | Python | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
+| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1350 | Python | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 15493 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 15857 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
 
-| [apache/maka](https://github.com/apache/maka) | 2608 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
+| [apache/maka](https://github.com/apache/maka) | 2903 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 38830 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | 38991 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
 <!-- TRENDING_END -->
 
 # TrendSpire
