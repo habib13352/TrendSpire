@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-25 00:40 UTC_
+_Last updated: 2026-08-25 12:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 48965 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 16517 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 
-| [openai/codex](https://github.com/openai/codex) | 117032 | Rust | Lightweight coding agent that runs in your terminal |
+| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1540 | Python | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 34064 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 34706 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 206504 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [apache/maka](https://github.com/apache/maka) | 3127 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
 
-| [makeplane/plane](https://github.com/makeplane/plane) | 57924 | TypeScript | 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 99861 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 235793 | Python | The agent that grows with you |
+| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 12310 | Python | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. |
 
-| [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | 1350 | Python | Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 48606 | Python | Learn it. Build it. Ship it for others. |
 
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | 15857 | Rust | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 37540 | Rust | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
 
-| [apache/maka](https://github.com/apache/maka) | 2903 | TypeScript | Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 30733 | Shell | Beautiful, Modern & Opinionated Linux |
 
-| [PostHog/posthog](https://github.com/PostHog/posthog) | 38991 | Python | 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 134013 | Python | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 <!-- TRENDING_END -->
 
 # TrendSpire
