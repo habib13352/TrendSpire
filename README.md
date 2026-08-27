@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-27 05:47 UTC_
+_Last updated: 2026-08-27 21:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 19007 | HTML | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 7631 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 21899 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [zedeus/nitter](https://github.com/zedeus/nitter) | 13827 | Nim | Alternative Twitter front-end |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 34425 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 22934 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 50526 | Python | Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly) |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 22850 | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
 
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | 36696 | Python | The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. |
+| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2037 | Go | Help AI coding agents write modern Go |
 
-| [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 13556 | Python | Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 34650 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | 32162 | Shell | Beautiful, Modern & Opinionated Linux |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 35254 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 49708 | Python | Learn it. Build it. Ship it for others. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 113936 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | 38316 | Rust | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 52266 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 112943 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 50117 | Python | Learn it. Build it. Ship it for others. |
 <!-- TRENDING_END -->
 
 # TrendSpire
