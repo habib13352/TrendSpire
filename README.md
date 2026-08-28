@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-27 21:34 UTC_
+_Last updated: 2026-08-28 07:57 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 7631 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 9277 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [zedeus/nitter](https://github.com/zedeus/nitter) | 13827 | Nim | Alternative Twitter front-end |
+| [zedeus/nitter](https://github.com/zedeus/nitter) | 13996 | Nim | Alternative Twitter front-end |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 22934 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 23654 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 22850 | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 24777 | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
 
-| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2037 | Go | Help AI coding agents write modern Go |
+| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2325 | Go | Help AI coding agents write modern Go |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 34650 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 34786 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 35254 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 35544 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 113936 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 114508 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 52266 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 52714 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 50117 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 50355 | Python | Learn it. Build it. Ship it for others. |
 <!-- TRENDING_END -->
 
 # TrendSpire
