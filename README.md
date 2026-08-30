@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-30 02:27 UTC_
+_Last updated: 2026-08-30 15:51 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 31296 | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 23382 | TypeScript | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 12691 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 38709 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 37997 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 9448 | Swift | No description provided. |
 
-| [tailscale/tailcat](https://github.com/tailscale/tailcat) | 3547 | Go | like netcat, but over Tailscale's data plane, without Tailscale's control plane |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 33553 | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
 
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 22360 | TypeScript | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 28995 | Python | Fully automatic censorship removal for language models |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 28727 | Python | Fully automatic censorship removal for language models |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 80077 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
-| [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) | 49129 | JavaScript | </> htmx - high power tools for HTML |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60381 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | 2878 | Go | Help AI coding agents write modern Go |
+| [majd/ipatool](https://github.com/majd/ipatool) | 10082 | Go | Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 73945 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 93177 | Unknown | A collection of MCP servers. |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 54114 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
+| [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9145 | Java | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
 <!-- TRENDING_END -->
 
 # TrendSpire
