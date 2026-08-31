@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-08-30 15:51 UTC_
+_Last updated: 2026-08-31 02:21 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 23382 | TypeScript | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 24282 | TypeScript | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 38709 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 39394 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 
-| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 9448 | Swift | No description provided. |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 9679 | Swift | No description provided. |
 
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 33553 | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 34969 | JavaScript | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export. |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 28995 | Python | Fully automatic censorship removal for language models |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 29215 | Python | Fully automatic censorship removal for language models |
 
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 80077 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 80275 | Python | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60381 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 60531 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
 
-| [majd/ipatool](https://github.com/majd/ipatool) | 10082 | Go | Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. |
+| [majd/ipatool](https://github.com/majd/ipatool) | 10240 | Go | Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. |
 
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 93177 | Unknown | A collection of MCP servers. |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 93365 | Unknown | A collection of MCP servers. |
 
-| [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9145 | Java | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
+| [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | 9220 | Java | Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program. |
 <!-- TRENDING_END -->
 
 # TrendSpire
