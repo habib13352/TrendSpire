@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-01 15:54 UTC_
+_Last updated: 2026-09-02 01:59 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 31110 | TypeScript | runs anywhere. uses anything |
+| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 31349 | TypeScript | runs anywhere. uses anything |
 
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 44709 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 44937 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
 
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 29145 | TypeScript | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 29568 | TypeScript | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
 
-| [iv-org/invidious](https://github.com/iv-org/invidious) | 23684 | Crystal | Invidious is an alternative front-end to YouTube |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | 23781 | Crystal | Invidious is an alternative front-end to YouTube |
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 56869 | Python | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 57133 | Python | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 13401 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [3b1b/manim](https://github.com/3b1b/manim) | 92583 | Python | Animation engine for explanatory math videos |
 
-| [3b1b/manim](https://github.com/3b1b/manim) | 92445 | Python | Animation engine for explanatory math videos |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 17963 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
 
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 17765 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 22986 | Python | Edit videos with coding agents |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 22710 | Python | Edit videos with coding agents |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 41571 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 41357 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 6751 | Python | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
 <!-- TRENDING_END -->
 
 # TrendSpire
