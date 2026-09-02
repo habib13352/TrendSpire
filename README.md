@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-02 01:59 UTC_
+_Last updated: 2026-09-02 15:47 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | 31349 | TypeScript | runs anywhere. uses anything |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 23971 | C++ | A modern formatting library |
 
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 44937 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 29255 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | 29568 | TypeScript | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 120947 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [iv-org/invidious](https://github.com/iv-org/invidious) | 23781 | Crystal | Invidious is an alternative front-end to YouTube |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 14185 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 57133 | Python | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 5981 | Python | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
 
-| [3b1b/manim](https://github.com/3b1b/manim) | 92583 | Python | Animation engine for explanatory math videos |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 50541 | TypeScript | Chrome DevTools for coding agents |
 
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | 17963 | Rust | Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 239912 | Python | The agent that grows with you |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 22986 | Python | Edit videos with coding agents |
+| [superlinked/sie](https://github.com/superlinked/sie) | 2997 | Python | Open-source inference server and production cluster for all the models your agent needs. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 41571 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| [pacifio/atlas](https://github.com/pacifio/atlas) | 2709 | Rust | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
 
-| [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | 6751 | Python | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。 |
+| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 9254 | Vue | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
 <!-- TRENDING_END -->
 
 # TrendSpire
