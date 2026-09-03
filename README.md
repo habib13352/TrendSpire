@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-02 15:47 UTC_
+_Last updated: 2026-09-03 02:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 23971 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 24303 | C++ | A modern formatting library |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 29255 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 29885 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 120947 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 121687 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 14185 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 14843 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 5981 | Python | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 6119 | Python | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 50541 | TypeScript | Chrome DevTools for coding agents |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 50666 | TypeScript | Chrome DevTools for coding agents |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 239912 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240155 | Python | The agent that grows with you |
 
-| [superlinked/sie](https://github.com/superlinked/sie) | 2997 | Python | Open-source inference server and production cluster for all the models your agent needs. |
+| [superlinked/sie](https://github.com/superlinked/sie) | 3082 | Python | Open-source inference server and production cluster for all the models your agent needs. |
 
-| [pacifio/atlas](https://github.com/pacifio/atlas) | 2709 | Rust | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| [pacifio/atlas](https://github.com/pacifio/atlas) | 2914 | Rust | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
 
-| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 9254 | Vue | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
+| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 9342 | Vue | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
 <!-- TRENDING_END -->
 
 # TrendSpire
