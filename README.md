@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-03 02:04 UTC_
+_Last updated: 2026-09-03 15:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 24303 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 24849 | C++ | A modern formatting library |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 29885 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 246607 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 121687 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240625 | Python | The agent that grows with you |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 14843 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 123002 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | 6119 | Python | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| [anthropics/skills](https://github.com/anthropics/skills) | 173494 | Python | Public repository for Agent Skills |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 50666 | TypeScript | Chrome DevTools for coding agents |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 246845 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240155 | Python | The agent that grows with you |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 102955 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
 
-| [superlinked/sie](https://github.com/superlinked/sie) | 3082 | Python | Open-source inference server and production cluster for all the models your agent needs. |
+| [blader/humanizer](https://github.com/blader/humanizer) | 41193 | Python | Agent skill that removes signs of AI-generated writing from text |
 
-| [pacifio/atlas](https://github.com/pacifio/atlas) | 2914 | Rust | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | 30593 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
 
-| [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | 9342 | Vue | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； |
+| [averygan/reclip](https://github.com/averygan/reclip) | 8237 | HTML | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. |
 <!-- TRENDING_END -->
 
 # TrendSpire
