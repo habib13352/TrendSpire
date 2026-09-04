@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-04 02:00 UTC_
+_Last updated: 2026-09-04 15:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25114 | C++ | A modern formatting library |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 249413 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 247525 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 124814 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 240878 | Python | The agent that grows with you |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25420 | C++ | A modern formatting library |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 123515 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 248029 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 173684 | Python | Public repository for Agent Skills |
+| [anthropics/skills](https://github.com/anthropics/skills) | 173976 | Python | Public repository for Agent Skills |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 247245 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [blader/humanizer](https://github.com/blader/humanizer) | 42312 | Python | Agent skill that removes signs of AI-generated writing from text |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 103133 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241298 | Python | The agent that grows with you |
 
-| [blader/humanizer](https://github.com/blader/humanizer) | 41546 | Python | Agent skill that removes signs of AI-generated writing from text |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 103432 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
 
-| [google-research/timesfm](https://github.com/google-research/timesfm) | 30718 | Python | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. |
+| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 2216 | TypeScript | Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. |
 
-| [averygan/reclip](https://github.com/averygan/reclip) | 8403 | HTML | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. |
+| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 4429 | Python | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. |
 <!-- TRENDING_END -->
 
 # TrendSpire
