@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-05 02:00 UTC_
+_Last updated: 2026-09-05 14:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 250473 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 251691 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 126119 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 249245 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25473 | C++ | A modern formatting library |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 127324 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 248546 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241794 | Python | The agent that grows with you |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 174143 | Python | Public repository for Agent Skills |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25539 | C++ | A modern formatting library |
 
-| [blader/humanizer](https://github.com/blader/humanizer) | 42741 | Python | Agent skill that removes signs of AI-generated writing from text |
+| [anthropics/skills](https://github.com/anthropics/skills) | 174400 | Python | Public repository for Agent Skills |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241505 | Python | The agent that grows with you |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 31431 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 103588 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204470 | TypeScript | The open source coding agent. |
 
-| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 2512 | TypeScript | Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70583 | TypeScript | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
 
-| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 4520 | Python | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. |
+| [humanlayer/skills](https://github.com/humanlayer/skills) | 2528 | TypeScript | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
