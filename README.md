@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-04 15:35 UTC_
+_Last updated: 2026-09-05 02:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 249413 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 250473 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 124814 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 126119 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25420 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25473 | C++ | A modern formatting library |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 248029 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 248546 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 173976 | Python | Public repository for Agent Skills |
+| [anthropics/skills](https://github.com/anthropics/skills) | 174143 | Python | Public repository for Agent Skills |
 
-| [blader/humanizer](https://github.com/blader/humanizer) | 42312 | Python | Agent skill that removes signs of AI-generated writing from text |
+| [blader/humanizer](https://github.com/blader/humanizer) | 42741 | Python | Agent skill that removes signs of AI-generated writing from text |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241298 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241505 | Python | The agent that grows with you |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 103432 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 103588 | Go | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman |
 
-| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 2216 | TypeScript | Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. |
+| [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | 2512 | TypeScript | Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline. |
 
-| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 4429 | Python | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. |
+| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 4520 | Python | A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way. |
 <!-- TRENDING_END -->
 
 # TrendSpire
