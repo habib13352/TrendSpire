@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-05 14:22 UTC_
+_Last updated: 2026-09-06 01:56 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 251691 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 252710 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 249245 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 249949 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 127324 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 127997 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 241794 | Python | The agent that grows with you |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242036 | Python | The agent that grows with you |
 
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25539 | C++ | A modern formatting library |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | 25574 | C++ | A modern formatting library |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 174400 | Python | Public repository for Agent Skills |
+| [anthropics/skills](https://github.com/anthropics/skills) | 174579 | Python | Public repository for Agent Skills |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 31431 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 31713 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204470 | TypeScript | The open source coding agent. |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 204696 | TypeScript | The open source coding agent. |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70583 | TypeScript | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70706 | TypeScript | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
 
-| [humanlayer/skills](https://github.com/humanlayer/skills) | 2528 | TypeScript | No description provided. |
+| [humanlayer/skills](https://github.com/humanlayer/skills) | 2724 | TypeScript | No description provided. |
 <!-- TRENDING_END -->
 
 # TrendSpire
