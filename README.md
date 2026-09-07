@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-07 01:53 UTC_
+_Last updated: 2026-09-07 17:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 251420 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 45292 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 254671 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 179762 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 32434 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 20673 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 242575 | Python | The agent that grows with you |
+| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 9481 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
 
-| [openai/skills](https://github.com/openai/skills) | 25636 | Python | Skills Catalog for Codex |
+| [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | 9649 | TypeScript | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
 
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | 205285 | TypeScript | The open source coding agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 252522 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [blader/humanizer](https://github.com/blader/humanizer) | 44300 | Python | Agent skill that removes signs of AI-generated writing from text |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 47968 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [llvm/llvm-project](https://github.com/llvm/llvm-project) | 40224 | LLVM | The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. |
+| [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 5115 | Python | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 129466 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 3681 | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
 
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 70999 | TypeScript | 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 81751 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 <!-- TRENDING_END -->
 
 # TrendSpire
