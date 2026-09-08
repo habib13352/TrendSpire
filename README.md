@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-07 17:01 UTC_
+_Last updated: 2026-09-08 02:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 45292 | TypeScript | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 46080 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 179762 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 180353 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 20673 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 20882 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 9481 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 9766 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
 
-| [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | 9649 | TypeScript | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
+| [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | 9770 | TypeScript | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 252522 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 252900 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 47968 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48175 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 5115 | Python | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
+| [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 5283 | Python | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
 
-| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 3681 | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
+| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 3851 | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 81751 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 81870 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
 <!-- TRENDING_END -->
 
 # TrendSpire
