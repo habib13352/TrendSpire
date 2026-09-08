@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-08 02:04 UTC_
+_Last updated: 2026-09-08 15:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 46080 | TypeScript | Write HTML. Render video. Built for agents. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 28864 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 180353 | Python | Python tool for converting files and office documents to Markdown. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 34150 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 20882 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [openai/skills](https://github.com/openai/skills) | 26372 | Python | Skills Catalog for Codex |
 
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 9766 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 253898 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | 9770 | TypeScript | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 47487 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 252900 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48605 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48175 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 283180 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | 5283 | Python | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 211226 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | 3851 | TypeScript | A list of tools that are open-source, in-browser, and require no-signups! |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 181421 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 81870 | Python | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. |
+| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 10288 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
 <!-- TRENDING_END -->
 
 # TrendSpire
