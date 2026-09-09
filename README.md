@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-08 15:48 UTC_
+_Last updated: 2026-09-09 02:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 28864 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 30706 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 34150 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 34939 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [openai/skills](https://github.com/openai/skills) | 26372 | Python | Skills Catalog for Codex |
+| [openai/skills](https://github.com/openai/skills) | 26540 | Python | Skills Catalog for Codex |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 253898 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 254349 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 47487 | TypeScript | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 47810 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48605 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48860 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 283180 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 283403 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 211226 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 211489 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 181421 | Python | Python tool for converting files and office documents to Markdown. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 181739 | Python | Python tool for converting files and office documents to Markdown. |
 
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 10288 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 10541 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
 <!-- TRENDING_END -->
 
 # TrendSpire
