@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-09 02:09 UTC_
+_Last updated: 2026-09-09 15:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 30706 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 33490 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 34939 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 2791 | TypeScript | Make Every Team AI Native |
 
-| [openai/skills](https://github.com/openai/skills) | 26540 | Python | Skills Catalog for Codex |
+| [obra/superpowers](https://github.com/obra/superpowers) | 283837 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 254349 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 22765 | TypeScript | Create and share 3D architectural projects. |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 47810 | TypeScript | Write HTML. Render video. Built for agents. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 14915 | Python | A library of agent skills for CAD, CAE and CAM |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 48860 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 36238 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 283403 | Shell | An agentic skills framework & software development methodology that works. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 103698 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 211489 | Unknown | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 17719 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
 
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 181739 | Python | Python tool for converting files and office documents to Markdown. |
+| [openai/plugins](https://github.com/openai/plugins) | 6100 | JavaScript | OpenAI Plugins |
 
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 10541 | JavaScript | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 29837 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 <!-- TRENDING_END -->
 
 # TrendSpire
