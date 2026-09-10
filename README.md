@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-09 15:44 UTC_
+_Last updated: 2026-09-10 02:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 33490 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 34792 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 2791 | TypeScript | Make Every Team AI Native |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3053 | TypeScript | Make Every Team AI Native |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 283837 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284067 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 22765 | TypeScript | Create and share 3D architectural projects. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 22963 | TypeScript | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 14915 | Python | A library of agent skills for CAD, CAE and CAM |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 15057 | Python | A library of agent skills for CAD, CAE and CAM |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 36238 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 36665 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 103698 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 103994 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 17719 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18038 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
 
-| [openai/plugins](https://github.com/openai/plugins) | 6100 | JavaScript | OpenAI Plugins |
+| [openai/plugins](https://github.com/openai/plugins) | 6215 | JavaScript | OpenAI Plugins |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 29837 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30100 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
 <!-- TRENDING_END -->
 
 # TrendSpire
