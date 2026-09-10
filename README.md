@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-10 02:07 UTC_
+_Last updated: 2026-09-10 15:39 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 34792 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 37204 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3053 | TypeScript | Make Every Team AI Native |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 22918 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 284067 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284502 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [pascalorg/editor](https://github.com/pascalorg/editor) | 22963 | TypeScript | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 1426 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 15057 | Python | A library of agent skills for CAD, CAE and CAM |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3611 | TypeScript | Make Every Team AI Native |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 36665 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 35581 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 103994 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18537 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
 
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18038 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 37445 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [openai/plugins](https://github.com/openai/plugins) | 6215 | JavaScript | OpenAI Plugins |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30713 | JavaScript | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30100 | JavaScript | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 |
+| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4291 | C | Graphics Creation Tools |
 <!-- TRENDING_END -->
 
 # TrendSpire
