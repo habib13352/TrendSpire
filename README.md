@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-11 02:04 UTC_
+_Last updated: 2026-09-11 15:41 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 38480 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 40579 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 24439 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 26284 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 284729 | Shell | An agentic skills framework & software development methodology that works. |
+| [nab138/iloader](https://github.com/nab138/iloader) | 2826 | TypeScript | User friendly sideloader |
 
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 1687 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1172 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
 
-| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3831 | TypeScript | Make Every Team AI Native |
+| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 2671 | TypeScript | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
 
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 35766 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4643 | C | Graphics Creation Tools |
 
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18826 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2008 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 37803 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 18550 | TypeScript | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30882 | JavaScript | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 285178 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4433 | C | Graphics Creation Tools |
+| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15651 | C# | Smart PVR for newsgroup and bittorrent users. |
 <!-- TRENDING_END -->
 
 # TrendSpire
