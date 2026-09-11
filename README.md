@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-10 15:39 UTC_
+_Last updated: 2026-09-11 02:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 37204 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 38480 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 22918 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 24439 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 284502 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 284729 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 1426 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 1687 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
 
-| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3611 | TypeScript | Make Every Team AI Native |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 3831 | TypeScript | Make Every Team AI Native |
 
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 35581 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | 35766 | Rust | Hundreds of models & providers. One command to find what runs on your hardware. |
 
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18537 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 18826 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 37445 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 37803 | HTML | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30713 | JavaScript | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | 30882 | JavaScript | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
 
-| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4291 | C | Graphics Creation Tools |
+| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4433 | C | Graphics Creation Tools |
 <!-- TRENDING_END -->
 
 # TrendSpire

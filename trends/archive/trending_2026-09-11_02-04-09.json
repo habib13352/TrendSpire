@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-09-11 02:04 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 38480
+    },
+    {
+      "rank": 2,
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 24439
+    },
+    {
+      "rank": 3,
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 284729
+    },
+    {
+      "rank": 4,
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars": 1687
+    },
+    {
+      "rank": 5,
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars": 3831
+    },
+    {
+      "rank": 6,
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "stars": 35766
+    },
+    {
+      "rank": 7,
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "language": "Unknown",
+      "stars": 18826
+    },
+    {
+      "rank": 8,
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 37803
+    },
+    {
+      "rank": 9,
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT Image 2 / 2.5 \u63d0\u793a\u8bcd\u4e0e\u6848\u4f8b\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u300120+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\u4e0e\u53ef\u590d\u7528 Skills\uff0c\u65b0\u589e 2.5 \u540c\u63d0\u793a\u8bcd\u5bf9\u6bd4\u4e13\u533a\uff0c\u9644\u5b8c\u6574\u63d0\u793a\u8bcd\u4e0e\u751f\u6210\u8bb0\u5f55\uff0c\u6301\u7eed\u66f4\u65b0\u3002",
+      "language": "JavaScript",
+      "stars": 30882
+    },
+    {
+      "rank": 10,
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars": 4433
+    }
+  ]
+}
