@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-11 15:41 UTC_
+_Last updated: 2026-09-12 02:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 40579 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 41943 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 26284 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 27199 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [nab138/iloader](https://github.com/nab138/iloader) | 2826 | TypeScript | User friendly sideloader |
+| [nab138/iloader](https://github.com/nab138/iloader) | 2918 | TypeScript | User friendly sideloader |
 
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1172 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1371 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
 
-| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 2671 | TypeScript | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 2793 | TypeScript | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
 
-| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4643 | C | Graphics Creation Tools |
+| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4735 | C | Graphics Creation Tools |
 
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2008 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2162 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
 
-| [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 18550 | TypeScript | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
+| [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 18760 | TypeScript | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 285178 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 285391 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15651 | C# | Smart PVR for newsgroup and bittorrent users. |
+| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15745 | C# | Smart PVR for newsgroup and bittorrent users. |
 <!-- TRENDING_END -->
 
 # TrendSpire
