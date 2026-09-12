@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-12 02:09 UTC_
+_Last updated: 2026-09-12 14:48 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 41943 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 28620 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 27199 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1625 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
 
-| [nab138/iloader](https://github.com/nab138/iloader) | 2918 | TypeScript | User friendly sideloader |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 65109 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
 
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1371 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| [nab138/iloader](https://github.com/nab138/iloader) | 3011 | TypeScript | User friendly sideloader |
 
-| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 2793 | TypeScript | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 33178 | Batchfile | No description provided. |
 
-| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | 4735 | C | Graphics Creation Tools |
+| [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | 5053 | Python | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. |
 
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2162 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15847 | C# | Smart PVR for newsgroup and bittorrent users. |
 
-| [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | 18760 | TypeScript | LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。 |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2351 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 285391 | Shell | An agentic skills framework & software development methodology that works. |
+| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33114 | Java | Browse media content with your own rules on Android TV |
 
-| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15745 | C# | Smart PVR for newsgroup and bittorrent users. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 137423 | Python | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
 <!-- TRENDING_END -->
 
 # TrendSpire
