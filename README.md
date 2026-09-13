@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-13 02:05 UTC_
+_Last updated: 2026-09-13 15:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 30003 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 29177 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
 
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 1824 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 4737 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 65441 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 31222 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [nab138/iloader](https://github.com/nab138/iloader) | 3092 | TypeScript | User friendly sideloader |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 5476 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
 
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | 33212 | Batchfile | No description provided. |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2062 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
 
-| [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | 5141 | Python | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 58186 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 
-| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | 15932 | C# | Smart PVR for newsgroup and bittorrent users. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 65809 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
 
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | 2521 | TypeScript | Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 23759 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33226 | Java | Browse media content with your own rules on Android TV |
+| [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 7580 | Python | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
 
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 137644 | Python | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. |
+| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33348 | Java | Browse media content with your own rules on Android TV |
 <!-- TRENDING_END -->
 
 # TrendSpire
