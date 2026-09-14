@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-14 02:23 UTC_
+_Last updated: 2026-09-14 17:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 29975 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 31574 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
 
-| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 5167 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 25144 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 32021 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 8208 | Python | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
 
-| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 5687 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 28751 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2226 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 72995 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 58510 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 81018 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66095 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66628 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 24019 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 1909 | Python | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages |
 
-| [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 7795 | Python | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
+| [localsend/localsend](https://github.com/localsend/localsend) | 91152 | Dart | An open-source cross-platform alternative to AirDrop |
 
-| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33466 | Java | Browse media content with your own rules on Android TV |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 67466 | Rust | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
 <!-- TRENDING_END -->
 
 # TrendSpire
