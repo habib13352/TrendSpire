@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-13 15:26 UTC_
+_Last updated: 2026-09-14 02:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 29177 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 29975 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
 
-| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 4737 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 5167 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 31222 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 32021 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 5476 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | 5687 | TypeScript | The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. |
 
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2062 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2226 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 58186 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 58510 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 65809 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66095 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 23759 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 24019 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 7580 | Python | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
+| [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 7795 | Python | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
 
-| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33348 | Java | Browse media content with your own rules on Android TV |
+| [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) | 33466 | Java | Browse media content with your own rules on Android TV |
 <!-- TRENDING_END -->
 
 # TrendSpire
