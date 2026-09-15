@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-15 02:28 UTC_
+_Last updated: 2026-09-15 16:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 32196 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 27728 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 25957 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 33313 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
 
-| [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | 8405 | Python | YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 6404 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 29345 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 30495 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | 73214 | Python | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 |
+| [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | 1165 | Swift | 📺 Homebrew's official macOS GUI |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 81364 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2674 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
 
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | 66818 | JavaScript | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
+| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 3073 | Rust | Turn your coding agents into research agents |
 
-| [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 2089 | Python | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 76460 | Java | Ghidra is a software reverse engineering (SRE) framework |
 
-| [localsend/localsend](https://github.com/localsend/localsend) | 91367 | Dart | An open-source cross-platform alternative to AirDrop |
+| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 43689 | TypeScript | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
 
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | 67539 | Rust | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs |
+| [pacifio/atlas](https://github.com/pacifio/atlas) | 4514 | Rust | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
 <!-- TRENDING_END -->
 
 # TrendSpire
