@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-16 02:22 UTC_
+_Last updated: 2026-09-16 15:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 28804 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 30959 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 33940 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 6158 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 6709 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 34732 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 31083 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 5378 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
 
-| [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | 1416 | Swift | 📺 Homebrew's official macOS GUI |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 54179 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 2870 | TypeScript | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 13230 | Swift | No description provided. |
 
-| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 3423 | Rust | Turn your coding agents into research agents |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24194 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 76761 | Java | Ghidra is a software reverse engineering (SRE) framework |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 7127 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
 
-| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 43873 | TypeScript | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
+| [ankitects/anki](https://github.com/ankitects/anki) | 30692 | Rust | Anki is a smart spaced repetition flashcard program |
 
-| [pacifio/atlas](https://github.com/pacifio/atlas) | 4658 | Rust | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 77493 | Java | Ghidra is a software reverse engineering (SRE) framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
