@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-16 15:55 UTC_
+_Last updated: 2026-09-17 02:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 30959 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 32141 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 6158 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 7435 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 34732 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 35087 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
 
-| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 5378 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
+| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 5644 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 54179 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 54427 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
 
-| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 13230 | Swift | No description provided. |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 13379 | Swift | No description provided. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24194 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24309 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 7127 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 7353 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
 
-| [ankitects/anki](https://github.com/ankitects/anki) | 30692 | Rust | Anki is a smart spaced repetition flashcard program |
+| [ankitects/anki](https://github.com/ankitects/anki) | 30893 | Rust | Anki is a smart spaced repetition flashcard program |
 
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 77493 | Java | Ghidra is a software reverse engineering (SRE) framework |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 77872 | Java | Ghidra is a software reverse engineering (SRE) framework |
 <!-- TRENDING_END -->
 
 # TrendSpire
