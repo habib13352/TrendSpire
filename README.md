@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-17 02:26 UTC_
+_Last updated: 2026-09-17 16:01 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 32141 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 34105 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 7435 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 9847 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 35087 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 95941 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 5644 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 3871 | TypeScript | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. |
 
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 54427 | TypeScript | The open-source AI voice studio. Clone, dictate, create. |
+| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 4966 | Rust | Turn your coding agents into research agents |
 
-| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 13379 | Swift | No description provided. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145850 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24309 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78309 | Java | Ghidra is a software reverse engineering (SRE) framework |
 
-| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 7353 | TypeScript | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24469 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [ankitects/anki](https://github.com/ankitects/anki) | 30893 | Rust | Anki is a smart spaced repetition flashcard program |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 26130 | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
 
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 77872 | Java | Ghidra is a software reverse engineering (SRE) framework |
+| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 6005 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
 <!-- TRENDING_END -->
 
 # TrendSpire
