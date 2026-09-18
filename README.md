@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-18 02:12 UTC_
+_Last updated: 2026-09-18 15:36 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 34930 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 12539 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 10777 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146142 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 95882 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 36345 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 4263 | TypeScript | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 261692 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 4985 | Rust | Turn your coding agents into research agents |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 5034 | TypeScript | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145897 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 96212 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78529 | Java | Ghidra is a software reverse engineering (SRE) framework |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 3840 | Python | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24592 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 69169 | TypeScript | Spec-driven development (SDD) for AI coding assistants. |
 
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 26310 | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| [ankitects/anki](https://github.com/ankitects/anki) | 31116 | Rust | Anki is a smart spaced repetition flashcard program |
 
-| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 6171 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24769 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 <!-- TRENDING_END -->
 
 # TrendSpire
