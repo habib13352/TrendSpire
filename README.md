@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-17 16:01 UTC_
+_Last updated: 2026-09-18 02:12 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 34105 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 34930 | Go | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 9847 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 10777 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 95941 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 95882 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 3871 | TypeScript | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. |
+| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 4263 | TypeScript | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. |
 
-| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 4966 | Rust | Turn your coding agents into research agents |
+| [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 4985 | Rust | Turn your coding agents into research agents |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145850 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 145897 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78309 | Java | Ghidra is a software reverse engineering (SRE) framework |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 78529 | Java | Ghidra is a software reverse engineering (SRE) framework |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24469 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24592 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 26130 | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 26310 | Go | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
 
-| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 6005 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
+| [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 6171 | Swift | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
 <!-- TRENDING_END -->
 
 # TrendSpire
