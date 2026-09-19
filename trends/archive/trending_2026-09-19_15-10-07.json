@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-09-19 15:10 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 15472
+    },
+    {
+      "rank": 2,
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 24011
+    },
+    {
+      "rank": 3,
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 96781
+    },
+    {
+      "rank": 4,
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 15482
+    },
+    {
+      "rank": 5,
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 146570
+    },
+    {
+      "rank": 6,
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 15801
+    },
+    {
+      "rank": 7,
+      "name": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "stars": 4778
+    },
+    {
+      "rank": 8,
+      "name": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "description": "Get your documents ready for gen AI",
+      "language": "Python",
+      "stars": 66815
+    },
+    {
+      "rank": 9,
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 11907
+    },
+    {
+      "rank": 10,
+      "name": "asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "stars": 5130
+    }
+  ]
+}

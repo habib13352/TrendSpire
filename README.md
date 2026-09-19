@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-19 02:15 UTC_
+_Last updated: 2026-09-19 15:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 13827 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 15472 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146326 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [trycua/cua](https://github.com/trycua/cua) | 24011 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 36726 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 96781 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 262105 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [coder/coder](https://github.com/coder/coder) | 15482 | Go | Secure environments for developers and their agents |
 
-| [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | 5341 | TypeScript | Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146570 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 96430 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 15801 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 3976 | Python | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 4778 | Jupyter Notebook | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters |
 
-| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | 69378 | TypeScript | Spec-driven development (SDD) for AI coding assistants. |
+| [docling-project/docling](https://github.com/docling-project/docling) | 66815 | Python | Get your documents ready for gen AI |
 
-| [ankitects/anki](https://github.com/ankitects/anki) | 31219 | Rust | Anki is a smart spaced repetition flashcard program |
+| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 11907 | Rust | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 24894 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [asciimoo/hister](https://github.com/asciimoo/hister) | 5130 | Go | Your own search engine |
 <!-- TRENDING_END -->
 
 # TrendSpire
