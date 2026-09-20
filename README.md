@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-19 15:10 UTC_
+_Last updated: 2026-09-20 02:23 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 15472 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 16493 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [trycua/cua](https://github.com/trycua/cua) | 24011 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| [trycua/cua](https://github.com/trycua/cua) | 24481 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 96781 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 97086 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [coder/coder](https://github.com/coder/coder) | 15482 | Go | Secure environments for developers and their agents |
+| [coder/coder](https://github.com/coder/coder) | 15642 | Go | Secure environments for developers and their agents |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146570 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146742 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 15801 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 16108 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 
-| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 4778 | Jupyter Notebook | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters |
+| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 4983 | Jupyter Notebook | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters |
 
-| [docling-project/docling](https://github.com/docling-project/docling) | 66815 | Python | Get your documents ready for gen AI |
+| [docling-project/docling](https://github.com/docling-project/docling) | 67102 | Python | Get your documents ready for gen AI |
 
-| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 11907 | Rust | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12034 | Rust | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
 
-| [asciimoo/hister](https://github.com/asciimoo/hister) | 5130 | Go | Your own search engine |
+| [asciimoo/hister](https://github.com/asciimoo/hister) | 5252 | Go | Your own search engine |
 <!-- TRENDING_END -->
 
 # TrendSpire
