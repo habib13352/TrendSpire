@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-09-21 17:38 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 5742
+    },
+    {
+      "rank": 2,
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25592
+    },
+    {
+      "rank": 3,
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 17501
+    },
+    {
+      "rank": 4,
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7558
+    },
+    {
+      "rank": 5,
+      "name": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16332
+    },
+    {
+      "rank": 6,
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 35714
+    },
+    {
+      "rank": 7,
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12259
+    },
+    {
+      "rank": 8,
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 13467
+    },
+    {
+      "rank": 9,
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation \u00b7 \u4e00\u6b3e\u667a\u80fd\u9ad8\u5149\u63d0\u53d6\u4e0e\u526a\u8f91\u7684\u4e8c\u521b\u5de5\u5177",
+      "language": "Python",
+      "stars": 8112
+    },
+    {
+      "rank": 10,
+      "name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "\u79d1\u6280\u7231\u597d\u8005\u5468\u520a\uff0c\u6bcf\u5468\u4e94\u53d1\u5e03",
+      "language": "Unknown",
+      "stars": 103866
+    }
+  ]
+}

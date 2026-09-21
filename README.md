@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-21 02:22 UTC_
+_Last updated: 2026-09-21 17:38 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 263820 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5742 | TypeScript | A framework for building agentic apps |
 
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5264 | TypeScript | A framework for building agentic apps |
+| [trycua/cua](https://github.com/trycua/cua) | 25592 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 18114 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 17501 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 
-| [trycua/cua](https://github.com/trycua/cua) | 25196 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 7558 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35404 | Python | No description provided. |
+| [coder/coder](https://github.com/coder/coder) | 16332 | Go | Secure environments for developers and their agents |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 45602 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35714 | Python | No description provided. |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 147168 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12259 | Rust | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
 
-| [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 4580 | Python | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13467 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
 
-| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 5409 | Jupyter Notebook | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 8112 | Python | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
 
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 16888 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 103866 | Unknown | 科技爱好者周刊，每周五发布 |
 <!-- TRENDING_END -->
 
 # TrendSpire
