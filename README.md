@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-20 15:14 UTC_
+_Last updated: 2026-09-21 02:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 263414 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 263820 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5040 | TypeScript | A framework for building agentic apps |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5264 | TypeScript | A framework for building agentic apps |
 
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 17612 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 18114 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [trycua/cua](https://github.com/trycua/cua) | 24972 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| [trycua/cua](https://github.com/trycua/cua) | 25196 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35238 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35404 | Python | No description provided. |
 
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 45414 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 45602 | Python | A community-supported supercharged document management system: scan, index and archive all your documents |
 
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 146959 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 147168 | TypeScript | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
-| [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 4459 | Python | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
+| [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | 4580 | Python | Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025) |
 
-| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 5205 | Jupyter Notebook | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters |
+| [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | 5409 | Jupyter Notebook | Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters |
 
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 16551 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 16888 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 <!-- TRENDING_END -->
 
 # TrendSpire
