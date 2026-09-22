@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-21 17:38 UTC_
+_Last updated: 2026-09-22 02:25 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5742 | TypeScript | A framework for building agentic apps |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5964 | TypeScript | A framework for building agentic apps |
 
-| [trycua/cua](https://github.com/trycua/cua) | 25592 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| [trycua/cua](https://github.com/trycua/cua) | 25733 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
 
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 17501 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 17814 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 7558 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 7735 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
 
-| [coder/coder](https://github.com/coder/coder) | 16332 | Go | Secure environments for developers and their agents |
+| [coder/coder](https://github.com/coder/coder) | 16448 | Go | Secure environments for developers and their agents |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35714 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35864 | Python | No description provided. |
 
-| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12259 | Rust | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12375 | Rust | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
 
-| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13467 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13625 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
 
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 8112 | Python | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
+| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 8313 | Python | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
 
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 103866 | Unknown | 科技爱好者周刊，每周五发布 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 104028 | Unknown | 科技爱好者周刊，每周五发布 |
 <!-- TRENDING_END -->
 
 # TrendSpire
