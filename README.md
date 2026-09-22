@@ -1,30 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-22 02:25 UTC_
+_Last updated: 2026-09-22 16:04 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 5964 | TypeScript | A framework for building agentic apps |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36162 | Python | No description provided. |
 
-| [trycua/cua](https://github.com/trycua/cua) | 25733 | HTML | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 2816 | Go | Agent Substrate: the core system |
 
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 17814 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 15107 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | 7735 | Rust | Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 30988 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [coder/coder](https://github.com/coder/coder) | 16448 | Go | Secure environments for developers and their agents |
+| [google/ax](https://github.com/google/ax) | 7158 | Go | Google's open agentic orchestration runtime |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 35864 | Python | No description provided. |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13859 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
 
-| [cloudflare/quiche](https://github.com/cloudflare/quiche) | 12375 | Rust | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| [superdesigndev/treg](https://github.com/superdesigndev/treg) | 2062 | Python | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
 
-| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13625 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
-
-| [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | 8313 | Python | AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 |
-
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 104028 | Unknown | 科技爱好者周刊，每周五发布 |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 25640 | Python | Edit videos with coding agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
