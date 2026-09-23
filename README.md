@@ -1,26 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-22 16:04 UTC_
+_Last updated: 2026-09-23 02:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36162 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36395 | Python | No description provided. |
 
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 2816 | Go | Agent Substrate: the core system |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3012 | Go | Agent Substrate: the core system |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 15107 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 15519 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 30988 | Python | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31154 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [google/ax](https://github.com/google/ax) | 7158 | Go | Google's open agentic orchestration runtime |
+| [google/ax](https://github.com/google/ax) | 7708 | Go | Google's open agentic orchestration runtime |
 
-| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 13859 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14143 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
 
-| [superdesigndev/treg](https://github.com/superdesigndev/treg) | 2062 | Python | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+| [superdesigndev/treg](https://github.com/superdesigndev/treg) | 2264 | Python | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 25640 | Python | Edit videos with coding agents |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | 25893 | Python | Edit videos with coding agents |
 <!-- TRENDING_END -->
 
 # TrendSpire
