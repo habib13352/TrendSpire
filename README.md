@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-23 02:26 UTC_
+_Last updated: 2026-09-23 15:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36395 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36789 | Python | No description provided. |
 
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3012 | Go | Agent Substrate: the core system |
+| [google/ax](https://github.com/google/ax) | 8619 | Go | Google's open agentic orchestration runtime |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 15519 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31381 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31154 | Python | CLI tool for configuring and monitoring Claude Code |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 6429 | TypeScript | A framework for building agentic apps |
 
-| [google/ax](https://github.com/google/ax) | 7708 | Go | Google's open agentic orchestration runtime |
+| [obra/superpowers](https://github.com/obra/superpowers) | 290518 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14143 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 16149 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [superdesigndev/treg](https://github.com/superdesigndev/treg) | 2264 | Python | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 18647 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 
-| [browser-use/video-use](https://github.com/browser-use/video-use) | 25893 | Python | Edit videos with coding agents |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3338 | Go | Agent Substrate: the core system |
+
+| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7698 | Python | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. |
+
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 49794 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 <!-- TRENDING_END -->
 
 # TrendSpire
