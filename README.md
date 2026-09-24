@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-24 02:14 UTC_
+_Last updated: 2026-09-24 16:17 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36979 | Python | No description provided. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 56187 | Python | Learn it. Build it. Ship it for others. |
 
-| [google/ax](https://github.com/google/ax) | 9151 | Go | Google's open agentic orchestration runtime |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 27271 | Python | Hindsight: Agent Memory That Learns |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31518 | Python | CLI tool for configuring and monitoring Claude Code |
+| [dream-num/univer](https://github.com/dream-num/univer) | 17302 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 6578 | TypeScript | A framework for building agentic apps |
+| [google/ax](https://github.com/google/ax) | 9933 | Go | Google's open agentic orchestration runtime |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 290716 | Shell | An agentic skills framework & software development methodology that works. |
+| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 3952 | Python | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 16371 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | 5307 | TypeScript | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others |
 
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 18866 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 37260 | Python | No description provided. |
 
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3521 | Go | Agent Substrate: the core system |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 50210 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7872 | Python | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14642 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 49956 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [obra/superpowers](https://github.com/obra/superpowers) | 291082 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
