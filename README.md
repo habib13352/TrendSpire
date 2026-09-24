@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-23 15:55 UTC_
+_Last updated: 2026-09-24 02:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36789 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 36979 | Python | No description provided. |
 
-| [google/ax](https://github.com/google/ax) | 8619 | Go | Google's open agentic orchestration runtime |
+| [google/ax](https://github.com/google/ax) | 9151 | Go | Google's open agentic orchestration runtime |
 
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31381 | Python | CLI tool for configuring and monitoring Claude Code |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 31518 | Python | CLI tool for configuring and monitoring Claude Code |
 
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 6429 | TypeScript | A framework for building agentic apps |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | 6578 | TypeScript | A framework for building agentic apps |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 290518 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 290716 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 16149 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 16371 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 18647 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | 18866 | TypeScript | OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. |
 
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3338 | Go | Agent Substrate: the core system |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 3521 | Go | Agent Substrate: the core system |
 
-| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7698 | Python | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. |
+| [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 7872 | Python | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 49794 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 49956 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 <!-- TRENDING_END -->
 
 # TrendSpire
