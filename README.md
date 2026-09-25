@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-24 16:17 UTC_
+_Last updated: 2026-09-25 02:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 56187 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 56626 | Python | Learn it. Build it. Ship it for others. |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 27271 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 27849 | Python | Hindsight: Agent Memory That Learns |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 17302 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 17842 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [google/ax](https://github.com/google/ax) | 9933 | Go | Google's open agentic orchestration runtime |
+| [google/ax](https://github.com/google/ax) | 10530 | Go | Google's open agentic orchestration runtime |
 
-| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 3952 | Python | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. |
+| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4103 | Python | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. |
 
-| [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | 5307 | TypeScript | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others |
+| [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | 5377 | TypeScript | Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others |
 
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 37260 | Python | No description provided. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | 37369 | Python | No description provided. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 50210 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 50351 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14642 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | 14735 | Python | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 291082 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 291252 | Shell | An agentic skills framework & software development methodology that works. |
 <!-- TRENDING_END -->
 
 # TrendSpire
