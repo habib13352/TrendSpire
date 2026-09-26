@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-25 16:17 UTC_
+_Last updated: 2026-09-26 02:34 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 83999 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 85074 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 36804 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 36953 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 29114 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 29867 | Python | Hindsight: Agent Memory That Learns |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 291517 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 291688 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 269530 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 269759 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 18237 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 18467 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 178151 | Python | Public repository for Agent Skills |
+| [anthropics/skills](https://github.com/anthropics/skills) | 178340 | Python | Public repository for Agent Skills |
 
-| [androoAGI/starnet](https://github.com/androoAGI/starnet) | 360 | JavaScript | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. |
+| [androoAGI/starnet](https://github.com/androoAGI/starnet) | 500 | JavaScript | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. |
 
-| [derv82/wifit3](https://github.com/derv82/wifit3) | 772 | Python | Wifite but USB-only & cross-platform. |
+| [derv82/wifit3](https://github.com/derv82/wifit3) | 951 | Python | Wifite but USB-only & cross-platform. |
 
-| [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 50056 | Unknown | Bootstrap Kubernetes the hard way. No scripts. |
+| [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 50130 | Unknown | Bootstrap Kubernetes the hard way. No scripts. |
 <!-- TRENDING_END -->
 
 # TrendSpire
