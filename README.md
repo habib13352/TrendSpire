@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-26 02:34 UTC_
+_Last updated: 2026-09-26 15:31 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 85074 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 86362 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 36953 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 31075 | Python | Hindsight: Agent Memory That Learns |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 29867 | Python | Hindsight: Agent Memory That Learns |
+| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4641 | Python | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 291688 | Shell | An agentic skills framework & software development methodology that works. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 19029 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 269759 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200373 | C++ | An Open Source Machine Learning Framework for Everyone |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 18467 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 58070 | Python | Learn it. Build it. Ship it for others. |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 178340 | Python | Public repository for Agent Skills |
+| [openbao/openbao](https://github.com/openbao/openbao) | 7918 | Go | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. |
 
-| [androoAGI/starnet](https://github.com/androoAGI/starnet) | 500 | JavaScript | A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. |
+| [block/buzz](https://github.com/block/buzz) | 34752 | Rust | A hive mind communication platform |
 
-| [derv82/wifit3](https://github.com/derv82/wifit3) | 951 | Python | Wifite but USB-only & cross-platform. |
+| [microsoft/vscode](https://github.com/microsoft/vscode) | 192997 | TypeScript | Visual Studio Code |
 
-| [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | 50130 | Unknown | Bootstrap Kubernetes the hard way. No scripts. |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 37826 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
 <!-- TRENDING_END -->
 
 # TrendSpire
