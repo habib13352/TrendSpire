@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-27 02:32 UTC_
+_Last updated: 2026-09-27 16:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 87484 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 88973 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 32346 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 36079 | Python | Hindsight: Agent Memory That Learns |
 
-| [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 4772 | Python | A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 39156 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 19292 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 58959 | Python | Learn it. Build it. Ship it for others. |
 
-| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200472 | C++ | An Open Source Machine Learning Framework for Everyone |
+| [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | 6459 | Shell | An open-source Android app to let you browse YouTube and other services freely. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 58426 | Python | Learn it. Build it. Ship it for others. |
+| [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 5279 | TypeScript | TypeScript-to-Native Compiler |
 
-| [openbao/openbao](https://github.com/openbao/openbao) | 8020 | Go | OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 741 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [block/buzz](https://github.com/block/buzz) | 34844 | Rust | A hive mind communication platform |
+| [dream-num/univer](https://github.com/dream-num/univer) | 19985 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [microsoft/vscode](https://github.com/microsoft/vscode) | 193083 | TypeScript | Visual Studio Code |
-
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | 38040 | PowerShell | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 |
+| [willfaust/Madeira](https://github.com/willfaust/Madeira) | 735 | C | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
 <!-- TRENDING_END -->
 
 # TrendSpire
