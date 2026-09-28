@@ -1,28 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-28 02:35 UTC_
+_Last updated: 2026-09-28 19:05 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 90146 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 43299 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 37553 | Python | Hindsight: Agent Memory That Learns |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 92375 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 40362 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 40716 | Python | Hindsight: Agent Memory That Learns |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 59410 | Python | Learn it. Build it. Ship it for others. |
+| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 25690 | PLSQL | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
 
-| [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | 6617 | Shell | An open-source Android app to let you browse YouTube and other services freely. |
+| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2414 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
 
-| [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 5433 | TypeScript | TypeScript-to-Native Compiler |
+| [byoungd/up](https://github.com/byoungd/up) | 64578 | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1043 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1573 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 20482 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
-
-| [willfaust/Madeira](https://github.com/willfaust/Madeira) | 843 | C | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
+| [dream-num/univer](https://github.com/dream-num/univer) | 21124 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 <!-- TRENDING_END -->
 
 # TrendSpire
