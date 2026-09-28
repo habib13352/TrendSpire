@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-27 16:11 UTC_
+_Last updated: 2026-09-28 02:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 88973 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 90146 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 36079 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 37553 | Python | Hindsight: Agent Memory That Learns |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 39156 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 40362 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 58959 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 59410 | Python | Learn it. Build it. Ship it for others. |
 
-| [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | 6459 | Shell | An open-source Android app to let you browse YouTube and other services freely. |
+| [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | 6617 | Shell | An open-source Android app to let you browse YouTube and other services freely. |
 
-| [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 5279 | TypeScript | TypeScript-to-Native Compiler |
+| [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 5433 | TypeScript | TypeScript-to-Native Compiler |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 741 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1043 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 19985 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 20482 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 
-| [willfaust/Madeira](https://github.com/willfaust/Madeira) | 735 | C | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
+| [willfaust/Madeira](https://github.com/willfaust/Madeira) | 843 | C | Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT |
 <!-- TRENDING_END -->
 
 # TrendSpire
