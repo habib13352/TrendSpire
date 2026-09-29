@@ -1,26 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-29 03:18 UTC_
+_Last updated: 2026-09-29 17:27 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 44546 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 47283 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 93078 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 10310 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 41210 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 42481 | Python | Hindsight: Agent Memory That Learns |
 
-| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 25808 | PLSQL | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 94198 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2576 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 21810 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
 
-| [byoungd/up](https://github.com/byoungd/up) | 64837 | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2238 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1807 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [oblien/openship](https://github.com/oblien/openship) | 13698 | TypeScript | Self-hosted deployment platform |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 21348 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [averygan/reclip](https://github.com/averygan/reclip) | 9935 | HTML | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. |
+
+| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2976 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
+
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 61095 | Python | Learn it. Build it. Ship it for others. |
 <!-- TRENDING_END -->
 
 # TrendSpire
