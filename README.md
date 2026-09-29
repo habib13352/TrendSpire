@@ -1,26 +1,26 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-28 19:05 UTC_
+_Last updated: 2026-09-29 03:18 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 43299 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 44546 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 92375 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 93078 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 40716 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 41210 | Python | Hindsight: Agent Memory That Learns |
 
-| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 25690 | PLSQL | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
+| [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR) | 25808 | PLSQL | Open-source, low-cost 10.5 GHz PLFM phased array RADAR system |
 
-| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2414 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
+| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2576 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
 
-| [byoungd/up](https://github.com/byoungd/up) | 64578 | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
+| [byoungd/up](https://github.com/byoungd/up) | 64837 | JavaScript | An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语 |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1573 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 1807 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 21124 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 21348 | TypeScript | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. |
 <!-- TRENDING_END -->
 
 # TrendSpire
