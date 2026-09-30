@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-29 17:27 UTC_
+_Last updated: 2026-09-30 03:00 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 47283 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 48396 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 10310 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 10732 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 42481 | Python | Hindsight: Agent Memory That Learns |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 42974 | Python | Hindsight: Agent Memory That Learns |
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 94198 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 94572 | TypeScript | The open-source app everyone uses to manage agents at work |
 
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 21810 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 22204 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2238 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2489 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [oblien/openship](https://github.com/oblien/openship) | 13698 | TypeScript | Self-hosted deployment platform |
+| [oblien/openship](https://github.com/oblien/openship) | 13894 | TypeScript | Self-hosted deployment platform |
 
-| [averygan/reclip](https://github.com/averygan/reclip) | 9935 | HTML | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. |
+| [averygan/reclip](https://github.com/averygan/reclip) | 10205 | HTML | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. |
 
-| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 2976 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
+| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 3150 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 61095 | Python | Learn it. Build it. Ship it for others. |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 61518 | Python | Learn it. Build it. Ship it for others. |
 <!-- TRENDING_END -->
 
 # TrendSpire
