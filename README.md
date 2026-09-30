@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-30 03:00 UTC_
+_Last updated: 2026-09-30 17:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 48396 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 11994 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 10732 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 50064 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | 42974 | Python | Hindsight: Agent Memory That Learns |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2850 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 94572 | TypeScript | The open-source app everyone uses to manage agents at work |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24385 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [t8y2/dbx](https://github.com/t8y2/dbx) | 22204 | Rust | 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。 |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 148889 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2489 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 127406 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [oblien/openship](https://github.com/oblien/openship) | 13894 | TypeScript | Self-hosted deployment platform |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 390907 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [averygan/reclip](https://github.com/averygan/reclip) | 10205 | HTML | Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI. |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76040 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | 3150 | TeX | Open Source Introductory Systems Programming Textbook for the University of Illinois |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 272798 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 61518 | Python | Learn it. Build it. Ship it for others. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 54566 | TypeScript | Write HTML. Render video. Built for agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
