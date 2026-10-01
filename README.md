@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-01 03:07 UTC_
+_Last updated: 2026-10-01 17:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 12856 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150152 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 50566 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 273657 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3076 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 13858 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24521 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 6836 | C++ | Firebase SDK for Apple App Development |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 149274 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3524 | TypeScript | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 127615 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [cursor/plugins](https://github.com/cursor/plugins) | 9281 | TypeScript | Cursor plugin specification and official plugins |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 391006 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [obra/superpowers](https://github.com/obra/superpowers) | 293833 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76171 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24713 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 273073 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55194 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 54785 | TypeScript | Write HTML. Render video. Built for agents. |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 111050 | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 <!-- TRENDING_END -->
 
 # TrendSpire
