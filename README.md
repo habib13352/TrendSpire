@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-09-30 17:24 UTC_
+_Last updated: 2026-10-01 03:07 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 11994 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 12856 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 50064 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 50566 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 2850 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3076 | TypeScript | Multi-agent harness that runs Claude Code and Codex together as one system |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24385 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24521 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 148889 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 149274 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 127406 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 127615 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 390907 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 391006 | TypeScript | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 |
 
-| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76040 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
+| [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 76171 | Python | A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 272798 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 273073 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 54566 | TypeScript | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 54785 | TypeScript | Write HTML. Render video. Built for agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
