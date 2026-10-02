@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-01 17:50 UTC_
+_Last updated: 2026-10-02 03:09 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150152 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150627 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 273657 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 273989 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 13858 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14062 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 6836 | C++ | Firebase SDK for Apple App Development |
+| [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 6872 | C++ | Firebase SDK for Apple App Development |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3524 | TypeScript | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3775 | TypeScript | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 9281 | TypeScript | Cursor plugin specification and official plugins |
+| [cursor/plugins](https://github.com/cursor/plugins) | 9334 | TypeScript | Cursor plugin specification and official plugins |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 293833 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 294021 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24713 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24809 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55194 | TypeScript | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55398 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 111050 | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | 111280 | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
 <!-- TRENDING_END -->
 
 # TrendSpire
