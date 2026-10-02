@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-02 03:09 UTC_
+_Last updated: 2026-10-02 17:14 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 150627 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 88229 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 273989 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 108963 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14062 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 294309 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | 6872 | C++ | Firebase SDK for Apple App Development |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 151399 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | 3775 | TypeScript | Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 74113 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 9334 | TypeScript | Cursor plugin specification and official plugins |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 274526 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 294021 | Shell | An agentic skills framework & software development methodology that works. |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14318 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24809 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52310 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55398 | TypeScript | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55736 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [earendil-works/pi](https://github.com/earendil-works/pi) | 111280 | TypeScript | AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24961 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 <!-- TRENDING_END -->
 
 # TrendSpire
