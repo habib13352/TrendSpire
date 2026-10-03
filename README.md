@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-02 17:14 UTC_
+_Last updated: 2026-10-03 02:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 88229 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 88759 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 108963 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 109131 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 294309 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 294502 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 151399 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 151895 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 74113 | JavaScript | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 74377 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 274526 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 274763 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14318 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14455 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52310 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52440 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55736 | TypeScript | Write HTML. Render video. Built for agents. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55939 | TypeScript | Write HTML. Render video. Built for agents. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 24961 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 25057 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 <!-- TRENDING_END -->
 
 # TrendSpire
