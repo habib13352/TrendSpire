@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-03 02:55 UTC_
+_Last updated: 2026-10-03 15:33 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 88759 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 152751 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 109131 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 74886 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 294502 | Shell | An agentic skills framework & software development methodology that works. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 271922 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 151895 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [Effect-TS/effect](https://github.com/Effect-TS/effect) | 16723 | TypeScript | Build production-ready applications in TypeScript |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 74377 | JavaScript | The design language that makes your AI harness better at design. |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 109390 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 274763 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 89505 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | 14455 | Rust | OpenShell is the safe, private runtime for autonomous AI agents. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 24486 | TypeScript | No description provided. |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52440 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 95363 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 55939 | TypeScript | Write HTML. Render video. Built for agents. |
+| [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | 10457 | TypeScript | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 25057 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 100736 | JavaScript | Production-grade engineering skills for AI coding agents. |
 <!-- TRENDING_END -->
 
 # TrendSpire
