@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-04 03:25 UTC_
+_Last updated: 2026-10-04 16:17 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 153554 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | 2677 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 75403 | JavaScript | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 75997 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 272315 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52890 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [Effect-TS/effect](https://github.com/Effect-TS/effect) | 16847 | TypeScript | Build production-ready applications in TypeScript |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 154446 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 109564 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 16729 | Python | Give your agent CAD superpowers. |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 89919 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 90557 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 24732 | TypeScript | No description provided. |
+| [getsentry/sentry](https://github.com/getsentry/sentry) | 45312 | Python | Developer-first error tracking and performance monitoring |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 95638 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 62981 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 
-| [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | 10599 | TypeScript | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25011 | TypeScript | No description provided. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 100879 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 76386 | Go | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
 <!-- TRENDING_END -->
 
 # TrendSpire
