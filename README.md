@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-05 03:02 UTC_
+_Last updated: 2026-10-05 20:08 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tester-army/e2e](https://github.com/tester-army/e2e) | 3240 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | 4503 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 76375 | JavaScript | The design language that makes your AI harness better at design. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 96554 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 53128 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 17315 | Python | Give your agent CAD superpowers. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 154985 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25543 | TypeScript | No description provided. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 16908 | Python | Give your agent CAD superpowers. |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 4808 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 90992 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 91771 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [getsentry/sentry](https://github.com/getsentry/sentry) | 45404 | Python | Developer-first error tracking and performance monitoring |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 63884 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 63274 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 77021 | Go | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25212 | TypeScript | No description provided. |
+| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | 4020 | JavaScript | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. |
 
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 76605 | Go | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
+| [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | 10951 | TypeScript | Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems. |
 <!-- TRENDING_END -->
 
 # TrendSpire
