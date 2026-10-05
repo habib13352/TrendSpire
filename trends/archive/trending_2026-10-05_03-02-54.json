@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-10-05 03:02 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "language": "TypeScript",
+      "stars": 3240
+    },
+    {
+      "rank": 2,
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 76375
+    },
+    {
+      "rank": 3,
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 53128
+    },
+    {
+      "rank": 4,
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 154985
+    },
+    {
+      "rank": 5,
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "language": "Python",
+      "stars": 16908
+    },
+    {
+      "rank": 6,
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 90992
+    },
+    {
+      "rank": 7,
+      "name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars": 45404
+    },
+    {
+      "rank": 8,
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars": 63274
+    },
+    {
+      "rank": 9,
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": 25212
+    },
+    {
+      "rank": 10,
+      "name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars": 76605
+    }
+  ]
+}

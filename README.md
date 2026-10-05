@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-04 16:17 UTC_
+_Last updated: 2026-10-05 03:02 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tester-army/e2e](https://github.com/tester-army/e2e) | 2677 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | 3240 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 75997 | JavaScript | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 76375 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 52890 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 53128 | JavaScript | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
 
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 154446 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 154985 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 16729 | Python | Give your agent CAD superpowers. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 16908 | Python | Give your agent CAD superpowers. |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 90557 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 90992 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
 
-| [getsentry/sentry](https://github.com/getsentry/sentry) | 45312 | Python | Developer-first error tracking and performance monitoring |
+| [getsentry/sentry](https://github.com/getsentry/sentry) | 45404 | Python | Developer-first error tracking and performance monitoring |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 62981 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 63274 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25011 | TypeScript | No description provided. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25212 | TypeScript | No description provided. |
 
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 76386 | Go | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
+| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 76605 | Go | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
 <!-- TRENDING_END -->
 
 # TrendSpire
