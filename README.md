@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-06 03:52 UTC_
+_Last updated: 2026-10-06 17:44 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tester-army/e2e](https://github.com/tester-army/e2e) | 4971 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | 5980 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 96683 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 277850 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | 1446 | JavaScript | Claude Code, Codex, Copilot, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 17839 | Python | Give your agent CAD superpowers. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 17501 | Python | Give your agent CAD superpowers. |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 5881 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 25658 | TypeScript | No description provided. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 77534 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 5045 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97021 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 92010 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54258 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | 64152 | Python | World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. |
+| [morluto/rea](https://github.com/morluto/rea) | 8020 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [caddyserver/caddy](https://github.com/caddyserver/caddy) | 77200 | Go | Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 8633 | Cuda | DeepGEMM: clean and efficient BLAS kernel library on GPU |
 
-| [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | 4361 | JavaScript | Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 157686 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 <!-- TRENDING_END -->
 
 # TrendSpire
