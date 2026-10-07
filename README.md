@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-06 17:44 UTC_
+_Last updated: 2026-10-07 03:19 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tester-army/e2e](https://github.com/tester-army/e2e) | 5980 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | 6463 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 277850 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 278257 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 17839 | Python | Give your agent CAD superpowers. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 18040 | Python | Give your agent CAD superpowers. |
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 5881 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 6761 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 77534 | JavaScript | The design language that makes your AI harness better at design. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 77765 | JavaScript | The design language that makes your AI harness better at design. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97021 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97233 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54258 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54479 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [morluto/rea](https://github.com/morluto/rea) | 8020 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 9885 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 8633 | Cuda | DeepGEMM: clean and efficient BLAS kernel library on GPU |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 8739 | Cuda | DeepGEMM: clean and efficient BLAS kernel library on GPU |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 157686 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 157880 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
 <!-- TRENDING_END -->
 
 # TrendSpire
