@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-07 03:19 UTC_
+_Last updated: 2026-10-07 18:16 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [tester-army/e2e](https://github.com/tester-army/e2e) | 6463 | TypeScript | Next generation e2e testing framework for web and mobile apps. |
+| [morluto/rea](https://github.com/morluto/rea) | 13534 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 278257 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 279259 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 18040 | Python | Give your agent CAD superpowers. |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 9467 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 6761 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54932 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 77765 | JavaScript | The design language that makes your AI harness better at design. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 44754 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97233 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 102611 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54479 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 7789 | C | A native, user-mode, multi-process, graphical debugger. |
 
-| [morluto/rea](https://github.com/morluto/rea) | 9885 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97572 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | 8739 | Cuda | DeepGEMM: clean and efficient BLAS kernel library on GPU |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27774 | Swift | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. |
 
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 157880 | Shell | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
+| [trycua/cua](https://github.com/trycua/cua) | 28665 | Rust | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
 <!-- TRENDING_END -->
 
 # TrendSpire
