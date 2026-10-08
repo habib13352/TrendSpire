@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-07 18:16 UTC_
+_Last updated: 2026-10-08 03:35 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [morluto/rea](https://github.com/morluto/rea) | 13534 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 16252 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 279259 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 279825 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 9467 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 11008 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 54932 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 55244 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 44754 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 45137 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 102611 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 102915 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 7789 | C | A native, user-mode, multi-process, graphical debugger. |
+| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 7905 | C | A native, user-mode, multi-process, graphical debugger. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97572 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97827 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27774 | Swift | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27892 | Swift | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. |
 
-| [trycua/cua](https://github.com/trycua/cua) | 28665 | Rust | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| [trycua/cua](https://github.com/trycua/cua) | 28811 | Rust | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
 <!-- TRENDING_END -->
 
 # TrendSpire
