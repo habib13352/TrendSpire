@@ -1,30 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-08 03:35 UTC_
+_Last updated: 2026-10-08 18:17 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [morluto/rea](https://github.com/morluto/rea) | 16252 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 14444 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 279825 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 46001 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 11008 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [morluto/rea](https://github.com/morluto/rea) | 21669 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 55244 | Python | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 280779 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 45137 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 98276 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 102915 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 8053 | C | A native, user-mode, multi-process, graphical debugger. |
 
-| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 7905 | C | A native, user-mode, multi-process, graphical debugger. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 27397 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 97827 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 7035 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
-| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27892 | Swift | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability. |
-
-| [trycua/cua](https://github.com/trycua/cua) | 28811 | Rust | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 24422 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
 <!-- TRENDING_END -->
 
 # TrendSpire
