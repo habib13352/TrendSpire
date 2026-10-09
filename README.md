@@ -1,28 +1,28 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-08 18:17 UTC_
+_Last updated: 2026-10-09 03:40 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 14444 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 16328 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 46001 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 46612 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [morluto/rea](https://github.com/morluto/rea) | 21669 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 28844 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 280779 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 281295 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 98276 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 98602 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 8053 | C | A native, user-mode, multi-process, graphical debugger. |
+| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 8152 | C | A native, user-mode, multi-process, graphical debugger. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 27397 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 27714 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 7035 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 8379 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 24422 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
+| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 24775 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
 <!-- TRENDING_END -->
 
 # TrendSpire
