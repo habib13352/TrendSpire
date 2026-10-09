@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-09 03:40 UTC_
+_Last updated: 2026-10-09 17:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 16328 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [morluto/rea](https://github.com/morluto/rea) | 40375 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 46612 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 20673 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [morluto/rea](https://github.com/morluto/rea) | 28844 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 282337 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 281295 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 47628 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 98602 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 45000 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | 8152 | C | A native, user-mode, multi-process, graphical debugger. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 28104 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 27714 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60548 | Python | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
 
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 8379 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 103792 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | 24775 | Unknown | Notes of the book System Desgin Interview - An Insider's Guide |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 10658 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 17618 | Python | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction |
 <!-- TRENDING_END -->
 
 # TrendSpire
