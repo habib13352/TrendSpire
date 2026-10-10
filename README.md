@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-09 17:50 UTC_
+_Last updated: 2026-10-10 03:22 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [morluto/rea](https://github.com/morluto/rea) | 40375 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 49696 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 20673 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 22785 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 282337 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 282911 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 47628 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 48039 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 45000 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 45363 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 28104 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 28327 | Python | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
 
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60548 | Python | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 60717 | Python | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 103792 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 104072 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 10658 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 11822 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 17618 | Python | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 17760 | Python | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction |
 <!-- TRENDING_END -->
 
 # TrendSpire
