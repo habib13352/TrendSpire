@@ -1,26 +1,22 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-11 02:55 UTC_
+_Last updated: 2026-10-11 17:11 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [morluto/rea](https://github.com/morluto/rea) | 74951 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 94786 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 27108 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | 29063 | C++ | Tool for automatic PS5 executables porting to Linux and Windows |
 
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 14707 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | 16800 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 49056 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 49929 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 26361 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 51129 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 284633 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 104370 | Python | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
 
-| [flutter/flutter](https://github.com/flutter/flutter) | 179559 | Dart | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 36260 | Jupyter Notebook | AirLLM 70B inference with single 4GB GPU |
 
-| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | 200746 | C++ | An Open Source Machine Learning Framework for Everyone |
-
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | 59565 | Python | AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He |
-
-| [pytorch/pytorch](https://github.com/pytorch/pytorch) | 104161 | Python | Tensors and Dynamic neural networks in Python with strong GPU acceleration |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | 74022 | Assembly | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. |
