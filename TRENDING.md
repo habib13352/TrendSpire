@@ -1,24 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-14 02:43 UTC_
+_Last updated: 2026-10-14 16:18 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [morluto/rea](https://github.com/morluto/rea) | 211178 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 233403 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | 55544 | JavaScript | A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 65433 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 63591 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 28869 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 28328 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 95401 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 54298 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 49081 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 
-| [vercel-labs/skills](https://github.com/vercel-labs/skills) | 34580 | TypeScript | The open agent skills tool - npx skills |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 52302 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | 38389 | Jupyter Notebook | AirLLM 2.8T LLM inference with single 4GB GPU |
+| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 26903 | Python | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
 
-| [storytold/artcraft](https://github.com/storytold/artcraft) | 25901 | Rust | ArtCraft is an intentional crafting engine for artists, designers, and filmmakers |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 29003 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 
-| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 9505 | Swift | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 119851 | Rust | Empowering everyone to build reliable and efficient software. |
+
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 10332 | Swift | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
