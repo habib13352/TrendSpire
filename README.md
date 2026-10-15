@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-15 02:22 UTC_
+_Last updated: 2026-10-15 16:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [morluto/rea](https://github.com/morluto/rea) | 244683 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
+| [morluto/rea](https://github.com/morluto/rea) | 263290 | TypeScript | Reverse engineer anything with agents, from app behavior down to native binaries. |
 
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 66565 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | 38610 | Python | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
 
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 29195 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 50174 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 95469 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 112273 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
 
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 49431 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 68325 | Python | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 52568 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [obra/superpowers](https://github.com/obra/superpowers) | 299637 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | 27528 | Python | Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds. |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 74890 | TypeScript | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated |
 
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 29594 | Go | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 29661 | TypeScript | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
 
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 120072 | Rust | Empowering everyone to build reliable and efficient software. |
+| [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | 88356 | Java | Ghidra is a software reverse engineering (SRE) framework |
 
-| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 10919 | Swift | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 280034 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 <!-- TRENDING_END -->
 
 # TrendSpire
