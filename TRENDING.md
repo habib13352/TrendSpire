@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-27 02:54 UTC_
+_Last updated: 2026-10-27 17:12 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 36616 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 38467 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 116265 | Python | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 2153 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
 
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 3038 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
+| [obra/superpowers](https://github.com/obra/superpowers) | 306183 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [makecindy/cindy](https://github.com/makecindy/cindy) | 6632 | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 90206 | Rust | The design language that makes your AI harness better at design. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 289931 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | 7297 | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 89320 | Rust | The design language that makes your AI harness better at design. |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 39095 | TypeScript | 📨 The ultimate agentic social media scheduling tool 🤖 |
 
-| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | 22303 | Python | Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 290576 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | 12476 | Rust | A Tiny biped duck robot 🦆 |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 45456 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 1551 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 3759 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
 
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 103771 | Python | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 5184 | Unknown | LIST OF ALL MY JAILBREAKS |
