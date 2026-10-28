@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-28 03:03 UTC_
+_Last updated: 2026-10-28 17:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 9635 | Unknown | No description provided. |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 4808 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 39200 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 10894 | Unknown | No description provided. |
 
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 2552 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 307235 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 306532 | Shell | An agentic skills framework & software development methodology that works. |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 47677 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 90729 | Rust | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | 5303 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
 
-| [makecindy/cindy](https://github.com/makecindy/cindy) | 7563 | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 40382 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 39471 | TypeScript | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 92165 | Rust | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 290981 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | 7943 | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 46149 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 3075 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
 
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 4147 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 6781 | Unknown | LIST OF ALL MY JAILBREAKS |
