@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-27 17:12 UTC_
+_Last updated: 2026-10-28 03:03 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 38467 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 9635 | Unknown | No description provided. |
 
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 2153 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 39200 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 306183 | Shell | An agentic skills framework & software development methodology that works. |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 2552 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 90206 | Rust | The design language that makes your AI harness better at design. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 306532 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [makecindy/cindy](https://github.com/makecindy/cindy) | 7297 | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 90729 | Rust | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
 
-| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 39095 | TypeScript | 📨 The ultimate agentic social media scheduling tool 🤖 |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | 7563 | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
 
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 290576 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
+| [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | 39471 | TypeScript | 📨 The ultimate agentic social media scheduling tool 🤖 |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 45456 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 290981 | JavaScript | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 3759 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 46149 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 5184 | Unknown | LIST OF ALL MY JAILBREAKS |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 4147 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
