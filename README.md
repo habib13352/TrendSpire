@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-10-29 03:30 UTC_
+_Last updated: 2026-10-29 17:53 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 5217 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 49587 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
 
-| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 11284 | Unknown | No description provided. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 308257 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 307553 | Shell | An agentic skills framework & software development methodology that works. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 94887 | Rust | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 48262 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | 5860 | TypeScript | Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need |
 
-| [macro-inc/macro](https://github.com/macro-inc/macro) | 5482 | Rust | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory. |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 7278 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
 
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | 40878 | CSS | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 3737 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 93047 | Rust | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | 11935 | Unknown | No description provided. |
 
-| [makecindy/cindy](https://github.com/makecindy/cindy) | 8192 | TypeScript | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 104482 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | 3346 | TypeScript | A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration. |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 7963 | TypeScript | Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent. |
 
-| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 7315 | Unknown | LIST OF ALL MY JAILBREAKS |
+| [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | 8509 | Unknown | LIST OF ALL MY JAILBREAKS |
 <!-- TRENDING_END -->
 
 # TrendSpire
