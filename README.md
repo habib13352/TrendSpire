@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-01 03:15 UTC_
+_Last updated: 2026-11-01 17:29 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 107983 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 108852 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 308501 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 39874 | Zig | Lightpanda: the headless browser designed for AI and automation |
 
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 31254 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 45156 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 35771 | TypeScript | No description provided. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 37194 | TypeScript | No description provided. |
 
-| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | 12364 | TypeScript | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 10345 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
 
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 9735 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 494291 | Python | A collective list of free APIs |
 
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 98390 | Rust | The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships. |
+| [cjpais/Handy](https://github.com/cjpais/Handy) | 36290 | Rust | A free, open source, and extensible speech-to-text application that works completely offline. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 310119 | Shell | An agentic skills framework & software development methodology that works. |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 31950 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 39310 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [kornia/kornia](https://github.com/kornia/kornia) | 11684 | Python | 🐍 Geometric Computer Vision Library for Spatial AI |
 
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | 52930 | Python | DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/. |
+| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 6022 | Python | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. |
 <!-- TRENDING_END -->
 
 # TrendSpire
