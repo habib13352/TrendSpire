@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-02 03:25 UTC_
+_Last updated: 2026-11-02 21:15 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 109523 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 9264 | Rust | Computer use CLI for AI agents |
 
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | 40307 | Zig | Lightpanda: the headless browser designed for AI and automation |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 110626 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 45478 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 92684 | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 38374 | TypeScript | No description provided. |
+| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 39853 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
 
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 10685 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 33412 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 494770 | Python | A collective list of free APIs |
+| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 15979 | Python | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
 
-| [cjpais/Handy](https://github.com/cjpais/Handy) | 36678 | Rust | A free, open source, and extensible speech-to-text application that works completely offline. |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 41530 | TypeScript | No description provided. |
 
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 32464 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 45952 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
 
-| [kornia/kornia](https://github.com/kornia/kornia) | 11850 | Python | 🐍 Geometric Computer Vision Library for Spatial AI |
+| [kornia/kornia](https://github.com/kornia/kornia) | 12086 | Python | 🐍 Geometric Computer Vision Library for Spatial AI |
 
-| [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | 6306 | Python | Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue. |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 46472 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
