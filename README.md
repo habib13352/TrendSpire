@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-03 04:36 UTC_
+_Last updated: 2026-11-03 18:55 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 10402 | Rust | Computer use CLI for AI agents |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 111667 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 110940 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 12281 | Rust | Computer use CLI for AI agents |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 93189 | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 10391 | Rust | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
 
-| [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | 40021 | C++ | Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 47131 | C | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. |
 
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 33770 | Shell | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 311194 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 16210 | Python | FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently. |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 38634 | Python | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more |
 
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | 42332 | TypeScript | No description provided. |
+| [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 2988 | TypeScript | No description provided. |
 
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | 46072 | Python | Kronos: A Foundation Model for the Language of Financial Markets |
+| [floci-io/floci](https://github.com/floci-io/floci) | 28547 | Java | Light, fluffy, and always free - The AWS Local Emulator alternative |
 
-| [kornia/kornia](https://github.com/kornia/kornia) | 12184 | Python | 🐍 Geometric Computer Vision Library for Spatial AI |
+| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 16301 | Python | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 46696 | C | Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 |
+| [anomalyco/hex](https://github.com/anomalyco/hex) | 4430 | Rust | Local voice dictation for mac, windows and linux |
 <!-- TRENDING_END -->
 
 # TrendSpire
