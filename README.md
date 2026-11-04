@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-04 03:55 UTC_
+_Last updated: 2026-11-04 19:13 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 112076 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 4523 | Python | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
 
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 13131 | Rust | Computer use CLI for AI agents |
+| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 10937 | Rust | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
 
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 10584 | Rust | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 312961 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | 47329 | C | A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. |
+| [floci-io/floci](https://github.com/floci-io/floci) | 29471 | Java | Light, fluffy, and always free - The AWS Local Emulator alternative |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 311632 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 112667 | TypeScript | Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More |
 
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | 38899 | Python | Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more |
+| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 14682 | Rust | Computer use CLI for AI agents |
 
-| [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) | 3077 | TypeScript | No description provided. |
+| [github/spec-kit](https://github.com/github/spec-kit) | 147175 | Python | 💫 Toolkit to help you get started with SDD or any other process! |
 
-| [floci-io/floci](https://github.com/floci-io/floci) | 28923 | Java | Light, fluffy, and always free - The AWS Local Emulator alternative |
+| [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) | 14654 | Python | 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. |
 
-| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 16650 | Python | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 138818 | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow. |
 
-| [anomalyco/hex](https://github.com/anomalyco/hex) | 4679 | Rust | Local voice dictation for mac, windows and linux |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | 139224 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
 <!-- TRENDING_END -->
 
 # TrendSpire
