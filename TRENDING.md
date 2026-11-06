@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-06 04:12 UTC_
+_Last updated: 2026-11-06 18:45 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 7635 | Python | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | 93352 | Rust | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
 
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 315503 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 8731 | Python | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
 
-| [garrytan/gstack](https://github.com/garrytan/gstack) | 140048 | TypeScript | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA |
+| [rails/rails](https://github.com/rails/rails) | 58941 | Ruby | Ruby on Rails |
 
-| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | 17776 | Python | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37826 | C | 🎥 Command line media player |
 
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 98175 | Python | 🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 121316 | Rust | Empowering everyone to build reliable and efficient software. |
 
-| [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | 17126 | Rust | Computer use CLI for AI agents |
+| [react/react](https://github.com/react/react) | 252147 | JavaScript | The library for web and native user interfaces. |
 
-| [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | 11585 | Rust | Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows |
+| [angular/angular](https://github.com/angular/angular) | 101234 | TypeScript | Deliver web apps with confidence 🚀 |
 
-| [lz4/lz4](https://github.com/lz4/lz4) | 12423 | C | Extremely Fast Compression algorithm |
+| [symfony/symfony](https://github.com/symfony/symfony) | 31326 | PHP | The Symfony PHP framework |
 
-| [google/skills](https://github.com/google/skills) | 22448 | Python | Agent Skills for Google products and technologies |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67072 | Go | The Prometheus monitoring system and time series database. |
 
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 46010 | Rust | Browser automation CLI for AI agents |
+| [google/skills](https://github.com/google/skills) | 22750 | Python | Agent Skills for Google products and technologies |
