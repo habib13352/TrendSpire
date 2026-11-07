@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-07 03:44 UTC_
+_Last updated: 2026-11-07 17:15 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [zed-industries/zed](https://github.com/zed-industries/zed) | 93725 | Rust | Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 46612 | Rust | Browser automation CLI for AI agents |
 
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | 9193 | Python | Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | 65242 | JavaScript | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 
-| [rails/rails](https://github.com/rails/rails) | 59042 | Ruby | Ruby on Rails |
+| [google/skills](https://github.com/google/skills) | 23201 | Python | Agent Skills for Google products and technologies |
 
-| [mpv-player/mpv](https://github.com/mpv-player/mpv) | 37904 | C | 🎥 Command line media player |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 317420 | Shell | Skills for Real Engineers. Straight from my .agents directory. |
 
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 121487 | Rust | Empowering everyone to build reliable and efficient software. |
+| [anthropics/skills](https://github.com/anthropics/skills) | 188531 | Python | Public repository for Agent Skills |
 
-| [react/react](https://github.com/react/react) | 252279 | JavaScript | The library for web and native user interfaces. |
+| [meta/astryx](https://github.com/meta/astryx) | 14276 | TypeScript | An open source design system that's fully customizable and agent ready |
 
-| [angular/angular](https://github.com/angular/angular) | 101393 | TypeScript | Deliver web apps with confidence 🚀 |
+| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67359 | Go | The Prometheus monitoring system and time series database. |
 
-| [symfony/symfony](https://github.com/symfony/symfony) | 31449 | PHP | The Symfony PHP framework |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 99977 | Python | Hunt down social media accounts by username across social networks |
 
-| [prometheus/prometheus](https://github.com/prometheus/prometheus) | 67213 | Go | The Prometheus monitoring system and time series database. |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 16652 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
 
-| [google/skills](https://github.com/google/skills) | 22883 | Python | Agent Skills for Google products and technologies |
+| [astral-sh/ruff](https://github.com/astral-sh/ruff) | 50887 | Rust | An extremely fast Python linter and code formatter, written in Rust. |
 <!-- TRENDING_END -->
 
 # TrendSpire
