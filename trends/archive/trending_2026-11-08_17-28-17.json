@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-11-08 17:28 UTC",
+  "repos": [
+    {
+      "rank": 1,
+      "name": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 102707
+    },
+    {
+      "rank": 2,
+      "name": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "language": "Go",
+      "stars": 760
+    },
+    {
+      "rank": 3,
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": 17962
+    },
+    {
+      "rank": 4,
+      "name": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "language": "Python",
+      "stars": 19285
+    },
+    {
+      "rank": 5,
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "stars": 47410
+    },
+    {
+      "rank": 6,
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 15863
+    },
+    {
+      "rank": 7,
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 189352
+    },
+    {
+      "rank": 8,
+      "name": "google-deepmind/mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "language": "C++",
+      "stars": 16268
+    },
+    {
+      "rank": 9,
+      "name": "ranxianglei/billion-context",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .\u4e0a\u4e0b\u6587\u538b\u7f29\u63d2\u4ef6\uff0c\u6708\u7ea7\u957f\u4f1a\u8bdd\u4f1a\u8bdd\uff0c \u517c\u987e\u5c0f\u7a97\u53e3(100k\u4e0a\u4e0b\u6587\u8db3\u77e3)\u7701token(\u77015\u500dtoken) . billion-context is all you need",
+      "language": "TypeScript",
+      "stars": 5002
+    }
+  ]
+}
