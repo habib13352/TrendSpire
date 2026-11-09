@@ -1,28 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-09 03:41 UTC_
+_Last updated: 2026-11-09 21:49 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 104207 | Python | Hunt down social media accounts by username across social networks |
+| [anthropics/skills](https://github.com/anthropics/skills) | 190827 | Python | Public repository for Agent Skills |
 
-| [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke) | 901 | Go | NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal. |
+| [meta/astryx](https://github.com/meta/astryx) | 19737 | TypeScript | An open source design system that's fully customizable and agent ready |
 
-| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | 18531 | TypeScript | Open-source Grok Bot alternative with a virtual machine that bots can use |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 106857 | Python | Hunt down social media accounts by username across social networks |
 
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 19514 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 16868 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
 
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 47765 | Rust | Browser automation CLI for AI agents |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 19969 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
 
-| [meta/astryx](https://github.com/meta/astryx) | 17206 | TypeScript | An open source design system that's fully customizable and agent ready |
+| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 32093 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 189786 | Python | Public repository for Agent Skills |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 48400 | Rust | Browser automation CLI for AI agents |
 
-| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 16491 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 103388 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 
-| [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | 5283 | TypeScript | A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 68771 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 5883 | Python | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
 <!-- TRENDING_END -->
 
 # TrendSpire
