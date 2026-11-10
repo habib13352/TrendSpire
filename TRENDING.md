@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-10 05:13 UTC_
+_Last updated: 2026-11-10 19:10 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 191283 | Python | Public repository for Agent Skills |
+| [meta/astryx](https://github.com/meta/astryx) | 22353 | TypeScript | An open source design system that's fully customizable and agent ready |
 
-| [meta/astryx](https://github.com/meta/astryx) | 20640 | TypeScript | An open source design system that's fully customizable and agent ready |
+| [anthropics/skills](https://github.com/anthropics/skills) | 192102 | Python | Public repository for Agent Skills |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 107551 | Python | Hunt down social media accounts by username across social networks |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115005 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 17015 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 20394 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
 
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 20124 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 17274 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
 
-| [garrytan/gbrain](https://github.com/garrytan/gbrain) | 32268 | TypeScript | Garry's Opinionated OpenClaw/Hermes Agent Brain |
+| [we-promise/sure](https://github.com/we-promise/sure) | 11741 | Ruby | The personal finance app for everyone (by everyone) |
 
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 48644 | Rust | Browser automation CLI for AI agents |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 6499 | Python | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
 
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 103605 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49079 | Rust | Browser automation CLI for AI agents |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 69126 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 108720 | Python | Hunt down social media accounts by username across social networks |
 
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 6119 | Python | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
+| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 6708 | Rust | A batteries-included framework for building web apps |
