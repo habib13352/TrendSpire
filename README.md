@@ -1,30 +1,30 @@
 <!-- TRENDING_START -->
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-11 03:46 UTC_
+_Last updated: 2026-11-11 19:06 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [meta/astryx](https://github.com/meta/astryx) | 23246 | TypeScript | An open source design system that's fully customizable and agent ready |
+| [meta/astryx](https://github.com/meta/astryx) | 24657 | TypeScript | An open source design system that's fully customizable and agent ready |
 
-| [anthropics/skills](https://github.com/anthropics/skills) | 192465 | Python | Public repository for Agent Skills |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 70054 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115267 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 1620 | TypeScript | No description provided. |
 
-| [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | 20562 | Python | A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API |
+| [shadcn/improve](https://github.com/shadcn/improve) | 10688 | Unknown | Use your most capable model to audit your codebase and write plans for cheaper models to execute. |
 
-| [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | 17432 | C++ | Multi-Joint dynamics with Contact. A general purpose physics simulator. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 115776 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [we-promise/sure](https://github.com/we-promise/sure) | 12111 | Ruby | The personal finance app for everyone (by everyone) |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49760 | Rust | Browser automation CLI for AI agents |
 
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 6756 | Python | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
+| [we-promise/sure](https://github.com/we-promise/sure) | 12759 | Ruby | The personal finance app for everyone (by everyone) |
 
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49337 | Rust | Browser automation CLI for AI agents |
+| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 7184 | Python | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
 
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 109195 | Python | Hunt down social media accounts by username across social networks |
+| [openai/codex-security](https://github.com/openai/codex-security) | 11585 | TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
 
-| [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 6895 | Rust | A batteries-included framework for building web apps |
+| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 66945 | Java | All Algorithms implemented in Java |
 <!-- TRENDING_END -->
 
 # TrendSpire
