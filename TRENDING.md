@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-12 04:54 UTC_
+_Last updated: 2026-11-12 19:24 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [meta/astryx](https://github.com/meta/astryx) | 25345 | TypeScript | An open source design system that's fully customizable and agent ready |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 2648 | TypeScript | Keep your coding agent up to date with the latest web best practices |
 
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 70520 | Python | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
+| [openai/codex-security](https://github.com/openai/codex-security) | 12277 | TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
 
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 1924 | TypeScript | No description provided. |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 95979 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
 
-| [shadcn/improve](https://github.com/shadcn/improve) | 11068 | Unknown | Use your most capable model to audit your codebase and write plans for cheaper models to execute. |
+| [pookjw/HermesEnabler](https://github.com/pookjw/HermesEnabler) | 1474 | Objective-C | Enable Hermès Watch Faces on any Apple Watch devices |
 
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 116075 | JavaScript | Production-grade engineering skills for AI coding agents. |
+| [we-promise/sure](https://github.com/we-promise/sure) | 13760 | Ruby | The personal finance app for everyone (by everyone) |
 
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 49992 | Rust | Browser automation CLI for AI agents |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 29712 | TypeScript | An open-source AI coding agent that lives in your terminal. |
 
-| [we-promise/sure](https://github.com/we-promise/sure) | 13111 | Ruby | The personal finance app for everyone (by everyone) |
+| [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 1896 | Zig | LLM Inference Engine for Metal, CUDA and Vulkan. |
 
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 7472 | Python | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
+| [nodejs/node](https://github.com/nodejs/node) | 123558 | JavaScript | Node.js JavaScript runtime ✨🐢🚀✨ |
 
-| [openai/codex-security](https://github.com/openai/codex-security) | 11868 | TypeScript | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 116559 | JavaScript | Production-grade engineering skills for AI coding agents. |
 
-| [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) | 67103 | Java | All Algorithms implemented in Java |
+| [meta/astryx](https://github.com/meta/astryx) | 26323 | TypeScript | An open source design system that's fully customizable and agent ready |
