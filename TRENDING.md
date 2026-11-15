@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-15 03:49 UTC_
+_Last updated: 2026-11-15 18:21 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 11234 | TypeScript | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
+| [dream-num/univer](https://github.com/dream-num/univer) | 25434 | TypeScript | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
 
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 6177 | TypeScript | Keep your coding agent up to date with the latest web best practices |
+| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 17703 | TypeScript | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
 
-| [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | 4905 | Python | Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. |
+| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 9170 | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
 
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 56371 | TypeScript | Chrome DevTools for coding agents |
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | 11720 | TypeScript | The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. |
 
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 51500 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | 56787 | TypeScript | Chrome DevTools for coding agents |
 
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 30388 | TypeScript | An open-source AI coding agent that lives in your terminal. |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 51885 | Go | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
 
-| [dream-num/univer](https://github.com/dream-num/univer) | 24991 | TypeScript | Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core. |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 1339 | Go | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
 
-| [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | 17412 | TypeScript | AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. |
+| [ggml-org/ggml](https://github.com/ggml-org/ggml) | 15852 | C++ | Tensor library for machine learning |
 
-| [ashhart/TensorFold](https://github.com/ashhart/TensorFold) | 2180 | Zig | LLM Inference Engine for Metal, CUDA and Vulkan. |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 6141 | Python | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
 
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 120123 | Go | 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 6942 | TypeScript | Keep your coding agent up to date with the latest web best practices |
