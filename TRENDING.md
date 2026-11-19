@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-19 05:02 UTC_
+_Last updated: 2026-11-19 19:50 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 17297 | TypeScript | Cursor plugin specification and official plugins |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 12266 | Python | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 59930 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [obra/superpowers](https://github.com/obra/superpowers) | 321951 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 70188 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 60424 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 9892 | Go | Modern Docker Management, Designed for Everyone |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 66778 | Python | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
 
-| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | 3826 | Python | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository. |
+| [cursor/plugins](https://github.com/cursor/plugins) | 17502 | TypeScript | Cursor plugin specification and official plugins |
 
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | 96176 | Shell | Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 203988 | TypeScript | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
 
-| [astral-sh/uv](https://github.com/astral-sh/uv) | 92283 | Rust | An extremely fast Python package and project manager, written in Rust. |
+| [nginx/nginx](https://github.com/nginx/nginx) | 32288 | C | The official NGINX Open Source repository. |
 
-| [google-research/paper-orchestra](https://github.com/google-research/paper-orchestra) | 4458 | Python | PaperOrchestra is a multi-agent framework for automated AI research paper writing. |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 11524 | C++ | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
 
-| [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 10469 | TypeScript | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 68535 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | 89661 | JavaScript | web development for the rest of us |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 70698 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
