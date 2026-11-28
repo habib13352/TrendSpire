@@ -1,26 +1,26 @@
 # 📈 GitHub Trending - Daily
 
-_Last updated: 2026-11-28 05:31 UTC_
+_Last updated: 2026-11-28 19:26 UTC_
 
 | Repository | ⭐ Stars | Language | Description |
 |------------|--------:|----------|-------------|
 
-| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 26335 | Python | A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 27095 | Python | A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
 
-| [obra/superpowers](https://github.com/obra/superpowers) | 328461 | Shell | An agentic skills framework & software development methodology that works. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 328969 | Shell | An agentic skills framework & software development methodology that works. |
 
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 67099 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 67422 | Python | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
 
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 72294 | Python | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 72522 | Python | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
 
-| [cursor/plugins](https://github.com/cursor/plugins) | 20046 | TypeScript | Cursor plugin specification and official plugins |
+| [cursor/plugins](https://github.com/cursor/plugins) | 20154 | TypeScript | Cursor plugin specification and official plugins |
 
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 211804 | TypeScript | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 212171 | TypeScript | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
 
-| [nginx/nginx](https://github.com/nginx/nginx) | 33690 | C | The official NGINX Open Source repository. |
+| [nginx/nginx](https://github.com/nginx/nginx) | 33740 | C | The official NGINX Open Source repository. |
 
-| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 12973 | C++ | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | 13014 | C++ | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
 
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 74538 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | 74856 | HTML | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop. |
 
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 76451 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 76767 | Python | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
